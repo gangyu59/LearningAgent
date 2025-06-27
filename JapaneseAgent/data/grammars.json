@@ -1,0 +1,515 @@
+[
+  {
+    "id": 1,
+    "title": "愿望表达(〜たい)",
+    "description": "表示主语的希望或欲望，后接动词连用形。",
+    "dialog": [
+      {"speaker": "A", "text": "寿司を食べたいです。", "romaji": "Sushi o tabetai desu"},
+      {"speaker": "A", "text": "旅行に行きたいです。", "romaji": "Ryokou ni ikitai desu"},
+      {"speaker": "A", "text": "早く帰りたいです。", "romaji": "Hayaku kaeritai desu"},
+      {"speaker": "A", "text": "休みたいです。", "romaji": "Yasumitai desu"},
+      {"speaker": "A", "text": "日本語を学びたいです。", "romaji": "Nihongo o manabitai desu"}
+    ],
+    "translation": [
+      "我想吃寿司。",
+      "我想去旅行。",
+      "我想早点回家。",
+      "我想休息。",
+      "我想学习日语。"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "义务表达(〜なければならない)",
+    "description": "表示必须履行的义务或必要性，用于客观规则或社会规范。",
+    "dialog": [
+      {"speaker": "A", "text": "宿題を提出しなければなりません。", "romaji": "Shukudai o teishutsu shinakereba narimasen"},
+      {"speaker": "A", "text": "税金を払わなければならない。", "romaji": "Zeikin o harawanakereba naranai"},
+      {"speaker": "A", "text": "免許を更新しなければならない。", "romaji": "Menkyo o koushin shinakereba naranai"},
+      {"speaker": "A", "text": "規則を守らなければなりません。", "romaji": "Kisoku o mamoranakereba narimasen"},
+      {"speaker": "A", "text": "毎日練習しなければならない。", "romaji": "Mainichi renshuu shinakereba naranai"}
+    ],
+    "translation": [
+      "必须提交作业。",
+      "必须缴纳税金。",
+      "必须更新驾照。",
+      "必须遵守规则。",
+      "必须每天练习。"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "许可请求(〜てもいいですか)",
+    "description": "礼貌地请求许可或确认是否允许做某事。",
+    "dialog": [
+      {"speaker": "A", "text": "窓を開けてもいいですか？", "romaji": "Mado o akete mo ii desu ka?"},
+      {"speaker": "A", "text": "写真を撮ってもいいですか？", "romaji": "Shashin o totte mo ii desu ka?"},
+      {"speaker": "A", "text": "ここに座ってもいいですか？", "romaji": "Koko ni suwatte mo ii desu ka?"},
+      {"speaker": "A", "text": "早退してもいいですか？", "romaji": "Soutai shite mo ii desu ka?"},
+      {"speaker": "A", "text": "質問してもいいですか？", "romaji": "Shitsumon shite mo ii desu ka?"}
+    ],
+    "translation": [
+      "可以开窗吗？",
+      "可以拍照吗？",
+      "可以坐这里吗？",
+      "可以早退吗？",
+      "可以提问吗？"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "动作列举(〜たり〜たりする)",
+    "description": "列举代表性动作或状态，暗示还有其他类似情况。",
+    "dialog": [
+      {"speaker": "A", "text": "週末は映画を見たり、買い物をしたりします。", "romaji": "Shuumatsu wa eiga o mitari, kaimono o shitari shimasu"},
+      {"speaker": "A", "text": "公園で走ったり、体操をしたりしました。", "romaji": "Kouen de hashitari, taisou o shitari shimashita"},
+      {"speaker": "A", "text": "泣いたり笑ったりした。", "romaji": "Naitari warattari shita"},
+      {"speaker": "A", "text": "暑かったり寒かったりする日。", "romaji": "Atsukattari samukattari suru hi"},
+      {"speaker": "A", "text": "音楽を聞いたり本を読んだりする。", "romaji": "Ongaku o kiitari hon o yondari suru"}
+    ],
+    "translation": [
+      "周末我会看电影、购物等等。",
+      "在公园跑步、做体操等。",
+      "又哭又笑。",
+      "忽冷忽热的日子。",
+      "听听音乐、看看书等。"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "同时动作(〜ながら)",
+    "description": "表示两个动作同时进行，前项为次要动作。",
+    "dialog": [
+      {"speaker": "A", "text": "音楽を聞きながら勉強します。", "romaji": "Ongaku o kinagara benkyou shimasu"},
+      {"speaker": "A", "text": "歩きながら電話するのは危ない。", "romaji": "Arukinagara denwa suru no wa abunai"},
+      {"speaker": "A", "text": "テレビを見ながら食事をする。", "romaji": "Terebi o minagara shokuji o suru"},
+      {"speaker": "A", "text": "働きながら大学に通っている。", "romaji": "Hatarakinagara daigaku ni kayotte iru"},
+      {"speaker": "A", "text": "笑いながら話してください。", "romaji": "Warainagara hanashite kudasai"}
+    ],
+    "translation": [
+      "边听音乐边学习。",
+      "边走边打电话很危险。",
+      "边看电视边吃饭。",
+      "边工作边上大学。",
+      "请笑着说话。"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "意外完成(〜てしまう)",
+    "description": "表示动作的意外完成或带有遗憾的结果。",
+    "dialog": [
+      {"speaker": "A", "text": "ケーキを全部食べてしまった。", "romaji": "Keeki o zenbu tabete shimatta"},
+      {"speaker": "A", "text": "電車に傘を忘れてしまった。", "romaji": "Densha ni kasa o wasurete shimatta"},
+      {"speaker": "A", "text": "約束の時間に遅れてしまった。", "romaji": "Yakusoku no jikan ni okurete shimatta"},
+      {"speaker": "A", "text": "大切な書類をなくしてしまった。", "romaji": "Taisetsu na shorui o nakushite shimatta"},
+      {"speaker": "A", "text": "うっかり秘密を話してしまった。", "romaji": "Ukkari himitsu o hanashite shimatta"}
+    ],
+    "translation": [
+      "不小心把蛋糕全吃完了。",
+      "把伞忘在电车上了。",
+      "不小心迟到了约定的时间。",
+      "不小心弄丢了重要文件。",
+      "不小心说出了秘密。"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "经验表达(〜たことがある)",
+    "description": "表示曾经有过的经历或体验。",
+    "dialog": [
+      {"speaker": "A", "text": "富士山に登ったことがありますか？", "romaji": "Fujisan ni nobotta koto ga arimasu ka?"},
+      {"speaker": "A", "text": "海外に住んだことがある。", "romaji": "Kaigai ni sunda koto ga aru"},
+      {"speaker": "A", "text": "この映画を見たことがあります。", "romaji": "Kono eiga o mita koto ga arimasu"},
+      {"speaker": "A", "text": "一度も失敗したことがない。", "romaji": "Ichido mo shippai shita koto ga nai"},
+      {"speaker": "A", "text": "刺身を食べたことがありますか？", "romaji": "Sashimi o tabeta koto ga arimasu ka?"}
+    ],
+    "translation": [
+      "你爬过富士山吗？",
+      "我曾经在国外住过。",
+      "我看过这部电影。",
+      "从未失败过。",
+      "你吃过生鱼片吗？"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "不确定推测(〜かもしれない)",
+    "description": "表示不确定的推测或可能性。",
+    "dialog": [
+      {"speaker": "A", "text": "明日は雨が降るかもしれません。", "romaji": "Ashita wa ame ga furu kamoshiremasen"},
+      {"speaker": "A", "text": "彼は約束を忘れたかもしれない。", "romaji": "Kare wa yakusoku o wasureta kamoshirenai"},
+      {"speaker": "A", "text": "この店はもう閉まっているかもしれない。", "romaji": "Kono mise wa mou shimatte iru kamoshirenai"},
+      {"speaker": "A", "text": "道に迷ったかもしれない。", "romaji": "Michi ni mayotta kamoshirenai"},
+      {"speaker": "A", "text": "試験は思ったより簡単かもしれない。", "romaji": "Shiken wa omotta yori kantan kamoshirenai"}
+    ],
+    "translation": [
+      "明天可能会下雨。",
+      "他可能忘了约定。",
+      "这家店可能已经关门了。",
+      "我们可能迷路了。",
+      "考试可能比想象的简单。"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "事前准备(〜ておく)",
+    "description": "表示为将来做准备而事先采取行动。",
+    "dialog": [
+      {"speaker": "A", "text": "旅行の前にチケットを予約しておく。", "romaji": "Ryokou no mae ni chiketto o yoyaku shite oku"},
+      {"speaker": "A", "text": "明日の準備をしておいたほうがいい。", "romaji": "Ashita no junbi o shite oita hou ga ii"},
+      {"speaker": "A", "text": "冷蔵庫に飲み物を入れておきます。", "romaji": "Reizouko ni nomimono o irete okimasu"},
+      {"speaker": "A", "text": "資料をコピーしておきました。", "romaji": "Shiryou o kopii shite okimashita"},
+      {"speaker": "A", "text": "鍵をかけておいてください。", "romaji": "Kagi o kakete oite kudasai"}
+    ],
+    "translation": [
+      "旅行前先预订好票。",
+      "最好提前做好明天的准备。",
+      "我会把饮料先放进冰箱。",
+      "我已经复印好资料了。",
+      "请把门锁好。"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "样态判断(〜そうだ)",
+    "description": "根据外观或迹象做出的判断。",
+    "dialog": [
+      {"speaker": "A", "text": "このケーキはおいしそうだ。", "romaji": "Kono keeki wa oishisou da"},
+      {"speaker": "A", "text": "彼は疲れそうに見える。", "romaji": "Kare wa tsukaresou ni mieru"},
+      {"speaker": "A", "text": "雨が降りそうな空模様だ。", "romaji": "Ame ga furisou na soramoyou da"},
+      {"speaker": "A", "text": "この問題は難しそうだ。", "romaji": "Kono mondai wa muzukashisou da"},
+      {"speaker": "A", "text": "彼女は嬉しそうに笑った。", "romaji": "Kanojo wa ureshisou ni waratta"}
+    ],
+    "translation": [
+      "这个蛋糕看起来很好吃。",
+      "他看起来很累。",
+      "天空看起来要下雨了。",
+      "这个问题看起来很难。",
+      "她开心地笑了。"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "传闻表达(〜そうだ)",
+    "description": "表示从他人那里听说的信息。",
+    "dialog": [
+      {"speaker": "A", "text": "来月、新しい店がオープンするそうです。", "romaji": "Raishuu, atarashii mise ga oopun suru sou desu"},
+      {"speaker": "A", "text": "先生は風邪を引いたそうです。", "romaji": "Sensei wa kaze o hiita sou desu"},
+      {"speaker": "A", "text": "試験が難しかったそうだ。", "romaji": "Shiken wa muzukashikatta sou da"},
+      {"speaker": "A", "text": "彼は結婚するそうですね。", "romaji": "Kare wa kekkon suru sou desu ne"},
+      {"speaker": "A", "text": "あのレストランはおいしいそうです。", "romaji": "Ano resutoran wa oishii sou desu"}
+    ],
+    "translation": [
+      "听说下个月有新店开张。",
+      "听说老师感冒了。",
+      "听说考试很难。",
+      "听说他要结婚了。",
+      "听说那家餐厅很好吃。"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "程度递增(〜ば〜ほど)",
+    "description": "表示随着前项变化，后项也相应变化。",
+    "dialog": [
+      {"speaker": "A", "text": "練習すればするほど上手になる。", "romaji": "Renshuu sureba suru hodo jouzu ni naru"},
+      {"speaker": "A", "text": "考えれば考えるほどわからなくなる。", "romaji": "Kangaereba kangaeru hodo wakaranaku naru"},
+      {"speaker": "A", "text": "早ければ早いほどいい。", "romaji": "Hayakereba hayai hodo ii"},
+      {"speaker": "A", "text": "勉強すればするほど面白くなる。", "romaji": "Benkyou sureba suru hodo omoshiroku naru"},
+      {"speaker": "A", "text": "値段が高ければ高いほど品質がいい。", "romaji": "Nedan ga takakereba takai hodo hinshitsu ga ii"}
+    ],
+    "translation": [
+      "越练习越熟练。",
+      "越想越不明白。",
+      "越快越好。",
+      "越学越有趣。",
+      "价格越高质量越好。"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "尝试表达(〜てみる)",
+    "description": "表示尝试做某事。",
+    "dialog": [
+      {"speaker": "A", "text": "この料理を作ってみたい。", "romaji": "Kono ryouri o tsukutte mitai"},
+      {"speaker": "A", "text": "一度やってみよう。", "romaji": "Ichido yatte miyou"},
+      {"speaker": "A", "text": "このシャツを着てみてもいいですか？", "romaji": "Kono shatsu o kite mite mo ii desu ka?"},
+      {"speaker": "A", "text": "新しい方法を試してみる。", "romaji": "Atarashii houhou o tameshite miru"},
+      {"speaker": "A", "text": "日本語で話してみてください。", "romaji": "Nihongo de hanashite mite kudasai"}
+    ],
+    "translation": [
+      "我想试着做这道菜。",
+      "我们试着做一次吧。",
+      "我可以试穿这件衬衫吗？",
+      "尝试新方法。",
+      "请试着用日语说。"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "主观决定(〜ことにする)",
+    "description": "表示个人做出的决定。",
+    "dialog": [
+      {"speaker": "A", "text": "来月からジムに通うことにした。", "romaji": "Raigetsu kara jimu ni kayou koto ni shita"},
+      {"speaker": "A", "text": "甘いものを食べないことにする。", "romaji": "Amai mono o tabenai koto ni suru"},
+      {"speaker": "A", "text": "毎日1時間勉強することにしました。", "romaji": "Mainichi 1-jikan benkyou suru koto ni shimashita"},
+      {"speaker": "A", "text": "タバコをやめることに決めた。", "romaji": "Tabako o yameru koto ni kimeta"},
+      {"speaker": "A", "text": "早起きすることにしよう。", "romaji": "Hayaoki suru koto ni shiyou"}
+    ],
+    "translation": [
+      "我决定从下个月开始去健身房。",
+      "我决定不吃甜食了。",
+      "我决定每天学习一小时。",
+      "我决定戒烟了。",
+      "我决定要早起。"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "客观决定(〜ことになる)",
+    "description": "表示非个人意志的决定或已成定局的情况。",
+    "dialog": [
+      {"speaker": "A", "text": "来月、大阪に転勤することになりました。", "romaji": "Raigetsu, Osaka ni tenkin suru koto ni narimashita"},
+      {"speaker": "A", "text": "会議は中止することになった。", "romaji": "Kaigi wa chuushi suru koto ni natta"},
+      {"speaker": "A", "text": "来週から新しいプロジェクトが始まることになった。", "romaji": "Raishuu kara atarashii purojekuto ga hajimaru koto ni natta"},
+      {"speaker": "A", "text": "試験日が変更することになりました。", "romaji": "Shikenbi ga henkou suru koto ni narimashita"},
+      {"speaker": "A", "text": "新しい支店を開くことになった。", "romaji": "Atarashii shiten o hiraku koto ni natta"}
+    ],
+    "translation": [
+      "下个月我要调到大阪工作了。",
+      "会议决定取消了。",
+      "下周要开始新项目了。",
+      "考试日期变更了。",
+      "决定开设新分店了。"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "后悔表达(〜ばよかった)",
+    "description": "表示对过去未做之事的后悔。",
+    "dialog": [
+      {"speaker": "A", "text": "もっと勉強すればよかった。", "romaji": "Motto benkyou sureba yokatta"},
+      {"speaker": "A", "text": "医者に行けばよかった。", "romaji": "Isha ni ikeba yokatta"},
+      {"speaker": "A", "text": "あの時、告白すればよかった。", "romaji": "Ano toki, kokuhaku sureba yokatta"},
+      {"speaker": "A", "text": "保険に入っておけばよかった。", "romaji": "Hoken ni haitte okeba yokatta"},
+      {"speaker": "A", "text": "アドバイスを聞けばよかった。", "romaji": "Adobaisu o ikeba yokatta"}
+    ],
+    "translation": [
+      "要是多学习就好了。",
+      "要是去看医生就好了。",
+      "那时候要是表白就好了。",
+      "要是买了保险就好了。",
+      "要是听了建议就好了。"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "动作阶段(〜ところだ)",
+    "description": "表示动作所处的特定阶段。",
+    "dialog": [
+      {"speaker": "A", "text": "今、宿題をしているところです。", "romaji": "Ima, shukudai o shite iru tokoro desu"},
+      {"speaker": "A", "text": "ちょうど帰ってきたところだ。", "romaji": "Choudo kaette kita tokoro da"},
+      {"speaker": "A", "text": "これから出かけるところです。", "romaji": "Kore kara dekakeru tokoro desu"},
+      {"speaker": "A", "text": "食事が終わったところです。", "romaji": "Shokuji ga owatta tokoro desu"},
+      {"speaker": "A", "text": "レポートを書き始めたところだ。", "romaji": "Repooto o kaki hajimeta tokoro da"}
+    ],
+    "translation": [
+      "我现在正在做作业。",
+      "我刚刚回来。",
+      "我正要出门。",
+      "我刚吃完饭。",
+      "我刚开始写报告。"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "最近完成(〜たばかりだ)",
+    "description": "表示动作刚完成不久。",
+    "dialog": [
+      {"speaker": "A", "text": "日本に来たばかりです。", "romaji": "Nihon ni kita bakari desu"},
+      {"speaker": "A", "text": "このパソコンを買ったばかりだ。", "romaji": "Kono pasokon o katta bakari da"},
+      {"speaker": "A", "text": "卒業したばかりの頃。", "romaji": "Sotsugyou shita bakari no koro"},
+      {"speaker": "A", "text": "引っ越してきたばかりで、まだ片付けていない。", "romaji": "Hikkoshite kita bakari de, mada katazuke teinai"},
+      {"speaker": "A", "text": "この本を読み終わったばかりです。", "romaji": "Kono hon o yomiowatta bakari desu"}
+    ],
+    "translation": [
+      "我刚来日本不久。",
+      "这台电脑我刚买不久。",
+      "刚毕业那会儿。",
+      "刚搬来不久，还没整理好。",
+      "我刚读完这本书。"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "希望表达(〜てほしい)",
+    "description": "表示希望他人做某事。",
+    "dialog": [
+      {"speaker": "A", "text": "もっとゆっくり話してほしい。", "romaji": "Motto yukkuri hanashite hoshii"},
+      {"speaker": "A", "text": "手伝ってほしいことがある。", "romaji": "Tetsudatte hoshii koto ga aru"},
+      {"speaker": "A", "text": "早く帰ってきてほしい。", "romaji": "Hayaku kaette kite hoshii"},
+      {"speaker": "A", "text": "この仕事を任せてほしい。", "romaji": "Kono shigoto o makasete hoshii"},
+      {"speaker": "A", "text": "真剣に考えてほしい。", "romaji": "Shinken ni kangaete hoshii"}
+    ],
+    "translation": [
+      "我希望你说慢一点。",
+      "有件事想请你帮忙。",
+      "希望你早点回来。",
+      "希望把这个工作交给我。",
+      "希望你认真考虑。"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "努力目标(〜ようにする)",
+    "description": "表示努力做到某事或养成某种习惯。",
+    "dialog": [
+      {"speaker": "A", "text": "毎日運動するようにしている。", "romaji": "Mainichi undou suru you ni shite iru"},
+      {"speaker": "A", "text": "野菜をたくさん食べるようにしています。", "romaji": "Yasai o takusan taberu you ni shite imasu"},
+      {"speaker": "A", "text": "夜更かししないようにする。", "romaji": "Yofukashi shinai you ni suru"},
+      {"speaker": "A", "text": "日本語で日記を書くようにしている。", "romaji": "Nihongo de nikki o kaku you ni shite iru"},
+      {"speaker": "A", "text": "約束の時間に遅れないようにする。", "romaji": "Yakusoku no jikan ni okurenai you ni suru"}
+    ],
+    "translation": [
+      "我努力每天运动。",
+      "我尽量多吃蔬菜。",
+      "我尽量不熬夜。",
+      "我坚持用日语写日记。",
+      "我努力不迟到约定的时间。"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "能力变化(〜ようになる)",
+    "description": "表示能力或状态的变化。",
+    "dialog": [
+      {"speaker": "A", "text": "日本語が話せるようになった。", "romaji": "Nihongo ga hanaseru you ni natta"},
+      {"speaker": "A", "text": "自転車に乗れるようになった。", "romaji": "Jitensha ni noreru you ni natta"},
+      {"speaker": "A", "text": "辛い物が食べられるようになった。", "romaji": "Karai mono ga taberareru you ni natta"},
+      {"speaker": "A", "text": "早く起きられるようになった。", "romaji": "Hayaku okirareru you ni natta"},
+      {"speaker": "A", "text": "一人で旅行できるようになった。", "romaji": "Hitori de ryokou dekiru you ni natta"}
+    ],
+    "translation": [
+      "我已经会说日语了。",
+      "我已经会骑自行车了。",
+      "我现在能吃辣了。",
+      "我现在能早起了。",
+      "我现在能独自旅行了。"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "结论表达(〜わけだ)",
+    "description": "表示根据事实得出的自然结论。",
+    "dialog": [
+      {"speaker": "A", "text": "徹夜したから、眠いわけだ。", "romaji": "Tetsuya shita kara, nemui wake da"},
+      {"speaker": "A", "text": "練習しないから、上手にならないわけだ。", "romaji": "Renshuu shinai kara, jouzu ni naranai wake da"},
+      {"speaker": "A", "text": "予習してなかったから、わからないわけだ。", "romaji": "Yoshuu shite nakatta kara, wakaranai wake da"},
+      {"speaker": "A", "text": "ダイエット中だから、食べないわけだ。", "romaji": "Daietto-chuu dakara, tabenai wake da"},
+      {"speaker": "A", "text": "あの二人は兄弟だから、似ているわけだ。", "romaji": "Ano futari wa kyoudai dakara, nite iru wake da"}
+    ],
+    "translation": [
+      "因为熬夜了，所以当然会困。",
+      "因为不练习，所以当然不会进步。",
+      "因为没预习，所以当然不明白。",
+      "因为在减肥，所以当然不吃。",
+      "那两个人是兄弟，所以当然像了。"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "强烈否定(〜わけがない)",
+    "description": "表示强烈否定可能性。",
+    "dialog": [
+      {"speaker": "A", "text": "彼が嘘をつくわけがない。", "romaji": "Kare ga uso o tsuku wake ga nai"},
+      {"speaker": "A", "text": "そんなことが起こるわけがない。", "romaji": "Sonna koto ga okoru wake ga nai"},
+      {"speaker": "A", "text": "あの真面目な人が遅刻するわけがない。", "romaji": "Ano majime na hito ga chikoku suru wake ga nai"},
+      {"speaker": "A", "text": "この値段で本物のわけがない。", "romaji": "Kono nedan de honmono no wake ga nai"},
+      {"speaker": "A", "text": "簡単にできるわけがない。", "romaji": "Kantan ni dekiru wake ga nai"}
+    ],
+    "translation": [
+      "他不可能说谎。",
+      "那种事不可能发生。",
+      "那个认真的人不可能迟到。",
+      "这个价格不可能是真货。",
+      "不可能轻易做到。"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "部分否定(〜わけではない)",
+    "description": "表示并非完全否定，有例外情况。",
+    "dialog": [
+      {"speaker": "A", "text": "嫌いなわけではないが、あまり食べない。", "romaji": "Kirai na wake dewa nai ga, amari tabenai"},
+      {"speaker": "A", "text": "行けないわけではないが、時間がない。", "romaji": "Ikenai wake dewa nai ga, jikan ga nai"},
+      {"speaker": "A", "text": "理解できないわけではないが、賛成できない。", "romaji": "Rikai dekinai wake dewa nai ga, sansei dekinai"},
+      {"speaker": "A", "text": "知らないわけではないが、詳しくはない。", "romaji": "Shiranai wake dewa nai ga, kuwashiku wa nai"},
+      {"speaker": "A", "text": "できないわけではないが、難しい。", "romaji": "Dekinai wake dewa nai ga, muzukashii"}
+    ],
+    "translation": [
+      "并不是讨厌，只是不怎么吃。",
+      "并不是不能去，只是没时间。",
+      "并不是不理解，只是不能赞同。",
+      "并不是不知道，只是不太了解。",
+      "并不是做不到，只是很难。"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "普遍真理(〜ものだ)",
+    "description": "表示普遍真理或感慨。",
+    "dialog": [
+      {"speaker": "A", "text": "子供は早く成長するものだ。", "romaji": "Kodomo wa hayaku seichou suru mono da"},
+      {"speaker": "A", "text": "年を取ると記憶力が衰えるものだ。", "romaji": "Toshi o toru to kiokuryoku ga otoroeru mono da"},
+      {"speaker": "A", "text": "人は皆、間違えるものだ。", "romaji": "Hito wa mina, machigaeru mono da"},
+      {"speaker": "A", "text": "時代は変わるものだ。", "romaji": "Jidai wa kawaru mono da"},
+      {"speaker": "A", "text": "苦労は買ってでもせよ、というものだ。", "romaji": "Kurou wa katte demo seyo, to iu mono da"}
+    ],
+    "translation": [
+      "小孩子就是长得快啊。",
+      "上了年纪记忆力就会衰退。",
+      "人都会犯错。",
+      "时代总会改变。",
+      "吃苦也是一种投资。"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "强烈否定意志(〜ものか)",
+    "description": "表示强烈的否定意志或决心。",
+    "dialog": [
+      {"speaker": "A", "text": "そんなこと、もうするものか！", "romaji": "Sonna koto, mou suru mono ka!"},
+      {"speaker": "A", "text": "あんな人とまた会うものか。", "romaji": "Anna hito to mata au mono ka"},
+      {"speaker": "A", "text": "二度と騙されるものか。", "romaji": "Nido to damasareru mono ka"},
+      {"speaker": "A", "text": "負けてたまるものか。", "romaji": "Makete tamaru mono ka"},
+      {"speaker": "A", "text": "そんな所へ行くものか。", "romaji": "Sonna tokoro e iku mono ka"}
+    ],
+    "translation": [
+      "那种事，我绝不会再做了！",
+      "我绝不会再见那种人。",
+      "我绝不会再上当了。",
+      "我绝不能输。",
+      "我绝不去那种地方。"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "假设难况(〜ものなら)",
+    "description": "表示假设难以实现的情况。",
+    "dialog": [
+      {"speaker": "A", "text": "行けるものなら行きたい。", "romaji": "Ikeru mono nara ikitai"},
+      {"speaker": "A", "text": "できるものならやってみせろ。", "romaji": "Dekiru mono nara yatte misero"},
+      {"speaker": "A", "text": "逃げられるものなら逃げてみろ。", "romaji": "Nigerareru mono nara nigete miro"},
+      {"speaker": "A", "text": "戻れるものなら戻りたい。", "romaji": "Modoreru mono nara modoritai"},
+      {"speaker": "A", "text": "買えるものなら買いたい。", "romaji": "Kaeru mono nara kaitai"}
+    ],
+    "translation": [
+      "如果能去的话我想去。",
+      "要是能做到的话就做给我看看啊。",
+      "要是能逃的话就逃逃看啊。",
+      "要是能回去的话我想回去。",
+      "要是买得起的话我想买。"
+    ]
+  }
+]

@@ -1,0 +1,374 @@
+[
+  {
+    "id": 1,
+    "title": "樱花下的约定",
+    "description": "春天的一个邂逅故事。",
+    "dialog": [
+      {
+        "speaker": "Narrator",
+        "text": "春の午後、彼らは桜の下で出会った。",
+        "romaji": "Haru no gogo, karera wa sakura no shita de deatta."
+      },
+      {
+        "speaker": "Narrator",
+        "text": "風に舞う花びらが、彼の心を揺さぶった。",
+        "romaji": "Kaze ni mau hanabira ga, kare no kokoro o yusabutta."
+      }
+    ],
+    "translation": [
+      "在春日午后，他们在樱花树下相遇。",
+      "随风飞舞的花瓣撩动了他的心。"
+    ]
+  },
+	{
+  "id": 2,
+  "title": "聪明的小乌龟",
+  "description": "一只小乌龟掉进了陷阱，但靠自己的智慧成功逃脱了。",
+  "dialog": [
+    {
+      "speaker": "Narrator",
+      "text": "ある日、小さなカメが深い穴に落ちてしまいました。",
+      "romaji": "Aru hi, chiisana kame ga fukai ana ni ochite shimaimashita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "カメは慌てず、周りの枝を集めました。",
+      "romaji": "Kame wa awatezu, mawari no eda o atsumemashita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "枝を重ねて、少しずつ上に登りました。",
+      "romaji": "Eda o kasanete, sukoshizutsu ue ni noborimashita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "ついにカメは穴から脱出することができました！",
+      "romaji": "Tsuini kame wa ana kara dasshutsu suru koto ga dekimashita!"
+    }
+  ],
+  "translation": [
+    "有一天，一只小乌龟掉进了深坑。",
+    "小乌龟没有慌张，开始收集周围的树枝。",
+    "它堆叠树枝，一点点往上爬。",
+    "最终小乌龟成功逃出了深坑！"
+  ]
+},
+{
+  "id": 3,
+  "title": "忘记带伞的日子",
+  "description": "突然下雨了，大家互相分享伞，度过了温暖的一天。",
+  "dialog": [
+    {
+      "speaker": "Narrator",
+      "text": "学校を出たとたん、雨が降り始めました。",
+      "romaji": "Gakkou o deta totan, ame ga furi hajimemashita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "多くの子供たちは傘を持っていませんでした。",
+      "romaji": "Ooku no kodomotachi wa kasa o motteimasen deshita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "みんなで傘を分け合って帰りました。",
+      "romaji": "Minna de kasa o wakeatte kaerimashita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "雨の日も、心はぽかぽかでした。",
+      "romaji": "Ame no hi mo, kokoro wa pokapoka deshita."
+    }
+  ],
+  "translation": [
+    "刚出学校门，就开始下雨了。",
+    "很多孩子没有带伞。",
+    "大家一起分享伞回家。",
+    "即使是雨天，心里也暖洋洋的。"
+  ]
+},
+{
+  "id": 4,
+  "title": "勇敢的小鸭子",
+  "description": "小鸭子害怕，但终于鼓起勇气跳入了大河，学会了游泳。",
+  "dialog": [
+    {
+      "speaker": "Narrator",
+      "text": "小さなアヒルは川の前で立ち止まりました。",
+      "romaji": "Chiisana ahiru wa kawa no mae de tachidomarimashita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "水が怖くて、なかなか飛び込めませんでした。",
+      "romaji": "Mizu ga kowakute, nakanaka tobikomemasen deshita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "でも、家族の応援でついにジャンプしました！",
+      "romaji": "Demo, kazoku no ouen de tsuini janpu shimashita!"
+    },
+    {
+      "speaker": "Narrator",
+      "text": "泳ぎ始めたアヒルはとても誇らしげでした。",
+      "romaji": "Oyogihajimeta ahiru wa totemo hokorashige deshita."
+    }
+  ],
+  "translation": [
+    "小鸭子在河边停下了脚步。",
+    "因为害怕水，它迟迟不敢跳进去。",
+    "但在家人的鼓励下，它终于跳了下去！",
+    "开始游泳的小鸭子看起来非常自豪。"
+  ]
+},
+{
+  "id": 5,
+  "title": "乌鸦的面包",
+  "description": "乌鸦捡到面包，却被骗丢掉了，结果鸽子自己吃了它。",
+  "dialog": [
+    {
+      "speaker": "Narrator",
+      "text": "公園でカラスがパンを拾い、木の上で食べようとした。",
+      "romaji": "Kōen de karasu ga pan o hiroi, ki no ue de tabeyou to shita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "そこへ鳩が飛んできて、『それは昨日捨てられたパンだよ』と言った。",
+      "romaji": "Soko e hato ga tonde kite, 'Sore wa kinō suterareta pan da yo' to itta."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "カラスは驚いてパンを落としたが、鳩がすぐにそれを拾って食べた。",
+      "romaji": "Karasu wa odoroite pan o otoshita ga, hato ga sugu ni sore o hirotte tabeta."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "鳩はにっこり笑いながら、『私の好物なの』とささやいた。",
+      "romaji": "Hato wa nikkori warainagara, 'Watashi no kōbutsu na no' to sasayaita."
+    }
+  ],
+  "translation": [
+    "公园里一只乌鸦捡到了一片面包，准备飞到树上吃。",
+    "一只鸽子飞来说：‘那是昨天被丢掉的面包哦。’",
+    "乌鸦吓了一跳，把面包扔了，鸽子马上捡起来吃了。",
+    "鸽子笑着说：‘这是我最喜欢的味道。’"
+  ]
+},
+{
+  "id": 6,
+  "title": "神奇的雨伞",
+  "description": "在雨天，小女孩捡到了一把能够飞翔的神奇雨伞。",
+  "dialog": [
+    {
+      "speaker": "Narrator",
+      "text": "雨の日、さくらは不思議な傘を見つけました。",
+      "romaji": "Ame no hi, Sakura wa fushigi na kasa o mitsukemashita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "傘を開くと、ふわりと空に浮かびました。",
+      "romaji": "Kasa o hiraku to, fuwari to sora ni ukabimashita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "さくらは空を飛びながら街を見下ろしました。",
+      "romaji": "Sakura wa sora o tobinagara machi o mioroshimashita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "楽しい冒険は、傘と一緒に始まりました。",
+      "romaji": "Tanoshii bouken wa, kasa to issho ni hajimarimashita."
+    }
+  ],
+  "translation": [
+    "下雨的日子，小樱发现了一把神奇的雨伞。",
+    "打开雨伞时，它轻轻地浮上了天空。",
+    "小樱在空中飞翔，俯瞰着城市。",
+    "一场有趣的冒险就这样开始了。"
+  ]
+},
+{
+  "id": 7,
+  "title": "猫的早餐",
+  "description": "猫以为自己受到了特别的款待，结果却被送去了洗澡。",
+  "dialog": [
+    {
+      "speaker": "Narrator",
+      "text": "朝ごはんの時間、猫は台所で特別なにおいを感じました。",
+      "romaji": "Asagohan no jikan, neko wa daidokoro de tokubetsu na nioi o kanjimashita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "『今日はごちそうだにゃ！』と喜んでお皿に飛びつきました。",
+      "romaji": "『Kyou wa gochisou da nya!』 to yorokonde osara ni tobitsukimashita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "でもそこには魚じゃなくて、石けんがのっていました。",
+      "romaji": "Demo soko ni wa sakana janakute, sekken ga notte imashita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "その日、猫は朝ごはんの代わりにお風呂に入れられました。",
+      "romaji": "Sono hi, neko wa asagohan no kawari ni ofuro ni ireraremashita."
+    }
+  ],
+  "translation": [
+    "早餐时间，猫在厨房闻到了特别的香味。",
+    "它高兴地想：‘今天一定有大餐！’ 然后跳上盘子。",
+    "但盘子上不是鱼，而是一块香皂。",
+    "那天，猫没吃早餐，却被抓去洗澡了。"
+  ]
+},
+{
+  "id": 8,
+  "title": "兔子的快递",
+  "description": "快递虽快，但别交给跳来跳去的兔子。",
+  "dialog": [
+    {
+      "speaker": "Narrator",
+      "text": "カメはウサギに大事な荷物を頼んだ。",
+      "romaji": "Kame wa usagi ni daiji na nimotsu o tanonda."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "ウサギは『任せて！』と言って跳ねて行った。",
+      "romaji": "Usagi wa 'Makasete!' to itte hanete itta."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "でも途中で蝶を追いかけ、荷物をどこかに落とした。",
+      "romaji": "Demo tochuu de chō o oikake, nimotsu o dokoka ni otoshita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "結局、カメが自分で歩いて取りに行った。",
+      "romaji": "Kekkyoku, kame ga jibun de aruite tori ni itta."
+    }
+  ],
+  "translation": [
+    "乌龟拜托兔子送一件重要的东西。",
+    "兔子说“交给我吧！”然后蹦蹦跳跳地跑走了。",
+    "结果中途去追蝴蝶，把东西掉在了某个地方。",
+    "最后乌龟只好自己走着去捡回来。"
+  ]
+},
+{
+  "id": 9,
+  "title": "刺猬的理发",
+  "description": "有些问题，理发师也解决不了。",
+  "dialog": [
+    {
+      "speaker": "Narrator",
+      "text": "ハリネズミは新しい髪型にしたかった。",
+      "romaji": "Harinezumi wa atarashii kamigata ni shitakatta."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "美容師はハサミを持って近づいたが、すぐに刺された。",
+      "romaji": "Biyōshi wa hasami o motte chikadzuita ga, sugu ni sasareta."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "『やっぱり自然なままが一番だね』と刺猬は言った。",
+      "romaji": "'Yappari shizen na mama ga ichiban da ne' to harinezumi wa itta."
+    }
+  ],
+  "translation": [
+    "刺猬想换个新发型。",
+    "理发师拿着剪刀靠近它时，不小心被刺了一下。",
+    "刺猬说：“还是自然最适合我。”"
+  ]
+},
+{
+  "id": 6,
+  "title": "鸭子的手机",
+  "description": "高科技也救不了水里的事故。",
+  "dialog": [
+    {
+      "speaker": "Narrator",
+      "text": "アヒルは最新のスマホを買った。",
+      "romaji": "Ahiru wa saishin no sumaho o katta."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "池で写真を撮ろうとしたが、スマホを水に落とした。",
+      "romaji": "Ike de shashin o torou to shita ga, sumaho o mizu ni otoshita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "『防水って書いてあったのに！』と叫んだ。",
+      "romaji": "'Bōsui tte kaite atta noni!' to sakenda."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "スマホはカエルの新しい椅子になった。",
+      "romaji": "Sumaho wa kaeru no atarashii isu ni natta."
+    }
+  ],
+  "translation": [
+    "鸭子买了一部最新的智能手机。",
+    "它想在池塘边拍照，结果手机掉进了水里。",
+    "它大喊：‘明明写着防水的啊！’",
+    "手机最后成了青蛙的新座椅。"
+  ]
+},
+{
+  "id": 11,
+  "title": "猫的减肥计划",
+  "description": "猫发誓从明天开始减肥，结果当天晚上就吃了‘最后一口’。",
+  "dialog": [
+    {
+      "speaker": "Narrator",
+      "text": "猫は明日から夜食をやめると心に決めた。",
+      "romaji": "Neko wa ashita kara yashoku o yameru to kokoro ni kimeta."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "でもその夜、冷蔵庫の前を何度も行ったり来たりした。",
+      "romaji": "Demo sono yoru, reizōko no mae o nando mo itta ri kita ri shita."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "ついに小魚をくわえて、『これは別れの魚だ』と自分に言い訳した。",
+      "romaji": "Tsuini sakana o kuwaete, 'Kore wa wakare no sakana da' to jibun ni iiwake shita."
+    }
+  ],
+  "translation": [
+    "猫决定从明天开始戒掉宵夜。",
+    "但当晚它在冰箱前来回踱步，犹豫不决。",
+    "最后它叼起小鱼干，自言自语：‘这是告别仪式。’"
+  ]
+},
+{
+  "id": 3,
+  "title": "鼹鼠的眼镜",
+  "description": "鼹鼠近视严重，做了副眼镜，却因为戴反一直撞树。",
+  "dialog": [
+    {
+      "speaker": "Narrator",
+      "text": "近視のモグラは世界がぼやけて見えた。",
+      "romaji": "Kinshi no mogura wa sekai ga boyakete mieta."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "自分で眼鏡を作り、得意げに歩き回った。",
+      "romaji": "Jibun de megane o tsukuri, tokui ge ni arukimawatta."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "しかし、何度も石や根っこにぶつかった。",
+      "romaji": "Shikashi, nando mo ishi ya nekko ni butsukatta."
+    },
+    {
+      "speaker": "Narrator",
+      "text": "実は、眼鏡を逆さまにかけていたのだった。",
+      "romaji": "Jitsu wa, megane o sakasama ni kakete ita no datta."
+    }
+  ],
+  "translation": [
+    "近视的鼹鼠看不清世界。",
+    "它亲手做了副眼镜，自信满满地到处走。",
+    "但一直撞到石头和树根。",
+    "原来它把眼镜戴反了。"
+  ]
+}
+]

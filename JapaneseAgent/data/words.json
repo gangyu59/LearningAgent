@@ -1,1 +1,2771 @@
-
+[
+  {
+    "id": 1,
+    "title": "名词",
+    "description": "定义人和物的词",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "図書館, 私は毎週図書館で本を借ります",
+        "romaji": "Toshokan, Watashi wa maishuu toshokan de hon o karimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "携帯電話, 携帯電話で母に電話をかけました",
+        "romaji": "Keitai denwa, Keitai denwa de haha ni denwa o kakemashita"
+      },
+      {
+        "speaker": "A",
+        "text": "電車の切符, 駅で電車の切符を買いました",
+        "romaji": "Densha no kippu, Eki de densha no kippu o kaimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "病院, 熱があるので病院に行きます",
+        "romaji": "Byouin, Netsu ga aru node byouin ni ikimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "学校, 学校で日本語を勉強しています",
+        "romaji": "Gakkou, Gakkou de nihongo o benkyou shite imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "先生, 先生はとても優しいです",
+        "romaji": "Sensei, Sensei wa totemo yasashii desu"
+      },
+      {
+        "speaker": "A",
+        "text": "学生, 私は東京大学の学生です",
+        "romaji": "Gakusei, Watashi wa Toukyou daigaku no gakusei desu"
+      },
+      {
+        "speaker": "A",
+        "text": "日本語, 日本語で手紙を書きました",
+        "romaji": "Nihongo, Nihongo de tegami o kakimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "英語, 英語で自己紹介できます",
+        "romaji": "Eigo, Eigo de jikoshoukai dekimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "教室, 教室に学生がたくさんいます",
+        "romaji": "Kyoushitsu, Kyoushitsu ni gakusei ga takusan imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "椅子, この椅子はとても快適です",
+        "romaji": "Isu, Kono isu wa totemo kaiteki desu"
+      },
+      {
+        "speaker": "A",
+        "text": "机, 机の上に本があります",
+        "romaji": "Tsukue, Tsukue no ue ni hon ga arimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "本, この本はとても面白いです",
+        "romaji": "Hon, Kono hon wa totemo omoshiroi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "新聞, 毎朝新聞を読みます",
+        "romaji": "Shinbun, Maiasa shinbun o yomimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "雑誌, 美容雑誌を買いました",
+        "romaji": "Zasshi, Biyou zasshi o kaimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "時計, 壁に時計がかかっています",
+        "romaji": "Tokei, Kabe ni tokei ga kakatte imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "窓, 窓を開けてください",
+        "romaji": "Mado, Mado o akete kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "ドア, ドアを閉めてください",
+        "romaji": "Doa, Doa o shimete kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "靴, 新しい靴を買いました",
+        "romaji": "Kutsu, Atarashii kutsu o kaimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "服, この服はとてもおしゃれです",
+        "romaji": "Fuku, Kono fuku wa totemo oshare desu"
+      },
+      {
+        "speaker": "A",
+        "text": "鞄, 鞄にノートを入れました",
+        "romaji": "Kaban, Kaban ni nouto o iremashita"
+      },
+      {
+        "speaker": "A",
+        "text": "財布, 財布を家に忘れました",
+        "romaji": "Saifu, Saifu o ie ni wasuremashita"
+      },
+      {
+        "speaker": "A",
+        "text": "鍵, ドアの鍵をかけました",
+        "romaji": "Kagi, Doa no kagi o kakemashita"
+      },
+      {
+        "speaker": "A",
+        "text": "電気, 電気を消してください",
+        "romaji": "Denki, Denki o keshite kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "冷蔵庫, 冷蔵庫に牛乳があります",
+        "romaji": "Reizouko, Reizouko ni gyuunyuu ga arimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "テレビ, 毎晩テレビを見ます",
+        "romaji": "Terebi, Maiban terebi o mimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "コンピュータ, コンピュータで仕事をします",
+        "romaji": "Konpyu-ta, Konpyu-ta de shigoto o shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "バス, バスで学校へ行きます",
+        "romaji": "Basu, Basu de gakkou e ikimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "電車, 電車は5分後に来ます",
+        "romaji": "Densha, Densha wa gofun go ni kimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "自転車, 自転車で公園へ行きました",
+        "romaji": "Jitensha, Jitensha de kouen e ikimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "飛行機, 飛行機で日本へ行きます",
+        "romaji": "Hikouki, Hikouki de nihon e ikimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "駅, 駅まで歩いて10分かかります",
+        "romaji": "Eki, Eki made aruite juppun kakarimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "空港, 空港で友達を迎えます",
+        "romaji": "Kuukou, Kuukou de tomodachi o mukaemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "ホテル, ホテルの予約をしました",
+        "romaji": "Hoteru, Hoteru no yoyaku o shimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "部屋, 部屋を掃除しました",
+        "romaji": "Heya, Heya o souji shimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "ベッド, ベッドで本を読みます",
+        "romaji": "Beddo, Beddo de hon o yomimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "トイレ, トイレはどこですか",
+        "romaji": "Toire, Toire wa doko desu ka"
+      },
+      {
+        "speaker": "A",
+        "text": "お風呂, お風呂に入りたいです",
+        "romaji": "Ofuro, Ofuro ni hairitai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "水, 水を一杯ください",
+        "romaji": "Mizu, Mizu o ippai kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "お茶, お茶をもう一杯いかがですか",
+        "romaji": "Ocha, Ocha o mou ippai ikaga desu ka"
+      },
+      {
+        "speaker": "A",
+        "text": "コーヒー, コーヒーに砂糖を入れます",
+        "romaji": "Ko-hi-, Ko-hi- ni satou o iremasu"
+      },
+      {
+        "speaker": "A",
+        "text": "牛乳, 牛乳は体に良いです",
+        "romaji": "Gyuunyuu, Gyuunyuu wa karada ni yoi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "ジュース, オレンジジュースを飲みます",
+        "romaji": "Ju-su, Orenji ju-su o nomimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "ご飯, ご飯を食べましょう",
+        "romaji": "Gohan, Gohan o tabemashou"
+      },
+      {
+        "speaker": "A",
+        "text": "パン, 朝食にパンを食べます",
+        "romaji": "Pan, Choushoku ni pan o tabemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "ラーメン, ラーメンが大好きです",
+        "romaji": "Ra-men, Ra-men ga daisuki desu"
+      },
+      {
+        "speaker": "A",
+        "text": "魚, 魚を焼いて食べます",
+        "romaji": "Sakana, Sakana o yaite tabemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "肉, 肉はよく焼いてください",
+        "romaji": "Niku, Niku wa yoku yaite kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "野菜, 野菜をもっと食べましょう",
+        "romaji": "Yasai, Yasai o motto tabemashou"
+      },
+      {
+        "speaker": "A",
+        "text": "果物, 果物はビタミンが豊富です",
+        "romaji": "Kudamono, Kudamono wa bitamin ga houfu desu"
+      },
+      {
+        "speaker": "A",
+        "text": "りんご, りんごを一個ください",
+        "romaji": "Ringo, Ringo o ikko kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "みかん, みかんはビタミンCが多いです",
+        "romaji": "Mikan, Mikan wa bitamin C ga ooi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "バナナ, バナナはエネルギー源です",
+        "romaji": "Banana, Banana wa enerugii gen desu"
+      },
+      {
+        "speaker": "A",
+        "text": "友達, 友達と映画を見に行きます",
+        "romaji": "Tomodachi, Tomodachi to eiga o mi ni ikimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "家族, 家族と一緒に住んでいます",
+        "romaji": "Kazoku, Kazoku to issho ni sunde imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "母, 母は料理が上手です",
+        "romaji": "Haha, Haha wa ryouri ga jouzu desu"
+      },
+      {
+        "speaker": "A",
+        "text": "父, 父は会社員です",
+        "romaji": "Chichi, Chichi wa kaishain desu"
+      },
+      {
+        "speaker": "A",
+        "text": "兄, 兄は大学生です",
+        "romaji": "Ani, Ani wa daigakusei desu"
+      },
+      {
+        "speaker": "A",
+        "text": "姉, 姉は看護師です",
+        "romaji": "Ane, Ane wa kangoshi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "弟, 弟は高校生です",
+        "romaji": "Otouto, Otouto wa koukousei desu"
+      },
+      {
+        "speaker": "A",
+        "text": "妹, 妹はピアノを習っています",
+        "romaji": "Imouto, Imouto wa piano o naratte imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "子供, 子供たちは公園で遊んでいます",
+        "romaji": "Kodomo, Kodomo-tachi wa kouen de asonde imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "赤ちゃん, 赤ちゃんが泣いています",
+        "romaji": "Akachan, Akachan ga naite imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "会社, 会社は9時から5時までです",
+        "romaji": "Kaisha, Kaisha wa kuji kara goji made desu"
+      },
+      {
+        "speaker": "A",
+        "text": "仕事, 仕事が忙しいです",
+        "romaji": "Shigoto, Shigoto ga isogashii desu"
+      },
+      {
+        "speaker": "A",
+        "text": "会議, 午後2時に会議があります",
+        "romaji": "Kaigi, Gogo niji ni kaigi ga arimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "電話, 電話番号を教えてください",
+        "romaji": "Denwa, Denwa bangou o oshiete kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "メール, メールを送りました",
+        "romaji": "Me-ru, Me-ru o okurimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "パソコン, パソコンを買いたいです",
+        "romaji": "Pasokon, Pasokon o kaitai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "カメラ, カメラで写真を撮ります",
+        "romaji": "Kamera, Kamera de shashin o torimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "写真, この写真は去年の旅行です",
+        "romaji": "Shashin, Kono shashin wa kyonen no ryokou desu"
+      },
+      {
+        "speaker": "A",
+        "text": "映画, 週末に映画を見に行きます",
+        "romaji": "Eiga, Shuumatsu ni eiga o mi ni ikimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "音楽, 音楽を聴きながら勉強します",
+        "romaji": "Ongaku, Ongaku o kikinagara benkyou shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "歌, カラオケで歌を歌います",
+        "romaji": "Uta, Karaoke de uta o utaimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "漫画, 日本の漫画が好きです",
+        "romaji": "Manga, Nihon no manga ga suki desu"
+      },
+      {
+        "speaker": "A",
+        "text": "ゲーム, 友達とゲームをします",
+        "romaji": "Ge-mu, Tomodachi to ge-mu o shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "スポーツ, スポーツは健康に良いです",
+        "romaji": "Supo-tsu, Supo-tsu wa kenkou ni yoi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "サッカー, サッカーの試合を見ます",
+        "romaji": "Sakka-, Sakka- no shiai o mimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "野球, 野球は日本の人気スポーツです",
+        "romaji": "Yakyuu, Yakyuu wa nihon no ninki supo-tsu desu"
+      },
+      {
+        "speaker": "A",
+        "text": "テニス, 週に一度テニスをします",
+        "romaji": "Tenisu, Shu ni ichido tenisu o shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "山, 山に登るのが好きです",
+        "romaji": "Yama, Yama ni noboru no ga suki desu"
+      },
+      {
+        "speaker": "A",
+        "text": "川, 川で魚釣りをします",
+        "romaji": "Kawa, Kawa de sakana tsuri o shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "海, 海で泳ぎたいです",
+        "romaji": "Umi, Umi de oyogitai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "公園, 公園を散歩します",
+        "romaji": "Kouen, Kouen o sanpo shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "動物, 動物園に行きました",
+        "romaji": "Doubutsu, Doubutsuen ni ikimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "犬, 犬を飼っています",
+        "romaji": "Inu, Inu o katte imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "猫, 猫は魚が好きです",
+        "romaji": "Neko, Neko wa sakana ga suki desu"
+      },
+      {
+        "speaker": "A",
+        "text": "鳥, 鳥の声が聞こえます",
+        "romaji": "Tori, Tori no koe ga kikoemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "花, 花に水をあげます",
+        "romaji": "Hana, Hana ni mizu o agemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "木, 木の下で休みます",
+        "romaji": "Ki, Ki no shita de yasumimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "空, 空がとても青いです",
+        "romaji": "Sora, Sora ga totemo aoi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "星, 星がきれいに見えます",
+        "romaji": "Hoshi, Hoshi ga kirei ni miemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "月, 月が丸いです",
+        "romaji": "Tsuki, Tsuki ga marui desu"
+      },
+      {
+        "speaker": "A",
+        "text": "太陽, 太陽が眩しいです",
+        "romaji": "Taiyou, Taiyou ga mabushii desu"
+      },
+      {
+        "speaker": "A",
+        "text": "天気, 天気が良ければピクニックに行きます",
+        "romaji": "Tenki, Tenki ga yokereba pikunikku ni ikimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "風, 風が強いです",
+        "romaji": "Kaze, Kaze ga tsuyoi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "雨, 雨が降っています",
+        "romaji": "Ame, Ame ga futte imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "雪, 雪が積もりました",
+        "romaji": "Yuki, Yuki ga tsumorimashita"
+      }
+    ],
+    "translation": [
+      "图书馆, 我每周都会在图书馆借书",
+      "手机, 我用手机给妈妈打了电话",
+      "电车票, 我在车站买了电车票",
+      "医院, 因为发烧要去医院",
+      "学校, 我在学校学习日语",
+      "老师, 老师非常和蔼",
+      "学生, 我是东京大学的学生",
+      "日语, 我用日语写了信",
+      "英语, 我可以用英语自我介绍",
+      "教室, 教室里有很多学生",
+      "椅子, 这把椅子非常舒适",
+      "桌子, 桌子上有书",
+      "书, 这本书非常有趣",
+      "报纸, 我每天早上看报纸",
+      "杂志, 我买了美容杂志",
+      "钟表, 墙上挂着钟表",
+      "窗户, 请打开窗户",
+      "门, 请关上门",
+      "鞋子, 我买了新鞋",
+      "衣服, 这件衣服很时尚",
+      "包, 我把笔记本放进包里",
+      "钱包, 我把钱包忘在家里了",
+      "钥匙, 我锁了门",
+      "电, 请关灯",
+      "冰箱, 冰箱里有牛奶",
+      "电视, 我每天晚上看电视",
+      "电脑, 我用电脑工作",
+      "公交车, 我坐公交车去学校",
+      "电车, 电车5分钟后到",
+      "自行车, 我骑自行车去了公园",
+      "飞机, 我坐飞机去日本",
+      "车站, 步行到车站需要10分钟",
+      "机场, 我要去机场接朋友",
+      "酒店, 我预订了酒店",
+      "房间, 我打扫了房间",
+      "床, 我在床上看书",
+      "厕所, 厕所在哪里?",
+      "浴室, 我想泡澡",
+      "水, 请给我一杯水",
+      "茶, 要再来一杯茶吗?",
+      "咖啡, 我在咖啡里加糖",
+      "牛奶, 牛奶对身体好",
+      "果汁, 我喝橙汁",
+      "米饭, 我们吃饭吧",
+      "面包, 早餐我吃面包",
+      "拉面, 我很喜欢拉面",
+      "鱼, 我把鱼烤着吃",
+      "肉, 请把肉烤熟",
+      "蔬菜, 我们多吃蔬菜吧",
+      "水果, 水果富含维生素",
+      "苹果, 请给我一个苹果",
+      "橘子, 橘子富含维生素C",
+      "香蕉, 香蕉是能量来源",
+      "朋友, 我和朋友去看电影",
+      "家人, 我和家人一起住",
+      "母亲, 我妈妈做饭很好吃",
+      "父亲, 我爸爸是公司职员",
+      "哥哥, 我哥哥是大学生",
+      "姐姐, 我姐姐是护士",
+      "弟弟, 我弟弟是高中生",
+      "妹妹, 我妹妹在学钢琴",
+      "孩子, 孩子们在公园玩",
+      "婴儿, 婴儿在哭",
+      "公司, 公司工作时间是9点到5点",
+      "工作, 工作很忙",
+      "会议, 下午2点有会议",
+      "电话, 请告诉我电话号码",
+      "邮件, 我发了邮件",
+      "个人电脑, 我想买电脑",
+      "相机, 我用相机拍照",
+      "照片, 这张照片是去年旅行的",
+      "电影, 周末我要去看电影",
+      "音乐, 我边听音乐边学习",
+      "歌曲, 我在卡拉OK唱歌",
+      "漫画, 我喜欢日本漫画",
+      "游戏, 我和朋友玩游戏",
+      "运动, 运动对健康有益",
+      "足球, 我看足球比赛",
+      "棒球, 棒球是日本热门运动",
+      "网球, 我每周打一次网球",
+      "山, 我喜欢爬山",
+      "河, 我在河边钓鱼",
+      "海, 我想在海里游泳",
+      "公园, 我在公园散步",
+      "动物, 我去了动物园",
+      "狗, 我养了一只狗",
+      "猫, 猫喜欢吃鱼",
+      "鸟, 我听到鸟叫声",
+      "花, 我给花浇水",
+      "树, 我在树下休息",
+      "天空, 天空非常蓝",
+      "星星, 星星看得很清楚",
+      "月亮, 月亮是圆的",
+      "太阳, 太阳很刺眼",
+      "天气, 如果天气好就去野餐",
+      "风, 风很大",
+      "雨, 正在下雨",
+      "雪, 积雪了"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "动词",
+    "description": "表示动作和行为的词",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "食べる, 毎朝パンを食べます",
+        "romaji": "Taberu, Maiasa pan o tabemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "飲む, コーヒーを飲みます",
+        "romaji": "Nomu, Ko-hi- o nomimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "見る, テレビを見ます",
+        "romaji": "Miru, Terebi o mimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "聞く, 音楽を聞きます",
+        "romaji": "Kiku, Ongaku o kikimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "話す, 友達と日本語で話します",
+        "romaji": "Hanasu, Tomodachi to nihongo de hanashimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "読む, 新聞を読みます",
+        "romaji": "Yomu, Shinbun o yomimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "書く, 手紙を書きます",
+        "romaji": "Kaku, Tegami o kakimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "買う, スーパーで野菜を買います",
+        "romaji": "Kau, Su-pa- de yasai o kaimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "売る, この店は本を売っています",
+        "romaji": "Uru, Kono mise wa hon o utte imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "行く, 明日東京へ行きます",
+        "romaji": "Iku, Ashita Toukyou e ikimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "来る, 友達が家に来ます",
+        "romaji": "Kuru, Tomodachi ga ie ni kimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "帰る, 6時に家に帰ります",
+        "romaji": "Kaeru, Rokuji ni ie ni kaerimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "歩く, 公園を歩きます",
+        "romaji": "Aruku, Kouen o arukimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "走る, 毎朝走ります",
+        "romaji": "Hashiru, Maiasa hashirimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "座る, 椅子に座ってください",
+        "romaji": "Suwaru, Isu ni suwatte kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "立つ, 電車で立っています",
+        "romaji": "Tatsu, Densha de tatte imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "寝る, 夜10時に寝ます",
+        "romaji": "Neru, Yoru juuji ni nemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "起きる, 朝6時に起きます",
+        "romaji": "Okiru, Asa rokuji ni okimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "働く, 銀行で働いています",
+        "romaji": "Hataraku, Ginkou de hataraite imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "休む, 日曜日は休みます",
+        "romaji": "Yasumu, Nichiyoubi wa yasumimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "遊ぶ, 子供たちが公園で遊んでいます",
+        "romaji": "Asobu, Kodomo-tachi ga kouen de asonde imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "泳ぐ, 夏は海で泳ぎます",
+        "romaji": "Oyogu, Natsu wa umi de oyogimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "乗る, バスに乗ります",
+        "romaji": "Noru, Basu ni norimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "降りる, 次の駅で降ります",
+        "romaji": "Oriru, Tsugi no eki de orimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "使う, パソコンを使います",
+        "romaji": "Tsukau, Pasokon o tsukaimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "作る, ケーキを作ります",
+        "romaji": "Tsukuru, Ke-ki o tsukurimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "切る, 野菜を切ります",
+        "romaji": "Kiru, Yasai o kirimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "開ける, 窓を開けます",
+        "romaji": "Akeru, Mado o akemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "閉める, ドアを閉めます",
+        "romaji": "Shimeru, Doa o shimemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "入る, 部屋に入ります",
+        "romaji": "Hairu, Heya ni hairimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "出る, 家を出ます",
+        "romaji": "Deru, Ie o demasu"
+      },
+      {
+        "speaker": "A",
+        "text": "持つ, 鞄を持ちます",
+        "romaji": "Motsu, Kaban o mochimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "待つ, バスを待っています",
+        "romaji": "Matsu, Basu o matte imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "始める, 仕事を始めます",
+        "romaji": "Hajimeru, Shigoto o hajimemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "終わる, 授業が終わりました",
+        "romaji": "Owaru, Jugyou ga owarimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "覚える, 単語を覚えます",
+        "romaji": "Oboeru, Tango o oboemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "忘れる, 約束を忘れました",
+        "romaji": "Wasureru, Yakusoku o wasuremashita"
+      },
+      {
+        "speaker": "A",
+        "text": "考える, 問題を考えます",
+        "romaji": "Kangaeru, Mondai o kangaemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "知る, 新しいことを知りました",
+        "romaji": "Shiru, Atarashii koto o shirimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "探す, 鍵を探しています",
+        "romaji": "Sagasu, Kagi o sagashite imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "見つける, 財布を見つけました",
+        "romaji": "Mitsukeru, Saifu o mitsukemashita"
+      },
+      {
+        "speaker": "A",
+        "text": "教える, 日本語を教えます",
+        "romaji": "Oshieru, Nihongo o oshiemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "習う, ピアノを習っています",
+        "romaji": "Narau, Piano o naratte imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "練習する, 毎日日本語を練習します",
+        "romaji": "Renshuu suru, Mainichi nihongo o renshuu shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "勉強する, 図書館で勉強します",
+        "romaji": "Benkyou suru, Toshokan de benkyou shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "掃除する, 部屋を掃除しました",
+        "romaji": "Souji suru, Heya o souji shimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "洗う, 服を洗います",
+        "romaji": "Arau, Fuku o araimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "料理する, 母は料理が上手です",
+        "romaji": "Ryouri suru, Haha wa ryouri ga jouzu desu"
+      },
+      {
+        "speaker": "A",
+        "text": "旅行する, 来月日本へ旅行します",
+        "romaji": "Ryokou suru, Raigetsu nihon e ryokou shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "結婚する, 友達が結婚しました",
+        "romaji": "Kekkon suru, Tomodachi ga kekkon shimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "離婚する, 両親が離婚しました",
+        "romaji": "Rikon suru, Ryoushin ga rikon shimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "運転する, 車を運転します",
+        "romaji": "Unten suru, Kuruma o unten shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "電話する, 母に電話します",
+        "romaji": "Denwa suru, Haha ni denwa shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "買い物する, スーパーで買い物します",
+        "romaji": "Kaimono suru, Su-pa- de kaimono shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "散歩する, 犬と散歩します",
+        "romaji": "Sanpo suru, Inu to sanpo shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "約束する, 友達と約束しました",
+        "romaji": "Yakusoku suru, Tomodachi to yakusoku shimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "予約する, レストランを予約しました",
+        "romaji": "Yoyaku suru, Resutoran o yoyaku shimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "紹介する, 自己紹介します",
+        "romaji": "Shoukai suru, Jikoshoukai shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "説明する, 先生が文法を説明します",
+        "romaji": "Setsumei suru, Sensei ga bunpou o setsumei shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "注意する, 先生が生徒に注意します",
+        "romaji": "Chuui suru, Sensei ga seito ni chuui shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "運動する, 毎日運動します",
+        "romaji": "Undou suru, Mainichi undou shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "参加する, 会議に参加します",
+        "romaji": "Sanka suru, Kaigi ni sanka shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "見学する, 工場を見学しました",
+        "romaji": "Kengaku suru, Koujou o kengaku shimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "出発する, 明日東京を出発します",
+        "romaji": "Shuppatsu suru, Ashita Toukyou o shuppatsu shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "到着する, 空港に到着しました",
+        "romaji": "Touchaku suru, Kuukou ni touchaku shimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "卒業する, 来年大学を卒業します",
+        "romaji": "Sotsugyou suru, Rainen daigaku o sotsugyou shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "入学する, 4月に高校に入学します",
+        "romaji": "Nyūgaku suru, Shigatsu ni koukou ni nyuugaku shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "引っ越す, 来月新しいアパートに引っ越します",
+        "romaji": "Hikkosu, Raigetsu atarashii apa-to ni hikkoshimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "緊張する, スピーチで緊張します",
+        "romaji": "Kinchou suru, Supi-chi de kinchou shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "安心する, 試験が終わって安心しました",
+        "romaji": "Anshin suru, Shiken ga owatte anshin shimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "心配する, 母はいつも私を心配します",
+        "romaji": "Shinpai suru, Haha wa itsumo watashi o shinpai shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "疲れる, 仕事で疲れました",
+        "romaji": "Tsukareru, Shigoto de tsukaremashita"
+      },
+      {
+        "speaker": "A",
+        "text": "病気になる, 風邪で病気になりました",
+        "romaji": "Byouki ni naru, Kaze de byouki ni narimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "死ぬ, 祖父が去年亡くなりました",
+        "romaji": "Shinu, Sofu ga kyonen nakunarimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "泣く, 悲しくて泣きました",
+        "romaji": "Naku, Kanashikute nakimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "笑う, 面白い映画で笑いました",
+        "romaji": "Warau, Omoshiroi eiga de waraimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "怒る, 先生が遅刻して怒りました",
+        "romaji": "Okoru, Sensei ga chikoku shite okorimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "助ける, お年寄りを助けます",
+        "romaji": "Tasukeru, Otoshiyori o tasukemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "叩く, ドアを叩きます",
+        "romaji": "Tataku, Doa o tatakimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "蹴る, ボールを蹴ります",
+        "romaji": "Keru, Bo-ru o kerimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "投げる, ゴミを捨てます",
+        "romaji": "Nageru, Gomi o sutemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "拾う, 道で財布を拾いました",
+        "romaji": "Hirou, Michi de saifu o hiroimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "運ぶ, 荷物を運びます",
+        "romaji": "Hakobu, Nimotsu o hakobimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "守る, 法律を守ります",
+        "romaji": "Mamoru, Houritsu o mamorimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "攻める, サッカーで攻めます",
+        "romaji": "Seme, Sakka- de sememasu"
+      },
+      {
+        "speaker": "A",
+        "text": "謝る, 間違えて謝りました",
+        "romaji": "Ayamaru, Machigaete ayamarimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "許す, 友達の過ちを許します",
+        "romaji": "Yurusu, Tomodachi no ayamachi o yurushimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "届ける, 荷物を届けます",
+        "romaji": "Todokeru, Nimotsu o todokemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "迎える, 空港で友達を迎えます",
+        "romaji": "Mukaeru, Kuukou de tomodachi o mukaemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "進む, まっすぐ進んでください",
+        "romaji": "Susumu, Massugu susunde kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "戻る, 家に戻ります",
+        "romaji": "Modoru, Ie ni modorimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "止まる, 信号で止まります",
+        "romaji": "Tomaru, Shingou de tomarimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "始まる, 授業が始まります",
+        "romaji": "Hajimaru, Jugyou ga hajimarimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "降る, 雨が降っています",
+        "romaji": "Furu, Ame ga futte imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "乾く, 洗濯物が乾きました",
+        "romaji": "Kawaku, Sentakumono ga kawakimashita"
+      }
+    ],
+    "translation": [
+      "吃, 我每天早上吃面包",
+      "喝, 我喝咖啡",
+      "看, 我看电视",
+      "听, 我听音乐",
+      "说, 我和朋友用日语交谈",
+      "读, 我读报纸",
+      "写, 我写信",
+      "买, 我在超市买蔬菜",
+      "卖, 这家店卖书",
+      "去, 明天我要去东京",
+      "来, 朋友要来我家",
+      "回家, 我6点回家",
+      "走路, 我在公园散步",
+      "跑步, 我每天早上跑步",
+      "坐, 请坐在椅子上",
+      "站, 我在电车上站着",
+      "睡觉, 我晚上10点睡觉",
+      "起床, 我早上6点起床",
+      "工作, 我在银行工作",
+      "休息, 星期天我休息",
+      "玩耍, 孩子们在公园玩耍",
+      "游泳, 夏天我在海里游泳",
+      "乘坐, 我坐公交车",
+      "下(车等), 我在下一站下车",
+      "使用, 我使用电脑",
+      "制作, 我做蛋糕",
+      "切, 我切蔬菜",
+      "打开, 我打开窗户",
+      "关闭, 我关上门",
+      "进入, 我进入房间",
+      "出去, 我出门",
+      "拿, 我拿着包",
+      "等待, 我在等公交车",
+      "开始, 我开始工作",
+      "结束, 课结束了",
+      "记住, 我记单词",
+      "忘记, 我忘记了约定",
+      "思考, 我思考问题",
+      "知道, 我知道了新的事情",
+      "寻找, 我在找钥匙",
+      "找到, 我找到了钱包",
+      "教, 我教日语",
+      "学习, 我在学钢琴",
+      "练习, 我每天练习日语",
+      "学习, 我在图书馆学习",
+      "打扫, 我打扫了房间",
+      "洗, 我洗衣服",
+      "做饭, 我妈妈做饭很好",
+      "旅行, 下个月我要去日本旅行",
+      "结婚, 我朋友结婚了",
+      "离婚, 我父母离婚了",
+      "开车, 我开车",
+      "打电话, 我给妈妈打电话",
+      "购物, 我在超市购物",
+      "散步, 我和狗散步",
+      "约定, 我和朋友约好了",
+      "预约, 我预约了餐厅",
+      "介绍, 我做自我介绍",
+      "说明, 老师讲解语法",
+      "注意, 老师提醒学生",
+      "运动, 我每天运动",
+      "参加, 我参加会议",
+      "参观, 我参观了工厂",
+      "出发, 明天我从东京出发",
+      "到达, 我到达了机场",
+      "毕业, 我明年大学毕业",
+      "入学, 我4月要上高中",
+      "搬家, 我下个月要搬新公寓",
+      "紧张, 演讲时我很紧张",
+      "安心, 考试结束我放心了",
+      "担心, 妈妈总是担心我",
+      "累, 工作让我很累",
+      "生病, 我感冒生病了",
+      "死亡, 我祖父去年去世了",
+      "哭, 我因为伤心哭了",
+      "笑, 看了有趣的电影笑了",
+      "生气, 老师因为迟到生气了",
+      "帮助, 我帮助老人",
+      "敲打, 我敲门",
+      "踢, 我踢球",
+      "投掷, 我扔垃圾",
+      "捡起, 我在路上捡到钱包",
+      "搬运, 我搬行李",
+      "保护, 我遵守法律",
+      "进攻, 在足球中进攻",
+      "道歉, 我做错事道歉了",
+      "原谅, 我原谅朋友的过错",
+      "送达, 我送快递",
+      "迎接, 我去机场接朋友",
+      "前进, 请直走",
+      "返回, 我回家",
+      "停止, 我在红绿灯停下",
+      "开始, 课要开始了",
+      "下(雨、雪), 正在下雨",
+      "干燥, 洗的衣服干了"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "形容词",
+    "description": "形容事物的词",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "大きい, この部屋は大きいです",
+        "romaji": "Ookii, Kono heya wa ookii desu"
+      },
+      {
+        "speaker": "A",
+        "text": "小さい, 小さい犬がいます",
+        "romaji": "Chiisai, Chiisai inu ga imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "新しい, 新しい車を買いました",
+        "romaji": "Atarashii, Atarashii kuruma o kaimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "古い, 古い建物が見えます",
+        "romaji": "Furui, Furui tatemono ga miemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "良い, 今日は良い天気です",
+        "romaji": "Yoi, Kyou wa yoi tenki desu"
+      },
+      {
+        "speaker": "A",
+        "text": "悪い, 悪い天気になりました",
+        "romaji": "Warui, Warui tenki ni narimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "暑い, 夏はとても暑いです",
+        "romaji": "Atsui, Natsu wa totemo atsui desu"
+      },
+      {
+        "speaker": "A",
+        "text": "寒い, 冬は寒いです",
+        "romaji": "Samui, Fuyu wa samui desu"
+      },
+      {
+        "speaker": "A",
+        "text": "暖かい, 春は暖かいです",
+        "romaji": "Atatakai, Haru wa atatakai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "冷たい, 冷たい水が飲みたい",
+        "romaji": "Tsumetai, Tsumetai mizu ga nomitai"
+      },
+      {
+        "speaker": "A",
+        "text": "高い, この山は高いです",
+        "romaji": "Takai, Kono yama wa takai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "低い, 低いテーブルがあります",
+        "romaji": "Hikui, Hikui te-buru ga arimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "安い, この店は安いです",
+        "romaji": "Yasui, Kono mise wa yasui desu"
+      },
+      {
+        "speaker": "A",
+        "text": "高い, このバッグは高いです",
+        "romaji": "Takai, Kono baggu wa takai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "近い, 駅は近いです",
+        "romaji": "Chikai, Eki wa chikai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "遠い, 空港は遠いです",
+        "romaji": "Tooi, Kuukou wa tooi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "早い, 彼は走るのが早いです",
+        "romaji": "Hayai, Kare wa hashiru no ga hayai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "遅い, 電車が遅いです",
+        "romaji": "Osoi, Densha ga osoi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "忙しい, 今週は忙しいです",
+        "romaji": "Isogashii, Konshuu wa isogashii desu"
+      },
+      {
+        "speaker": "A",
+        "text": "楽しい, パーティーは楽しかったです",
+        "romaji": "Tanoshii, Pa-ti- wa tanoshikatta desu"
+      },
+      {
+        "speaker": "A",
+        "text": "嬉しい, 合格して嬉しいです",
+        "romaji": "Ureshii, Goukaku shite ureshii desu"
+      },
+      {
+        "speaker": "A",
+        "text": "悲しい, 別れは悲しいです",
+        "romaji": "Kanashii, Wakare wa kanashii desu"
+      },
+      {
+        "speaker": "A",
+        "text": "面白い, この本は面白いです",
+        "romaji": "Omoshiroi, Kono hon wa omoshiroi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "つまらない, その映画はつまらなかった",
+        "romaji": "Tsumaranai, Sono eiga wa tsumaranakatta"
+      },
+      {
+        "speaker": "A",
+        "text": "怖い, 暗い道は怖いです",
+        "romaji": "Kowai, Kurai michi wa kowai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "優しい, 先生はとても優しいです",
+        "romaji": "Yasashii, Sensei wa totemo yasashii desu"
+      },
+      {
+        "speaker": "A",
+        "text": "厳しい, 父は厳しいです",
+        "romaji": "Kibishii, Chichi wa kibishii desu"
+      },
+      {
+        "speaker": "A",
+        "text": "強い, 彼は力が強いです",
+        "romaji": "Tsuyoi, Kare wa chikara ga tsuyoi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "弱い, 私は数学が弱いです",
+        "romaji": "Yowai, Watashi wa suugaku ga yowai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "重い, この荷物は重いです",
+        "romaji": "Omoi, Kono nimotsu wa omoi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "軽い, このバッグは軽いです",
+        "romaji": "Karui, Kono baggu wa karui desu"
+      },
+      {
+        "speaker": "A",
+        "text": "広い, この公園は広いです",
+        "romaji": "Hiroi, Kono kouen wa hiroi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "狭い, この部屋は狭いです",
+        "romaji": "Semai, Kono heya wa semai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "深い, この川は深いです",
+        "romaji": "Fukai, Kono kawa wa fukai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "浅い, このプールは浅いです",
+        "romaji": "Asai, Kono pu-ru wa asai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "きれいな, この部屋はきれいです",
+        "romaji": "Kirei na, Kono heya wa kirei desu"
+      },
+      {
+        "speaker": "A",
+        "text": "静かな, 図書館は静かです",
+        "romaji": "Shizuka na, Toshokan wa shizuka desu"
+      },
+      {
+        "speaker": "A",
+        "text": "にぎやかな, この通りはにぎやかです",
+        "romaji": "Nigiyaka na, Kono toori wa nigiyaka desu"
+      },
+      {
+        "speaker": "A",
+        "text": "有名な, 富士山は有名です",
+        "romaji": "Yuumei na, Fujisan wa yuumei desu"
+      },
+      {
+        "speaker": "A",
+        "text": "便利な, このアプリは便利です",
+        "romaji": "Benri na, Kono apuri wa benri desu"
+      },
+      {
+        "speaker": "A",
+        "text": "不便な, この地域は交通が不便です",
+        "romaji": "Fuben na, Kono chiiki wa koutsuu ga fuben desu"
+      },
+      {
+        "speaker": "A",
+        "text": "大変な, この仕事は大変です",
+        "romaji": "Taihen na, Kono shigoto wa taihen desu"
+      },
+      {
+        "speaker": "A",
+        "text": "簡単な, この問題は簡単です",
+        "romaji": "Kantan na, Kono mondai wa kantan desu"
+      },
+      {
+        "speaker": "A",
+        "text": "複雑な, この機械は複雑です",
+        "romaji": "Fukuzatsu na, Kono kikai wa fukuzatsu desu"
+      },
+      {
+        "speaker": "A",
+        "text": "元気な, 祖父は元気です",
+        "romaji": "Genki na, Sofu wa genki desu"
+      },
+      {
+        "speaker": "A",
+        "text": "親切な, あの人は親切です",
+        "romaji": "Shinsetsu na, Ano hito wa shinsetsu desu"
+      },
+      {
+        "speaker": "A",
+        "text": "暇な, 今日は暇です",
+        "romaji": "Hima na, Kyou wa hima desu"
+      },
+      {
+        "speaker": "A",
+        "text": "好きな, 私は音楽が好きです",
+        "romaji": "Suki na, Watashi wa ongaku ga suki desu"
+      },
+      {
+        "speaker": "A",
+        "text": "嫌いな, 私は野菜が嫌いです",
+        "romaji": "Kirai na, Watashi wa yasai ga kirai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "上手な, 彼女はピアノが上手です",
+        "romaji": "Jouzu na, Kanojo wa piano ga jouzu desu"
+      },
+      {
+        "speaker": "A",
+        "text": "下手な, 私は料理が下手です",
+        "romaji": "Heta na, Watashi wa ryouri ga heta desu"
+      },
+      {
+        "speaker": "A",
+        "text": "重要な, これは重要な会議です",
+        "romaji": "Juuyou na, Kore wa juuyou na kaigi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "必要な, パスポートが必要です",
+        "romaji": "Hitsuyou na, Pasupo-to ga hitsuyou desu"
+      },
+      {
+        "speaker": "A",
+        "text": "自由な, 自由な時間が欲しい",
+        "romaji": "Jiyuu na, Jiyuu na jikan ga hoshii"
+      },
+      {
+        "speaker": "A",
+        "text": "特別な, 今日は特別な日です",
+        "romaji": "Tokubetsu na, Kyou wa tokubetsu na hi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "安全な, この地域は安全です",
+        "romaji": "Anzen na, Kono chiiki wa anzen desu"
+      },
+      {
+        "speaker": "A",
+        "text": "危険な, この道は危険です",
+        "romaji": "Kiken na, Kono michi wa kiken desu"
+      },
+      {
+        "speaker": "A",
+        "text": "正しい, あなたの答えは正しい",
+        "romaji": "Tadashii, Anata no kotae wa tadashii"
+      },
+      {
+        "speaker": "A",
+        "text": "間違った, これは間違った答えです",
+        "romaji": "Machigatta, Kore wa machigatta kotae desu"
+      },
+      {
+        "speaker": "A",
+        "text": "厚い, この本は厚いです",
+        "romaji": "Atsui, Kono hon wa atsui desu"
+      },
+      {
+        "speaker": "A",
+        "text": "薄い, この紙は薄いです",
+        "romaji": "Usui, Kono kami wa usui desu"
+      },
+      {
+        "speaker": "A",
+        "text": "甘い, このケーキは甘いです",
+        "romaji": "Amai, Kono ke-ki wa amai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "辛い, このカレーは辛いです",
+        "romaji": "Karai, Kono kare- wa karai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "塩辛い, このスープは塩辛いです",
+        "romaji": "Shiokarai, Kono su-pu wa shiokarai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "酸っぱい, このレモンは酸っぱい",
+        "romaji": "Suppai, Kono remon wa suppai"
+      },
+      {
+        "speaker": "A",
+        "text": "苦い, この薬は苦いです",
+        "romaji": "Nigai, Kono kusuri wa nigai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "楽な, この仕事は楽です",
+        "romaji": "Raku na, Kono shigoto wa raku desu"
+      },
+      {
+        "speaker": "A",
+        "text": "賑やかな, 祭りは賑やかです",
+        "romaji": "Nigiyaka na, Matsuri wa nigiyaka desu"
+      },
+      {
+        "speaker": "A",
+        "text": "明るい, この部屋は明るいです",
+        "romaji": "Akarui, Kono heya wa akarui desu"
+      },
+      {
+        "speaker": "A",
+        "text": "暗い, この道は暗いです",
+        "romaji": "Kurai, Kono michi wa kurai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "正直な, 彼は正直な人です",
+        "romaji": "Shoujiki na, Kare wa shoujiki na hito desu"
+      },
+      {
+        "speaker": "A",
+        "text": "意地悪な, あの先生は意地悪です",
+        "romaji": "Ijiwaru na, Ano sensei wa ijiwaru desu"
+      },
+      {
+        "speaker": "A",
+        "text": "賢い, 彼女はとても賢いです",
+        "romaji": "Kashikoi, Kanojo wa totemo kashikoi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "愚かな, それは愚かな間違いです",
+        "romaji": "Oroka na, Sore wa oroka na machigai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "素晴らしい, この景色は素晴らしい",
+        "romaji": "Subarashii, Kono keshiki wa subarashii"
+      },
+      {
+        "speaker": "A",
+        "text": "醜い, その建物は醜いです",
+        "romaji": "Minikui, Sono tatemono wa minikui desu"
+      },
+      {
+        "speaker": "A",
+        "text": "涼しい, 今日は涼しいです",
+        "romaji": "Suzushii, Kyou wa suzushii desu"
+      },
+      {
+        "speaker": "A",
+        "text": "熱い, このコーヒーは熱いです",
+        "romaji": "Atsui, Kono ko-hi- wa atsui desu"
+      },
+      {
+        "speaker": "A",
+        "text": "柔らかい, このパンは柔らかい",
+        "romaji": "Yawarakai, Kono pan wa yawarakai"
+      },
+      {
+        "speaker": "A",
+        "text": "硬い, この肉は硬いです",
+        "romaji": "Katai, Kono niku wa katai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "汚い, この部屋は汚いです",
+        "romaji": "Kitanai, Kono heya wa kitanai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "清潔な, このホテルは清潔です",
+        "romaji": "Seiketsu na, Kono hoteru wa seiketsu desu"
+      },
+      {
+        "speaker": "A",
+        "text": "短い, この文章は短いです",
+        "romaji": "Mijikai, Kono bunshou wa mijikai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "長い, この映画は長いです",
+        "romaji": "Nagai, Kono eiga wa nagai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "太い, この木は太いです",
+        "romaji": "Futoi, Kono ki wa futoi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "細い, この道は細いです",
+        "romaji": "Hosoi, Kono michi wa hosoi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "寂しい, 一人で寂しいです",
+        "romaji": "Sabishii, Hitori de sabishii desu"
+      },
+      {
+        "speaker": "A",
+        "text": "美しい, この花は美しいです",
+        "romaji": "Utsukushii, Kono hana wa utsukushii desu"
+      },
+      {
+        "speaker": "A",
+        "text": "かわいい, この子犬はかわいい",
+        "romaji": "Kawaii, Kono koinu wa kawaii"
+      }
+    ],
+    "translation": [
+      "大, 这个房间很大",
+      "小, 有一只小狗",
+      "新, 我买了新车",
+      "旧, 可以看到旧建筑",
+      "好, 今天天气很好",
+      "坏, 天气变坏了",
+      "热, 夏天很热",
+      "冷, 冬天很冷",
+      "温暖, 春天很温暖",
+      "冰冷, 我想喝冰水",
+      "高, 这座山很高",
+      "低, 有一张矮桌子",
+      "便宜, 这家店很便宜",
+      "贵, 这个包很贵",
+      "近, 车站很近",
+      "远, 机场很远",
+      "快, 他跑得很快",
+      "慢, 电车很慢",
+      "忙, 这周很忙",
+      "愉快, 派对很开心",
+      "高兴, 通过了考试很高兴",
+      "悲伤, 分别很悲伤",
+      "有趣, 这本书很有趣",
+      "无聊, 那部电影很无聊",
+      "可怕, 黑暗的道路很可怕",
+      "温柔, 老师非常温柔",
+      "严格, 我爸爸很严格",
+      "强, 他力气很大",
+      "弱, 我数学不好",
+      "重, 这件行李很重",
+      "轻, 这个包很轻",
+      "宽广, 这个公园很宽广",
+      "狭窄, 这个房间很狭窄",
+      "深, 这条河很深",
+      "浅, 这个游泳池很浅",
+      "漂亮, 这个房间很干净",
+      "安静, 图书馆很安静",
+      "热闹, 这条街很热闹",
+      "有名, 富士山很有名",
+      "方便, 这个应用很方便",
+      "不方便, 这个地区交通不便",
+      "辛苦, 这个工作很辛苦",
+      "简单, 这个问题很简单",
+      "复杂, 这台机器很复杂",
+      "有精神, 我祖父很健康",
+      "亲切, 那个人很亲切",
+      "空闲, 今天有空",
+      "喜欢, 我喜欢音乐",
+      "讨厌, 我讨厌蔬菜",
+      "擅长, 她钢琴弹得很好",
+      "不擅长, 我做饭很差",
+      "重要, 这是个重要会议",
+      "必要, 需要护照",
+      "自由, 我想要自由时间",
+      "特别, 今天是个特别的日子",
+      "安全, 这个地区很安全",
+      "危险, 这条路很危险",
+      "正确, 你的答案是正确的",
+      "错误, 这是个错误的答案",
+      "厚, 这本书很厚",
+      "薄, 这张纸很薄",
+      "甜, 这个蛋糕很甜",
+      "辣, 这个咖喱很辣",
+      "咸, 这个汤很咸",
+      "酸, 这个柠檬很酸",
+      "苦, 这个药很苦",
+      "轻松, 这个工作很轻松",
+      "热闹, 祭典很热闹",
+      "明亮, 这个房间很明亮",
+      "昏暗, 这条路很暗",
+      "诚实, 他是个诚实的人",
+      "刁难, 那个老师很刁难",
+      "聪明, 她非常聪明",
+      "愚蠢, 那是个愚蠢的错误",
+      "精彩, 这个景色很棒",
+      "丑陋, 那个建筑很丑",
+      "凉快, 今天很凉快",
+      "热, 这杯咖啡很烫",
+      "柔软, 这个面包很软",
+      "坚硬, 这块肉很硬",
+      "脏, 这个房间很脏",
+      "干净, 这家酒店很干净",
+      "短, 这篇文章很短",
+      "长, 这部电影很长",
+      "粗, 这棵树很粗",
+      "细, 这条路很窄",
+      "寂寞, 一个人很寂寞",
+      "美丽, 这朵花很美",
+      "可爱, 这只小狗很可爱"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "副词",
+    "description": "描述程度的词",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "すぐに, すぐに行きます",
+        "romaji": "Sugu ni, Sugu ni ikimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "ゆっくり, ゆっくり話してください",
+        "romaji": "Yukkuri, Yukkuri hanashite kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "たくさん, たくさん食べました",
+        "romaji": "Takusan, Takusan tabemashita"
+      },
+      {
+        "speaker": "A",
+        "text": "少し, 少し疲れました",
+        "romaji": "Sukoshi, Sukoshi tsukaremashita"
+      },
+      {
+        "speaker": "A",
+        "text": "全部, 全部終わりました",
+        "romaji": "Zenbu, Zenbu owarimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "よく, よくこの店で買い物します",
+        "romaji": "Yoku, Yoku kono mise de kaimono shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "ときどき, ときどき映画を見ます",
+        "romaji": "Tokidoki, Tokidoki eiga o mimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "あまり, あまり好きではありません",
+        "romaji": "Amari, Amari suki dewa arimasen"
+      },
+      {
+        "speaker": "A",
+        "text": "全然, 全然わかりません",
+        "romaji": "Zenzen, Zenzen wakarimasen"
+      },
+      {
+        "speaker": "A",
+        "text": "いつも, いつもここで昼ご飯を食べます",
+        "romaji": "Itsumo, Itsumo koko de hirugohan o tabemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "もう, もう終わりました",
+        "romaji": "Mou, Mou owarimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "まだ, まだ終わっていません",
+        "romaji": "Mada, Mada owatte imasen"
+      },
+      {
+        "speaker": "A",
+        "text": "これから, これから出かけます",
+        "romaji": "Korekara, Korekara dekakemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "最近, 最近忙しいです",
+        "romaji": "Saikin, Saikin isogashii desu"
+      },
+      {
+        "speaker": "A",
+        "text": "さっき, さっき電話がありました",
+        "romaji": "Sakki, Sakki denwa ga arimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "今, 今帰ります",
+        "romaji": "Ima, Ima kaerimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "今日, 今日は休みです",
+        "romaji": "Kyou, Kyou wa yasumi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "昨日, 昨日は雨でした",
+        "romaji": "Kinou, Kinou wa ame deshita"
+      },
+      {
+        "speaker": "A",
+        "text": "明日, 明日テストがあります",
+        "romaji": "Ashita, Ashita tesuto ga arimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "毎日, 毎日日本語を勉強します",
+        "romaji": "Mainichi, Mainichi nihongo o benkyou shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "毎週, 毎週日曜日に教会へ行きます",
+        "romaji": "Maishuu, Maishuu nichiyoubi ni kyoukai e ikimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "毎月, 毎月本を買います",
+        "romaji": "Maitsuki, Maitsuki hon o kaimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "毎年, 毎年旅行します",
+        "romaji": "Maitoshi, Maitoshi ryokou shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "早く, 早く起きました",
+        "romaji": "Hayaku, Hayaku okimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "遅く, 遅く寝ます",
+        "romaji": "Osoku, Osoku nemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "初めて, 初めて日本へ来ました",
+        "romaji": "Hajimete, Hajimete nihon e kimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "また, また会いましょう",
+        "romaji": "Mata, Mata aimashou"
+      },
+      {
+        "speaker": "A",
+        "text": "別々に, 別々に支払います",
+        "romaji": "Betsu betsu ni, Betsu betsu ni shiharaimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "一緒に, 一緒に行きましょう",
+        "romaji": "Issho ni, Issho ni ikimashou"
+      },
+      {
+        "speaker": "A",
+        "text": "本当に, 本当に美味しいです",
+        "romaji": "Hontou ni, Hontou ni oishii desu"
+      },
+      {
+        "speaker": "A",
+        "text": "たぶん, たぶん明日は晴れです",
+        "romaji": "Tabun, Tabun ashita wa hare desu"
+      },
+      {
+        "speaker": "A",
+        "text": "もちろん, もちろん行きます",
+        "romaji": "Mochiron, Mochiron ikimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "ぜひ, ぜひ来てください",
+        "romaji": "Zehi, Zehi kite kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "きっと, きっと大丈夫です",
+        "romaji": "Kitto, Kitto daijoubu desu"
+      },
+      {
+        "speaker": "A",
+        "text": "もし, もし時間があれば行きます",
+        "romaji": "Moshi, Moshi jikan ga areba ikimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "たいてい, たいてい7時に起きます",
+        "romaji": "Taitei, Taitei shichiji ni okimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "特に, 特に問題ありません",
+        "romaji": "Tokuni, Tokuni mondai arimasen"
+      },
+      {
+        "speaker": "A",
+        "text": "いろいろ, いろいろな本を読みます",
+        "romaji": "Iroiro, Iroiro na hon o yomimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "ほとんど, ほとんど終わりました",
+        "romaji": "Hotondo, Hotondo owarimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "ずっと, ずっと待っていました",
+        "romaji": "Zutto, Zutto matte imashita"
+      },
+      {
+        "speaker": "A",
+        "text": "やっと, やっと終わりました",
+        "romaji": "Yatto, Yatto owarimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "急に, 急に雨が降り出しました",
+        "romaji": "Kyuu ni, Kyuu ni ame ga furidashimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "簡単に, 簡単に作れます",
+        "romaji": "Kantan ni, Kantan ni tsukuremasu"
+      },
+      {
+        "speaker": "A",
+        "text": "丁寧に, 丁寧に説明します",
+        "romaji": "Teinei ni, Teinei ni setsumei shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "静かに, 静かに話してください",
+        "romaji": "Shizuka ni, Shizuka ni hanashite kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "元気に, 元気に遊んでいます",
+        "romaji": "Genki ni, Genki ni asonde imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "安全に, 安全に運転してください",
+        "romaji": "Anzen ni, Anzen ni unten shite kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "正確に, 正確に答えました",
+        "romaji": "Seikaku ni, Seikaku ni kotaemashita"
+      },
+      {
+        "speaker": "A",
+        "text": "適当に, 適当に選んでください",
+        "romaji": "Tekitou ni, Tekitou ni erande kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "自由に, 自由に使ってください",
+        "romaji": "Jiyuu ni, Jiyuu ni tsukatte kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "真面目に, 真面目に勉強します",
+        "romaji": "Majime ni, Majime ni benkyou shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "楽しく, 楽しく過ごしました",
+        "romaji": "Tanoshiku, Tanoshiku sugoshimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "悲しく, 悲しくて泣きました",
+        "romaji": "Kanashiku, Kanashikute nakimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "激しく, 激しく雨が降っています",
+        "romaji": "Hageshiku, Hageshiku ame ga futte imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "軽く, 軽く食べました",
+        "romaji": "Karuku, Karuku tabemashita"
+      },
+      {
+        "speaker": "A",
+        "text": "重く, 重く感じます",
+        "romaji": "Omoku, Omoku kanjimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "熱心に, 熱心に勉強しています",
+        "romaji": "Nesshin ni, Nesshin ni benkyou shite imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "慎重に, 慎重に選んでください",
+        "romaji": "Shinchou ni, Shinchou ni erande kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "大切に, 大切に使います",
+        "romaji": "Taisetsu ni, Taisetsu ni tsukaimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "自然に, 自然に話せます",
+        "romaji": "Shizen ni, Shizen ni hanasemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "直接, 直接話しました",
+        "romaji": "Chokusetsu, Chokusetsu hanashimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "間接的に, 間接的に聞きました",
+        "romaji": "Kansetsu teki ni, Kansetsu teki ni kikimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "本格的に, 本格的に始めます",
+        "romaji": "Honkaku teki ni, Honkaku teki ni hajimemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "偶然に, 偶然に会いました",
+        "romaji": "Guuzen ni, Guuzen ni aimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "確実に, 確実に届きます",
+        "romaji": "Kakujitsu ni, Kakujitsu ni todokimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "突然に, 突然電話が鳴りました",
+        "romaji": "Totsuzen ni, Totsuzen denwa ga narimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "慎重に, 慎重に運転してください",
+        "romaji": "Shinchou ni, Shinchou ni unten shite kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "適切に, 適切に処理しました",
+        "romaji": "Tekisetsu ni, Tekisetsu ni shori shimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "積極的に, 積極的に参加します",
+        "romaji": "Sekkyokuteki ni, Sekkyokuteki ni sanka shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "消極的に, 消極的にしか参加しません",
+        "romaji": "Shoukyokuteki ni, Shoukyokuteki ni shika sanka shimasen"
+      },
+      {
+        "speaker": "A",
+        "text": "幸せに, 幸せに暮らしています",
+        "romaji": "Shiawase ni, Shiawase ni kurashite imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "不幸に, 不幸な出来事でした",
+        "romaji": "Fukou ni, Fukou na dekigoto deshita"
+      },
+      {
+        "speaker": "A",
+        "text": "楽に, 楽にできました",
+        "romaji": "Raku ni, Raku ni dekimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "困難に, 困難に直面しました",
+        "romaji": "Konnan ni, Konnan ni chokumen shimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "感動的に, 感動的に演奏しました",
+        "romaji": "Kandou teki ni, Kandou teki ni ensou shimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "印象的に, 印象的に話しました",
+        "romaji": "Inshou teki ni, Inshou teki ni hanashimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "伝統的に, 伝統的に作られています",
+        "romaji": "Dentou teki ni, Dentou teki ni tsukurarete imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "科学的に, 科学的に証明されました",
+        "romaji": "Kagaku teki ni, Kagaku teki ni shoumei saremashita"
+      },
+      {
+        "speaker": "A",
+        "text": "文化的に, 文化的に重要です",
+        "romaji": "Bunka teki ni, Bunka teki ni juuyou desu"
+      },
+      {
+        "speaker": "A",
+        "text": "経済的に, 経済的に苦しいです",
+        "romaji": "Keizai teki ni, Keizai teki ni kurushii desu"
+      },
+      {
+        "speaker": "A",
+        "text": "政治的に, 政治的に敏感な問題です",
+        "romaji": "Seiji teki ni, Seiji teki ni binkan na mondai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "歴史的に, 歴史的に有名な場所です",
+        "romaji": "Rekishi teki ni, Rekishi teki ni yuumei na basho desu"
+      },
+      {
+        "speaker": "A",
+        "text": "国際的に, 国際的に認められています",
+        "romaji": "Kokusai teki ni, Kokusai teki ni mitomerarete imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "国内的に, 国内的に有名です",
+        "romaji": "Kokunai teki ni, Kokunai teki ni yuumei desu"
+      },
+      {
+        "speaker": "A",
+        "text": "個人的に, 個人的に意見を述べます",
+        "romaji": "Kojin teki ni, Kojin teki ni iken o nobemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "社会的に, 社会的に重要な問題です",
+        "romaji": "Shakai teki ni, Shakai teki ni juuyou na mondai desu"
+      }
+    ],
+    "translation": [
+      "立刻, 我马上去",
+      "慢慢地, 请慢慢说",
+      "很多, 我吃了很多",
+      "一点, 我有点累了",
+      "全部, 全部完成了",
+      "经常, 我经常在这家店购物",
+      "偶尔, 我偶尔看电影",
+      "不太, 我不太喜欢",
+      "完全不, 完全不明白",
+      "总是, 我总是在这里吃午饭",
+      "已经, 已经结束了",
+      "还, 还没结束",
+      "从现在起, 我现在要出门",
+      "最近, 最近很忙",
+      "刚才, 刚才有电话",
+      "现在, 我现在回家",
+      "今天, 今天休息",
+      "昨天, 昨天下雨了",
+      "明天, 明天有考试",
+      "每天, 我每天学习日语",
+      "每周, 我每周日去教堂",
+      "每月, 我每月买书",
+      "每年, 我每年旅行",
+      "早点, 我早起",
+      "晚点, 我晚睡",
+      "第一次, 我第一次来日本",
+      "又、再, 再见吧",
+      "分别, 我们分开付款",
+      "一起, 我们一起去吧",
+      "真的, 真的很好吃",
+      "大概, 明天大概会晴",
+      "当然, 我当然去",
+      "一定, 请一定要来",
+      "一定(推测), 一定没问题",
+      "如果, 如果有时间我就去",
+      "大体上, 我大体上7点起床",
+      "特别是, 特别是没有问题",
+      "各种各样, 我读各种各样的书",
+      "几乎, 几乎完成了",
+      "一直, 我一直在等",
+      "终于, 终于完成了",
+      "突然, 突然下起雨来",
+      "简单地, 可以简单制作",
+      "仔细地, 我会仔细说明",
+      "安静地, 请安静地说",
+      "精神地, 孩子们精神地玩耍",
+      "安全地, 请安全驾驶",
+      "准确地, 我准确回答了",
+      "适当地, 请适当选择",
+      "自由地, 请自由使用",
+      "认真地, 我会认真学习",
+      "愉快地, 我度过了愉快的时光",
+      "悲伤地, 我悲伤地哭了",
+      "激烈地, 雨下得很大",
+      "轻轻地, 我稍微吃了点",
+      "沉重地, 感觉很沉重",
+      "热心地, 我热心学习",
+      "慎重地, 请慎重选择",
+      "珍惜地, 我会珍惜使用",
+      "自然地, 我能自然地说",
+      "直接, 我们直接交谈了",
+      "间接地, 我间接听说了",
+      "正式地, 我们正式开始",
+      "偶然地, 我们偶然相遇",
+      "确实地, 一定会送到",
+      "突然地, 电话突然响了",
+      "慎重地, 请小心驾驶",
+      "适切地, 我适当地处理了",
+      "积极地, 我会积极参与",
+      "消极地, 我只能消极参与",
+      "幸福地, 我幸福地生活",
+      "不幸地, 那是不幸的事件",
+      "轻松地, 轻松完成了",
+      "困难地, 我面临了困难",
+      "感动地, 他感动地演奏",
+      "印象深地, 他给人印象深刻地讲话",
+      "传统地, 这是传统制作的",
+      "科学地, 被科学证明了",
+      "文化地, 这在文化上很重要",
+      "经济地, 经济上很困难",
+      "政治地, 这是政治上敏感的问题",
+      "历史地, 这是历史上著名的地方",
+      "国际地, 在国际上被认可",
+      "国内地, 在国内很有名",
+      "个人地, 我发表个人意见",
+      "社会地, 这是社会重要问题"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "短语",
+    "description": "常用的短语（phrases）",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "おはようございます, おはようございます、よく眠れましたか？",
+        "romaji": "Ohayou gozaimasu, Ohayou gozaimasu, yoku nemuremashita ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "こんにちは, こんにちは、元気ですか？",
+        "romaji": "Konnichiwa, Konnichiwa, genki desu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "こんばんは, こんばんは、今日は忙しかったですか？",
+        "romaji": "Konbanwa, Konbanwa, kyou wa isogashikatta desu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "おやすみなさい, おやすみなさい、良い夢を",
+        "romaji": "Oyasumi nasai, Oyasumi nasai, yoi yume o"
+      },
+      {
+        "speaker": "A",
+        "text": "さようなら, さようなら、また明日",
+        "romaji": "Sayounara, Sayounara, mata ashita"
+      },
+      {
+        "speaker": "A",
+        "text": "またね, またね、楽しみにしています",
+        "romaji": "Mata ne, Mata ne, tanoshimi ni shite imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "ありがとうございます, ありがとうございます、助かりました",
+        "romaji": "Arigatou gozaimasu, Arigatou gozaimasu, tasukarimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "どういたしまして, どういたしまして、また何かあれば言ってください",
+        "romaji": "Dou itashimashite, Dou itashimashite, mata nani ka areba itte kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "すみません, すみません、道を教えてください",
+        "romaji": "Sumimasen, Sumimasen, michi o oshiete kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "ごめんなさい, ごめんなさい、遅れてしまいました",
+        "romaji": "Gomen nasai, Gomen nasai, okurete shimaimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "はい, はい、わかりました",
+        "romaji": "Hai, Hai, wakarimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "いいえ, いいえ、結構です",
+        "romaji": "Iie, Iie, kekkou desu"
+      },
+      {
+        "speaker": "A",
+        "text": "お願いします, コーヒーをお願いします",
+        "romaji": "Onegai shimasu, Ko-hi- o onegai shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "よろしくお願いします, これからお世話になります、よろしくお願いします",
+        "romaji": "Yoroshiku onegai shimasu, Korekara osewa ni narimasu, yoroshiku onegai shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "いってきます, いってきます、夕方までに帰ります",
+        "romaji": "Ittekimasu, Ittekimasu, yuugata made ni kaerimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "いってらっしゃい, いってらっしゃい、気をつけて",
+        "romaji": "Itterasshai, Itterasshai, ki o tsukete"
+      },
+      {
+        "speaker": "A",
+        "text": "ただいま, ただいま、帰りました",
+        "romaji": "Tadaima, Tadaima, kaerimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "おかえりなさい, おかえりなさい、お疲れ様",
+        "romaji": "Okaeri nasai, Okaeri nasai, otsukaresama"
+      },
+      {
+        "speaker": "A",
+        "text": "初めまして, 初めまして、山田と申します",
+        "romaji": "Hajimemashite, Hajimemashite, Yamada to moushimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "元気ですか, 元気ですか？お久しぶりです",
+        "romaji": "Genki desu ka, Genki desu ka? Ohisashiburi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "元気です, 元気です、ありがとう",
+        "romaji": "Genki desu, Genki desu, arigatou"
+      },
+      {
+        "speaker": "A",
+        "text": "お名前は何ですか, お名前は何ですか？",
+        "romaji": "Onamae wa nan desu ka, Onamae wa nan desu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "私の名前は〜です, 私の名前は田中です",
+        "romaji": "Watashi no namae wa ~ desu, Watashi no namae wa Tanaka desu"
+      },
+      {
+        "speaker": "A",
+        "text": "どこから来ましたか, どこから来ましたか？",
+        "romaji": "Doko kara kimashita ka, Doko kara kimashita ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "〜から来ました, 中国から来ました",
+        "romaji": "~ kara kimashita, Chuugoku kara kimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "何歳ですか, 何歳ですか？",
+        "romaji": "Nansai desu ka, Nansai desu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "〜歳です, 25歳です",
+        "romaji": "~ sai desu, Nijuu go sai desu"
+      },
+      {
+        "speaker": "A",
+        "text": "趣味は何ですか, 趣味は何ですか？",
+        "romaji": "Shumi wa nan desu ka, Shumi wa nan desu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "趣味は〜です, 趣味は読書です",
+        "romaji": "Shumi wa ~ desu, Shumi wa dokusho desu"
+      },
+      {
+        "speaker": "A",
+        "text": "これは何ですか, これは何ですか？",
+        "romaji": "Kore wa nan desu ka, Kore wa nan desu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "〜です, これは日本の伝統的なお菓子です",
+        "romaji": "~ desu, Kore wa nihon no dentouteki na okashi desu"
+      },
+      {
+        "speaker": "A",
+        "text": "どこですか, トイレはどこですか？",
+        "romaji": "Doko desu ka, Toire wa doko desu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "いくらですか, これはいくらですか？",
+        "romaji": "Ikura desu ka, Kore wa ikura desu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "わかりますか, 私の言うことがわかりますか？",
+        "romaji": "Wakarimasu ka, Watashi no iu koto ga wakarimasu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "はい、わかります, はい、わかります",
+        "romaji": "Hai, wakarimasu, Hai, wakarimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "いいえ、わかりません, いいえ、わかりません",
+        "romaji": "Iie, wakarimasen, Iie, wakarimasen"
+      },
+      {
+        "speaker": "A",
+        "text": "もう一度お願いします, もう一度お願いします、ゆっくり話してください",
+        "romaji": "Mou ichido onegai shimasu, Mou ichido onegai shimasu, yukkuri hanashite kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "ゆっくり話してください, ゆっくり話してください、日本語はまだ上手ではありません",
+        "romaji": "Yukkuri hanashite kudasai, Yukkuri hanashite kudasai, nihongo wa mada jouzu dewa arimasen"
+      },
+      {
+        "speaker": "A",
+        "text": "日本語が少し話せます, 日本語が少し話せますが、まだ勉強中です",
+        "romaji": "Nihongo ga sukoshi hanasemasu, Nihongo ga sukoshi hanasemasu ga, mada benkyouchuu desu"
+      },
+      {
+        "speaker": "A",
+        "text": "英語を話せますか, 英語を話せますか？",
+        "romaji": "Eigo o hanasemasu ka, Eigo o hanasemasu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "はい、少し話せます, はい、少し話せます",
+        "romaji": "Hai, sukoshi hanasemasu, Hai, sukoshi hanasemasu"
+      },
+      {
+        "speaker": "A",
+        "text": "助けてください, 助けてください、道に迷いました",
+        "romaji": "Tasukete kudasai, Tasukete kudasai, michi ni mayoimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "大丈夫ですか, 大丈夫ですか？顔色が悪いですよ",
+        "romaji": "Daijoubu desu ka, Daijoubu desu ka? kaoiro ga warui desu yo"
+      },
+      {
+        "speaker": "A",
+        "text": "大丈夫です, 大丈夫です、ちょっと疲れただけです",
+        "romaji": "Daijoubu desu, Daijoubu desu, chotto tsukareta dake desu"
+      },
+      {
+        "speaker": "A",
+        "text": "お元気で, お元気で、また会いましょう",
+        "romaji": "Ogenki de, Ogenki de, mata aimashou"
+      },
+      {
+        "speaker": "A",
+        "text": "お大事に, お大事に、早く良くなってください",
+        "romaji": "Odaiji ni, Odaiji ni, hayaku yoku natte kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "気をつけて, 気をつけて、安全運転で",
+        "romaji": "Ki o tsukete, Ki o tsukete, anzen unten de"
+      },
+      {
+        "speaker": "A",
+        "text": "いらっしゃいませ, いらっしゃいませ、何名様ですか？",
+        "romaji": "Irasshaimase, Irasshaimase, nanmeisama desu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "どうぞ, どうぞ、おかけください",
+        "romaji": "Douzo, Douzo, okake kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "こちらへどうぞ, こちらへどうぞ、お席をご案内します",
+        "romaji": "Kochira e douzo, Kochira e douzo, oseki o goannai shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "失礼します, 失礼します、ちょっと席を外します",
+        "romaji": "Shitsurei shimasu, Shitsurei shimasu, chotto seki o hazushimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "失礼しました, 失礼しました、気がつきませんでした",
+        "romaji": "Shitsurei shimashita, Shitsurei shimashita, ki ga tsukimasen deshita"
+      },
+      {
+        "speaker": "A",
+        "text": "少々お待ちください, 少々お待ちください、すぐ戻ります",
+        "romaji": "Shou shou omachi kudasai, Shou shou omachi kudasai, sugu modorimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "お待たせしました, お待たせしました、ご注文はお決まりですか？",
+        "romaji": "Omatase shimashita, Omatase shimashita, gochuumon wa okimari desu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "いかがですか, お味はいかがですか？",
+        "romaji": "Ikaga desu ka, Oaji wa ikaga desu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "いいですね, いいですね、賛成です",
+        "romaji": "Ii desu ne, Ii desu ne, sansei desu"
+      },
+      {
+        "speaker": "A",
+        "text": "本当ですか, 本当ですか？信じられません",
+        "romaji": "Hontou desu ka, Hontou desu ka? Shinjiraremasen"
+      },
+      {
+        "speaker": "A",
+        "text": "本当です, 本当です、嘘ではありません",
+        "romaji": "Hontou desu, Hontou desu, uso dewa arimasen"
+      },
+      {
+        "speaker": "A",
+        "text": "冗談です, 冗談です、怒らないでください",
+        "romaji": "Joudan desu, Joudan desu, okoranaide kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "頑張ってください, 頑張ってください、応援しています",
+        "romaji": "Ganbatte kudasai, Ganbatte kudasai, ouen shite imasu"
+      },
+      {
+        "speaker": "A",
+        "text": "お疲れ様でした, お疲れ様でした、今日も一日よく働きましたね",
+        "romaji": "Otsukaresama deshita, Otsukaresama deshita, kyou mo ichinichi yoku hatarakimashita ne"
+      },
+      {
+        "speaker": "A",
+        "text": "おめでとうございます, おめでとうございます、ご結婚おめでとうございます",
+        "romaji": "Omedetou gozaimasu, Omedetou gozaimasu, gokekkon omedetou gozaimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "気にしないでください, 気にしないでください、大したことではありません",
+        "romaji": "Ki ni shinaide kudasai, Ki ni shinaide kudasai, taishita koto dewa arimasen"
+      },
+      {
+        "speaker": "A",
+        "text": "どうしたんですか, どうしたんですか？元気がないですね",
+        "romaji": "Doushitan desu ka, Doushitan desu ka? Genki ga nai desu ne"
+      },
+      {
+        "speaker": "A",
+        "text": "ちょっと待ってください, ちょっと待ってください、すぐ戻ります",
+        "romaji": "Chotto matte kudasai, Chotto matte kudasai, sugu modorimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "助かります, 助かります、ありがとうございます",
+        "romaji": "Tasukarimasu, Tasukarimasu, arigatou gozaimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "行きましょう, 行きましょう、もう遅いですよ",
+        "romaji": "Ikimashou, Ikimashou, mou osoi desu yo"
+      },
+      {
+        "speaker": "A",
+        "text": "帰りましょう, 帰りましょう、疲れました",
+        "romaji": "Kaerimashou, Kaerimashou, tsukaremashita"
+      },
+      {
+        "speaker": "A",
+        "text": "始めましょう, 始めましょう、時間です",
+        "romaji": "Hajimemashou, Hajimemashou, jikan desu"
+      },
+      {
+        "speaker": "A",
+        "text": "終わりましょう, 終わりましょう、今日はここまでです",
+        "romaji": "Owarimashou, Owarimashou, kyou wa koko made desu"
+      },
+      {
+        "speaker": "A",
+        "text": "いただきます, いただきます、美味しそうですね",
+        "romaji": "Itadakimasu, Itadakimasu, oishisou desu ne"
+      },
+      {
+        "speaker": "A",
+        "text": "ごちそうさまでした, ごちそうさまでした、とても美味しかったです",
+        "romaji": "Gochisousama deshita, Gochisousama deshita, totemo oishikatta desu"
+      },
+      {
+        "speaker": "A",
+        "text": "〜してください, 窓を開けてください",
+        "romaji": "~ shite kudasai, Mado o akete kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "〜しないでください, ここで写真を撮らないでください",
+        "romaji": "~ shinaide kudasai, Koko de shashin o toranaide kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "気をつけてください, 気をつけてください、階段が滑りやすいです",
+        "romaji": "Ki o tsukete kudasai, Ki o tsukete kudasai, kaidan ga suberiyasui desu"
+      },
+      {
+        "speaker": "A",
+        "text": "遅れてすみません, 遅れてすみません、電車が遅れました",
+        "romaji": "Okurete sumimasen, Okurete sumimasen, densha ga okuremashita"
+      },
+      {
+        "speaker": "A",
+        "text": "わかりました, わかりました、そうします",
+        "romaji": "Wakarimashita, Wakarimashita, sou shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "知りません, 知りません、初めて聞きました",
+        "romaji": "Shirimasen, Shirimasen, hajimete kikimashita"
+      },
+      {
+        "speaker": "A",
+        "text": "考えます, 考えます、後で返事します",
+        "romaji": "Kangaemasu, Kangaemasu, ato de henji shimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "見せてください, その写真を見せてください",
+        "romaji": "Misete kudasai, Sono shashin o misete kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "開けてください, ドアを開けてください",
+        "romaji": "Aketekudasai, Doa o akete kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "閉めてください, 窓を閉めてください",
+        "romaji": "Shimete kudasai, Mado o shimete kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "入ってください, どうぞお入りください",
+        "romaji": "Haitte kudasai, Douzo ohairi kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "座ってください, どうぞお座りください",
+        "romaji": "Suwatte kudasai, Douzo o suwari kudasai"
+      },
+      {
+        "speaker": "A",
+        "text": "立ってください, 立ってください、写真を撮ります",
+        "romaji": "Tatte kudasai, Tatte kudasai, shashin o torimasu"
+      },
+      {
+        "speaker": "A",
+        "text": "書いてください, ここに名前を書いてください",
+        "romaji": "Kaite kudasai, Koko ni namae o kaite kudasai"
+      }
+    ],
+    "translation": [
+      "早上好, 早上好,睡得好吗?",
+      "你好, 你好,你好吗?",
+      "晚上好, 晚上好,今天忙吗?",
+      "晚安, 晚安,做个好梦",
+      "再见, 再见,明天见",
+      "回头见, 回头见,我很期待",
+      "谢谢, 谢谢,帮大忙了",
+      "不客气, 不客气,有什么需要再告诉我",
+      "对不起/劳驾, 对不起,请告诉我怎么走",
+      "对不起, 对不起,我迟到了",
+      "是的, 是的,我明白了",
+      "不是, 不用了,谢谢",
+      "拜托了, 请给我咖啡",
+      "请多关照, 今后请多关照",
+      "我出门了, 我出门了,傍晚前回来",
+      "路上小心, 路上小心,注意安全",
+      "我回来了, 我回来了",
+      "欢迎回来, 欢迎回来,辛苦了",
+      "初次见面, 初次见面,我姓山田",
+      "你好吗?, 你好吗?好久不见",
+      "我很好, 我很好,谢谢",
+      "你叫什么名字?, 你叫什么名字?",
+      "我的名字是～, 我的名字是田中",
+      "你从哪里来?, 你从哪里来?",
+      "我从～来, 我来自中国",
+      "你几岁了?, 你几岁了?",
+      "～岁, 我25岁",
+      "你的兴趣是什么?, 你的兴趣是什么?",
+      "我的兴趣是～, 我的兴趣是读书",
+      "这是什么?, 这是什么?",
+      "是～, 这是日本传统点心",
+      "在哪里?, 厕所在哪里?",
+      "多少钱?, 这个多少钱?",
+      "明白吗?, 你明白我说的吗?",
+      "是的,明白, 是的,我明白",
+      "不,不明白, 不,我不明白",
+      "请再说一遍, 请再说一遍,请说慢一点",
+      "请说慢一点, 请说慢一点,我日语还不好",
+      "我会说一点日语, 我会说一点日语,但还在学习中",
+      "你会说英语吗?, 你会说英语吗?",
+      "是的,会说一点, 是的,会说一点",
+      "请帮帮我, 请帮帮我,我迷路了",
+      "没事吧?, 没事吧?你脸色不太好",
+      "没事, 没事,只是有点累",
+      "保重, 保重,再见",
+      "请多保重, 请多保重,早日康复",
+      "请小心, 请小心,安全驾驶",
+      "欢迎光临, 欢迎光临,几位?",
+      "请, 请坐",
+      "这边请, 这边请,我带您入座",
+      "打扰了, 打扰了,我暂时离开一下",
+      "失礼了, 失礼了,我没注意到",
+      "请稍等, 请稍等,我马上回来",
+      "让您久等了, 让您久等了,决定点什么了吗?",
+      "怎么样?, 味道怎么样?",
+      "不错呢, 不错呢,我同意",
+      "真的吗?, 真的吗?难以置信",
+      "是真的, 是真的,不是谎言",
+      "开玩笑的, 开玩笑的,别生气",
+      "请加油, 请加油,我支持你",
+      "辛苦了, 辛苦了,今天工作很努力",
+      "恭喜, 恭喜,祝贺你结婚",
+      "请别介意, 请别介意,不是什么大事",
+      "怎么了?, 怎么了?你看起来没精神",
+      "请稍等一下, 请稍等一下,我马上回来",
+      "帮大忙了, 帮大忙了,谢谢你",
+      "一起去吧, 一起去吧,已经很晚了",
+      "一起回去吧, 一起回去吧,我累了",
+      "开始吧, 开始吧,时间到了",
+      "结束吧, 结束吧,今天就到这里",
+      "我要开动了, 我要开动了,看起来很好吃",
+      "我吃饱了, 我吃饱了,非常美味",
+      "请～, 请打开窗户",
+      "请不要～, 请不要在这里拍照",
+      "请小心, 请小心,楼梯很滑",
+      "抱歉迟到了, 抱歉迟到了,电车晚点了",
+      "明白了, 明白了,我会那样做",
+      "不知道, 不知道,第一次听说",
+      "我考虑一下, 我考虑一下,稍后回复",
+      "请给我看看, 请给我看那张照片",
+      "请打开, 请打开门",
+      "请关上, 请关上窗户",
+      "请进, 请进",
+      "请坐, 请坐",
+      "请站起来, 请站起来,要拍照了",
+      "请写下来, 请在这里写下名字"
+    ]
+  }
+]
