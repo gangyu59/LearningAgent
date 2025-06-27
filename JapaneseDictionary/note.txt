@@ -1,1 +1,10 @@
-
+/JapaneseDictionary
+├── main.html               # 字典主页
+├── /data
+│   └── dictionary.json      # 字典数据
+├── /css
+│   └── style.css            # 页面样式
+└── /static/js
+    ├── main.js              # 查询逻辑
+    ├── audio.js             # 朗读逻辑
+    └── utils.js             # JSON加载与工具
