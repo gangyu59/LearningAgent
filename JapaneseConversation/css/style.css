@@ -1,1 +1,223 @@
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  padding: 28px;
+  background: #e6f4ff;
+  font-size: 18px;
+  color: #003366;
+}
 
+h1 {
+  text-align: center;
+  font-size: 60px;
+  margin-bottom: 40px;
+}
+
+label,
+select,
+input,
+button,
+p {
+  font-size: 32px;
+}
+
+#output {
+  border: 1px solid #ccc;
+  padding: 15px;
+  height: 1100px;
+  overflow-y: auto;
+  background: #ffffff;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 12px 24px;
+  font-size: 24px;
+  border: none;
+  background-color: #0078d4;
+  color: white;
+  border-radius: 6px;
+}
+
+button:active {
+  background-color: #005ea2;
+}
+
+.scenario-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+	margin-right: 20px;
+}
+
+.scenario-select label {
+  margin-right: 0px;
+  white-space: nowrap;
+}
+
+.aiModel-select label {
+  margin-right: 0px;
+	margin-left: 20px;
+  white-space: nowrap;
+}
+
+.scenario-custom label {
+  margin-right: 5px;
+	margin-left: 0px;
+  white-space: nowrap;
+}
+
+.scenario-custom input {
+  padding: 6px 10px;
+  font-size: 32px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  min-width: 160px;
+  max-width: 600px;
+}
+
+#micBtn {
+  display: block;
+  margin: 30px auto 0 auto; /* 上 30px，左右 auto 实现居中 */
+  padding: 12px 24px;
+  font-size: 24px;
+  background-color: #0078d4;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#micBtn:active {
+  background-color: #005ea2;
+}
+
+/* ====== 状态指示器样式 ======= */
+#loading-indicator {
+  position: fixed;
+  bottom: 360px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: transparent; 
+  padding: 0;
+  border-radius: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.status-visible {
+    opacity: 1 !important;
+}
+
+.loading-hidden {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.hourglass {
+  width: 80px;
+  height: 80px;
+  border: 3px solid black;
+  border-top-color: transparent;
+  border-radius: 50%;
+  background-color: white;  /* ✅ 白底 */
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    50% { transform: rotate(180deg); }
+    100% { transform: rotate(360deg); }
+}
+
+#buttonContainer {
+  text-align: center;
+  margin-top: 0vh;
+}
+
+#buttonContainer button {
+  font-size: 36px;
+  padding: 14px 28px;
+  border-radius: 10px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#buttonContainer button:hover {
+  background-color: #28a745;
+}
+
+.message-block {
+  margin-bottom: 14px;
+}
+
+.teacher-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 32px; /* 与你(日语)一致 */
+}
+
+.teacher-row span {
+  flex: 1;
+  padding-right: 8px;
+}
+
+.replay-btn {
+  font-size: 32px;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: #555;
+}
+
+.cn-explain {
+  font-size: 32px;
+  list-style-type: disc;
+  margin-left: 1.5em;
+  padding-left: 0;
+}
+
+.cn-explain li {
+  margin-bottom: 4px;
+  line-height: 1.5;
+}
+
+/* 保持原有所有样式不变，只添加以下新样式 */
+.text-input-container {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+  width: 100%;
+}
+
+#userInput {
+  font-size: 32px;
+  padding: 12px;
+  /* 确保有足够空间显示日文字符 */
+  min-width: 300px;
+}
+
+#sendBtn {
+  padding: 12px 24px;
+  font-size: 32px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#sendBtn:hover {
+  background-color: #218838;
+}
