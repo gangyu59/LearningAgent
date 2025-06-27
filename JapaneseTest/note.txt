@@ -1,1 +1,20 @@
+JapaneseTest
+├── main.html                # 主页面
+├── css
+│   └── style.css            # 样式文件（复用听力练习）
+├── data
+│   ├── beginner.json        # 初级测试题目（已填充）
+│   ├── intermediate.json    # 中级测试题目（占位）
+│   └── advanced.json        # 高级测试题目（占位）
+└── static
+    └── js
+        ├── app.js           # 页面逻辑（tab 切换、渲染）
+        ├── render.js        # 渲染测试内容
+        └── utils.js         # 工具函数（如加载JSON）
 
+
+左侧：初级测试 / 中级测试 / 高级测试（列表“测试一、测试二、…”）
+右侧：题目区域（显示每道题+选项+提交按钮）
+       ✔ 显示答案
+       ✔ 显示解释
+       ✔ 判分
