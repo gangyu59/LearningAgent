@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>日语语法智能体</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>日语语法智能体</h1>
+        <div class="input-group">
+            <input type="text" id="newSceneDescription" placeholder="输入一个语法点，比如：は和が的区别">
+            <button id="generateSceneBtn">生成语法</button>
+        </div>
+    </header>
+
+    <main>
+        <!-- 左侧清单区域 -->
+        <aside id="beginnerListContainer" style="display: none;">
+            <h3 id="ToggleBeginnerTitle">初级语法</h3>
+            <ul id="beginnerList"></ul>
+        </aside>
+
+        <aside id="intermediateListContainer" style="display: none;">
+            <h3 id="ToggleIntermediateTitle">中级语法</h3>
+            <ul id="intermediateList"></ul>
+        </aside>
+
+        <aside id="advancedListContainer" style="display: none;">
+            <h3 id="ToggleAdvancedTitle">高级语法</h3>
+            <ul id="advancedList"></ul>
+        </aside>
+
+        <!-- 右侧详情展示区域 -->
+        <section id="beginnerDetails" style="display: none;">
+            <h3 id="beginnerTitle">初级语法</h3>
+            <p id="beginnerDescription">简介</p>
+            <div class="toggle-options" style="display: flex; flex-direction: column; align-items: center;">
+                <div class="checkbox-group" style="display: flex; gap: 20px; justify-content: center; margin-bottom: -10px;">
+                    <label><input type="checkbox" id="toggleBeginnerJapanese" checked> 显示日文</label>
+                    <label><input type="checkbox" id="toggleBeginnerTranslation" checked> 显示翻译</label>
+                </div>
+                <div class="speech-rate-wrapper">
+                    <label for="speechRateBeginner">语速：</label>
+                    <input type="range" id="speechRateBeginner" min="0.5" max="1.5" step="0.1" value="1">
+                    <span id="speechRateValueBeginner">1.0</span>
+                </div>
+            </div>
+            <div id="beginnerDialog"></div>
+            <div id="beginnerTranslation"></div>
+        </section>
+
+        <section id="intermediateDetails" style="display: none;">
+            <h3 id="intermediateTitle">中级语法</h3>
+            <p id="intermediateDescription">简介</p>
+            <div class="toggle-options" style="display: flex; flex-direction: column; align-items: center;">
+                <div class="checkbox-group" style="display: flex; gap: 20px; justify-content: center; margin-bottom: -10px;">
+                    <label><input type="checkbox" id="toggleIntermediateJapanese" checked> 显示日文</label>
+                    <label><input type="checkbox" id="toggleIntermediateTranslation" checked> 显示翻译</label>
+                </div>
+                <div class="speech-rate-wrapper">
+                    <label for="speechRateIntermediate">语速：</label>
+                    <input type="range" id="speechRateIntermediate" min="0.5" max="1.5" step="0.1" value="1">
+                    <span id="speechRateValueIntermediate">1.0</span>
+                </div>
+            </div>
+            <div id="intermediateDialog"></div>
+            <div id="intermediateTranslation"></div>
+        </section>
+
+        <section id="advancedDetails" style="display: none;">
+            <h3 id="advancedTitle">高级语法</h3>
+            <p id="advancedDescription">简介</p>
+            <div class="toggle-options" style="display: flex; flex-direction: column; align-items: center;">
+                <div class="checkbox-group" style="display: flex; gap: 20px; justify-content: center; margin-bottom: -10px;">
+                    <label><input type="checkbox" id="toggleAdvancedJapanese" checked> 显示日文</label>
+                    <label><input type="checkbox" id="toggleAdvancedTranslation" checked> 显示翻译</label>
+                </div>
+                <div class="speech-rate-wrapper">
+                    <label for="speechRateAdvanced">语速：</label>
+                    <input type="range" id="speechRateAdvanced" min="0.5" max="1.5" step="0.1" value="1">
+                    <span id="speechRateValueAdvanced">1.0</span>
+                </div>
+            </div>
+            <div id="advancedDialog"></div>
+            <div id="advancedTranslation"></div>
+        </section>
+    </main>
+
+    <script src="static/js/utils.js"></script>
+    <script src="static/js/audio.js"></script>
+    <script src="static/js/render.js"></script>
+    <script src="static/js/gpt.js"></script>
+    <script src="static/js/app.js"></script>
+</body>
+</html>
