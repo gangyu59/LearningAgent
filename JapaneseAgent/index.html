@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>日语学习智能体</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>日语学习智能体</h1>
+        <div class="input-group">
+            <input type="text" id="newSceneDescription" placeholder="输入新场景比如：打电话预约球场">
+            <button id="generateSceneBtn">生成对话</button>
+        </div>
+    </header>
+
+    <main>
+        <!-- 左侧清单区域 -->
+        <aside id="sceneListContainer" style="display: none;">
+            <h3 id="ToggleTitle">常用场景</h3>
+            <ul id="sceneList"></ul>
+        </aside>
+
+        <aside id="wordListContainer" style="display: none;">
+            <h3 id="ToggleWordTitle">常用词汇</h3>
+            <ul id="wordList"></ul>
+        </aside>
+
+        <aside id="storyListContainer" style="display: none;">
+            <h3 id="ToggleStoryTitle">故事汇集</h3>
+            <ul id="storyList"></ul>
+        </aside>
+				
+				<aside id="grammarListContainer" style="display: none;">
+				    <h3 id="ToggleGrammarTitle">常用语法</h3>
+				    <ul id="grammarList"></ul>
+				</aside>
+
+        <!-- 右侧详情展示区域 -->
+        <section id="sceneDetails" style="display: none;">
+            <h3 id="sceneTitle">对话</h3>
+            <p id="sceneDescription">场景描述</p>
+						<div class="toggle-options">
+								<label><input type="checkbox" id="toggleRomaji" checked> 显示罗马音</label>
+								<label><input type="checkbox" id="toggleTranslation" checked> 显示翻译</label>
+						</div>
+            <div id="sceneDialog"></div>
+            <div id="sceneTranslation"></div>
+        </section>
+
+        <section id="wordDetails" style="display: none;">
+            <h3 id="wordTitle">词类</h3>
+            <p id="wordDescription">词汇描述</p>
+						<div class="toggle-options">
+								<label><input type="checkbox" id="toggleWordRomaji" checked> 显示罗马音</label>
+								<label><input type="checkbox" id="toggleWordTranslation" checked> 显示翻译</label>
+						</div>
+            <div id="wordDialog"></div>
+            <div id="wordTranslation"></div>
+        </section>
+
+        <section id="storyDetails" style="display: none;">
+            <h3 id="storyTitle">故事标题</h3>
+						<p id="storyDescription">故事简介</p>
+						<div class="toggle-options">
+								<label><input type="checkbox" id="toggleStoryRomaji" checked> 显示罗马音</label>
+								<label><input type="checkbox" id="toggleStoryTranslation" checked> 显示翻译</label>
+						</div>
+            <div id="storyDialog"></div>
+            <div id="storyTranslation"></div>
+        </section>
+				
+				<section id="grammarDetails" style="display: none;">
+				    <h3 id="grammarTitle">语法点</h3>
+				    <p id="grammarDescription">语法说明</p>
+				    <div class="toggle-options">
+				        <label><input type="checkbox" id="toggleGrammarRomaji" checked> 显示罗马音</label>
+				        <label><input type="checkbox" id="toggleGrammarTranslation" checked> 显示翻译</label>
+				    </div>
+				    <div id="grammarDialog"></div>
+						<div id="grammarTranslation"></div>
+				</section>
+    </main>
+
+    <script src="static/js/utils.js"></script>
+    <script src="static/js/audio.js"></script>
+    <script src="static/js/render.js"></script>
+    <script src="static/js/gpt.js"></script>
+    <script src="static/js/app.js"></script>
+</body>
+</html>

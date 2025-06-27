@@ -1,1 +1,17 @@
+/index.html
+/css/style.css
+/static/js/
+  ├── utils.js      // 工具函数
+  ├── audio.js      // 音频朗读
+  ├── render.js     // 页面渲染与切换
+  ├── gpt.js        // GPT生成对话
+  └── app.js        // 主控制器
+/data/
+  ├── scenes.json
+  └── words.json
+	
+	
+想找渲染界面？→ render.js
+想找朗读功能？→ audio.js
+想找GPT交互？→ gpt.js
 
