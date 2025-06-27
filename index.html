@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>日语学习智能体</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+
+    h2 {
+      text-align: center;
+      margin: 16px 0;
+    }
+
+    #tabBar {
+      display: flex;
+      justify-content: center;
+      border-bottom: 1px solid #ccc;
+      background-color: #f9f9f9;
+    }
+
+    #tabBar button {
+      flex: 1;
+      padding: 12px 0;
+      border: none;
+      font-size: 14px;
+      background-color: #eee;
+      cursor: pointer;
+      transition: background-color 0.2s ease;
+    }
+
+    #tabBar button.active {
+      background-color: #cceeff;
+      font-weight: bold;
+    }
+
+    iframe {
+      width: 100%;
+      height: calc(100vh - 100px); /* 自动适配屏幕，保留顶部高度 */
+      border: none;
+      display: none;
+    }
+
+    iframe.active {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <!-- 标签按钮 -->
+  <div id="tabBar">
+    <button data-tab="lesson" class="active">课程</button>
+    <button data-tab="learning">日常</button>
+		<button data-tab="translator">翻译</button>
+    <button data-tab="voicetutor">对话</button>
+		<button data-tab="texttutor">交流</button>
+		<button data-tab="listening">听力</button>
+		<button data-tab="dictionary">字典</button>
+		<button data-tab="grammar">语法</button>
+		<button data-tab="vocabulary">生词</button>
+		<button data-tab="test">测试</button>
+  </div>
+
+  <!-- 七个子页面用 iframe 加载 -->
+	<iframe id="lessonFrame" src="JapaneseLessons/main.html" class="active"></iframe>
+  <iframe id="learningFrame" src="JapaneseAgent/index.html"></iframe>
+  <iframe id="voicetutorFrame" src="JapaneseTutor/main.html"></iframe>
+	<iframe id="translatorFrame" src="TranslatorAgent/index.html"></iframe>
+  <iframe id="texttutorFrame" src="JapaneseConversation/main.html"></iframe>
+	<iframe id="listeningFrame" src="JapaneseListening/main.html"></iframe>
+  <iframe id="dictionaryFrame" src="JapaneseDictionary/main.html"></iframe>
+ <iframe id="grammarFrame" src="JapaneseGrammar/main.html"></iframe>
+ <iframe id="vocabularyFrame" src="JapaneseVocabulary/main.html"></iframe>
+ <iframe id="testFrame" src="JapaneseTest/main.html"></iframe>
+	
+  <script>
+    const buttons = document.querySelectorAll('#tabBar button');
+    const frames = {
+			lesson: document.getElementById('lessonFrame'),
+      learning: document.getElementById('learningFrame'),
+			translator: document.getElementById('translatorFrame'),
+      voicetutor: document.getElementById('voicetutorFrame'),
+			texttutor: document.getElementById('texttutorFrame'),
+			listening: document.getElementById('listeningFrame'),
+			dictionary: document.getElementById('dictionaryFrame'),
+			grammar: document.getElementById('grammarFrame'),
+			vocabulary:
+		 	document.getElementById('vocabularyFrame'),
+			test:
+		 	  document.getElementById('testFrame')
+    };
+
+    buttons.forEach(button => {
+      button.addEventListener('click', () => {
+        const tab = button.dataset.tab;
+
+        // 切换按钮样式
+        buttons.forEach(btn => btn.classList.remove('active'));
+        button.classList.add('active');
+
+        // 切换 iframe 显示
+        for (const key in frames) {
+          frames[key].classList.remove('active');
+        }
+        frames[tab].classList.add('active');
+      });
+    });
+  </script>
+</body>
+</html>
