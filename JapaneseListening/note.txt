@@ -1,1 +1,13 @@
-
+/JapaneseListening
+├── index.html                 # 主页面
+├── /data
+│   ├── beginner.json          # 初级听力内容
+│   ├── intermediate.json      # 中级听力内容
+│   └── advanced.json          # 高级听力内容
+├── /css
+│   └── style.css              # 样式文件（复用现有结构）
+└── /static/js
+    ├── app.js                 # 页面逻辑和切换控制
+    ├── render.js              # 渲染听力内容
+    ├── audio.js               # 播放朗读音频
+    └── utils.js               # JSON加载与工具函数
