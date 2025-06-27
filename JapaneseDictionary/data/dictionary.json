@@ -1,1 +1,4037 @@
+[
+  {
+    "word": "食べる",
+    "kana": "たべる",
+    "romaji": "taberu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "吃",
+      "进食"
+    ],
+    "examples": [
+      {
+        "ja": "ご飯を食べる。",
+        "romaji": "Gohan o taberu.",
+        "zh": "吃饭。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "食べない",
+      "过去式": "食べた"
+    }
+  },
+  {
+    "word": "行く",
+    "kana": "いく",
+    "romaji": "iku",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "去",
+      "前往"
+    ],
+    "examples": [
+      {
+        "ja": "学校へ行く。",
+        "romaji": "Gakkou e iku.",
+        "zh": "去学校。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "行かない",
+      "过去式": "行った"
+    }
+  },
+  {
+    "word": "見る",
+    "kana": "みる",
+    "romaji": "miru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "看",
+      "观看"
+    ],
+    "examples": [
+      {
+        "ja": "映画を見る。",
+        "romaji": "Eiga o miru.",
+        "zh": "看电影。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "見ない",
+      "过去式": "見た"
+    }
+  },
+  {
+    "word": "聞く",
+    "kana": "きく",
+    "romaji": "kiku",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "听",
+      "询问"
+    ],
+    "examples": [
+      {
+        "ja": "音楽を聞く。",
+        "romaji": "Ongaku o kiku.",
+        "zh": "听音乐。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "聞かない",
+      "过去式": "聞いた"
+    }
+  },
+  {
+    "word": "話す",
+    "kana": "はなす",
+    "romaji": "hanasu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "说话",
+      "交谈"
+    ],
+    "examples": [
+      {
+        "ja": "友達と話す。",
+        "romaji": "Tomodachi to hanasu.",
+        "zh": "和朋友说话。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "話さない",
+      "过去式": "話した"
+    }
+  },
+  {
+    "word": "書く",
+    "kana": "かく",
+    "romaji": "kaku",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "写",
+      "书写"
+    ],
+    "examples": [
+      {
+        "ja": "手紙を書く。",
+        "romaji": "Tegami o kaku.",
+        "zh": "写信。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "書かない",
+      "过去式": "書いた"
+    }
+  },
+  {
+    "word": "読む",
+    "kana": "よむ",
+    "romaji": "yomu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "读",
+      "阅读"
+    ],
+    "examples": [
+      {
+        "ja": "本を読む。",
+        "romaji": "Hon o yomu.",
+        "zh": "读书。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "読まない",
+      "过去式": "読んだ"
+    }
+  },
+  {
+    "word": "飲む",
+    "kana": "のむ",
+    "romaji": "nomu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "喝",
+      "饮"
+    ],
+    "examples": [
+      {
+        "ja": "水を飲む。",
+        "romaji": "Mizu o nomu.",
+        "zh": "喝水。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "飲まない",
+      "过去式": "飲んだ"
+    }
+  },
+  {
+    "word": "買う",
+    "kana": "かう",
+    "romaji": "kau",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "买",
+      "购买"
+    ],
+    "examples": [
+      {
+        "ja": "本を買う。",
+        "romaji": "Hon o kau.",
+        "zh": "买书。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "買わない",
+      "过去式": "買った"
+    }
+  },
+  {
+    "word": "来る",
+    "kana": "くる",
+    "romaji": "kuru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "来"
+    ],
+    "examples": [
+      {
+        "ja": "明日来る。",
+        "romaji": "Ashita kuru.",
+        "zh": "明天来。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "来ない",
+      "过去式": "来た"
+    }
+  },
+  {
+    "word": "走る",
+    "kana": "はしる",
+    "romaji": "hashiru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "跑",
+      "奔跑"
+    ],
+    "examples": [
+      {
+        "ja": "公園で走る。",
+        "romaji": "Kouen de hashiru.",
+        "zh": "在公园跑步。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "走らない",
+      "过去式": "走った"
+    }
+  },
+  {
+    "word": "泳ぐ",
+    "kana": "およぐ",
+    "romaji": "oyogu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "游泳"
+    ],
+    "examples": [
+      {
+        "ja": "海で泳ぐ。",
+        "romaji": "Umi de oyogu.",
+        "zh": "在海里游泳。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "泳がない",
+      "过去式": "泳いだ"
+    }
+  },
+  {
+    "word": "寝る",
+    "kana": "ねる",
+    "romaji": "neru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "睡觉"
+    ],
+    "examples": [
+      {
+        "ja": "早く寝る。",
+        "romaji": "Hayaku neru.",
+        "zh": "早点睡觉。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "寝ない",
+      "过去式": "寝た"
+    }
+  },
+  {
+    "word": "起きる",
+    "kana": "おきる",
+    "romaji": "okiru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "起床",
+      "发生"
+    ],
+    "examples": [
+      {
+        "ja": "朝6時に起きる。",
+        "romaji": "Asa rokuji ni okiru.",
+        "zh": "早上6点起床。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "起きない",
+      "过去式": "起きた"
+    }
+  },
+  {
+    "word": "働く",
+    "kana": "はたらく",
+    "romaji": "hataraku",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "工作"
+    ],
+    "examples": [
+      {
+        "ja": "会社で働く。",
+        "romaji": "Kaisha de hataraku.",
+        "zh": "在公司工作。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "働かない",
+      "过去式": "働いた"
+    }
+  },
+  {
+    "word": "勉強する",
+    "kana": "べんきょうする",
+    "romaji": "benkyou suru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "学习"
+    ],
+    "examples": [
+      {
+        "ja": "日本語を勉強する。",
+        "romaji": "Nihongo o benkyou suru.",
+        "zh": "学习日语。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "勉強しない",
+      "过去式": "勉強した"
+    }
+  },
+  {
+    "word": "教える",
+    "kana": "おしえる",
+    "romaji": "oshieru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "教",
+      "教导"
+    ],
+    "examples": [
+      {
+        "ja": "数学を教える。",
+        "romaji": "Suugaku o oshieru.",
+        "zh": "教数学。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "教えない",
+      "过去式": "教えた"
+    }
+  },
+  {
+    "word": "習う",
+    "kana": "ならう",
+    "romaji": "narau",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "学习",
+      "跟...学"
+    ],
+    "examples": [
+      {
+        "ja": "ピアノを習う。",
+        "romaji": "Piano o narau.",
+        "zh": "学习钢琴。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "習わない",
+      "过去式": "習った"
+    }
+  },
+  {
+    "word": "考える",
+    "kana": "かんがえる",
+    "romaji": "kangaeru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "思考",
+      "考虑"
+    ],
+    "examples": [
+      {
+        "ja": "問題を考える。",
+        "romaji": "Mondai o kangaeru.",
+        "zh": "思考问题。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "考えない",
+      "过去式": "考えた"
+    }
+  },
+  {
+    "word": "分かる",
+    "kana": "わかる",
+    "romaji": "wakaru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "明白",
+      "理解"
+    ],
+    "examples": [
+      {
+        "ja": "意味が分かる。",
+        "romaji": "Imi ga wakaru.",
+        "zh": "明白意思。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "分からない",
+      "过去式": "分かった"
+    }
+  },
+  {
+    "word": "知る",
+    "kana": "しる",
+    "romaji": "shiru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "知道",
+      "了解"
+    ],
+    "examples": [
+      {
+        "ja": "真相を知る。",
+        "romaji": "Shinsou o shiru.",
+        "zh": "知道真相。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "知らない",
+      "过去式": "知った"
+    }
+  },
+  {
+    "word": "会う",
+    "kana": "あう",
+    "romaji": "au",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "见面",
+      "遇见"
+    ],
+    "examples": [
+      {
+        "ja": "友達に会う。",
+        "romaji": "Tomodachi ni au.",
+        "zh": "见朋友。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "会わない",
+      "过去式": "会った"
+    }
+  },
+  {
+    "word": "待つ",
+    "kana": "まつ",
+    "romaji": "matsu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "等待"
+    ],
+    "examples": [
+      {
+        "ja": "バスを待つ。",
+        "romaji": "Basu o matsu.",
+        "zh": "等公交车。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "待たない",
+      "过去式": "待った"
+    }
+  },
+  {
+    "word": "立つ",
+    "kana": "たつ",
+    "romaji": "tatsu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "站立"
+    ],
+    "examples": [
+      {
+        "ja": "電車で立つ。",
+        "romaji": "Densha de tatsu.",
+        "zh": "在电车里站着。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "立たない",
+      "过去式": "立った"
+    }
+  },
+  {
+    "word": "座る",
+    "kana": "すわる",
+    "romaji": "suwaru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "坐"
+    ],
+    "examples": [
+      {
+        "ja": "椅子に座る。",
+        "romaji": "Isu ni suwaru.",
+        "zh": "坐在椅子上。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "座らない",
+      "过去式": "座った"
+    }
+  },
+  {
+    "word": "開ける",
+    "kana": "あける",
+    "romaji": "akeru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "打开"
+    ],
+    "examples": [
+      {
+        "ja": "窓を開ける。",
+        "romaji": "Mado o akeru.",
+        "zh": "打开窗户。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "開けない",
+      "过去式": "開けた"
+    }
+  },
+  {
+    "word": "閉める",
+    "kana": "しめる",
+    "romaji": "shimeru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "关闭"
+    ],
+    "examples": [
+      {
+        "ja": "ドアを閉める。",
+        "romaji": "Doa o shimeru.",
+        "zh": "关门。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "閉めない",
+      "过去式": "閉めた"
+    }
+  },
+  {
+    "word": "始める",
+    "kana": "はじめる",
+    "romaji": "hajimeru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "开始"
+    ],
+    "examples": [
+      {
+        "ja": "仕事を始める。",
+        "romaji": "Shigoto o hajimeru.",
+        "zh": "开始工作。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "始めない",
+      "过去式": "始めた"
+    }
+  },
+  {
+    "word": "終わる",
+    "kana": "おわる",
+    "romaji": "owaru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "结束"
+    ],
+    "examples": [
+      {
+        "ja": "授業が終わる。",
+        "romaji": "Jugyou ga owaru.",
+        "zh": "课程结束。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "終わらない",
+      "过去式": "終わった"
+    }
+  },
+  {
+    "word": "作る",
+    "kana": "つくる",
+    "romaji": "tsukuru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "制作",
+      "创造"
+    ],
+    "examples": [
+      {
+        "ja": "料理を作る。",
+        "romaji": "Ryouri o tsukuru.",
+        "zh": "做菜。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "作らない",
+      "过去式": "作った"
+    }
+  },
+  {
+    "word": "使う",
+    "kana": "つかう",
+    "romaji": "tsukau",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "使用"
+    ],
+    "examples": [
+      {
+        "ja": "パソコンを使う。",
+        "romaji": "Pasokon o tsukau.",
+        "zh": "使用电脑。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "使わない",
+      "过去式": "使った"
+    }
+  },
+  {
+    "word": "売る",
+    "kana": "うる",
+    "romaji": "uru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "卖",
+      "出售"
+    ],
+    "examples": [
+      {
+        "ja": "車を売る。",
+        "romaji": "Kuruma o uru.",
+        "zh": "卖车。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "売らない",
+      "过去式": "売った"
+    }
+  },
+  {
+    "word": "貸す",
+    "kana": "かす",
+    "romaji": "kasu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "借出",
+      "出租"
+    ],
+    "examples": [
+      {
+        "ja": "本を貸す。",
+        "romaji": "Hon o kasu.",
+        "zh": "借出书。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "貸さない",
+      "过去式": "貸した"
+    }
+  },
+  {
+    "word": "借りる",
+    "kana": "かりる",
+    "romaji": "kariru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "借入",
+      "借用"
+    ],
+    "examples": [
+      {
+        "ja": "お金を借りる。",
+        "romaji": "Okane o kariru.",
+        "zh": "借钱。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "借りない",
+      "过去式": "借りた"
+    }
+  },
+  {
+    "word": "返す",
+    "kana": "かえす",
+    "romaji": "kaesu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "归还",
+      "返还"
+    ],
+    "examples": [
+      {
+        "ja": "本を返す。",
+        "romaji": "Hon o kaesu.",
+        "zh": "还书。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "返さない",
+      "过去式": "返した"
+    }
+  },
+  {
+    "word": "送る",
+    "kana": "おくる",
+    "romaji": "okuru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "发送",
+      "寄送"
+    ],
+    "examples": [
+      {
+        "ja": "手紙を送る。",
+        "romaji": "Tegami o okuru.",
+        "zh": "寄信。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "送らない",
+      "过去式": "送った"
+    }
+  },
+  {
+    "word": "届ける",
+    "kana": "とどける",
+    "romaji": "todokeru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "送达",
+      "递交"
+    ],
+    "examples": [
+      {
+        "ja": "荷物を届ける。",
+        "romaji": "Nimotsu o todokeru.",
+        "zh": "送货。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "届けない",
+      "过去式": "届けた"
+    }
+  },
+  {
+    "word": "呼ぶ",
+    "kana": "よぶ",
+    "romaji": "yobu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "叫",
+      "呼唤"
+    ],
+    "examples": [
+      {
+        "ja": "名前を呼ぶ。",
+        "romaji": "Namae o yobu.",
+        "zh": "叫名字。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "呼ばない",
+      "过去式": "呼んだ"
+    }
+  },
+  {
+    "word": "答える",
+    "kana": "こたえる",
+    "romaji": "kotaeru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "回答"
+    ],
+    "examples": [
+      {
+        "ja": "質問に答える。",
+        "romaji": "Shitsumon ni kotaeru.",
+        "zh": "回答问题。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "答えない",
+      "过去式": "答えた"
+    }
+  },
+  {
+    "word": "聞こえる",
+    "kana": "きこえる",
+    "romaji": "kikoeru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "听得见"
+    ],
+    "examples": [
+      {
+        "ja": "音が聞こえる。",
+        "romaji": "Oto ga kikoeru.",
+        "zh": "听得见声音。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "聞こえない",
+      "过去式": "聞こえた"
+    }
+  },
+  {
+    "word": "見える",
+    "kana": "みえる",
+    "romaji": "mieru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "看得见"
+    ],
+    "examples": [
+      {
+        "ja": "山が見える。",
+        "romaji": "Yama ga mieru.",
+        "zh": "看得见山。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "見えない",
+      "过去式": "見えた"
+    }
+  },
+  {
+    "word": "着る",
+    "kana": "きる",
+    "romaji": "kiru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "穿（衣服）"
+    ],
+    "examples": [
+      {
+        "ja": "コートを着る。",
+        "romaji": "Kooto o kiru.",
+        "zh": "穿外套。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "着ない",
+      "过去式": "着た"
+    }
+  },
+  {
+    "word": "脱ぐ",
+    "kana": "ぬぐ",
+    "romaji": "nugu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "脱（衣服）"
+    ],
+    "examples": [
+      {
+        "ja": "靴を脱ぐ。",
+        "romaji": "Kutsu o nugu.",
+        "zh": "脱鞋。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "脱がない",
+      "过去式": "脱いだ"
+    }
+  },
+  {
+    "word": "洗う",
+    "kana": "あらう",
+    "romaji": "arau",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "洗"
+    ],
+    "examples": [
+      {
+        "ja": "手を洗う。",
+        "romaji": "Te o arau.",
+        "zh": "洗手。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "洗わない",
+      "过去式": "洗った"
+    }
+  },
+  {
+    "word": "掃除する",
+    "kana": "そうじする",
+    "romaji": "souji suru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "打扫"
+    ],
+    "examples": [
+      {
+        "ja": "部屋を掃除する。",
+        "romaji": "Heya o souji suru.",
+        "zh": "打扫房间。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "掃除しない",
+      "过去式": "掃除した"
+    }
+  },
+  {
+    "word": "片付ける",
+    "kana": "かたづける",
+    "romaji": "katazukeru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "整理",
+      "收拾"
+    ],
+    "examples": [
+      {
+        "ja": "机を片付ける。",
+        "romaji": "Tsukue o katazukeru.",
+        "zh": "整理桌子。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "片付けない",
+      "过去式": "片付けた"
+    }
+  },
+  {
+    "word": "遊ぶ",
+    "kana": "あそぶ",
+    "romaji": "asobu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "玩耍",
+      "游玩"
+    ],
+    "examples": [
+      {
+        "ja": "公園で遊ぶ。",
+        "romaji": "Kouen de asobu.",
+        "zh": "在公园玩耍。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "遊ばない",
+      "过去式": "遊んだ"
+    }
+  },
+  {
+    "word": "歌う",
+    "kana": "うたう",
+    "romaji": "utau",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "唱歌"
+    ],
+    "examples": [
+      {
+        "ja": "歌を歌う。",
+        "romaji": "Uta o utau.",
+        "zh": "唱歌。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "歌わない",
+      "过去式": "歌った"
+    }
+  },
+  {
+    "word": "踊る",
+    "kana": "おどる",
+    "romaji": "odoru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "跳舞"
+    ],
+    "examples": [
+      {
+        "ja": "音楽に合わせて踊る。",
+        "romaji": "Ongaku ni awasete odoru.",
+        "zh": "跟着音乐跳舞。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "踊らない",
+      "过去式": "踊った"
+    }
+  },
+  {
+    "word": "笑う",
+    "kana": "わらう",
+    "romaji": "warau",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "笑"
+    ],
+    "examples": [
+      {
+        "ja": "面白い話で笑う。",
+        "romaji": "Omoshiroi hanashi de warau.",
+        "zh": "因为有趣的故事而笑。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "笑わない",
+      "过去式": "笑った"
+    }
+  },
+  {
+    "word": "泣く",
+    "kana": "なく",
+    "romaji": "naku",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "哭"
+    ],
+    "examples": [
+      {
+        "ja": "悲しくて泣く。",
+        "romaji": "Kanashikute naku.",
+        "zh": "因为悲伤而哭。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "泣かない",
+      "过去式": "泣いた"
+    }
+  },
+  {
+    "word": "怒る",
+    "kana": "おこる",
+    "romaji": "okoru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "生气"
+    ],
+    "examples": [
+      {
+        "ja": "約束を破って怒る。",
+        "romaji": "Yakusoku o yabutte okoru.",
+        "zh": "因为毁约而生气。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "怒らない",
+      "过去式": "怒った"
+    }
+  },
+  {
+    "word": "驚く",
+    "kana": "おどろく",
+    "romaji": "odoroku",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "惊讶"
+    ],
+    "examples": [
+      {
+        "ja": "突然の音に驚く。",
+        "romaji": "Totsuzen no oto ni odoroku.",
+        "zh": "因为突然的声音而惊讶。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "驚かない",
+      "过去式": "驚いた"
+    }
+  },
+  {
+    "word": "疲れる",
+    "kana": "つかれる",
+    "romaji": "tsukareru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "疲倦"
+    ],
+    "examples": [
+      {
+        "ja": "仕事で疲れる。",
+        "romaji": "Shigoto de tsukareru.",
+        "zh": "因为工作而疲倦。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "疲れない",
+      "过去式": "疲れた"
+    }
+  },
+  {
+    "word": "休む",
+    "kana": "やすむ",
+    "romaji": "yasumu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "休息"
+    ],
+    "examples": [
+      {
+        "ja": "家で休む。",
+        "romaji": "Ie de yasumu.",
+        "zh": "在家休息。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "休まない",
+      "过去式": "休んだ"
+    }
+  },
+  {
+    "word": "覚える",
+    "kana": "おぼえる",
+    "romaji": "oboeru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "记住",
+      "记忆"
+    ],
+    "examples": [
+      {
+        "ja": "単語を覚える。",
+        "romaji": "Tango o oboeru.",
+        "zh": "记住单词。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "覚えない",
+      "过去式": "覚えた"
+    }
+  },
+  {
+    "word": "忘れる",
+    "kana": "わすれる",
+    "romaji": "wasureru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "忘记"
+    ],
+    "examples": [
+      {
+        "ja": "約束を忘れる。",
+        "romaji": "Yakusoku o wasureru.",
+        "zh": "忘记约定。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "忘れない",
+      "过去式": "忘れた"
+    }
+  },
+  {
+    "word": "決める",
+    "kana": "きめる",
+    "romaji": "kimeru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "决定"
+    ],
+    "examples": [
+      {
+        "ja": "計画を決める。",
+        "romaji": "Keikaku o kimeru.",
+        "zh": "决定计划。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "決めない",
+      "过去式": "決めた"
+    }
+  },
+  {
+    "word": "変える",
+    "kana": "かえる",
+    "romaji": "kaeru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "改变"
+    ],
+    "examples": [
+      {
+        "ja": "予定を変える。",
+        "romaji": "Yotei o kaeru.",
+        "zh": "改变计划。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "変えない",
+      "过去式": "変えた"
+    }
+  },
+  {
+    "word": "比べる",
+    "kana": "くらべる",
+    "romaji": "kuraberu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "比较"
+    ],
+    "examples": [
+      {
+        "ja": "二つを比べる。",
+        "romaji": "Futatsu o kuraberu.",
+        "zh": "比较两个。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "比べない",
+      "过去式": "比べた"
+    }
+  },
+  {
+    "word": "選ぶ",
+    "kana": "えらぶ",
+    "romaji": "erabu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "选择"
+    ],
+    "examples": [
+      {
+        "ja": "好きな色を選ぶ。",
+        "romaji": "Suki na iro o erabu.",
+        "zh": "选择喜欢的颜色。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "選ばない",
+      "过去式": "選んだ"
+    }
+  },
+  {
+    "word": "探す",
+    "kana": "さがす",
+    "romaji": "sagasu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "寻找"
+    ],
+    "examples": [
+      {
+        "ja": "鍵を探す。",
+        "romaji": "Kagi o sagasu.",
+        "zh": "找钥匙。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "探さない",
+      "过去式": "探した"
+    }
+  },
+  {
+    "word": "見つける",
+    "kana": "みつける",
+    "romaji": "mitsukeru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "发现",
+      "找到"
+    ],
+    "examples": [
+      {
+        "ja": "答えを見つける。",
+        "romaji": "Kotae o mitsukeru.",
+        "zh": "找到答案。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "見つけない",
+      "过去式": "見つけた"
+    }
+  },
+  {
+    "word": "取る",
+    "kana": "とる",
+    "romaji": "toru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "拿",
+      "取"
+    ],
+    "examples": [
+      {
+        "ja": "本を取る。",
+        "romaji": "Hon o toru.",
+        "zh": "拿书。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "取らない",
+      "过去式": "取った"
+    }
+  },
+  {
+    "word": "置く",
+    "kana": "おく",
+    "romaji": "oku",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "放置"
+    ],
+    "examples": [
+      {
+        "ja": "机の上に置く。",
+        "romaji": "Tsukue no ue ni oku.",
+        "zh": "放在桌子上。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "置かない",
+      "过去式": "置いた"
+    }
+  },
+  {
+    "word": "持つ",
+    "kana": "もつ",
+    "romaji": "motsu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "持有",
+      "拿"
+    ],
+    "examples": [
+      {
+        "ja": "荷物を持つ。",
+        "romaji": "Nimotsu o motsu.",
+        "zh": "拿行李。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "持たない",
+      "过去式": "持った"
+    }
+  },
+  {
+    "word": "運ぶ",
+    "kana": "はこぶ",
+    "romaji": "hakobu",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "搬运"
+    ],
+    "examples": [
+      {
+        "ja": "箱を運ぶ。",
+        "romaji": "Hako o hakobu.",
+        "zh": "搬运箱子。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "運ばない",
+      "过去式": "運んだ"
+    }
+  },
+  {
+    "word": "上げる",
+    "kana": "あげる",
+    "romaji": "ageru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "举起",
+      "提高"
+    ],
+    "examples": [
+      {
+        "ja": "手を上げる。",
+        "romaji": "Te o ageru.",
+        "zh": "举手。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "上げない",
+      "过去式": "上げた"
+    }
+  },
+  {
+    "word": "下げる",
+    "kana": "さげる",
+    "romaji": "sageru",
+    "type": "动词",
+    "tags": [
+      "常用"
+    ],
+    "meanings": [
+      "降低",
+      "放下"
+    ],
+    "examples": [
+      {
+        "ja": "温度を下げる。",
+        "romaji": "Ondo o sageru.",
+        "zh": "降低温度。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "下げない",
+      "过去式": "下げた"
+    }
+  },
+  {
+    "word": "消す",
+    "kana": "けす",
+    "romaji": "kesu",
+    "type": "动词",
+    "tags": ["常用"],
+    "meanings": ["关闭", "熄灭"],
+    "examples": [
+      {
+        "ja": "電気を消す。",
+        "romaji": "Denki o kesu.",
+        "zh": "关灯。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "消さない",
+      "过去式": "消した"
+    }
+  },
+  {
+    "word": "光る",
+    "kana": "ひかる",
+    "romaji": "hikaru",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["发光"],
+    "examples": [
+      {
+        "ja": "星が光る。",
+        "romaji": "Hoshi ga hikaru.",
+        "zh": "星星发光。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "光らない",
+      "过去式": "光った"
+    }
+  },
+  {
+    "word": "壊す",
+    "kana": "こわす",
+    "romaji": "kowasu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["弄坏"],
+    "examples": [
+      {
+        "ja": "おもちゃを壊す。",
+        "romaji": "Omocha o kowasu.",
+        "zh": "弄坏玩具。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "壊さない",
+      "过去式": "壊した"
+    }
+  },
+  {
+    "word": "直す",
+    "kana": "なおす",
+    "romaji": "naosu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["修理"],
+    "examples": [
+      {
+        "ja": "時計を直す。",
+        "romaji": "Tokei o naosu.",
+        "zh": "修表。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "直さない",
+      "过去式": "直した"
+    }
+  },
+  {
+    "word": "折る",
+    "kana": "おる",
+    "romaji": "oru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["折断"],
+    "examples": [
+      {
+        "ja": "枝を折る。",
+        "romaji": "Eda o oru.",
+        "zh": "折断树枝。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "折らない",
+      "过去式": "折った"
+    }
+  },
+  {
+    "word": "曲げる",
+    "kana": "まげる",
+    "romaji": "mageru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["弯曲"],
+    "examples": [
+      {
+        "ja": "針金を曲げる。",
+        "romaji": "Harigane o mageru.",
+        "zh": "弯曲铁丝。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "曲げない",
+      "过去式": "曲げた"
+    }
+  },
+  {
+    "word": "切る",
+    "kana": "きる",
+    "romaji": "kiru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["切割"],
+    "examples": [
+      {
+        "ja": "紙を切る。",
+        "romaji": "Kami o kiru.",
+        "zh": "剪纸。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "切らない",
+      "过去式": "切った"
+    }
+  },
+  {
+    "word": "貼る",
+    "kana": "はる",
+    "romaji": "haru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["粘贴"],
+    "examples": [
+      {
+        "ja": "切手を貼る。",
+        "romaji": "Kitte o haru.",
+        "zh": "贴邮票。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "貼らない",
+      "过去式": "貼った"
+    }
+  },
+  {
+    "word": "包む",
+    "kana": "つつむ",
+    "romaji": "tsutsumu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["包裹"],
+    "examples": [
+      {
+        "ja": "プレゼントを包む。",
+        "romaji": "Purezento o tsutsumu.",
+        "zh": "包装礼物。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "包まない",
+      "过去式": "包んだ"
+    }
+  },
+  {
+    "word": "結ぶ",
+    "kana": "むすぶ",
+    "romaji": "musubu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["系", "连接"],
+    "examples": [
+      {
+        "ja": "靴紐を結ぶ。",
+        "romaji": "Kutsu himo o musubu.",
+        "zh": "系鞋带。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "結ばない",
+      "过去式": "結んだ"
+    }
+  },
+  {
+    "word": "解く",
+    "kana": "とく",
+    "romaji": "toku",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["解开"],
+    "examples": [
+      {
+        "ja": "謎を解く。",
+        "romaji": "Nazo o toku.",
+        "zh": "解谜。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "解かない",
+      "过去式": "解いた"
+    }
+  },
+  {
+    "word": "編む",
+    "kana": "あむ",
+    "romaji": "amu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["编织"],
+    "examples": [
+      {
+        "ja": "セーターを編む。",
+        "romaji": "Seetaa o amu.",
+        "zh": "织毛衣。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "編まない",
+      "过去式": "編んだ"
+    }
+  },
+  {
+    "word": "縫う",
+    "kana": "ぬう",
+    "romaji": "nuu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["缝纫"],
+    "examples": [
+      {
+        "ja": "ボタンを縫う。",
+        "romaji": "Botan o nuu.",
+        "zh": "缝扣子。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "縫わない",
+      "过去式": "縫った"
+    }
+  },
+  {
+    "word": "塗る",
+    "kana": "ぬる",
+    "romaji": "nuru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["涂抹"],
+    "examples": [
+      {
+        "ja": "ペンキを塗る。",
+        "romaji": "Penki o nuru.",
+        "zh": "刷油漆。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "塗らない",
+      "过去式": "塗った"
+    }
+  },
+  {
+    "word": "磨く",
+    "kana": "みがく",
+    "romaji": "migaku",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["擦亮"],
+    "examples": [
+      {
+        "ja": "靴を磨く。",
+        "romaji": "Kutsu o migaku.",
+        "zh": "擦鞋。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "磨かない",
+      "过去式": "磨いた"
+    }
+  },
+  {
+    "word": "拭く",
+    "kana": "ふく",
+    "romaji": "fuku",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["擦拭"],
+    "examples": [
+      {
+        "ja": "テーブルを拭く。",
+        "romaji": "Teeburu o fuku.",
+        "zh": "擦桌子。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "拭かない",
+      "过去式": "拭いた"
+    }
+  },
+  {
+    "word": "干す",
+    "kana": "ほす",
+    "romaji": "hosu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["晾晒"],
+    "examples": [
+      {
+        "ja": "洗濯物を干す。",
+        "romaji": "Sentakumono o hosu.",
+        "zh": "晾衣服。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "干さない",
+      "过去式": "干した"
+    }
+  },
+  {
+    "word": "沸かす",
+    "kana": "わかす",
+    "romaji": "wakasu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["烧开"],
+    "examples": [
+      {
+        "ja": "お湯を沸かす。",
+        "romaji": "Oyu o wakasu.",
+        "zh": "烧开水。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "沸かさない",
+      "过去式": "沸かした"
+    }
+  },
+  {
+    "word": "凍る",
+    "kana": "こおる",
+    "romaji": "kooru",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["结冰"],
+    "examples": [
+      {
+        "ja": "湖が凍る。",
+        "romaji": "Mizuumi ga kooru.",
+        "zh": "湖面结冰。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "凍らない",
+      "过去式": "凍った"
+    }
+  },
+  {
+    "word": "溶ける",
+    "kana": "とける",
+    "romaji": "tokeru",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["融化"],
+    "examples": [
+      {
+        "ja": "氷が溶ける。",
+        "romaji": "Koori ga tokeru.",
+        "zh": "冰融化。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "溶けない",
+      "过去式": "溶けた"
+    }
+  },
+  {
+    "word": "燃える",
+    "kana": "もえる",
+    "romaji": "moeru",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["燃烧"],
+    "examples": [
+      {
+        "ja": "紙が燃える。",
+        "romaji": "Kami ga moeru.",
+        "zh": "纸燃烧。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "燃えない",
+      "过去式": "燃えた"
+    }
+  },
+  {
+    "word": "流れる",
+    "kana": "ながれる",
+    "romaji": "nagareru",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["流动"],
+    "examples": [
+      {
+        "ja": "川が流れる。",
+        "romaji": "Kawa ga nagareru.",
+        "zh": "河流流动。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "流れない",
+      "过去式": "流れた"
+    }
+  },
+  {
+    "word": "溢れる",
+    "kana": "あふれる",
+    "romaji": "afureru",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["溢出"],
+    "examples": [
+      {
+        "ja": "水が溢れる。",
+        "romaji": "Mizu ga afureru.",
+        "zh": "水溢出。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "溢れない",
+      "过去式": "溢れた"
+    }
+  },
+  {
+    "word": "乾く",
+    "kana": "かわく",
+    "romaji": "kawaku",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["变干"],
+    "examples": [
+      {
+        "ja": "洗濯物が乾く。",
+        "romaji": "Sentakumono ga kawaku.",
+        "zh": "衣服干了。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "乾かない",
+      "过去式": "乾いた"
+    }
+  },
+  {
+    "word": "濡れる",
+    "kana": "ぬれる",
+    "romaji": "nureru",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["淋湿"],
+    "examples": [
+      {
+        "ja": "雨で服が濡れる。",
+        "romaji": "Ame de fuku ga nureru.",
+        "zh": "衣服被雨淋湿。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "濡れない",
+      "过去式": "濡れた"
+    }
+  },
+  {
+    "word": "汚れる",
+    "kana": "よごれる",
+    "romaji": "yogoreru",
+    "type": "动词",
+    "tags": ["状态"],
+    "meanings": ["弄脏"],
+    "examples": [
+      {
+        "ja": "手が汚れる。",
+        "romaji": "Te ga yogoreru.",
+        "zh": "手脏了。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "汚れない",
+      "过去式": "汚れた"
+    }
+  },
+  {
+    "word": "汚す",
+    "kana": "よごす",
+    "romaji": "yogosu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["弄脏"],
+    "examples": [
+      {
+        "ja": "服を汚す。",
+        "romaji": "Fuku o yogosu.",
+        "zh": "弄脏衣服。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "汚さない",
+      "过去式": "汚した"
+    }
+  },
+  {
+    "word": "破る",
+    "kana": "やぶる",
+    "romaji": "yaburu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["撕破"],
+    "examples": [
+      {
+        "ja": "紙を破る。",
+        "romaji": "Kami o yaburu.",
+        "zh": "撕纸。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "破らない",
+      "过去式": "破った"
+    }
+  },
+  {
+    "word": "割る",
+    "kana": "わる",
+    "romaji": "waru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["打碎"],
+    "examples": [
+      {
+        "ja": "コップを割る。",
+        "romaji": "Koppu o waru.",
+        "zh": "打碎杯子。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "割らない",
+      "过去式": "割った"
+    }
+  },
+  {
+    "word": "割れる",
+    "kana": "われる",
+    "romaji": "wareru",
+    "type": "动词",
+    "tags": ["状态"],
+    "meanings": ["破碎"],
+    "examples": [
+      {
+        "ja": "ガラスが割れる。",
+        "romaji": "Garasu ga wareru.",
+        "zh": "玻璃碎了。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "割れない",
+      "过去式": "割れた"
+    }
+  },
+  {
+    "word": "壊れる",
+    "kana": "こわれる",
+    "romaji": "kowareru",
+    "type": "动词",
+    "tags": ["状态"],
+    "meanings": ["坏掉"],
+    "examples": [
+      {
+        "ja": "テレビが壊れる。",
+        "romaji": "Terebi ga kowareru.",
+        "zh": "电视坏了。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "壊れない",
+      "过去式": "壊れた"
+    }
+  },
+  {
+    "word": "直る",
+    "kana": "なおる",
+    "romaji": "naoru",
+    "type": "动词",
+    "tags": ["状态"],
+    "meanings": ["修好"],
+    "examples": [
+      {
+        "ja": "故障が直る。",
+        "romaji": "Koshou ga naoru.",
+        "zh": "故障修好了。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "直らない",
+      "过去式": "直った"
+    }
+  },
+  {
+    "word": "治る",
+    "kana": "なおる",
+    "romaji": "naoru",
+    "type": "动词",
+    "tags": ["医疗"],
+    "meanings": ["痊愈"],
+    "examples": [
+      {
+        "ja": "病気が治る。",
+        "romaji": "Byouki ga naoru.",
+        "zh": "病好了。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "治らない",
+      "过去式": "治った"
+    }
+  },
+  {
+    "word": "治す",
+    "kana": "なおす",
+    "romaji": "naosu",
+    "type": "动词",
+    "tags": ["医疗"],
+    "meanings": ["治疗"],
+    "examples": [
+      {
+        "ja": "病気を治す。",
+        "romaji": "Byouki o naosu.",
+        "zh": "治病。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "治さない",
+      "过去式": "治した"
+    }
+  },
+  {
+    "word": "診る",
+    "kana": "みる",
+    "romaji": "miru",
+    "type": "动词",
+    "tags": ["医疗"],
+    "meanings": ["诊察"],
+    "examples": [
+      {
+        "ja": "患者を診る。",
+        "romaji": "Kanja o miru.",
+        "zh": "诊察病人。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "診ない",
+      "过去式": "診た"
+    }
+  },
+  {
+    "word": "測る",
+    "kana": "はかる",
+    "romaji": "hakaru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["测量"],
+    "examples": [
+      {
+        "ja": "体温を測る。",
+        "romaji": "Taion o hakaru.",
+        "zh": "量体温。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "測らない",
+      "过去式": "測った"
+    }
+  },
+  {
+    "word": "計る",
+    "kana": "はかる",
+    "romaji": "hakaru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["计量"],
+    "examples": [
+      {
+        "ja": "時間を計る。",
+        "romaji": "Jikan o hakaru.",
+        "zh": "计时。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "計らない",
+      "过去式": "計った"
+    }
+  },
+  {
+    "word": "量る",
+    "kana": "はかる",
+    "romaji": "hakaru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["称重"],
+    "examples": [
+      {
+        "ja": "体重を量る。",
+        "romaji": "Taijuu o hakaru.",
+        "zh": "称体重。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "量らない",
+      "过去式": "量った"
+    }
+  },
+  {
+    "word": "数える",
+    "kana": "かぞえる",
+    "romaji": "kazoeru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["数数"],
+    "examples": [
+      {
+        "ja": "人数を数える。",
+        "romaji": "Ninzuu o kazoeru.",
+        "zh": "数人数。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "数えない",
+      "过去式": "数えた"
+    }
+  },
+  {
+    "word": "計算する",
+    "kana": "けいさんする",
+    "romaji": "keisan suru",
+    "type": "动词",
+    "tags": ["学习"],
+    "meanings": ["计算"],
+    "examples": [
+      {
+        "ja": "数字を計算する。",
+        "romaji": "Suuji o keisan suru.",
+        "zh": "计算数字。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "計算しない",
+      "过去式": "計算した"
+    }
+  },
+  {
+    "word": "考える",
+    "kana": "かんがえる",
+    "romaji": "kangaeru",
+    "type": "动词",
+    "tags": ["思考"],
+    "meanings": ["思考"],
+    "examples": [
+      {
+        "ja": "問題を考える。",
+        "romaji": "Mondai o kangaeru.",
+        "zh": "思考问题。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "考えない",
+      "过去式": "考えた"
+    }
+  },
+  {
+    "word": "思う",
+    "kana": "おもう",
+    "romaji": "omou",
+    "type": "动词",
+    "tags": ["思考"],
+    "meanings": ["想"],
+    "examples": [
+      {
+        "ja": "故郷を思う。",
+        "romaji": "Kokyou o omou.",
+        "zh": "想念故乡。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "思わない",
+      "过去式": "思った"
+    }
+  },
+  {
+    "word": "信じる",
+    "kana": "しんじる",
+    "romaji": "shinjiru",
+    "type": "动词",
+    "tags": ["心理"],
+    "meanings": ["相信"],
+    "examples": [
+      {
+        "ja": "友達を信じる。",
+        "romaji": "Tomodachi o shinjiru.",
+        "zh": "相信朋友。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "信じない",
+      "过去式": "信じた"
+    }
+  },
+  {
+    "word": "疑う",
+    "kana": "うたがう",
+    "romaji": "utagau",
+    "type": "动词",
+    "tags": ["心理"],
+    "meanings": ["怀疑"],
+    "examples": [
+      {
+        "ja": "真実を疑う。",
+        "romaji": "Shinjitsu o utagau.",
+        "zh": "怀疑真相。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "疑わない",
+      "过去式": "疑った"
+    }
+  },
+  {
+    "word": "願う",
+    "kana": "ねがう",
+    "romaji": "negau",
+    "type": "动词",
+    "tags": ["心理"],
+    "meanings": ["希望"],
+    "examples": [
+      {
+        "ja": "成功を願う。",
+        "romaji": "Seikou o negau.",
+        "zh": "希望成功。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "願わない",
+      "过去式": "願った"
+    }
+  },
+  {
+    "word": "祈る",
+    "kana": "いのる",
+    "romaji": "inoru",
+    "type": "动词",
+    "tags": ["心理"],
+    "meanings": ["祈祷"],
+    "examples": [
+      {
+        "ja": "平和を祈る。",
+        "romaji": "Heiwa o inoru.",
+        "zh": "祈祷和平。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "祈らない",
+      "过去式": "祈った"
+    }
+  },
+  {
+    "word": "感謝する",
+    "kana": "かんしゃする",
+    "romaji": "kansha suru",
+    "type": "动词",
+    "tags": ["心理"],
+    "meanings": ["感谢"],
+    "examples": [
+      {
+        "ja": "親に感謝する。",
+        "romaji": "Oya ni kansha suru.",
+        "zh": "感谢父母。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "感謝しない",
+      "过去式": "感謝した"
+    }
+  },
+  {
+    "word": "謝る",
+    "kana": "あやまる",
+    "romaji": "ayamaru",
+    "type": "动词",
+    "tags": ["交际"],
+    "meanings": ["道歉"],
+    "examples": [
+      {
+        "ja": "誤りを謝る。",
+        "romaji": "Ayamari o ayamaru.",
+        "zh": "为错误道歉。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "謝らない",
+      "过去式": "謝った"
+    }
+  },
+  {
+    "word": "許す",
+    "kana": "ゆるす",
+    "romaji": "yurusu",
+    "type": "动词",
+    "tags": ["心理"],
+    "meanings": ["原谅"],
+    "examples": [
+      {
+        "ja": "過ちを許す。",
+        "romaji": "Ayamachi o yurusu.",
+        "zh": "原谅过错。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "許さない",
+      "过去式": "許した"
+    }
+  },
+  {
+    "word": "褒める",
+    "kana": "ほめる",
+    "romaji": "homeru",
+    "type": "动词",
+    "tags": ["交际"],
+    "meanings": ["表扬"],
+    "examples": [
+      {
+        "ja": "子供を褒める。",
+        "romaji": "Kodomo o homeru.",
+        "zh": "表扬孩子。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "褒めない",
+      "过去式": "褒めた"
+    }
+  },
+  {
+    "word": "叱る",
+    "kana": "しかる",
+    "romaji": "shikaru",
+    "type": "动词",
+    "tags": ["交际"],
+    "meanings": ["责备"],
+    "examples": [
+      {
+        "ja": "生徒を叱る。",
+        "romaji": "Seito o shikaru.",
+        "zh": "责备学生。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "叱らない",
+      "过去式": "叱った"
+    }
+  },
+  {
+    "word": "注意する",
+    "kana": "ちゅういする",
+    "romaji": "chuui suru",
+    "type": "动词",
+    "tags": ["交际"],
+    "meanings": ["提醒"],
+    "examples": [
+      {
+        "ja": "危険を注意する。",
+        "romaji": "Kiken o chuui suru.",
+        "zh": "提醒危险。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "注意しない",
+      "过去式": "注意した"
+    }
+  },
+  {
+    "word": "命令する",
+    "kana": "めいれいする",
+    "romaji": "meirei suru",
+    "type": "动词",
+    "tags": ["交际"],
+    "meanings": ["命令"],
+    "examples": [
+      {
+        "ja": "部下に命令する。",
+        "romaji": "Buka ni meirei suru.",
+        "zh": "命令下属。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "命令しない",
+      "过去式": "命令した"
+    }
+  },
+  {
+    "word": "頼む",
+    "kana": "たのむ",
+    "romaji": "tanomu",
+    "type": "动词",
+    "tags": ["交际"],
+    "meanings": ["请求"],
+    "examples": [
+      {
+        "ja": "助けを頼む。",
+        "romaji": "Tasuke o tanomu.",
+        "zh": "请求帮助。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "頼まない",
+      "过去式": "頼んだ"
+    }
+  },
+  {
+    "word": "断る",
+    "kana": "ことわる",
+    "romaji": "kotowaru",
+    "type": "动词",
+    "tags": ["交际"],
+    "meanings": ["拒绝"],
+    "examples": [
+      {
+        "ja": "申し出を断る。",
+        "romaji": "Moushide o kotowaru.",
+        "zh": "拒绝提议。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "断らない",
+      "过去式": "断った"
+    }
+  },
+  {
+    "word": "約束する",
+    "kana": "やくそくする",
+    "romaji": "yakusoku suru",
+    "type": "动词",
+    "tags": ["交际"],
+    "meanings": ["约定"],
+    "examples": [
+      {
+        "ja": "再会を約束する。",
+        "romaji": "Saikai o yakusoku suru.",
+        "zh": "约定再见。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "約束しない",
+      "过去式": "約束した"
+    }
+  },
+  {
+    "word": "守る",
+    "kana": "まもる",
+    "romaji": "mamoru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["遵守"],
+    "examples": [
+      {
+        "ja": "規則を守る。",
+        "romaji": "Kisoku o mamoru.",
+        "zh": "遵守规则。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "守らない",
+      "过去式": "守った"
+    }
+  },
+  {
+    "word": "破る",
+    "kana": "やぶる",
+    "romaji": "yaburu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["打破"],
+    "examples": [
+      {
+        "ja": "約束を破る。",
+        "romaji": "Yakusoku o yaburu.",
+        "zh": "打破约定。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "破らない",
+      "过去式": "破った"
+    }
+  },
+  {
+    "word": "勝つ",
+    "kana": "かつ",
+    "romaji": "katsu",
+    "type": "动词",
+    "tags": ["比赛"],
+    "meanings": ["获胜"],
+    "examples": [
+      {
+        "ja": "試合に勝つ。",
+        "romaji": "Shiai ni katsu.",
+        "zh": "比赛获胜。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "勝たない",
+      "过去式": "勝った"
+    }
+  },
+  {
+    "word": "負ける",
+    "kana": "まける",
+    "romaji": "makeru",
+    "type": "动词",
+    "tags": ["比赛"],
+    "meanings": ["输"],
+    "examples": [
+      {
+        "ja": "ゲームに負ける。",
+        "romaji": "Geemu ni makeru.",
+        "zh": "游戏输了。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "負けない",
+      "过去式": "負けた"
+    }
+  },
+  {
+    "word": "戦う",
+    "kana": "たたかう",
+    "romaji": "tatakau",
+    "type": "动词",
+    "tags": ["比赛"],
+    "meanings": ["战斗"],
+    "examples": [
+      {
+        "ja": "敵と戦う。",
+        "romaji": "Teki to tatakau.",
+        "zh": "与敌人战斗。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "戦わない",
+      "过去式": "戦った"
+    }
+  },
+  {
+    "word": "助ける",
+    "kana": "たすける",
+    "romaji": "tasukeru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["帮助"],
+    "examples": [
+      {
+        "ja": "人を助ける。",
+        "romaji": "Hito o tasukeru.",
+        "zh": "帮助人。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "助けない",
+      "过去式": "助けた"
+    }
+  },
+  {
+    "word": "救う",
+    "kana": "すくう",
+    "romaji": "sukuu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["拯救"],
+    "examples": [
+      {
+        "ja": "命を救う。",
+        "romaji": "Inochi o sukuu.",
+        "zh": "拯救生命。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "救わない",
+      "过去式": "救った"
+    }
+  },
+  {
+    "word": "保護する",
+    "kana": "ほごする",
+    "romaji": "hogo suru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["保护"],
+    "examples": [
+      {
+        "ja": "自然を保護する。",
+        "romaji": "Shizen o hogo suru.",
+        "zh": "保护自然。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "保護しない",
+      "过去式": "保護した"
+    }
+  },
+  {
+    "word": "輝く",
+    "kana": "かがやく",
+    "romaji": "kagayaku",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["闪耀"],
+    "examples": [
+      {
+        "ja": "星が輝く。",
+        "romaji": "Hoshi ga kagayaku.",
+        "zh": "星星闪耀。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "輝かない",
+      "过去式": "輝いた"
+    }
+  },
+  {
+    "word": "揺れる",
+    "kana": "ゆれる",
+    "romaji": "yureru",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["摇晃"],
+    "examples": [
+      {
+        "ja": "木の葉が揺れる。",
+        "romaji": "Konoha ga yureru.",
+        "zh": "树叶摇晃。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "揺れない",
+      "过去式": "揺れた"
+    }
+  },
+  {
+    "word": "沈む",
+    "kana": "しずむ",
+    "romaji": "shizumu",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["下沉"],
+    "examples": [
+      {
+        "ja": "太陽が沈む。",
+        "romaji": "Taiyou ga shizumu.",
+        "zh": "太阳西沉。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "沈まない",
+      "过去式": "沈んだ"
+    }
+  },
+  {
+    "word": "浮かぶ",
+    "kana": "うかぶ",
+    "romaji": "ukabu",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["漂浮"],
+    "examples": [
+      {
+        "ja": "雲が浮かぶ。",
+        "romaji": "Kumo ga ukabu.",
+        "zh": "云朵漂浮。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "浮かばない",
+      "过去式": "浮かんだ"
+    }
+  },
+  {
+    "word": "飛び散る",
+    "kana": "とびちる",
+    "romaji": "tobichiru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["飞溅"],
+    "examples": [
+      {
+        "ja": "水が飛び散る。",
+        "romaji": "Mizu ga tobichiru.",
+        "zh": "水花飞溅。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "飛び散らない",
+      "过去式": "飛び散った"
+    }
+  },
+  {
+    "word": "転がる",
+    "kana": "ころがる",
+    "romaji": "korogaru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["滚动"],
+    "examples": [
+      {
+        "ja": "ボールが転がる。",
+        "romaji": "Booru ga korogaru.",
+        "zh": "球滚动。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "転がらない",
+      "过去式": "転がった"
+    }
+  },
+  {
+    "word": "滑る",
+    "kana": "すべる",
+    "romaji": "suberu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["滑行"],
+    "examples": [
+      {
+        "ja": "氷の上を滑る。",
+        "romaji": "Koori no ue o suberu.",
+        "zh": "在冰上滑行。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "滑らない",
+      "过去式": "滑った"
+    }
+  },
+  {
+    "word": "転ぶ",
+    "kana": "ころぶ",
+    "romaji": "korobu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["跌倒"],
+    "examples": [
+      {
+        "ja": "道で転ぶ。",
+        "romaji": "Michi de korobu.",
+        "zh": "在路上跌倒。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "転ばない",
+      "过去式": "転んだ"
+    }
+  },
+  {
+    "word": "這う",
+    "kana": "はう",
+    "romaji": "hau",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["爬行"],
+    "examples": [
+      {
+        "ja": "赤ちゃんが這う。",
+        "romaji": "Akachan ga hau.",
+        "zh": "婴儿爬行。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "這わない",
+      "过去式": "這った"
+    }
+  },
+  {
+    "word": "登る",
+    "kana": "のぼる",
+    "romaji": "noboru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["攀登"],
+    "examples": [
+      {
+        "ja": "山に登る。",
+        "romaji": "Yama ni noboru.",
+        "zh": "登山。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "登らない",
+      "过去式": "登った"
+    }
+  },
+  {
+    "word": "降りる",
+    "kana": "おりる",
+    "romaji": "oriru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["下来"],
+    "examples": [
+      {
+        "ja": "階段を降りる。",
+        "romaji": "Kaidan o oriru.",
+        "zh": "下楼梯。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "降りない",
+      "过去式": "降りた"
+    }
+  },
+  {
+    "word": "飛び降りる",
+    "kana": "とびおりる",
+    "romaji": "tobioriru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["跳下"],
+    "examples": [
+      {
+        "ja": "壁から飛び降りる。",
+        "romaji": "Kabe kara tobioriru.",
+        "zh": "从墙上跳下。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "飛び降りない",
+      "过去式": "飛び降りた"
+    }
+  },
+  {
+    "word": "飛び込む",
+    "kana": "とびこむ",
+    "romaji": "tobikomu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["跳入"],
+    "examples": [
+      {
+        "ja": "プールに飛び込む。",
+        "romaji": "Puuru ni tobikomu.",
+        "zh": "跳入泳池。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "飛び込まない",
+      "过去式": "飛び込んだ"
+    }
+  },
+  {
+    "word": "潜る",
+    "kana": "もぐる",
+    "romaji": "moguru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["潜水"],
+    "examples": [
+      {
+        "ja": "海に潜る。",
+        "romaji": "Umi ni moguru.",
+        "zh": "潜入海中。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "潜らない",
+      "过去式": "潜った"
+    }
+  },
+  {
+    "word": "浮く",
+    "kana": "うく",
+    "romaji": "uku",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["浮起"],
+    "examples": [
+      {
+        "ja": "木が水に浮く。",
+        "romaji": "Ki ga mizu ni uku.",
+        "zh": "木头浮在水上。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "浮かない",
+      "过去式": "浮いた"
+    }
+  },
+  {
+    "word": "沈める",
+    "kana": "しずめる",
+    "romaji": "shizumeru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["使下沉"],
+    "examples": [
+      {
+        "ja": "船を沈める。",
+        "romaji": "Fune o shizumeru.",
+        "zh": "使船沉没。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "沈めない",
+      "过去式": "沈めた"
+    }
+  },
+  {
+    "word": "浮かべる",
+    "kana": "うかべる",
+    "romaji": "ukaberu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["使漂浮"],
+    "examples": [
+      {
+        "ja": "船を浮かべる。",
+        "romaji": "Fune o ukaberu.",
+        "zh": "使船浮起。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "浮かべない",
+      "过去式": "浮かべた"
+    }
+  },
+  {
+    "word": "漂う",
+    "kana": "ただよう",
+    "romaji": "tadayou",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["飘荡"],
+    "examples": [
+      {
+        "ja": "香りが漂う。",
+        "romaji": "Kaori ga tadayou.",
+        "zh": "香气飘荡。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "漂わない",
+      "过去式": "漂った"
+    }
+  },
+  {
+    "word": "舞う",
+    "kana": "まう",
+    "romaji": "mau",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["飞舞"],
+    "examples": [
+      {
+        "ja": "桜の花びらが舞う。",
+        "romaji": "Sakura no hanabira ga mau.",
+        "zh": "樱花花瓣飞舞。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "舞わない",
+      "过去式": "舞った"
+    }
+  },
+  {
+    "word": "散る",
+    "kana": "ちる",
+    "romaji": "chiru",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["凋零"],
+    "examples": [
+      {
+        "ja": "花が散る。",
+        "romaji": "Hana ga chiru.",
+        "zh": "花凋谢。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "散らない",
+      "过去式": "散った"
+    }
+  },
+  {
+    "word": "咲く",
+    "kana": "さく",
+    "romaji": "saku",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["开花"],
+    "examples": [
+      {
+        "ja": "桜が咲く。",
+        "romaji": "Sakura ga saku.",
+        "zh": "樱花开放。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "咲かない",
+      "过去式": "咲いた"
+    }
+  },
+  {
+    "word": "枯れる",
+    "kana": "かれる",
+    "romaji": "kareru",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["枯萎"],
+    "examples": [
+      {
+        "ja": "木が枯れる。",
+        "romaji": "Ki ga kareru.",
+        "zh": "树木枯萎。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "枯れない",
+      "过去式": "枯れた"
+    }
+  },
+  {
+    "word": "茂る",
+    "kana": "しげる",
+    "romaji": "shigeru",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["繁茂"],
+    "examples": [
+      {
+        "ja": "草が茂る。",
+        "romaji": "Kusa ga shigeru.",
+        "zh": "草木繁茂。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "茂らない",
+      "过去式": "茂った"
+    }
+  },
+  {
+    "word": "実る",
+    "kana": "みのる",
+    "romaji": "minoru",
+    "type": "动词",
+    "tags": ["自然"],
+    "meanings": ["结果实"],
+    "examples": [
+      {
+        "ja": "稲が実る。",
+        "romaji": "Ine ga minoru.",
+        "zh": "稻谷成熟。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "実らない",
+      "过去式": "実った"
+    }
+  },
+  {
+    "word": "耕す",
+    "kana": "たがやす",
+    "romaji": "tagayasu",
+    "type": "动词",
+    "tags": ["农业"],
+    "meanings": ["耕种"],
+    "examples": [
+      {
+        "ja": "畑を耕す。",
+        "romaji": "Hatake o tagayasu.",
+        "zh": "耕田。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "耕さない",
+      "过去式": "耕した"
+    }
+  },
+  {
+    "word": "植える",
+    "kana": "うえる",
+    "romaji": "ueru",
+    "type": "动词",
+    "tags": ["农业"],
+    "meanings": ["种植"],
+    "examples": [
+      {
+        "ja": "木を植える。",
+        "romaji": "Ki o ueru.",
+        "zh": "植树。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "植えない",
+      "过去式": "植えた"
+    }
+  },
+  {
+    "word": "刈る",
+    "kana": "かる",
+    "romaji": "karu",
+    "type": "动词",
+    "tags": ["农业"],
+    "meanings": ["收割"],
+    "examples": [
+      {
+        "ja": "稲を刈る。",
+        "romaji": "Ine o karu.",
+        "zh": "割稻。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "刈らない",
+      "过去式": "刈った"
+    }
+  },
+  {
+    "word": "撒く",
+    "kana": "まく",
+    "romaji": "maku",
+    "type": "动词",
+    "tags": ["农业"],
+    "meanings": ["播撒"],
+    "examples": [
+      {
+        "ja": "種を撒く。",
+        "romaji": "Tane o maku.",
+        "zh": "播种。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "撒かない",
+      "过去式": "撒いた"
+    }
+  },
+  {
+    "word": "育てる",
+    "kana": "そだてる",
+    "romaji": "sodateru",
+    "type": "动词",
+    "tags": ["农业"],
+    "meanings": ["培育"],
+    "examples": [
+      {
+        "ja": "野菜を育てる。",
+        "romaji": "Yasai o sodateru.",
+        "zh": "种植蔬菜。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "育てない",
+      "过去式": "育てた"
+    }
+  },
+  {
+    "word": "収穫する",
+    "kana": "しゅうかくする",
+    "romaji": "shuukaku suru",
+    "type": "动词",
+    "tags": ["农业"],
+    "meanings": ["收获"],
+    "examples": [
+      {
+        "ja": "米を収穫する。",
+        "romaji": "Kome o shuukaku suru.",
+        "zh": "收获稻米。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "収穫しない",
+      "过去式": "収穫した"
+    }
+  },
+  {
+    "word": "飼う",
+    "kana": "かう",
+    "romaji": "kau",
+    "type": "动词",
+    "tags": ["动物"],
+    "meanings": ["饲养"],
+    "examples": [
+      {
+        "ja": "犬を飼う。",
+        "romaji": "Inu o kau.",
+        "zh": "养狗。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "飼わない",
+      "过去式": "飼った"
+    }
+  },
+  {
+    "word": "吠える",
+    "kana": "ほえる",
+    "romaji": "hoeru",
+    "type": "动词",
+    "tags": ["动物"],
+    "meanings": ["吠叫"],
+    "examples": [
+      {
+        "ja": "犬が吠える。",
+        "romaji": "Inu ga hoeru.",
+        "zh": "狗吠叫。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "吠えない",
+      "过去式": "吠えた"
+    }
+  },
+  {
+    "word": "鳴く",
+    "kana": "なく",
+    "romaji": "naku",
+    "type": "动词",
+    "tags": ["动物"],
+    "meanings": ["鸣叫"],
+    "examples": [
+      {
+        "ja": "鳥が鳴く。",
+        "romaji": "Tori ga naku.",
+        "zh": "鸟鸣叫。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "鳴かない",
+      "过去式": "鳴いた"
+    }
+  },
+  {
+    "word": "孵る",
+    "kana": "かえる",
+    "romaji": "kaeru",
+    "type": "动词",
+    "tags": ["动物"],
+    "meanings": ["孵化"],
+    "examples": [
+      {
+        "ja": "卵が孵る。",
+        "romaji": "Tamago ga kaeru.",
+        "zh": "蛋孵化。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "孵らない",
+      "过去式": "孵った"
+    }
+  },
+  {
+    "word": "産む",
+    "kana": "うむ",
+    "romaji": "umu",
+    "type": "动词",
+    "tags": ["动物"],
+    "meanings": ["生产"],
+    "examples": [
+      {
+        "ja": "子猫を産む。",
+        "romaji": "Koneko o umu.",
+        "zh": "生小猫。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "産まない",
+      "过去式": "産んだ"
+    }
+  },
+  {
+    "word": "捕まえる",
+    "kana": "つかまえる",
+    "romaji": "tsukamaeru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["抓住"],
+    "examples": [
+      {
+        "ja": "虫を捕まえる。",
+        "romaji": "Mushi o tsukamaeru.",
+        "zh": "捉虫子。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "捕まえない",
+      "过去式": "捕まえた"
+    }
+  },
+  {
+    "word": "逃げる",
+    "kana": "にげる",
+    "romaji": "nigeru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["逃跑"],
+    "examples": [
+      {
+        "ja": "猫が逃げる。",
+        "romaji": "Neko ga nigeru.",
+        "zh": "猫逃跑。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "逃げない",
+      "过去式": "逃げた"
+    }
+  },
+  {
+    "word": "追いかける",
+    "kana": "おいかける",
+    "romaji": "oikakeru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["追赶"],
+    "examples": [
+      {
+        "ja": "犯人を追いかける。",
+        "romaji": "Hannin o oikakeru.",
+        "zh": "追赶犯人。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "追いかけない",
+      "过去式": "追いかけた"
+    }
+  },
+  {
+    "word": "捕らえる",
+    "kana": "とらえる",
+    "romaji": "toraeru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["捕捉"],
+    "examples": [
+      {
+        "ja": "獲物を捕らえる。",
+        "romaji": "Emono o toraeru.",
+        "zh": "捕捉猎物。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "捕らえない",
+      "过去式": "捕らえた"
+    }
+  },
+  {
+    "word": "放す",
+    "kana": "はなす",
+    "romaji": "hanasu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["放开"],
+    "examples": [
+      {
+        "ja": "鳥を放す。",
+        "romaji": "Tori o hanasu.",
+        "zh": "放鸟。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "放さない",
+      "过去式": "放した"
+    }
+  },
+  {
+    "word": "掴む",
+    "kana": "つかむ",
+    "romaji": "tsukamu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["抓住"],
+    "examples": [
+      {
+        "ja": "チャンスを掴む。",
+        "romaji": "Chansu o tsukamu.",
+        "zh": "抓住机会。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "掴まない",
+      "过去式": "掴んだ"
+    }
+  },
+  {
+    "word": "握る",
+    "kana": "にぎる",
+    "romaji": "nigiru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["握紧"],
+    "examples": [
+      {
+        "ja": "拳を握る。",
+        "romaji": "Kobushi o nigiru.",
+        "zh": "握拳。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "握らない",
+      "过去式": "握った"
+    }
+  },
+  {
+    "word": "放る",
+    "kana": "ほうる",
+    "romaji": "houru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["扔"],
+    "examples": [
+      {
+        "ja": "ボールを放る。",
+        "romaji": "Booru o houru.",
+        "zh": "扔球。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "放らない",
+      "过去式": "放った"
+    }
+  },
+  {
+    "word": "投げる",
+    "kana": "なげる",
+    "romaji": "nageru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["投掷"],
+    "examples": [
+      {
+        "ja": "石を投げる。",
+        "romaji": "Ishi o nageru.",
+        "zh": "扔石头。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "投げない",
+      "过去式": "投げた"
+    }
+  },
+  {
+    "word": "受ける",
+    "kana": "うける",
+    "romaji": "ukeru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["接受"],
+    "examples": [
+      {
+        "ja": "ボールを受ける。",
+        "romaji": "Booru o ukeru.",
+        "zh": "接球。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "受けない",
+      "过去式": "受けた"
+    }
+  },
+  {
+    "word": "避ける",
+    "kana": "よける",
+    "romaji": "yokeru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["躲避"],
+    "examples": [
+      {
+        "ja": "障害物を避ける。",
+        "romaji": "Shougaibutsu o yokeru.",
+        "zh": "躲避障碍物。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "避けない",
+      "过去式": "避けた"
+    }
+  },
+  {
+    "word": "防ぐ",
+    "kana": "ふせぐ",
+    "romaji": "fusegu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["防御"],
+    "examples": [
+      {
+        "ja": "攻撃を防ぐ。",
+        "romaji": "Kougeki o fusegu.",
+        "zh": "防御攻击。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "防がない",
+      "过去式": "防いだ"
+    }
+  },
+  {
+    "word": "守る",
+    "kana": "まもる",
+    "romaji": "mamoru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["保护"],
+    "examples": [
+      {
+        "ja": "城を守る。",
+        "romaji": "Shiro o mamoru.",
+        "zh": "守城。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "守らない",
+      "过去式": "守った"
+    }
+  },
+  {
+    "word": "攻める",
+    "kana": "せめる",
+    "romaji": "semeru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["进攻"],
+    "examples": [
+      {
+        "ja": "敵を攻める。",
+        "romaji": "Teki o semeru.",
+        "zh": "进攻敌人。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "攻めない",
+      "过去式": "攻めた"
+    }
+  },
+  {
+    "word": "戦う",
+    "kana": "たたかう",
+    "romaji": "tatakau",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["战斗"],
+    "examples": [
+      {
+        "ja": "敵と戦う。",
+        "romaji": "Teki to tatakau.",
+        "zh": "与敌人战斗。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "戦わない",
+      "过去式": "戦った"
+    }
+  },
+  {
+    "word": "負かす",
+    "kana": "まかす",
+    "romaji": "makasu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["打败"],
+    "examples": [
+      {
+        "ja": "相手を負かす。",
+        "romaji": "Aite o makasu.",
+        "zh": "打败对手。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "負かさない",
+      "过去式": "負かした"
+    }
+  },
+  {
+    "word": "勝つ",
+    "kana": "かつ",
+    "romaji": "katsu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["获胜"],
+    "examples": [
+      {
+        "ja": "試合に勝つ。",
+        "romaji": "Shiai ni katsu.",
+        "zh": "比赛获胜。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "勝たない",
+      "过去式": "勝った"
+    }
+  },
+  {
+    "word": "負ける",
+    "kana": "まける",
+    "romaji": "makeru",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["输"],
+    "examples": [
+      {
+        "ja": "ゲームに負ける。",
+        "romaji": "Geemu ni makeru.",
+        "zh": "游戏输了。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "負けない",
+      "过去式": "負けた"
+    }
+  },
+  {
+    "word": "引き分ける",
+    "kana": "ひきわける",
+    "romaji": "hikiwakeru",
+    "type": "动词",
+    "tags": ["比赛"],
+    "meanings": ["平局"],
+    "examples": [
+      {
+        "ja": "試合が引き分ける。",
+        "romaji": "Shiai ga hikiwakeru.",
+        "zh": "比赛平局。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "引き分けない",
+      "过去式": "引き分けた"
+    }
+  },
+  {
+    "word": "競う",
+    "kana": "きそう",
+    "romaji": "kisou",
+    "type": "动词",
+    "tags": ["比赛"],
+    "meanings": ["竞争"],
+    "examples": [
+      {
+        "ja": "速さを競う。",
+        "romaji": "Hayasa o kisou.",
+        "zh": "比速度。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "競わない",
+      "过去式": "競った"
+    }
+  },
+  {
+    "word": "比べる",
+    "kana": "くらべる",
+    "romaji": "kuraberu",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["比较"],
+    "examples": [
+      {
+        "ja": "高さを比べる。",
+        "romaji": "Takasa o kuraberu.",
+        "zh": "比高度。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "比べない",
+      "过去式": "比べた"
+    }
+  },
+  {
+    "word": "争う",
+    "kana": "あらそう",
+    "romaji": "arasou",
+    "type": "动词",
+    "tags": ["动作"],
+    "meanings": ["争夺"],
+    "examples": [
+      {
+        "ja": "優勝を争う。",
+        "romaji": "Yuushou o arasou.",
+        "zh": "争夺冠军。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "争わない",
+      "过去式": "争った"
+    }
+  },
+  {
+    "word": "譲る",
+    "kana": "ゆずる",
+    "romaji": "yuzuru",
+    "type": "动词",
+    "tags": ["交际"],
+    "meanings": ["让步"],
+    "examples": [
+      {
+        "ja": "席を譲る。",
+        "romaji": "Seki o yuzuru.",
+        "zh": "让座。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "譲らない",
+      "过去式": "譲った"
+    }
+  },
+  {
+    "word": "許す",
+    "kana": "ゆるす",
+    "romaji": "yurusu",
+    "type": "动词",
+    "tags": ["心理"],
+    "meanings": ["原谅"],
+    "examples": [
+      {
+        "ja": "過ちを許す。",
+        "romaji": "Ayamachi o yurusu.",
+        "zh": "原谅过错。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "許さない",
+      "过去式": "許した"
+    }
+  },
+  {
+    "word": "諦める",
+    "kana": "あきらめる",
+    "romaji": "akirameru",
+    "type": "动词",
+    "tags": ["心理"],
+    "meanings": ["放弃"],
+    "examples": [
+      {
+        "ja": "夢を諦める。",
+        "romaji": "Yume o akirameru.",
+        "zh": "放弃梦想。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "諦めない",
+      "过去式": "諦めた"
+    }
+  },
+  {
+    "word": "我慢する",
+    "kana": "がまんする",
+    "romaji": "gaman suru",
+    "type": "动词",
+    "tags": ["心理"],
+    "meanings": ["忍耐"],
+    "examples": [
+      {
+        "ja": "痛みを我慢する。",
+        "romaji": "Itami o gaman suru.",
+        "zh": "忍耐疼痛。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "我慢しない",
+      "过去式": "我慢した"
+    }
+  },
+  {
+    "word": "耐える",
+    "kana": "たえる",
+    "romaji": "taeru",
+    "type": "动词",
+    "tags": ["心理"],
+    "meanings": ["忍受"],
+    "examples": [
+      {
+        "ja": "苦しみに耐える。",
+        "romaji": "Kurushimi ni taeru.",
+        "zh": "忍受痛苦。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "耐えない",
+      "过去式": "耐えた"
+    }
+  },
+  {
+    "word": "憧れる",
+    "kana": "あこがれる",
+    "romaji": "akogareru",
+    "type": "动词",
+    "tags": ["心理"],
+    "meanings": ["向往"],
+    "examples": [
+      {
+        "ja": "海外に憧れる。",
+        "romaji": "Kaigai ni akogareru.",
+        "zh": "向往国外。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "憧れない",
+      "过去式": "憧れた"
+    }
+  }
+]
+
 

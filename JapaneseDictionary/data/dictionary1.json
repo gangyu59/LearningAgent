@@ -1,0 +1,21 @@
+[
+  {
+    "word": "食べる",
+    "kana": "たべる",
+    "romaji": "taberu",
+    "type": "动词",
+    "tags": ["常用", "基础"],
+    "meanings": ["吃", "进食"],
+    "examples": [
+      {
+        "ja": "私はリンゴを食べる。",
+        "romaji": "Watashi wa ringo o taberu.",
+        "zh": "我吃苹果。"
+      }
+    ],
+    "conjugations": {
+      "否定形": "食べない",
+      "过去式": "食べた"
+    }
+  }
+]
