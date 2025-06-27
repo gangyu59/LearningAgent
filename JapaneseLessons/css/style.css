@@ -1,1 +1,90 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
 
+header {
+  background-color: #f4f4f4;
+  padding: 10px;
+  text-align: center;
+}
+
+main {
+  display: flex;
+  height: calc(100vh - 60px);
+}
+
+aside {
+  width: 100px !important;
+  min-width: 100px !important;
+  max-width: 100px !important;
+  border-right: 1px solid #ddd;
+  background-color: #f9f9f9;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+
+aside h3 {
+  margin: 0;
+  padding: 10px;
+  background-color: #90ee90;
+}
+
+aside ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+aside li {
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+}
+
+aside li:hover {
+  background-color: #eee;
+}
+
+section#testDetails {
+  flex-grow: 1;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.toggle-options {
+  margin-bottom: 10px;
+}
+
+.lesson-block {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+.lesson-block h4 {
+  margin: 10px 0 5px;
+}
+
+.play-audio {
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 2px 6px;
+  font-size: 13px;
+}
+
+.play-audio:hover {
+  background-color: #ddd;
+}
+
+.translation {
+  color: #666;
+  font-style: italic;
+}
+
+.romaji {
+  color: #444;
+  font-family: "Hiragino Kaku Gothic Pro", sans-serif;
+}
