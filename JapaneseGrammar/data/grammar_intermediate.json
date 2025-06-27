@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "title": "～ている",
+    "description": "表示动作正在进行或状态持续",
+    "dialog": [
+      {"speaker": "A", "text": "今、電話をしています。", "romaji": "Ima, denwa o shiteimasu."},
+      {"speaker": "B", "text": "雨が降っています。", "romaji": "Ame ga futteimasu."},
+      {"speaker": "A", "text": "彼は3年間日本語を勉強しています。", "romaji": "Kare wa sannenkan nihongo o benkyou shiteimasu."},
+      {"speaker": "B", "text": "ドアが開いています。", "romaji": "Doa ga aiteimasu."},
+      {"speaker": "A", "text": "父は新聞を読んでいます。", "romaji": "Chichi wa shinbun o yondeimasu."}
+    ],
+    "translation": [
+      "现在正在打电话。",
+      "正在下雨。",
+      "他已经学了三年日语。",
+      "门开着。",
+      "父亲正在看报纸。"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "～たり～たりする",
+    "description": "列举多个动作或状态",
+    "dialog": [
+      {"speaker": "A", "text": "週末は映画を見たり、買い物をしたりします。", "romaji": "Shuumatsu wa eiga o mitari, kaimono o shitari shimasu."},
+      {"speaker": "B", "text": "このレストランの料理は辛かったり、甘かったりします。", "romaji": "Kono resutoran no ryouri wa karakattari, amakattari shimasu."},
+      {"speaker": "A", "text": "彼は立ったり座ったりしています。", "romaji": "Kare wa tattari suwattari shiteimasu."},
+      {"speaker": "B", "text": "天気は良かったり悪かったりです。", "romaji": "Tenki wa yokattari warukattari desu."},
+      {"speaker": "A", "text": "休みの日は寝たり、音楽を聞いたりします。", "romaji": "Yasumi no hi wa netari, ongaku o kiitari shimasu."}
+    ],
+    "translation": [
+      "周末会看电影、购物等。",
+      "这家餐厅的菜有的辣有的甜。",
+      "他一会儿站一会儿坐。",
+      "天气时好时坏。",
+      "休息日会睡觉、听音乐等。"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "～ながら",
+    "description": "表示同时进行两个动作",
+    "dialog": [
+      {"speaker": "A", "text": "音楽を聞きながら勉強します。", "romaji": "Ongaku o kinagara benkyou shimasu."},
+      {"speaker": "B", "text": "歩きながら電話をしています。", "romaji": "Arukinagara denwa o shiteimasu."},
+      {"speaker": "A", "text": "テレビを見ながら食事をします。", "romaji": "Terebi o minagara shokuji o shimasu."},
+      {"speaker": "B", "text": "泣きながら話していました。", "romaji": "Nakinagara hanashiteimashita."},
+      {"speaker": "A", "text": "考えながら書いています。", "romaji": "Kangaenagara kaiteimasu."}
+    ],
+    "translation": [
+      "边听音乐边学习。",
+      "边走边打电话。",
+      "边看电视边吃饭。",
+      "边哭边说着。",
+      "边思考边写着。"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "～ことがある",
+    "description": "表示有过某种经历",
+    "dialog": [
+      {"speaker": "A", "text": "日本へ行ったことがあります。", "romaji": "Nihon e itta koto ga arimasu."},
+      {"speaker": "B", "text": "この本を読んだことがありますか？", "romaji": "Kono hon o yonda koto ga arimasu ka?"},
+      {"speaker": "A", "text": "飛行機に乗ったことがありません。", "romaji": "Hikouki ni notta koto ga arimasen."},
+      {"speaker": "B", "text": "この曲を聞いたことがあります。", "romaji": "Kono kyoku o kiita koto ga arimasu."},
+      {"speaker": "A", "text": "富士山に登ったことがあります。", "romaji": "Fujisan ni nobotta koto ga arimasu."}
+    ],
+    "translation": [
+      "我去过日本。",
+      "你读过这本书吗？",
+      "我没坐过飞机。",
+      "我听过这首歌。",
+      "我爬过富士山。"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "～くなる / ～になる",
+    "description": "表示状态变化",
+    "dialog": [
+      {"speaker": "A", "text": "日本語が上手になりました。", "romaji": "Nihongo ga jouzu ni narimashita."},
+      {"speaker": "B", "text": "暗くなってきました。", "romaji": "Kuraku natte kimashita."},
+      {"speaker": "A", "text": "医者になりたいです。", "romaji": "Isha ni naritai desu."},
+      {"speaker": "B", "text": "寒くなりました。", "romaji": "Samuku narimashita."},
+      {"speaker": "A", "text": "静かになりました。", "romaji": "Shizuka ni narimashita."}
+    ],
+    "translation": [
+      "日语变好了。",
+      "天变黑了。",
+      "我想当医生。",
+      "天气变冷了。",
+      "变得安静了。"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "～すぎる",
+    "description": "表示程度过度",
+    "dialog": [
+      {"speaker": "A", "text": "このコーヒーは熱すぎます。", "romaji": "Kono koohii wa atsugimasu."},
+      {"speaker": "B", "text": "食べすぎました。", "romaji": "Tabesugimashita."},
+      {"speaker": "A", "text": "この問題は難しすぎます。", "romaji": "Kono mondai wa muzukashisugimasu."},
+      {"speaker": "B", "text": "働きすぎないでください。", "romaji": "Hatarakisuginaide kudasai."},
+      {"speaker": "A", "text": "この服は大きすぎます。", "romaji": "Kono fuku wa ookisugimasu."}
+    ],
+    "translation": [
+      "这咖啡太烫了。",
+      "吃太多了。",
+      "这个问题太难了。",
+      "请不要工作过度。",
+      "这件衣服太大了。"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "～ようと思う",
+    "description": "表达打算或意图",
+    "dialog": [
+      {"speaker": "A", "text": "来年、留学しようと思います。", "romaji": "Rainen, ryuugaku shiyou to omoimasu."},
+      {"speaker": "B", "text": "新しいパソコンを買おうと思っています。", "romaji": "Atarashii pasokon o kaou to omotteimasu."},
+      {"speaker": "A", "text": "日本語の勉強を続けようと思います。", "romaji": "Nihongo no benkyou o tsuzukeyou to omoimasu."},
+      {"speaker": "B", "text": "明日からジョギングを始めようと思っています。", "romaji": "Ashita kara jogingu o hajimeyou to omotteimasu."},
+      {"speaker": "A", "text": "来週、引っ越そうと思います。", "romaji": "Raishuu, hikkosou to omoimasu."}
+    ],
+    "translation": [
+      "我打算明年去留学。",
+      "我想买新电脑。",
+      "我打算继续学习日语。",
+      "我准备从明天开始慢跑。",
+      "我打算下周搬家。"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "～かもしれない",
+    "description": "表示不确定的推测",
+    "dialog": [
+      {"speaker": "A", "text": "明日は雨が降るかもしれません。", "romaji": "Ashita wa ame ga furu kamoshiremasen."},
+      {"speaker": "B", "text": "彼はもう家に帰ったかもしれません。", "romaji": "Kare wa mou ie ni kaetta kamoshiremasen."},
+      {"speaker": "A", "text": "このレストランは高いかもしれません。", "romaji": "Kono resutoran wa takai kamoshiremasen."},
+      {"speaker": "B", "text": "試験は難しかったかもしれません。", "romaji": "Shiken wa muzukashikatta kamoshiremasen."},
+      {"speaker": "A", "text": "道に迷ったかもしれません。", "romaji": "Michi ni mayotta kamoshiremasen."}
+    ],
+    "translation": [
+      "明天可能会下雨。",
+      "他可能已经回家了。",
+      "这家餐厅可能很贵。",
+      "考试可能很难。",
+      "我们可能迷路了。"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "～なければならない",
+    "description": "表示义务或必须",
+    "dialog": [
+      {"speaker": "A", "text": "宿題をしなければなりません。", "romaji": "Shukudai o shinakereba narimasen."},
+      {"speaker": "B", "text": "明日は早く起きなければなりません。", "romaji": "Ashita wa hayaku okinakereba narimasen."},
+      {"speaker": "A", "text": "薬を飲まなければなりません。", "romaji": "Kusuri o nomanakereba narimasen."},
+      {"speaker": "B", "text": "パスポートを持って行かなければなりません。", "romaji": "Pasupooto o motte ikanakereba narimasen."},
+      {"speaker": "A", "text": "毎日練習しなければなりません。", "romaji": "Mainichi renshuu shinakereba narimasen."}
+    ],
+    "translation": [
+      "必须做作业。",
+      "明天必须早起。",
+      "必须吃药。",
+      "必须带护照去。",
+      "必须每天练习。"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "～でしょう",
+    "description": "表示推测或确认",
+    "dialog": [
+      {"speaker": "A", "text": "明日は晴れるでしょう。", "romaji": "Ashita wa hareru deshou."},
+      {"speaker": "B", "text": "彼も来るでしょう。", "romaji": "Kare mo kuru deshou."},
+      {"speaker": "A", "text": "この問題は簡単でしょう？", "romaji": "Kono mondai wa kantan deshou?"},
+      {"speaker": "B", "text": "もう知っているでしょう。", "romaji": "Mou shitteiru deshou."},
+      {"speaker": "A", "text": "あの建物は駅でしょう。", "romaji": "Ano tatemono wa eki deshou."}
+    ],
+    "translation": [
+      "明天会晴天吧。",
+      "他也会来吧。",
+      "这个问题很简单吧？",
+      "你已经知道了吧。",
+      "那栋建筑是车站吧。"
+    ]
+  }
+]

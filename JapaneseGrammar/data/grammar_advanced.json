@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "title": "～わけではない",
+    "description": "表示并非完全如此，有例外情况",
+    "dialog": [
+      {"speaker": "A", "text": "お酒が嫌いなわけではないが、あまり飲まない。", "romaji": "Osake ga kirai na wake dewa nai ga, amari nomanai."},
+      {"speaker": "B", "text": "全てが間違いだったわけではない。", "romaji": "Subete ga machigai datta wake dewa nai."},
+      {"speaker": "A", "text": "彼の意見に反対なわけではないが、疑問がある。", "romaji": "Kare no iken ni hantai na wake dewa nai ga, gimon ga aru."},
+      {"speaker": "B", "text": "この料理がまずいわけではないが、特別おいしいとも言えない。", "romaji": "Kono ryouri ga mazui wake dewa nai ga, tokubetsu oishii to mo ienai."},
+      {"speaker": "A", "text": "行きたくないわけではないが、時間がない。", "romaji": "Ikitakunai wake dewa nai ga, jikan ga nai."}
+    ],
+    "translation": [
+      "并不是讨厌酒，只是不怎么喝。",
+      "并非全都是错的。",
+      "并不是反对他的意见，只是有疑问。",
+      "这道菜并非难吃，但也说不上特别美味。",
+      "并不是不想去，只是没时间。"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "～とは限らない",
+    "description": "表示不一定总是如此",
+    "dialog": [
+      {"speaker": "A", "text": "お金があれば幸せだとは限らない。", "romaji": "Okane ga areba shiawase da to wa kagiranai."},
+      {"speaker": "B", "text": "高いものが必ずしも良いとは限らない。", "romaji": "Takai mono ga kanarazu shimo yoi to wa kagiranai."},
+      {"speaker": "A", "text": "有名なレストランがいつも美味しいとは限らない。", "romaji": "Yuumei na resutoran ga itsumo oishii to wa kagiranai."},
+      {"speaker": "B", "text": "天気予報が当たるとは限らない。", "romaji": "Tenki yohou ga ataru to wa kagiranai."},
+      {"speaker": "A", "text": "経験者が上手だとは限らない。", "romaji": "Keikensha ga jouzu da to wa kagiranai."}
+    ],
+    "translation": [
+      "有钱不一定就幸福。",
+      "贵的东西不一定就好。",
+      "有名的餐厅不一定总是好吃。",
+      "天气预报不一定准确。",
+      "有经验的人不一定就擅长。"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "～ようにする",
+    "description": "表示努力或设法做到某事",
+    "dialog": [
+      {"speaker": "A", "text": "毎日運動するようにしています。", "romaji": "Mainichi undou suru you ni shiteimasu."},
+      {"speaker": "B", "text": "夜更かししないようにしています。", "romaji": "Yofukashi shinai you ni shiteimasu."},
+      {"speaker": "A", "text": "日本語で話すようにしています。", "romaji": "Nihongo de hanasu you ni shiteimasu."},
+      {"speaker": "B", "text": "週末はリラックスするようにしています。", "romaji": "Shuumatsu wa rirakkusu suru you ni shiteimasu."},
+      {"speaker": "A", "text": "甘いものを控えるようにしています。", "romaji": "Amai mono o hikaeru you ni shiteimasu."}
+    ],
+    "translation": [
+      "我尽量每天运动。",
+      "我尽量不熬夜。",
+      "我尽量用日语说话。",
+      "周末我尽量放松。",
+      "我尽量控制甜食。"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "～ことにする",
+    "description": "表示主观决定做某事",
+    "dialog": [
+      {"speaker": "A", "text": "来月からジムに通うことにしました。", "romaji": "Raigetsu kara jimu ni kayou koto ni shimashita."},
+      {"speaker": "B", "text": "今日はお酒を飲まないことにします。", "romaji": "Kyou wa osake o nomanai koto ni shimasu."},
+      {"speaker": "A", "text": "この仕事は引き受けることにしました。", "romaji": "Kono shigoto wa hikiukeru koto ni shimashita."},
+      {"speaker": "B", "text": "毎朝6時に起きることにしています。", "romaji": "Maiasa rokuji ni okiru koto ni shiteimasu."},
+      {"speaker": "A", "text": "健康のために自炊することにしました。", "romaji": "Kenkou no tame ni jisui suru koto ni shimashita."}
+    ],
+    "translation": [
+      "我决定从下个月开始去健身房。",
+      "今天我决定不喝酒。",
+      "我决定接受这份工作。",
+      "我坚持每天早上6点起床。",
+      "为了健康，我决定自己做饭。"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "～に違いない",
+    "description": "表示非常肯定的推测",
+    "dialog": [
+      {"speaker": "A", "text": "彼はもう知っているに違いない。", "romaji": "Kare wa mou shitteiru ni chigainai."},
+      {"speaker": "B", "text": "この絵は本物に違いない。", "romaji": "Kono e wa honmono ni chigainai."},
+      {"speaker": "A", "text": "明日は雨が降るに違いない。", "romaji": "Ashita wa ame ga furu ni chigainai."},
+      {"speaker": "B", "text": "彼女はきっと成功するに違いない。", "romaji": "Kanojo wa kitto seikou suru ni chigainai."},
+      {"speaker": "A", "text": "あの音は猫に違いない。", "romaji": "Ano oto wa neko ni chigainai."}
+    ],
+    "translation": [
+      "他肯定已经知道了。",
+      "这幅画一定是真品。",
+      "明天肯定会下雨。",
+      "她一定会成功。",
+      "那个声音肯定是猫。"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "～ものの",
+    "description": "表示虽然...但是...（转折）",
+    "dialog": [
+      {"speaker": "A", "text": "免許は取れたものの、まだ運転に自信がない。", "romaji": "Menkyo wa toreta mono no, mada unten ni jishin ga nai."},
+      {"speaker": "B", "text": "招待状は送ったものの、返事は来ていない。", "romaji": "Shoutaijou wa okutta mono no, henji wa kiteinai."},
+      {"speaker": "A", "text": "新しいパソコンを買ったものの、使い方がわからない。", "romaji": "Atarashii pasokon o katta mono no, tsukaikata ga wakaranai."},
+      {"speaker": "B", "text": "ダイエットを始めたものの、続かない。", "romaji": "Daietto o hajimeta mono no, tsuzukanai."},
+      {"speaker": "A", "text": "約束はしたものの、行けるかどうかわからない。", "romaji": "Yakusoku wa shita mono no, ikeru ka dou ka wakaranai."}
+    ],
+    "translation": [
+      "虽然考到了驾照，但对驾驶还没信心。",
+      "虽然发了邀请函，但还没收到回复。",
+      "虽然买了新电脑，但不知道怎么用。",
+      "虽然开始减肥了，但坚持不下去。",
+      "虽然约好了，但不知道能不能去。"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "～せいで / ～おかげで",
+    "description": "表示原因（负面/正面）",
+    "dialog": [
+      {"speaker": "A", "text": "雨のせいで試合が中止になった。", "romaji": "Ame no sei de shiai ga chuushi ni natta."},
+      {"speaker": "B", "text": "先生のおかげで日本語が上手になった。", "romaji": "Sensei no okage de nihongo ga jouzu ni natta."},
+      {"speaker": "A", "text": "寝坊したせいで電車に乗り遅れた。", "romaji": "Nebou shita sei de densha ni noriokureta."},
+      {"speaker": "B", "text": "この薬のおかげで痛みが治まった。", "romaji": "Kono kusuri no okage de itami ga osamatta."},
+      {"speaker": "A", "text": "騒音のせいで集中できない。", "romaji": "Souon no sei de shuuchuu dekinai."}
+    ],
+    "translation": [
+      "因为下雨，比赛取消了。",
+      "多亏老师，日语变好了。",
+      "因为睡过头，没赶上电车。",
+      "多亏这个药，疼痛缓解了。",
+      "因为噪音，无法集中注意力。"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "～ほど～ない",
+    "description": "表示比较（没有那么...）",
+    "dialog": [
+      {"speaker": "A", "text": "思っていたほど難しくなかった。", "romaji": "Omotte ita hodo muzukashiku nakatta."},
+      {"speaker": "B", "text": "この店は評判ほど美味しくない。", "romaji": "Kono mise wa hyouban hodo oishiku nai."},
+      {"speaker": "A", "text": "彼は見た目ほど強くない。", "romaji": "Kare wa mitame hodo tsuyoku nai."},
+      {"speaker": "B", "text": "試験は心配したほどではなかった。", "romaji": "Shiken wa shinpai shita hodo dewa nakatta."},
+      {"speaker": "A", "text": "この仕事は想像ほど大変じゃない。", "romaji": "Kono shigoto wa souzou hodo taihen janai."}
+    ],
+    "translation": [
+      "没有想象的那么难。",
+      "这家店没有传闻中那么好吃。",
+      "他没有看起来那么强。",
+      "考试没有担心的那么难。",
+      "这份工作没有想象的那么辛苦。"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "～ことは～が",
+    "description": "表示虽然...但是...（承认事实但转折）",
+    "dialog": [
+      {"speaker": "A", "text": "行くことは行くが、すぐ帰る。", "romaji": "Iku koto wa iku ga, sugu kaeru."},
+      {"speaker": "B", "text": "読んだことは読んだが、内容は覚えていない。", "romaji": "Yonda koto wa yonda ga, naiyou wa oboeteinai."},
+      {"speaker": "A", "text": "美味しいことは美味しいが、値段が高い。", "romaji": "Oishii koto wa oishii ga, nedan ga takai."},
+      {"speaker": "B", "text": "会ったことは会ったが、あまり話さなかった。", "romaji": "Atta koto wa atta ga, amari hanasanakatta."},
+      {"speaker": "A", "text": "知っていることは知っているが、教えられない。", "romaji": "Shitteiru koto wa shitteiru ga, oshierarenai."}
+    ],
+    "translation": [
+      "去是会去，但马上回来。",
+      "读是读过，但不记得内容了。",
+      "好吃是好吃，但价格贵。",
+      "见是见过，但没怎么说话。",
+      "知道是知道，但不能告诉你。"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "～にしては",
+    "description": "表示与预期不符的结果",
+    "dialog": [
+      {"speaker": "A", "text": "子供にしては難しい言葉を使う。", "romaji": "Kodomo ni shite wa muzukashii kotoba o tsukau."},
+      {"speaker": "B", "text": "初心者にしては上手に泳げる。", "romaji": "Shoshinsha ni shite wa jouzu ni oyogeru."},
+      {"speaker": "A", "text": "この値段にしては品質が良い。", "romaji": "Kono nedan ni shite wa hinshitsu ga yoi."},
+      {"speaker": "B", "text": "忙しいにしてはよく電話してくる。", "romaji": "Isogashii ni shite wa yoku denwa shite kuru."},
+      {"speaker": "A", "text": "夏にしては涼しい日が続いている。", "romaji": "Natsu ni shite wa suzushii hi ga tsuzuiteiru."}
+    ],
+    "translation": [
+      "作为孩子来说用词很难。",
+      "作为初学者来说游得很好。",
+      "以这个价格来说质量很好。",
+      "明明很忙却经常打电话来。",
+      "对于夏天来说持续着凉爽的天气。"
+    ]
+  }
+]

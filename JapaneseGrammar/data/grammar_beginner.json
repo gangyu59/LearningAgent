@@ -1,1 +1,382 @@
-
+[
+  {
+    "id": 1,
+    "title": "は vs が",
+    "description": "表示主题（は）和主语（が）的区别",
+    "dialog": [
+      { "speaker": "A", "text": "私は学生です。", "romaji": "Watashi wa gakusei desu." },
+      { "speaker": "A", "text": "彼が先生です。", "romaji": "Kare ga sensei desu." },
+      { "speaker": "A", "text": "この人は田中さんです。", "romaji": "Kono hito wa Tanaka-san desu." },
+      { "speaker": "A", "text": "田中さんが来ました。", "romaji": "Tanaka-san ga kimashita." },
+      { "speaker": "A", "text": "犬は好きですが、猫が好きです。", "romaji": "Inu wa suki desu ga, neko ga suki desu." }
+    ],
+    "translation": [
+      "我是学生。",
+      "他是老师。",
+      "这个人是田中先生。",
+      "田中先生来了。",
+      "我喜欢狗，但更喜欢猫。"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "の（所属）",
+    "description": "表示所属关系，如“谁的东西”",
+    "dialog": [
+      { "speaker": "A", "text": "これは私の本です。", "romaji": "Kore wa watashi no hon desu." },
+      { "speaker": "A", "text": "山田さんの車は新しいです。", "romaji": "Yamada-san no kuruma wa atarashii desu." },
+      { "speaker": "A", "text": "これは日本語の辞書です。", "romaji": "Kore wa Nihongo no jisho desu." },
+      { "speaker": "A", "text": "先生の名前は何ですか？", "romaji": "Sensei no namae wa nan desu ka?" },
+      { "speaker": "A", "text": "彼の意見は面白いです。", "romaji": "Kare no iken wa omoshiroi desu." }
+    ],
+    "translation": [
+      "这是我的书。",
+      "山田的车是新的。",
+      "这是日语词典。",
+      "老师叫什么名字？",
+      "他的意见很有趣。"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "も（也）",
+    "description": "表示也的意思，类似“我也是”",
+    "dialog": [
+      { "speaker": "A", "text": "私も学生です。", "romaji": "Watashi mo gakusei desu." },
+      { "speaker": "A", "text": "彼も行きます。", "romaji": "Kare mo ikimasu." },
+      { "speaker": "A", "text": "水も飲みます。", "romaji": "Mizu mo nomimasu." },
+      { "speaker": "A", "text": "映画も見ました。", "romaji": "Eiga mo mimashita." },
+      { "speaker": "A", "text": "英語も勉強しています。", "romaji": "Eigo mo benkyou shiteimasu." }
+    ],
+    "translation": [
+      "我也是学生。",
+      "他也去。",
+      "也喝水。",
+      "也看了电影。",
+      "我也在学英语。"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "を（宾语助词）",
+    "description": "表示动作的对象，放在宾语之后",
+    "dialog": [
+      { "speaker": "A", "text": "パンを食べます。", "romaji": "Pan o tabemasu." },
+      { "speaker": "A", "text": "新聞を読みます。", "romaji": "Shinbun o yomimasu." },
+      { "speaker": "A", "text": "テレビを見ます。", "romaji": "Terebi o mimasu." },
+      { "speaker": "A", "text": "コーヒーを飲みます。", "romaji": "Koohii o nomimasu." },
+      { "speaker": "A", "text": "音楽を聞きます。", "romaji": "Ongaku o kikimasu." }
+    ],
+    "translation": [
+      "吃面包。",
+      "看报纸。",
+      "看电视。",
+      "喝咖啡。",
+      "听音乐。"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "に / へ（方向）",
+    "description": "表示动作的方向或目标",
+    "dialog": [
+      { "speaker": "A", "text": "学校に行きます。", "romaji": "Gakkou ni ikimasu." },
+      { "speaker": "A", "text": "東京へ行きます。", "romaji": "Toukyou e ikimasu." },
+      { "speaker": "A", "text": "友達の家に来ました。", "romaji": "Tomodachi no ie ni kimashita." },
+      { "speaker": "A", "text": "店に入りました。", "romaji": "Mise ni hairimashita." },
+      { "speaker": "A", "text": "バス停へ走ります。", "romaji": "Basutei e hashirimasu." }
+    ],
+    "translation": [
+      "去学校。",
+      "去东京。",
+      "来了朋友家。",
+      "进了店里。",
+      "跑向公交站。"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "で（场所）",
+    "description": "表示动作发生的场所",
+    "dialog": [
+      { "speaker": "A", "text": "図書館で勉強します。", "romaji": "Toshokan de benkyou shimasu." },
+      { "speaker": "A", "text": "レストランで食事をします。", "romaji": "Resutoran de shokuji o shimasu." },
+      { "speaker": "A", "text": "公園で遊びます。", "romaji": "Kouen de asobimasu." },
+      { "speaker": "A", "text": "駅で友達と会います。", "romaji": "Eki de tomodachi to aimasu." },
+      { "speaker": "A", "text": "スーパーで買い物をします。", "romaji": "Suupaa de kaimono o shimasu." }
+    ],
+    "translation": [
+      "在图书馆学习。",
+      "在餐厅吃饭。",
+      "在公园玩耍。",
+      "在车站见朋友。",
+      "在超市购物。"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "动词ます形",
+    "description": "动词的礼貌形式",
+    "dialog": [
+      { "speaker": "A", "text": "私は毎日歩きます。", "romaji": "Watashi wa mainichi arukimasu." },
+      { "speaker": "A", "text": "本を読みます。", "romaji": "Hon o yomimasu." },
+      { "speaker": "A", "text": "テレビを見ます。", "romaji": "Terebi o mimasu." },
+      { "speaker": "A", "text": "6時に起きます。", "romaji": "Rokuji ni okimasu." },
+      { "speaker": "A", "text": "日本語を勉強します。", "romaji": "Nihongo o benkyou shimasu." }
+    ],
+    "translation": [
+      "我每天走路。",
+      "读书。",
+      "看电视。",
+      "6点起床。",
+      "学习日语。"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "～たい",
+    "description": "表示想做某事",
+    "dialog": [
+      { "speaker": "A", "text": "水が飲みたいです。", "romaji": "Mizu ga nomitai desu." },
+      { "speaker": "A", "text": "日本へ行きたいです。", "romaji": "Nihon e ikitai desu." },
+      { "speaker": "A", "text": "映画が見たいです。", "romaji": "Eiga ga mitai desu." },
+      { "speaker": "A", "text": "ピザが食べたいです。", "romaji": "Piza ga tabetai desu." },
+      { "speaker": "A", "text": "新しい車が買いたいです。", "romaji": "Atarashii kuruma ga kaitai desu." }
+    ],
+    "translation": [
+      "想喝水。",
+      "想去日本。",
+      "想看电影。",
+      "想吃披萨。",
+      "想买新车。"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "～ませんか",
+    "description": "表示邀请",
+    "dialog": [
+      { "speaker": "A", "text": "一緒に食事しませんか？", "romaji": "Issho ni shokuji shimasen ka?" },
+      { "speaker": "A", "text": "映画を見に行きませんか？", "romaji": "Eiga o mi ni ikimasen ka?" },
+      { "speaker": "A", "text": "コーヒーを飲みませんか？", "romaji": "Koohii o nomimasen ka?" },
+      { "speaker": "A", "text": "公園を散歩しませんか？", "romaji": "Kouen o sanpo shimasen ka?" },
+      { "speaker": "A", "text": "週末、遊びに行きませんか？", "romaji": "Shuumatsu, asobi ni ikimasen ka?" }
+    ],
+    "translation": [
+      "要一起吃饭吗？",
+      "要去看电影吗？",
+      "要喝咖啡吗？",
+      "要在公园散步吗？",
+      "周末要去玩吗？"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "～ましょう",
+    "description": "表示一起做某事",
+    "dialog": [
+      { "speaker": "A", "text": "一緒に行きましょう。", "romaji": "Issho ni ikimashou." },
+      { "speaker": "A", "text": "食べましょう。", "romaji": "Tabemashou." },
+      { "speaker": "A", "text": "勉強しましょう。", "romaji": "Benkyou shimashou." },
+      { "speaker": "A", "text": "歌いましょう。", "romaji": "Utaimashou." },
+      { "speaker": "A", "text": "帰りましょう。", "romaji": "Kaerimashou." }
+    ],
+    "translation": [
+      "我们一起去吧。",
+      "我们吃吧。",
+      "我们学习吧。",
+      "我们唱歌吧。",
+      "我们回去吧。"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "と（并列）",
+    "description": "表示并列关系",
+    "dialog": [
+      { "speaker": "A", "text": "りんごとバナナを買いました。", "romaji": "Ringo to banana o kaimashita." },
+      { "speaker": "A", "text": "本とノートが必要です。", "romaji": "Hon to nouto ga hitsuyou desu." },
+      { "speaker": "A", "text": "猫と犬を飼っています。", "romaji": "Neko to inu o katteimasu." },
+      { "speaker": "A", "text": "土曜日と日曜日は休みです。", "romaji": "Doyoubi to nichiyoubi wa yasumi desu." },
+      { "speaker": "A", "text": "コーヒーと紅茶、どちらが好きですか？", "romaji": "Koohii to koucha, dochira ga suki desu ka?" }
+    ],
+    "translation": [
+      "买了苹果和香蕉。",
+      "需要书和笔记本。",
+      "养了猫和狗。",
+      "周六和周日休息。",
+      "咖啡和红茶，你喜欢哪个？"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "から / まで",
+    "description": "表示时间或空间的起点和终点",
+    "dialog": [
+      { "speaker": "A", "text": "9時から5時まで働きます。", "romaji": "Kuji kara goji made hatarakimasu." },
+      { "speaker": "A", "text": "東京から大阪まで新幹線で行きます。", "romaji": "Toukyou kara Oosaka made shinkansen de ikimasu." },
+      { "speaker": "A", "text": "月曜日から金曜日まで学校があります。", "romaji": "Getsuyoubi kara kinyoubi made gakkou ga arimasu." },
+      { "speaker": "A", "text": "ここから駅まで10分かかります。", "romaji": "Koko kara eki made juppun kakarimasu." },
+      { "speaker": "A", "text": "夏休みは7月から8月までです。", "romaji": "Natsuyasumi wa shichigatsu kara hachigatsu made desu." }
+    ],
+    "translation": [
+      "从9点工作到5点。",
+      "从东京坐新干线去大阪。",
+      "周一到周五有课。",
+      "从这里到车站需要10分钟。",
+      "暑假从7月到8月。"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "形容词现在肯定形",
+    "description": "い形容词和な形容词的基本形式",
+    "dialog": [
+      { "speaker": "A", "text": "この本は面白いです。", "romaji": "Kono hon wa omoshiroi desu." },
+      { "speaker": "A", "text": "彼女はきれいです。", "romaji": "Kanojo wa kirei desu." },
+      { "speaker": "A", "text": "このケーキはおいしいです。", "romaji": "Kono keeki wa oishii desu." },
+      { "speaker": "A", "text": "あの店は静かです。", "romaji": "Ano mise wa shizuka desu." },
+      { "speaker": "A", "text": "今日は暑いです。", "romaji": "Kyou wa atsui desu." }
+    ],
+    "translation": [
+      "这本书很有趣。",
+      "她很漂亮。",
+      "这个蛋糕很好吃。",
+      "那家店很安静。",
+      "今天很热。"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "形容词否定形",
+    "description": "い形容词和な形容词的否定形式",
+    "dialog": [
+      { "speaker": "A", "text": "この映画は面白くないです。", "romaji": "Kono eiga wa omoshirokunai desu." },
+      { "speaker": "A", "text": "この部屋はきれいじゃないです。", "romaji": "Kono heya wa kirei janai desu." },
+      { "speaker": "A", "text": "この料理はおいしくないです。", "romaji": "Kono ryouri wa oishikunai desu." },
+      { "speaker": "A", "text": "この場所は静かじゃないです。", "romaji": "Kono basho wa shizuka janai desu." },
+      { "speaker": "A", "text": "今日は寒くないです。", "romaji": "Kyou wa samukunai desu." }
+    ],
+    "translation": [
+      "这部电影没意思。",
+      "这个房间不干净。",
+      "这道菜不好吃。",
+      "这个地方不安静。",
+      "今天不冷。"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "て形（动词）",
+    "description": "动词的连接形式",
+    "dialog": [
+      { "speaker": "A", "text": "朝起きて、歯を磨きます。", "romaji": "Asa okite, ha o migakimasu." },
+      { "speaker": "A", "text": "本を読んで、寝ます。", "romaji": "Hon o yonde, nemasu." },
+      { "speaker": "A", "text": "テレビを見て、食事をします。", "romaji": "Terebi o mite, shokuji o shimasu." },
+      { "speaker": "A", "text": "歩いて、学校へ行きます。", "romaji": "Aruite, gakkou e ikimasu." },
+      { "speaker": "A", "text": "音楽を聞いて、勉強します。", "romaji": "Ongaku o kiite, benkyou shimasu." }
+    ],
+    "translation": [
+      "早上起床后刷牙。",
+      "看书后睡觉。",
+      "看电视后吃饭。",
+      "走路去学校。",
+      "听音乐学习。"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "ない形（动词否定）",
+    "description": "动词的否定形式",
+    "dialog": [
+      { "speaker": "A", "text": "私は肉を食べません。", "romaji": "Watashi wa niku o tabemasen." },
+      { "speaker": "A", "text": "彼はテレビを見ません。", "romaji": "Kare wa terebi o mimasen." },
+      { "speaker": "A", "text": "今日は働きません。", "romaji": "Kyou wa hatarakimasen." },
+      { "speaker": "A", "text": "私たちは飲みません。", "romaji": "Watashitachi wa nomimasen." },
+      { "speaker": "A", "text": "彼女は来ません。", "romaji": "Kanojo wa kimasen." }
+    ],
+    "translation": [
+      "我不吃肉。",
+      "他不看电视。",
+      "今天不工作。",
+      "我们不喝。",
+      "她不来。"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "あります / います",
+    "description": "表示存在（非生物/生物）",
+    "dialog": [
+      { "speaker": "A", "text": "机の上に本があります。", "romaji": "Tsukue no ue ni hon ga arimasu." },
+      { "speaker": "A", "text": "庭に猫がいます。", "romaji": "Niwa ni neko ga imasu." },
+      { "speaker": "A", "text": "冷蔵庫に牛乳があります。", "romaji": "Reizouko ni gyuunyuu ga arimasu." },
+      { "speaker": "A", "text": "教室に学生がいます。", "romaji": "Kyoushitsu ni gakusei ga imasu." },
+      { "speaker": "A", "text": "財布の中にお金があります。", "romaji": "Saifu no naka ni okane ga arimasu." }
+    ],
+    "translation": [
+      "桌子上有书。",
+      "院子里有猫。",
+      "冰箱里有牛奶。",
+      "教室里有学生。",
+      "钱包里有钱。"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "～がほしい",
+    "description": "表示想要某物",
+    "dialog": [
+      { "speaker": "A", "text": "新しいパソコンがほしいです。", "romaji": "Atarashii pasokon ga hoshii desu." },
+      { "speaker": "A", "text": "時間がほしいです。", "romaji": "Jikan ga hoshii desu." },
+      { "speaker": "A", "text": "友達がほしいです。", "romaji": "Tomodachi ga hoshii desu." },
+      { "speaker": "A", "text": "休みがほしいです。", "romaji": "Yasumi ga hoshii desu." },
+      { "speaker": "A", "text": "もっとお金がほしいです。", "romaji": "Motto okane ga hoshii desu." }
+    ],
+    "translation": [
+      "想要新电脑。",
+      "想要时间。",
+      "想要朋友。",
+      "想要休息。",
+      "想要更多钱。"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "～へ行く / 来る / 帰る",
+    "description": "移动动词的基本用法",
+    "dialog": [
+      { "speaker": "A", "text": "学校へ行きます。", "romaji": "Gakkou e ikimasu." },
+      { "speaker": "A", "text": "日本へ来ました。", "romaji": "Nihon e kimashita." },
+      { "speaker": "A", "text": "家へ帰ります。", "romaji": "Ie e kaerimasu." },
+      { "speaker": "A", "text": "公園へ行きましょう。", "romaji": "Kouen e ikimashou." },
+      { "speaker": "A", "text": "駅へ来てください。", "romaji": "Eki e kite kudasai." }
+    ],
+    "translation": [
+      "去学校。",
+      "来到了日本。",
+      "回家。",
+      "去公园吧。",
+      "请来车站。"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "～てください",
+    "description": "礼貌地请求",
+    "dialog": [
+      { "speaker": "A", "text": "窓を開けてください。", "romaji": "Mado o akete kudasai." },
+      { "speaker": "A", "text": "静かにしてください。", "romaji": "Shizuka ni shite kudasai." },
+      { "speaker": "A", "text": "ここに座ってください。", "romaji": "Koko ni suwatte kudasai." },
+      { "speaker": "A", "text": "ゆっくり話してください。", "romaji": "Yukkuri hanashite kudasai." },
+      { "speaker": "A", "text": "もう一度言ってください。", "romaji": "Mou ichido itte kudasai." }
+    ],
+    "translation": [
+      "请打开窗户。",
+      "请安静。",
+      "请坐在这里。",
+      "请慢慢说。",
+      "请再说一次。"
+    ]
+  }
+]
