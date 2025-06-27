@@ -1,0 +1,584 @@
+[
+  {
+    "id": 1,
+    "title": "餐厅预订",
+    "description": "预订餐厅座位的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "今晚の7時にテーブルを予約したいです。",
+        "romaji": "Konya no shichi ji ni teeburu o yoyaku shitai desu."
+      },
+      {
+        "speaker": "B",
+        "text": "申し訳ございませんが、7時はご予约がいっぱいです。",
+        "romaji": "Moushiwake gozaimasen ga, shichi ji wa go yoyaku ga ippai desu."
+      },
+      {
+        "speaker": "A",
+        "text": "8時は空いていますか？",
+        "romaji": "Hachi ji wa aite imasu ka?"
+      },
+      {
+        "speaker": "B",
+        "text": "はい、8時は空いております。",
+        "romaji": "Hai, hachi ji wa aite orimasu."
+      }
+    ],
+    "translation": [
+      "我想预订今晚7点的座位。",
+      "对不起，7点已经订满了。",
+      "8点有空位吗？",
+      "是的，8点有空位。"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "机场登机",
+    "description": "机场办理登机手续的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "搭乗手続きはここでですか？",
+        "romaji": "Toujou tezuukih koko desu ka?"
+      },
+      {
+        "speaker": "B",
+        "text": "はい、ご予定のフライトは3番ゲートです。",
+        "romaji": "Hai, go yotei no furaito wa san ban geeto desu."
+      },
+      {
+        "speaker": "A",
+        "text": "出発は何時ですか？",
+        "romaji": "Shuppatsu wa nan ji desu ka?"
+      },
+      {
+        "speaker": "B",
+        "text": "午後3時半です。現在は搭乗中です。",
+        "romaji": "Gogo san ji han desu. Genzai wa toujou chuu desu."
+      }
+    ],
+    "translation": [
+      "在这里办理登机手续吗？",
+      "是的，您预定的航班是3号登机口。",
+      "几点起飞？",
+      "下午3点半。现在正在登机。"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "医院看病",
+    "description": "在医院看病的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "最近、頭痛が強くて悩んでいます。",
+        "romaji": "Saikin, zutsuun ga tsuyokute nayamonde imasu."
+      },
+      {
+        "speaker": "B",
+        "text": "痛みはどのぐらいの頻度ですか？",
+        "romaji": "Itami wa dono kurai no hin do desu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "日に何回かあります。",
+        "romaji": "Hibi ni nani kai ka arimasu."
+      },
+      {
+        "speaker": "B",
+        "text": "血圧を測ってみましょう。生活習慣についても聞かせていただきます。",
+        "romaji": "Ketsatsu o soumte mimashou. Seikatsu shukan ni tsuite mo kikasete itadakimasu."
+      }
+    ],
+    "translation": [
+      "最近我头痛得很厉害，很困扰。",
+      "疼痛的频率是多少？",
+      "每天疼几次。",
+      "我们来量一下血压。我也会询问您的生活习惯。"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "酒店入住",
+    "description": "在酒店办理入住手续的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "予約名は田中太郎です。",
+        "romaji": "Yoyaku mei wa Tanaka Taro desu."
+      },
+      {
+        "speaker": "B",
+        "text": "田中様ですね。部屋は15階の1509号室です。",
+        "romaji": "Tanaka sama desu ne. Heya wa jyuugo kai no 1509 goushitsu desu."
+      },
+      {
+        "speaker": "A",
+        "text": "朝食は付いていますか？",
+        "romaji": "Choushoku wa tsuite imasu ka?"
+      },
+      {
+        "speaker": "B",
+        "text": "はい、付いております。朝6時から9時までです。",
+        "romaji": "Hai, tsuite orimasu. Asa roku ji kara ku ji made desu."
+      }
+    ],
+    "translation": [
+      "我的预订名字是田中太郎。",
+      "您是田中先生。房间是15楼的1509号。",
+      "包含早餐吗？",
+      "是的，包含早餐。时间是早上6点到9点。"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "电子产品店咨询",
+    "description": "在电子产品店咨询产品的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "このカメラは何ですか？",
+        "romaji": "Kono kamera wa nan desu ka?"
+      },
+      {
+        "speaker": "B",
+        "text": "最新型のデジタル一眼レフです。",
+        "romaji": "Saishinki no dejitaru hitome refu desu."
+      },
+      {
+        "speaker": "A",
+        "text": "写真の品質はどうですか？",
+        "romaji": "Shashin no hinshitsu wa dou desu ka?"
+      },
+      {
+        "speaker": "B",
+        "text": "高画質で、暗い所でも綺麗に撮影できます。",
+        "romaji": "Kouga shitsu de, kurai tokoro demo kirei ni satsuei dekimasu."
+      }
+    ],
+    "translation": [
+      "这个相机是什么？",
+      "是最新款的数码单反相机。",
+      "照片的质量怎么样？",
+      "高画质，即使在暗处也能拍得很漂亮。"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "银行取款",
+    "description": "在银行取款的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "10万円を引き出したいです。",
+        "romaji": "Jyuuman en o hikidashi shitai desu."
+      },
+      {
+        "speaker": "B",
+        "text": "お手数をおかけします。口座番号をお教えください。",
+        "romaji": "Ote suu o okake shimasu. Kouza bangou o oshie kudasai."
+      },
+      {
+        "speaker": "A",
+        "text": "12345-67890です。",
+        "romaji": "12345-67890 desu."
+      },
+      {
+        "speaker": "B",
+        "text": "引き出しは完了いたしました。ご確認ください。",
+        "romaji": "Hikidashi wa kanryou itashimashita. Go kakunin kudasai."
+      }
+    ],
+    "translation": [
+      "我想取10万日元。",
+      "麻烦您了。请告诉我账号。",
+      "账号是12345-67890。",
+      "取款已完成，请确认。"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "超市退货",
+    "description": "在超市退货的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "これを返品したいです。",
+        "romaji": "Kore o henpin shitai desu."
+      },
+      {
+        "speaker": "B",
+        "text": "返品理由を教えていただけますか？",
+        "romaji": "Henpin riyuu o oshiete itadake masu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "品質に問題があります。",
+        "romaji": "Hinshitsu ni mondai ga arimasu."
+      },
+      {
+        "speaker": "B",
+        "text": "申し訳ございません。確認いたします。",
+        "romaji": "Moushiwake gozaimasen. Kakunin itashimasu."
+      }
+    ],
+    "translation": [
+      "我想退货这个。",
+      "能告诉我退货的理由吗？",
+      "质量有问题。",
+      "非常抱歉。我们来确认一下。"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "电话客服",
+    "description": "通过电话解决客户问题的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "昨日注文した商品が届いていません。",
+        "romaji": "Kinou chuumon shita shouhin ga todotte imasen."
+      },
+      {
+        "speaker": "B",
+        "text": "申し訳ございません。調査を行い、結果をご連絡いたします。",
+        "romaji": "Moushiwake gozaimasen. Chousa o okonai, kekka o go renraku itashimasu."
+      },
+      {
+        "speaker": "A",
+        "text": "早急に対応をお願いします。",
+        "romaji": "Sokkyuu ni taishou o onegai shimasu."
+      },
+      {
+        "speaker": "B",
+        "text": "了解致しました。対応策が決まり次第、ご連絡いたします。",
+        "romaji": "Rikai itashimashita. Taishou saku ga kimari shitari, go renraku itashimasu."
+      }
+    ],
+    "translation": [
+      "我昨天订购的商品还没有到。",
+      "非常抱歉。我们会进行调查，并将结果通知您。",
+      "请尽快处理。",
+      "明白了。一旦决定了应对措施，我们会立即联系您。"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "旅行社咨询旅行",
+    "description": "在旅行社咨询旅行计划的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "夏休みに海外旅行を考えています。",
+        "romaji": "Natsu yasumi ni gaikoku ryokou o kangaete imasu."
+      },
+      {
+        "speaker": "B",
+        "text": "欧州や南国が人気です。どんな国に興味がありますか？",
+        "romaji": "Oushuu ya nankoku ga ninki desu. Donna kuni ni kyoumi ga arimasu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "フランスがいいです。",
+        "romaji": "Furansu ga ii desu."
+      },
+      {
+        "speaker": "B",
+        "text": "パリの観光コースを提案致します。詳しいプランをご用意いたします。",
+        "romaji": "Pari no kankou koosu o teian itashimasu. Shousai na puran o go youbi itashimasu."
+      }
+    ],
+    "translation": [
+      "我正在考虑暑假去海外旅行。",
+      "欧洲和南国很受欢迎。你对哪个国家感兴趣？",
+      "法国不错。",
+      "我推荐巴黎观光路线。我们会准备详细的计划。"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "美容院预约烫发",
+    "description": "预约美容院烫发的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "来週の土曜日にパーマをしてみたいです。",
+        "romaji": "Rashuu no doyoubi ni pama o shitetai desu."
+      },
+      {
+        "speaker": "B",
+        "text": "申し訳ございませんが、土曜日はご予约がいっぱいです。",
+        "romaji": "Moushiwake gozaimasen ga, doyoubi wa go yoyaku ga ippai desu."
+      },
+      {
+        "speaker": "A",
+        "text": "日曜日は空いていますか？",
+        "romaji": "Nichiyoubi wa aite imasu ka?"
+      },
+      {
+        "speaker": "B",
+        "text": "はい、空いております。3時間ぐらいかかりますのでご了承ください。",
+        "romaji": "Hai, aite orimasu. San jikan gurai kakarimasu node go ryoushou kudasai."
+      }
+    ],
+    "翻译": [
+      "我想在下周六烫发。",
+      "对不起，周六已经预约满了。",
+      "周日有空位吗？",
+      "是的，有空位。需要大约3个小时，请理解。"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "健身房咨询会员",
+    "description": "在健身房咨询会员事宜的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "月会費はいくらですか？",
+        "romaji": "Getsukaihi wa ikura desu ka?"
+      },
+      {
+        "speaker": "B",
+        "text": "1ヶ月は5000円です。年契約なら割引があります。",
+        "romaji": "Ichigetsu wa 5000 en desu. Nen keiyaku nara waribiki ga arimasu."
+      },
+      {
+        "speaker": "A",
+        "text": "施設は24時間利用できますか？",
+        "romaji": "Shisetsu wa nijuuyon jikan riyou dekimasu ka?"
+      },
+      {
+        "speaker": "B",
+        "text": "はい、24時間営業しております。",
+        "romaji": "Hai, nijuuyon jikan eiyou shimashita."
+      }
+    ],
+    "翻译": [
+      "月费是多少？",
+      "一个月是5000日元。如果签年约有折扣。",
+      "设施可以24小时使用吗？",
+      "是的，我们24小时营业。"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "手机店购买手机",
+    "description": "在手机店购买新手机的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "最新のスマートフォンは何ですか？",
+        "romaji": "Saishin no sumato foon wa nan desu ka?"
+      },
+      {
+        "speaker": "B",
+        "text": "最新のiPhone 15です。高性能で、最新のカメラ仕様です。",
+        "romaji": "Saishin no iPhone 15 desu. Koukinou de, saishin no kamera shiyou desu."
+      },
+      {
+        "speaker": "A",
+        "text": "価格は？",
+        "romaji": "Kakaku wa?"
+      },
+      {
+        "speaker": "B",
+        "text": "128GBモデルの場合は10万円です。",
+        "romaji": "128GB moderuru no baai wa juuman en desu."
+      }
+    ],
+    "翻译": [
+      "最新的智能手机是什么？",
+      "是最新的iPhone 15。高性能，配备最新的相机规格。",
+      "价格是多少？",
+      "128GB型号的是10万日元。"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "汽车维修预约",
+    "description": "预约汽车维修的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "車が動かなくなりました。今日中に見て欲しいです。",
+        "romaji": "Kuruma ga ugokanakunarimashita. Kyou naka ni mite hoshii desu."
+      },
+      {
+        "speaker": "B",
+        "text": "申し訳ございませんが、今日は予定が满席です。明日の午前中は空いております。",
+        "romaji": "Moushiwake gozaimasen ga, kyou wa yotei ga manseki desu. Ashita no gozenchuu wa aite orimasu."
+      },
+      {
+        "speaker": "A",
+        "text": "明日は可能な早い時間をお願いします。",
+        "romaji": "Ashita wa kanouna hayai jikan o onegaishimasu."
+      },
+      {
+        "speaker": "B",
+        "text": "了解致しました。明日の朝9時に来てください。",
+        "romaji": "Rikai itashimashita. Ashita no asa ku ji ni kite kudasai."
+      }
+    ],
+    "翻译": [
+      "我的车动不了了。我想在今天之内修好。",
+      "非常抱歉，今天已经预约满了。明天上午有空位。",
+      "请安排在明天尽可能早的时间。",
+      "明白了。请明天早上9点来。"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "图书馆还书",
+    "description": "在图书馆还书的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "これらの本を返却したいです。",
+        "romaji": "Korerano hon o henkyaku shitai desu."
+      },
+      {
+        "speaker": "B",
+        "text": "受け取ります。期限は延長されていますか？",
+        "romaji": "Uketorimasu. Kigen wa enchou sarete imasu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "はい、1週間延長してもらいました。",
+        "romaji": "Hai, isshuukan enchou shitemoraimashita."
+      },
+      {
+        "speaker": "B",
+        "text": "分かりました。他に借りたい本はありますか？",
+        "romaji": "Wakarimashita. Hoka ni karitai hon wa arimasu ka?"
+      }
+    ],
+    "翻译": [
+      "我想归还这些书。",
+      "我收到了。期限延长了吗？",
+      "是的，延长了1周。",
+      "明白了。还有其他想借的书吗？"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "医院询问检查结果",
+    "description": "在医院询问检查结果的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "先日の健康診断の結果はどうですか？",
+        "romaji": "Senzoku no kenkou shindan no kekka wa dou desu ka?"
+      },
+      {
+        "speaker": "B",
+        "text": "血圧は正常範囲内ですが、血糖値が少々高いです。",
+        "romaji": "Ketsatsu wa seijou han i nai desu ga, kettou chi wa sasyou takai desu."
+      },
+      {
+        "speaker": "A",
+        "text": "心配です。何をすれば良いですか？",
+        "romaji": "Shinpai desu. Nani o sureba ii desu ka?"
+      },
+      {
+        "speaker": "B",
+        "text": "食事のバランスを整え、運動を続けることをお勧めします。",
+        "romaji": "Shokuji no baransu o tonae, undou o tsudukeru koto o osusume shimasu."
+      }
+    ],
+    "翻译": [
+      "前几天健康检查的结果如何？",
+      "血压在正常范围内，但血糖值有点高。",
+      "我很担心。我该怎么办？",
+      "我们建议您调整饮食平衡，并继续运动。"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "银行开设储蓄账户",
+    "description": "在银行开设储蓄账户的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "新しい普通預金口座を開設したいです。",
+        "romaji": "Atarashii futsuu yokokin kouchou o kaishou shitai desu."
+      },
+      {
+        "speaker": "B",
+        "text": "申し訳ございませんが、身分証明書をご提示ください。",
+        "romaji": "Moushiwake gozaimasen ga, shinmei shoumeisho o go teishi kudasai."
+      },
+      {
+        "speaker": "A",
+        "text": "これでいいですか？",
+        "romaji": "Kore de ii desu ka?"
+      },
+      {
+        "speaker": "B",
+        "text": "はい、よろしいです。口座を開設いたします。",
+        "romaji": "Hai, yoroshii desu. Kouchou o kaishou itashimasu."
+      }
+    ],
+    "翻译": [
+      "我想开设一个新的普通储蓄账户。",
+      "对不起，请出示您的身份证。",
+      "这个可以吗？",
+      "是的，可以。我们来开设账户。"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "银行开户",
+    "description": "在日本银行开设个人账户的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "口座を開きたいのですが。",
+        "romaji": "Kouza o hirakitai no desu ga."
+      },
+      {
+        "speaker": "B",
+        "text": "はい、ご本人確認書類をお持ちですか？",
+        "romaji": "Hai, gohon'nin kakunin shorui o omochi desu ka?"
+      },
+      {
+        "speaker": "A",
+        "text": "はい、運転免許証があります。",
+        "romaji": "Hai, unten menkyoshou ga arimasu."
+      }
+    ],
+    "translation": [
+      "我想开一个账户。",
+      "好的，您带身份证明了吗？",
+      "有，我带了驾照。"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "机场问路",
+    "description": "在机场询问国际航班登机口的对话",
+    "dialog": [
+      {
+        "speaker": "A",
+        "text": "国際線の搭乗口はどこですか？",
+        "romaji": "Kokusaisen no toujouguchi wa doko desu ka?"
+      },
+      {
+        "speaker": "B",
+        "text": "3階のGカウンターになります。",
+        "romaji": "Sankai no G kauntaa ni narimasu."
+      },
+      {
+        "speaker": "A",
+        "text": "ありがとうございます。",
+        "romaji": "Arigatou gozaimasu."
+      }
+    ],
+    "translation": [
+      "国际航班的登机口在哪里？",
+      "在三楼的G柜台。",
+      "谢谢您。"
+    ]
+  }
+]

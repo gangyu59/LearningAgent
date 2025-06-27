@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "title": "商务策略讨论",
+    "description": "高层管理人员讨论公司未来策略",
+    "dialog": [
+      {
+        "speaker": "CEO",
+        "text": "私たちの成长戦略は、新兴市场への进出を中心にするべきです。",
+        "romaji": "Watashitachi no sousei senryaku wa, shin'kousei shijou e no shinchuu o chuuushin ni suru beki desu."
+      },
+      {
+        "speaker": "CFO",
+        "text": "资金调达面では、リスク投资家との提携が重要であると思います。",
+        "romaji": "Shikin choudatsu men de wa, risuku toushi sha to no teikei ga juuyou da to omoimasu."
+      },
+      {
+        "speaker": "CMO",
+        "text": "私は、ローカライズしたマーケティング戦略が成功の键だと考えています。",
+        "romaji": "Watashi wa, rooka raizushita maaketingu senryaku ga seikou no kagi da to kangaete imasu."
+      },
+      {
+        "speaker": "CEO",
+        "text": "同意です。具体的な実行计画を次の会议で検讨しましょう。",
+        "romaji": "Doui desu. Gutaiteki na jikkou keikaku o tsugi no kaigi de kentou shimashou."
+      }
+    ],
+    "translation": [
+      "我们的成长策略应该以进入新兴市场为中心。",
+      "在资金筹集方面，我认为与风险投资者的合作很重要。",
+      "我认为本地化的营销策略是成功的关键。",
+      "我同意。我们将在下次会议上讨论具体的执行计划。"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "医学研讨会",
+    "description": "医学专家讨论最新癌症治疗方法",
+    "dialog": [
+      {
+        "speaker": "Dr. Tanaka",
+        "text": "最近の免疫疗法の成果は非常に有望であります。",
+        "romaji": "Saikin no mepyou chiryou no seika wa hijou ni youbou de arimasu."
+      },
+      {
+        "speaker": "Dr. Suzuki",
+        "text": "副作用に関しては、尚多くの课题が残されています。",
+        "romaji": "Hokusei ni kanshite wa, naomadzukunou kadai ga nokosarete imasu."
+      },
+      {
+        "speaker": "Dr. Kimura",
+        "text": "私たちは、标的遗传子の特定に重点を置くべきだと思います。",
+        "romaji": "Watashitachi wa, hyoumoku idensu no totei ni juuten o oku beki da to omoimasu."
+      },
+      {
+        "speaker": "Dr. Tanaka",
+        "text": "合意です。临床试験の结果を待ちながら、治疗法の改良に取り组みましょう。",
+        "romaji": "Gou'i desu. Rinshou shiken no kekka o machi nagara, chiryouhou no kairyou ni torikumi mashou."
+      }
+    ],
+    "translation": [
+      "最近的免疫疗法成果非常有希望。",
+      "关于副作用，我们还有很多问题需要解决。",
+      "我认为我们应该专注于特定目标基因。",
+      "同意。我们在等待临床试验结果的同时，致力于改进治疗方法。"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "法律咨询",
+    "description": "律师与客户讨论合同中的法律条款",
+    "dialog": [
+      {
+        "speaker": "Lawyer",
+        "text": "この契约书の条项には、知的财産権に関する重要な规约が含まれています。",
+        "romaji": "Kono keiyakusho no joukou ni wa, chi no zaisan ken ni kansuru juuyou na kiyaku ga fukumarere te imasu."
+      },
+      {
+        "speaker": "Client",
+        "text": "私たちの开発した技术に関して、独占的な権利を保有したいです。",
+        "romaji": "Watashitachi no kaifattashita gijutsu ni kanshite, dokusen teki na kenri o hoju shitai desu."
+      },
+      {
+        "speaker": "Lawyer",
+        "text": "了解です。条项を明确化し、法的な保护を强化する必要があります。",
+        "romaji": "Rikai desu. Joukou o meikakuka shi, houteiteki na hogo o kouka suru hitsuyou ga arimasu."
+      },
+      {
+        "speaker": "Client",
+        "text": "同意です。修正案を早急に提出してください。",
+        "romaji": "Doui desu. Shuseian o soukyuu ni teishutsu shite kudasai."
+      }
+    ],
+    "translation": [
+      "这份合同的条款包含了关于知识产权的重要规定。",
+      "我们想对我们开发的技术拥有专有权。",
+      "明白了。需要明确条款，加强法律保护。",
+      "同意。请尽快提交修正案。"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "艺术展览评论",
+    "description": "艺术评论家讨论现代艺术作品",
+    "dialog": [
+      {
+        "speaker": "Critic A",
+        "text": "この展示品は、现代社会の异化感を非常に表现しています。",
+        "romaji": "Kono tenjibutsu wa, gendai shakai no ihaka kan o hijou ni hyougen shite imasu."
+      },
+      {
+        "speaker": "Critic B",
+        "text": "表现手法は革新的ですが、観客との共感が不足しているように思えます。",
+        "romaji": "Hyougen shouhou wa kakushin teki desu ga, kankaku to no kyoukan ga fuso shite iru you ni omoemasu."
+      },
+      {
+        "speaker": "Critic A",
+        "text": "私は、作者が传えたいメッセージが暧昧すぎると感じています。",
+        "romaji": "Watashi wa, sakusha ga tsutaetai messeji ga aimai sugiru to kanjite imasu."
+      },
+      {
+        "speaker": "Critic B",
+        "text": "同意です。芸术作品としての完成度が疑问です。",
+        "romaji": "Doui desu. Geijutsu sakuhin toshite no kanseido ga gimon desu."
+      }
+    ],
+    "translation": [
+      "这件展品非常表达了现代社会的疏离感。",
+      "表现手法很有创新性，但似乎缺乏与观众的情感共鸣。",
+      "我觉得作者想要传达的信息太模糊了。",
+      "同意。作为艺术作品的完整性值得怀疑。"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "科技产品发布会",
+    "description": "科技公司CEO介绍最新智能手机",
+    "dialog": [
+      {
+        "speaker": "CEO",
+        "text": "私たちの最新型スマートフォンは、最先端の人工知能技术を搭载しております。",
+        "romaji": "Watashitachi no saishin gata sumato fon wa, saisen tan no jinkou chi nou gijutsu o tousa shite orimasu."
+      },
+      {
+        "speaker": "Reporter",
+        "text": "バッテリーの耐久性やカメラの性能について、详细を教えていただけますか？",
+        "romaji": "Batteri no taisyoku sei ya kamera no kinou ni tsuite, shousai o oshiete itadakemasu ka?"
+      },
+      {
+        "speaker": "CEO",
+        "text": "当然です。新しい充电技术により、耐久性は前代型の2倍に达しています。",
+        "romaji": "Touzen desu. Atarashii jouden gijutsu ni yori, taisyoku sei wa zendai gata no ni bai ni tatta te imasu."
+      },
+      {
+        "speaker": "Reporter",
+        "text": "カメラは、夜撮り性能が大きく向上したとのことです。",
+        "romaji": "Kamera wa, yorutori kinou ga ookiku koujou shita to no koto desu."
+      }
+    ],
+    "translation": [
+      "我们的最新款智能手机搭载了最先进的人工智能技术。",
+      "能否请您详细说明电池的耐用性和相机的性能？",
+      "当然可以。由于采用了新的充电技术，耐用性达到了上一代的两倍。",
+      "相机夜间拍摄性能有了很大提升。"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "环境保护论坛",
+    "description": "环保专家讨论全球变暖对策",
+    "dialog": [
+      {
+        "speaker": "Professor Lee",
+        "text": "地球温暖化対策に関しては、炭素排出量の削减が最优先すべきです。",
+        "romaji": "Chikyuu onmanda taisaku ni kanshite wa, tansen paichu ryou no sakujian ga saisen youten suru beki desu."
+      },
+      {
+        "speaker": "Dr. Smith",
+        "text": "再生可能エネルギーの普及促进が重要であります。政府の支援が必要です。",
+        "romaji": "Saisei kanou enerugii no fukukyoku sokushin ga juuyou de arimasu. Seifu no shien ga hitsuyou desu."
+      },
+      {
+        "speaker": "Professor Lee",
+        "text": "同意です。森林保护や海洋生态系の回复も重要な课题です。",
+        "romaji": "Doui desu. Shinrin hogo ya kaiyuu seitaiki no kaifuku mo juuyou na kadai desu."
+      },
+      {
+        "speaker": "Dr. Smith",
+        "text": "国际协力が必要不可欠であります。各国が共同で行动する必要があります。",
+        "romaji": "Kokusai kyoryoku ga hitsuyou fukeatsu de arimasu. Kakoku ga kyoudou de koudou suru hitsuyou ga arimasu."
+      }
+    ],
+    "translation": [
+      "关于全球变暖对策，减少碳排放应该是首要任务。",
+      "推广可再生能源很重要。需要政府的支持。",
+      "同意。保护森林和恢复海洋生态系统也是重要课题。",
+      "国际合作是必不可少的。各国需要共同行动。"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "金融投资分析",
+    "description": "金融分析师讨论股票市场趋势",
+    "dialog": [
+      {
+        "speaker": "Analyst A",
+        "text": "最近の株式市场动向は、世界的な経済情势に大きく影响を受けています。",
+        "romaji": "Saikin no kabushiki shijou doukou wa, sekai-teki na keizai jousei ni ookiku eikyou o ukete imasu."
+      },
+      {
+        "speaker": "Analyst B",
+        "text": "米国の金利引き上げ政策が、投资家の动向を左右しています。",
+        "romaji": "Beikoku no kinri hikiage seisaku ga, toushi sha no doukou o sayuu shite imasu."
+      },
+      {
+        "speaker": "Analyst A",
+        "text": "私たちは、リスクアセスメントを彻底的に行い、ポートフォリオの调整が必要だと思います。",
+        "romaji": "Watashitachi wa, risuku asesu mento o tetteitei ni okonai, poto foorio no chousei ga hitsuyou da to omoimasu."
+      },
+      {
+        "speaker": "Analyst B",
+        "text": "同意です。安定した収益性を持つ资産に重点を置くべきだと考えています。",
+        "romaji": "Doui desu. Antei shita shuuyoku sei o motsu shisan ni juuten o oku beki da to kangaete imasu."
+      }
+    ],
+    "translation": [
+      "最近的股票市场动向受到全球经济形势的很大影响。",
+      "美国的加息政策正在影响投资者的动向。",
+      "我们需要进行彻底的风险评估，并调整投资组合。",
+      "同意。我们应该重点关注具有稳定收益的资产。"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "历史学术讲座",
+    "description": "历史教授讨论古代文明的影响",
+    "dialog": [
+      {
+        "speaker": "Professor",
+        "text": "古代文明の技术革新は、后世に大きな影响を及ぼしました。",
+        "romaji": "Kodai bunmei no gijutsu kakushin wa, gosei ni ookina eikyou o oyoboshimashita."
+      },
+      {
+        "speaker": "Student",
+        "text": "特に、农业技术の発达が社会构造に大きな変化をもたらしましたね。",
+        "romaji": "Tokuni, nougyou gijutsu no hatatsu ga shakai kouzou ni ookina henka o motarashimashita ne."
+      },
+      {
+        "speaker": "Professor",
+        "text": "确かに、食粮生産の向上により、人口增加や都市化が进展しました。",
+        "romaji": "Tashikani, shokuryou seisan no koujou ni yori, jinkou zengka ya toshika ga shinten shimashita."
+      },
+      {
+        "speaker": "Student",
+        "text": "また、贸易の発达により、文化交流が促进されました。",
+        "romaji": "Mata, boueki no hatatsu ni yori, bunka kouryuu ga sokushin sa remashita."
+      }
+    ],
+    "translation": [
+      "古代文明的技术创新对后世产生了巨大影响。",
+      "特别是农业技术的发展带来了社会结构的巨大变化。",
+      "确实，粮食生产的提高促进了人口增长和城市化。",
+      "此外，贸易的发展促进了文化交流。"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "建筑设计评审",
+    "description": "建筑师讨论新建筑项目的可持续性",
+    "dialog": [
+      {
+        "speaker": "Architect",
+        "text": "この建筑プロジェクトは、环境に优しいデザインを目标としています。",
+        "romaji": "Kono kenchiku purojekuto wa, kankyou ni yasashii dezain o mokuteki to shite imasu."
+      },
+      {
+        "speaker": "Client",
+        "text": "再生可能エネルギーの利用や、廃弃物の减量化に関してはどうですか？",
+        "romaji": "Saisei kanou enerugii no riyou ya, haishi butsu no genryouka ni kanshite wa dou desu ka?"
+      },
+      {
+        "speaker": "Architect",
+        "text": "太阳能パネルを屋根に设置し、効率的な廃弃物管理システムを导入する予定です。",
+        "romaji": "Taikyou neng paneru o yane ni setteishi, kou ratesu na haishi butsu kanri sisutemu o douryoku suru yotei desu."
+      },
+      {
+        "speaker": "Client",
+        "text": "非常に魅力的な提案です。コスト面での问题はありますか？",
+        "romaji": "Hijou ni miryoku na teian desu. Kosuto men de no mondai wa arimasu ka?"
+      }
+    ],
+    "translation": [
+      "这个建筑项目旨在设计一个环保的建筑。",
+      "关于可再生能源的使用和减少废物量，你们有什么计划？",
+      "我们计划安装太阳能板在屋顶，并引入高效的废物管理系统。",
+      "这是一个非常有吸引力的提案。成本方面有问题吗？"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "音乐制作讨论",
+    "description": "音乐制作人与歌手讨论新专辑风格",
+    "dialog": [
+      {
+        "speaker": "Producer",
+        "text": "今回のアルバムは、电子音とロックの融合を目指す予定です。",
+        "romaji": "Konkai no arubamu wa, denshi on to rokku no yuugou o mezashisu yotei desu."
+      },
+      {
+        "speaker": "Singer",
+        "text": "私は、歌词に深いメッセージを込めて、聴衆に强いインパクトを与えたいです。",
+        "romaji": "Watashi wa, kashiko ni fukai messeji o komete, choujuu ni tsuyoi inpakuto o ataetai desu."
+      },
+      {
+        "speaker": "Producer",
+        "text": "同意です。新しい制作技术を导入し、音の质を高める必要があります。",
+        "romaji": "Doui desu. Atarashii seisaku gijutsu o douren shi, oto no shitsu o takameru hitsuyou ga arimasu."
+      },
+      {
+        "speaker": "Singer",
+        "text": "素敌な考えです。リハーサルを早急に开始しましょう。",
+        "romaji": "Suteki na kangae desu. Rehaasuru o soukyuu ni kaishi shimashou."
+      }
+    ],
+    "translation": [
+      "这张专辑计划将电子音乐和摇滚融合在一起。",
+      "我想在歌词中包含深刻的信息，给听众留下强烈的印象。",
+      "同意。我们需要引入新的制作技术，提高音质。",
+      "这是个好主意。我们尽快开始排练吧。"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "文学研讨会",
+    "description": "作家与评论家讨论新小说的主题",
+    "dialog": [
+      {
+        "speaker": "Writer",
+        "text": "私の小説は、现代社会的な孤立感をテーマにしています。",
+        "romaji": "Watashi no shousetsu wa, gendai shakai-teki na kodoku kan o tema ni shite imasu."
+      },
+      {
+        "speaker": "Critic",
+        "text": "人物像の描写は、非常にリアルで読者に共感を呼ぶでしょう。",
+        "romaji": "Jinbutsuzou no byouei wa, hijou ni riaru de dokusha ni kyoukan o yobu deshou."
+      },
+      {
+        "speaker": "Writer",
+        "text": "私は、社会背景や家族関系にも重点を置いたいと思います。",
+        "romaji": "Watashi wa, shakai haikei ya kazoku kankei ni mo juuten o oita ito omoimasu."
+      },
+      {
+        "speaker": "Critic",
+        "text": "非常に深みがあるテーマです。ストーリー展开の面白さも重要だと思います。",
+        "romaji": "Hijou ni fukami ga aru tema desu. Sutoorii tenkai no omoshirosa mo juuyou da to omoimasu."
+      }
+    ],
+    "translation": [
+      "我的小说主题是现代社会的孤独感。",
+      "人物的描写非常真实，会引起读者的共鸣。",
+      "我想重点放在社会背景和家族关系上。",
+      "这是一个非常有深度的主题。故事发展的趣味性也很重要。"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "哲学讨论会",
+    "description": "哲学家讨论伦理与科技的冲突",
+    "dialog": [
+      {
+        "speaker": "Philosopher",
+        "text": "人工知能の进歩は、伦理的な问题を引き起こしています。",
+        "romaji": "Jinkou chi nou no shinpou wa, rinritsu-teki na mondai o hikikozoshite imasu."
+      },
+      {
+        "speaker": "Professor",
+        "text": "特に、プライバシーの保护や、自动化による失业问题が重要です。",
+        "romaji": "Tokuni, puraibashii no hogo ya, jidouka ni yoru shitsugyou mondai ga juuyou desu."
+      },
+      {
+        "speaker": "Philosopher",
+        "text": "私たちは、伦理规范の制定に重点を置く必要があります。",
+        "romaji": "Watashitachi wa, rinri kihan no seittei ni juuten o oku hitsuyou ga arimasu."
+      },
+      {
+        "speaker": "Professor",
+        "text": "同意です。科学技术の発展と伦理観の调和が必要不可欠です。",
+        "romaji": "Doui desu. Kagaku gijutsu no hatten to rinri kan no chouwa ga hitsuyou fukeatsu desu."
+      }
+    ],
+    "translation": [
+      "人工智能的进步引发了伦理问题。",
+      "特别是隐私保护和自动化导致的失业问题很重要。",
+      "我们需要重点制定伦理规范。",
+      "同意。科技发展需要与伦理观相协调。"
+    ]
+  }
+]
