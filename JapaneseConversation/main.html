@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>日语场景对话</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <h1>文字对话</h1>
+
+  <div class="scenario-container">
+    <div class="scenario-select">
+      <label for="scenario"><strong>选择场景：</strong></label>
+      <select id="scenario">
+        <option value="餐厅">餐厅</option>
+        <option value="机场">机场</option>
+        <option value="购物">购物</option>
+        <option value="问路">问路</option>
+        <option value="打的">打的</option>
+        <option value="看病">看病</option>
+        <option value="买票">买票</option>
+      </select>
+    </div>
+    
+    <div class="aiModel-select">
+      <label for="aiModel"><strong>AI选择：</strong></label>
+      <select id="aiModel">
+        <option value="GPT">GPT</option>
+        <option value="DEEPSEEK">DEEPSEEK</option>
+        <option value="ARK" selected>ARK</option>
+      </select>
+    </div>
+    
+    <br>
+    
+    <div class="scenario-custom">
+      <label for="customScene"><strong>自定义场景：</strong></label>
+      <input type="text" id="customScene" placeholder="例如：学校、旅行、订场…" />
+    </div>
+  </div>
+
+  <div id="output"></div>
+  
+  <div id="buttonContainer">
+    <button id="startBtn">开始对话</button>
+    <div class="text-input-container" style="display: none;">
+      <input type="text" id="userInput" 
+       placeholder="ここに日本語を入力してください..."
+       lang="ja">
+      <button id="sendBtn">发送</button>
+    </div>
+  </div>
+  
+  <!-- 状态指示器 -->
+  <div id="loading-indicator" class="loading-hidden">
+    <div class="hourglass"></div>
+    <span></span>
+  </div>
+  
+  <div id="debugLog" style="font-size:14px; color:#888; padding:8px;"></div>
+  
+  <script src="scripts/config.js"></script>
+  <script src="scripts/utils.js"></script>
+  <script src="scripts/scenario.js"></script>
+	<script src="scripts/speech.js"></script>
+	<script src="scripts/textInput.js"></script>
+  <script src="scripts/assistant.js"></script>
+  <script src="scripts/loadConfig.js"></script>
+  <script src="scripts/main.js"></script>
+</body>
+</html>
