@@ -1,1 +1,109 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #e6f4ff;
+  font-size: 16px;
+}
 
+header {
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  margin: 20px 0 10px 0;
+  color: #003366;
+}
+
+.search-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  gap: 10px;
+  background-color: #e6f4ff;
+}
+
+.search-bar input {
+  flex: 1;
+  max-width: 60%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: #fff;
+}
+
+.search-bar button {
+  padding: 10px 18px;
+  font-size: 16px;
+  background-color: #0078d4;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.search-bar button:hover {
+  background-color: #005ea2;
+}
+
+main {
+  padding: 20px;
+}
+
+#results {
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 0 auto;
+  width: 90%;
+  max-width: 700px;
+  min-height: 400px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  overflow-y: auto;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.result-block {
+  background-color: white;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.08);
+  border: 1px solid #ddd;
+}
+
+.result-block h3 {
+  margin: 0 0 10px 0;
+  color: #003366;
+}
+
+.romaji, .type, .tags, .conjugations {
+  margin: 4px 0;
+  font-size: 15px;
+  color: #444;
+}
+
+.example {
+  margin-top: 10px;
+  padding-left: 12px;
+  font-size: 15px;
+  color: #333;
+}
+
+button.play-audio {
+  margin-left: 10px;
+  background: #0078d4;
+  color: white;
+  border: none;
+  padding: 2px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+button.play-audio:hover {
+  background-color: #005ea2;
+}
