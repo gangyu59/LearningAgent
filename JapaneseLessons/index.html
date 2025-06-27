@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>日语课程智能体</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <h1>日语课程智能体</h1>
+  </header>
+
+  <main style="display: flex;">
+    <!-- 左侧 tab 和列表 -->
+    <aside style="width: 200px; padding: 2px;">
+      <h3 id="lessonLevelSwitcher" style="cursor: pointer; background-color: #d1f5d3;">初级课程</h3>
+
+      <div id="beginnerListContainer" style="display: block;">
+        <ul id="beginnerList"></ul>
+      </div>
+      <div id="intermediateListContainer" style="display: none;">
+        <ul id="intermediateList"></ul>
+      </div>
+      <div id="advancedListContainer" style="display: none;">
+        <ul id="advancedList"></ul>
+      </div>
+    </aside>
+
+    <!-- 右侧展示 -->
+    <section style="flex: 1; padding: 10px;">
+      <div id="beginnerDetails" style="display: block;">
+				
+				<!--
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <h3 id="beginnerTitle" style="margin: 0;">初级课程</h3>
+        </div>
+        <br>
+				
+				
+        <div class="toggle-options">
+          <label><input type="checkbox" id="toggleBeginnerTranslation" /> 显示中文</label>
+          <label><input type="checkbox" id="toggleBeginnerRomaji" style="margin-left: 16px;"/> 显示罗马音</label>
+        </div>
+				
+        <hr>
+				-->
+        <div id="beginnerContent"></div>
+      </div>
+
+      <div id="intermediateDetails" style="display: none;">
+				
+				<!--
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <h3 id="intermediateTitle" style="margin: 0;">中级课程</h3>
+        </div>
+        <br>
+        <div class="toggle-options">
+          <label><input type="checkbox" id="toggleIntermediateTranslation" /> 显示中文</label>
+          <label><input type="checkbox" id="toggleIntermediateRomaji" /> 显示罗马音</label>
+        </div>
+        <hr>
+				-->
+        <div id="intermediateContent"></div>
+      </div>
+
+      <div id="advancedDetails" style="display: none;">
+				
+				<!--
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <h3 id="advancedTitle" style="margin: 0;">高级课程</h3>
+        </div>
+        <br>
+        <div class="toggle-options">
+          <label><input type="checkbox" id="toggleAdvancedTranslation" /> 显示中文</label>
+          <label><input type="checkbox" id="toggleAdvancedRomaji" /> 显示罗马音</label>
+        </div>
+        <hr>
+				-->
+        <div id="advancedContent"></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="static/js/utils.js"></script>
+  <script src="static/js/audio.js"></script>
+  <script src="static/js/render.js"></script>
+  <script src="static/js/app.js"></script>
+</body>
+</html>

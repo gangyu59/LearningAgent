@@ -1,1 +1,20 @@
+JapaneseLessons
+├── main.html                # 主页面
+├── css
+│   └── style.css            # 样式文件
+├── data
+│   ├── beginner.json        # 初级课程
+│   ├── intermediate.json    # 中级课程
+│   └── advanced.json        # 高级课程
+└── static
+    └── js
+        ├── app.js           # 页面逻辑（tab 切换、渲染）
+        ├── render.js        # 渲染测试内容
+        └── utils.js         # 工具函数（如加载JSON）
 
+
+左侧：初级课程 / 中级课程 / 高级课程（列表“课程一、课程二、…”）
+右侧：课程标题区域（显示课程标题+选项+提交按钮）
+       ✔ 显示中文
+       ✔ 显示romaji
+       
