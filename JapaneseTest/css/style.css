@@ -1,1 +1,117 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
 
+header {
+  background-color: #f4f4f4;
+  padding: 10px;
+  text-align: center;
+}
+
+main {
+  display: flex;
+  height: calc(100vh - 60px);
+}
+
+/* 左侧边栏统一宽度 */
+aside {
+  width: 100px !important;
+  min-width: 100px !important;
+  max-width: 100px !important;
+  border-right: 1px solid #ddd;
+  background-color: #f9f9f9;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+
+aside h3 {
+  margin: 0;
+  padding: 10px;
+  background-color: #90ee90;
+}
+
+aside ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+aside li {
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+}
+
+aside li:hover {
+  background-color: #eee;
+}
+
+section#testDetails {
+  flex-grow: 1;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.toggle-options {
+  margin-bottom: 10px;
+}
+
+.question-block {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+.options label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="radio"]:checked {
+  accent-color: #007bff; /* 正确默认蓝色 */
+}
+
+.submit-btn {
+  padding: 6px 12px;
+  background-color: #007bff;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.submit-btn:hover {
+  background-color: #0056b3;
+}
+
+.play-audio {
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.play-audio:hover {
+  background-color: #ddd;
+}
+
+.lesson-line {
+  margin: 8px 0;
+  display: flex;
+  align-items: center;
+}
+
+.lesson-line button.play-audio {
+  padding: 2px 6px;
+  font-size: 14px;
+  cursor: pointer;
+  border: 1px solid #aaa;
+  background-color: #f4f4f4;
+  border-radius: 4px;
+}
+
+.lesson-line button.play-audio:hover {
+  background-color: #e0e0e0;
+}
