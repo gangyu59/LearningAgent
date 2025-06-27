@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>日语生词智能体</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <h1>日语生词智能体</h1>
+    <div class="input-group">
+      <input type="text" id="searchWord" placeholder="搜索生词 ..." />
+      <button id="searchBtn">搜索</button>
+    </div>
+  </header>
+
+<main>
+  <!-- 左侧生词本列表 -->
+  <aside id="vocabListContainer">
+    <h3 id="ToggleVocabTitle">生词本</h3>
+    <ul id="vocabList"></ul>
+  </aside>
+
+  <!-- 右侧词汇详细信息 -->
+  <section id="vocabDetails">
+		
+		<h3 id="vocabTitleContainer">
+		  <span id="vocabTitle">词汇</span>
+		    <button id="deleteVocabBtn"
+          style="margin-left: 24px; background-color: red; color: white; transform: scale(1.4); padding: 2px 8px; border: none; border-radius: 4px; cursor: pointer;">删除
+				</button>
+		</h3>
+
+    <p id="vocabMeaning">词义</p>
+
+    <div class="toggle-options">
+      <label><input type="checkbox" id="toggleRomaji" checked> 显示罗马音</label>
+      <label><input type="checkbox" id="toggleTranslation" checked> 显示翻译</label>
+    </div>
+
+    <div id="vocabDialog"></div>
+    <div id="vocabTranslation"></div>
+
+    <div id="vocabAssociations">
+      <h4>联想记忆</h4>
+      <div id="vocabImage"></div>
+      <div id="vocabMnemonic"></div>
+
+      <h4>词汇网络</h4>
+      <div id="vocabNetwork"></div>
+
+      <h4>近义词 / 反义词</h4>
+      <div id="vocabSynAnt"></div>
+    </div>
+  </section>
+	
+	<div id="hourglass">⏳</div>
+</main>
+
+  <script src="static/js/utils.js"></script>
+  <script src="static/js/audio.js"></script>
+  <script src="static/js/render.js"></script>
+	<script src="static/js/ark.js"></script>
+  <script src="static/js/gpt.js"></script>
+  <script src="static/js/app.js"></script>
+</body>
+</html>

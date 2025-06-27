@@ -1,1 +1,35 @@
+✅ 文件结构总览
+
+JapaneseVocabulary/
+├── main.html                     # 主页面（生词本界面）
+│
+├── css/
+│   └── style.css                 # 样式文件，保持与其他模块一致
+│
+├── static/
+│   └── js/
+│       ├── app.js               # 生词本主逻辑（新增/查看/朗读/删除）
+│       ├── utils.js             # 通用工具函数（如 loadJSON）
+│       ├── audio.js             # 语音播放逻辑（重用）
+│       ├── gpt.js               # GPT调用（如生成例句/联想扩展）
+│
+├── data/                         # 可选：用于联想词、图像、练习题
+│   ├── images/                   # 生词相关图片（用于图像联想）
+│   └── tags.json / vocab.json   # 可选：辅助数据
+
+
+⸻
+
+✅ 每个文件职责说明
+
+文件/文件夹	用途说明
+main.html	主入口页面，包含左侧词列表 + 右侧详情卡片
+css/style.css	页面样式，复用你原来的结构与配色逻辑
+static/js/app.js	页面初始化、添加生词、展示词卡、绑定按钮事件
+static/js/utils.js	loadJSON() 等通用函数，已复用
+static/js/audio.js	支持单句朗读、朗读全部、语音选择（已复用）
+static/js/gpt.js	后续扩展 GPT 联想生成（可选）
+data/images/	联想图路径，如 “学校.png”、“餐厅.jpg” 等
+data/vocab.json	可选：初始推荐词汇、公共例句等
+data/tags.json	可选：词类、主题标签（助记联想用）
 
