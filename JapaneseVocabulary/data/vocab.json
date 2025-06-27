@@ -1,1 +1,905 @@
-
+[
+  {
+    "id": 1,
+    "kana": "食べる",
+    "romaji": "taberu",
+    "translation": "吃",
+    "examples": [
+      {
+        "ja": "毎日ご飯を食べます。",
+        "romaji": "Mainichi gohan o tabemasu.",
+        "zh": "每天吃饭。"
+      },
+      {
+        "ja": "りんごを食べたいです。",
+        "romaji": "Ringo o tabetai desu.",
+        "zh": "我想吃苹果。"
+      }
+    ],
+    "association": "“食”像嘴张开，“べ”发音像“呗” → 张嘴吃呗！",
+    "network": ["飲む", "料理", "昼ご飯"],
+    "synonyms": ["摂取する"],
+    "antonyms": ["断食する"]
+  },
+  {
+    "id": 2,
+    "kana": "行く",
+    "romaji": "iku",
+    "translation": "去",
+    "examples": [
+      {
+        "ja": "明日学校に行きます。",
+        "romaji": "Ashita gakkou ni ikimasu.",
+        "zh": "明天去学校。"
+      }
+    ],
+    "association": "“行”是行动、移动 → 去的意思",
+    "network": ["来る", "駅", "旅行"],
+    "synonyms": ["向かう"],
+    "antonyms": ["止まる"]
+  },
+  {
+    "id": 3,
+    "kana": "見る",
+    "romaji": "miru",
+    "translation": "看",
+    "examples": [
+      {
+        "ja": "映画を見ます。",
+        "romaji": "Eiga o mimasu.",
+        "zh": "看电影。"
+      }
+    ],
+    "association": "眼睛看东西 → 视觉动作",
+    "network": ["聞く", "テレビ", "観察"],
+    "synonyms": ["観る"],
+    "antonyms": ["無視する"]
+  },
+  {
+    "id": 4,
+    "kana": "聞く",
+    "romaji": "kiku",
+    "translation": "听",
+    "examples": [
+      {
+        "ja": "音楽を聞きます。",
+        "romaji": "Ongaku o kikimasu.",
+        "zh": "听音乐。"
+      }
+    ],
+    "association": "耳朵功能，常和“見る”对比",
+    "network": ["音楽", "話す", "テレビ"],
+    "synonyms": ["聴く"],
+    "antonyms": ["無視する"]
+  },
+  {
+    "id": 5,
+    "kana": "飲む",
+    "romaji": "nomu",
+    "translation": "喝",
+    "examples": [
+      {
+        "ja": "水を飲みます。",
+        "romaji": "Mizu o nomimasu.",
+        "zh": "喝水。"
+      }
+    ],
+    "association": "口喝东西，“の”像喝水的声音",
+    "network": ["食べる", "ジュース", "コーヒー"],
+    "synonyms": ["摂取する"],
+    "antonyms": ["吐く"]
+  },
+  {
+    "id": 6,
+    "kana": "勉強",
+    "romaji": "benkyou",
+    "translation": "学习",
+    "examples": [
+      {
+        "ja": "日本語を勉強しています。",
+        "romaji": "Nihongo o benkyou shiteimasu.",
+        "zh": "正在学习日语。"
+      }
+    ],
+    "association": "“勉”是努力，“強”是强迫 → 学习要努力",
+    "network": ["先生", "学校", "試験"],
+    "synonyms": ["学習"],
+    "antonyms": ["遊ぶ"]
+  },
+  {
+    "id": 7,
+    "kana": "買う",
+    "romaji": "kau",
+    "translation": "买",
+    "examples": [
+      {
+        "ja": "本を買いました。",
+        "romaji": "Hon o kaimashita.",
+        "zh": "买了书。"
+      }
+    ],
+    "association": "“かう”谐音“靠” → 买东西靠钱",
+    "network": ["店", "売る", "お金"],
+    "synonyms": ["購入する"],
+    "antonyms": ["売る"]
+  },
+  {
+    "id": 8,
+    "kana": "売る",
+    "romaji": "uru",
+    "translation": "卖",
+    "examples": [
+      {
+        "ja": "店で服を売っています。",
+        "romaji": "Mise de fuku o utteimasu.",
+        "zh": "店里在卖衣服。"
+      }
+    ],
+    "association": "“売”是出手商品，与“買”相对",
+    "network": ["買う", "店", "値段"],
+    "synonyms": ["販売する"],
+    "antonyms": ["買う"]
+  },
+  {
+    "id": 9,
+    "kana": "書く",
+    "romaji": "kaku",
+    "translation": "写",
+    "examples": [
+      {
+        "ja": "手紙を書きます。",
+        "romaji": "Tegami o kakimasu.",
+        "zh": "写信。"
+      }
+    ],
+    "association": "“かく”→“卡壳”→写作容易卡壳",
+    "network": ["読む", "文字", "文章"],
+    "synonyms": ["記す"],
+    "antonyms": ["消す"]
+  },
+  {
+    "id": 10,
+    "kana": "読む",
+    "romaji": "yomu",
+    "translation": "读",
+    "examples": [
+      {
+        "ja": "新聞を読みます。",
+        "romaji": "Shinbun o yomimasu.",
+        "zh": "读报纸。"
+      }
+    ],
+    "association": "眼睛 + 理解 → 阅读",
+    "network": ["本", "書く", "勉強"],
+    "synonyms": ["閲覧する"],
+    "antonyms": ["書く"]
+  },
+  {
+    "id": 11,
+    "kana": "寝る",
+    "romaji": "neru",
+    "translation": "睡觉",
+    "examples": [
+      { "ja": "毎晩10時に寝ます。", "romaji": "Maiban juuji ni nemasu.", "zh": "每天晚上十点睡觉。" }
+    ],
+    "association": "“ねる”谐音“呢噜”→ 打呼噜→睡觉",
+    "network": ["起きる", "夢", "布団"],
+    "synonyms": ["就寝する"],
+    "antonyms": ["起きる"]
+  },
+  {
+    "id": 12,
+    "kana": "起きる",
+    "romaji": "okiru",
+    "translation": "起床，醒来",
+    "examples": [
+      { "ja": "6時に起きます。", "romaji": "Rokuji ni okimasu.", "zh": "六点起床。" }
+    ],
+    "association": "“起”字形象，早上起身",
+    "network": ["寝る", "目覚まし", "朝"],
+    "synonyms": ["目覚める"],
+    "antonyms": ["寝る"]
+  },
+  {
+    "id": 13,
+    "kana": "話す",
+    "romaji": "hanasu",
+    "translation": "说话",
+    "examples": [
+      { "ja": "先生と話します。", "romaji": "Sensei to hanashimasu.", "zh": "和老师说话。" }
+    ],
+    "association": "“はなす”像“哈那死”，嘴巴张开说话",
+    "network": ["聞く", "会話", "電話"],
+    "synonyms": ["しゃべる"],
+    "antonyms": ["黙る"]
+  },
+  {
+    "id": 14,
+    "kana": "立つ",
+    "romaji": "tatsu",
+    "translation": "站立",
+    "examples": [
+      { "ja": "席に立ちます。", "romaji": "Seki ni tachimasu.", "zh": "从座位上站起来。" }
+    ],
+    "association": "“たつ”像“塔起”→站立",
+    "network": ["座る", "動く", "歩く"],
+    "synonyms": ["起立する"],
+    "antonyms": ["座る"]
+  },
+  {
+    "id": 15,
+    "kana": "座る",
+    "romaji": "suwaru",
+    "translation": "坐下",
+    "examples": [
+      { "ja": "椅子に座ってください。", "romaji": "Isu ni suwatte kudasai.", "zh": "请坐在椅子上。" }
+    ],
+    "association": "“すわる”→“死窝了”→坐着不动",
+    "network": ["立つ", "椅子", "休む"],
+    "synonyms": ["着席する"],
+    "antonyms": ["立つ"]
+  },
+  {
+    "id": 16,
+    "kana": "買い物",
+    "romaji": "kaimono",
+    "translation": "购物",
+    "examples": [
+      { "ja": "スーパーで買い物をします。", "romaji": "Suupaa de kaimono o shimasu.", "zh": "在超市购物。" }
+    ],
+    "association": "买+物→买东西",
+    "network": ["お金", "店", "買う"],
+    "synonyms": ["ショッピング"],
+    "antonyms": ["節約"]
+  },
+  {
+    "id": 17,
+    "kana": "休む",
+    "romaji": "yasumu",
+    "translation": "休息",
+    "examples": [
+      { "ja": "少し休みましょう。", "romaji": "Sukoshi yasumimashou.", "zh": "稍微休息一下吧。" }
+    ],
+    "association": "“やすむ”谐音“压死姆”→ 太累要休息",
+    "network": ["寝る", "休日", "元気"],
+    "synonyms": ["休憩する"],
+    "antonyms": ["働く"]
+  },
+  {
+    "id": 18,
+    "kana": "働く",
+    "romaji": "hataraku",
+    "translation": "工作",
+    "examples": [
+      { "ja": "会社で働いています。", "romaji": "Kaisha de hataraiteimasu.", "zh": "在公司工作。" }
+    ],
+    "association": "“哈他拉哭” → 辛苦工作",
+    "network": ["会社", "給料", "職場"],
+    "synonyms": ["勤務する"],
+    "antonyms": ["休む"]
+  },
+  {
+    "id": 19,
+    "kana": "早い",
+    "romaji": "hayai",
+    "translation": "早，快",
+    "examples": [
+      { "ja": "今日は早く起きました。", "romaji": "Kyou wa hayaku okimashita.", "zh": "今天起得早。" }
+    ],
+    "association": "“哈呀依”→早起哈欠多",
+    "network": ["時間", "急ぐ", "速い"],
+    "synonyms": ["速い", "迅速"],
+    "antonyms": ["遅い"]
+  },
+  {
+    "id": 20,
+    "kana": "遅い",
+    "romaji": "osoi",
+    "translation": "晚，慢",
+    "examples": [
+      { "ja": "バスが遅れました。", "romaji": "Basu ga okuremashita.", "zh": "公交车晚点了。" }
+    ],
+    "association": "“哦so咦~”拖拖拉拉",
+    "network": ["時間", "遅刻", "交通"],
+    "synonyms": ["緩い"],
+    "antonyms": ["早い"]
+  },
+  {
+    "id": 21,
+    "kana": "楽しい",
+    "romaji": "tanoshii",
+    "translation": "愉快，开心",
+    "examples": [
+      { "ja": "旅行は楽しかったです。", "romaji": "Ryokou wa tanoshikatta desu.", "zh": "旅行很愉快。" }
+    ],
+    "association": "“他no喜” → 他喜我喜",
+    "network": ["笑う", "遊ぶ", "友達"],
+    "synonyms": ["愉快な"],
+    "antonyms": ["悲しい"]
+  },
+  {
+    "id": 22,
+    "kana": "悲しい",
+    "romaji": "kanashii",
+    "translation": "悲伤",
+    "examples": [
+      { "ja": "悲しい映画を見ました。", "romaji": "Kanashii eiga o mimashita.", "zh": "看了悲伤的电影。" }
+    ],
+    "association": "“悲”字眼泪直流",
+    "network": ["涙", "寂しい", "死"],
+    "synonyms": ["哀しい"],
+    "antonyms": ["楽しい"]
+  },
+  {
+    "id": 23,
+    "kana": "暑い",
+    "romaji": "atsui",
+    "translation": "热",
+    "examples": [
+      { "ja": "今日はとても暑いです。", "romaji": "Kyou wa totemo atsui desu.", "zh": "今天非常热。" }
+    ],
+    "association": "“啊~吹~”吹风扇降温",
+    "network": ["夏", "汗", "太陽"],
+    "synonyms": ["熱い"],
+    "antonyms": ["寒い"]
+  },
+  {
+    "id": 24,
+    "kana": "寒い",
+    "romaji": "samui",
+    "translation": "冷",
+    "examples": [
+      { "ja": "冬は寒いです。", "romaji": "Fuyu wa samui desu.", "zh": "冬天很冷。" }
+    ],
+    "association": "“撒姆衣”→多穿点衣服",
+    "network": ["冬", "風邪", "暖かい"],
+    "synonyms": ["冷たい"],
+    "antonyms": ["暑い"]
+  },
+  {
+    "id": 25,
+    "kana": "大きい",
+    "romaji": "ookii",
+    "translation": "大",
+    "examples": [
+      { "ja": "大きな家ですね。", "romaji": "Ookina ie desu ne.", "zh": "真大房子啊。" }
+    ],
+    "association": "“おおきい” → 发音气势大",
+    "network": ["小さい", "巨大", "広い"],
+    "synonyms": ["巨大な"],
+    "antonyms": ["小さい"]
+  },
+  {
+    "id": 26,
+    "kana": "小さい",
+    "romaji": "chiisai",
+    "translation": "小",
+    "examples": [
+      { "ja": "小さい猫がいます。", "romaji": "Chiisai neko ga imasu.", "zh": "有一只小猫。" }
+    ],
+    "association": "“ちいさい”→“啾~”→小巧可爱",
+    "network": ["大きい", "狭い", "子供"],
+    "synonyms": ["微小な"],
+    "antonyms": ["大きい"]
+  },
+  {
+    "id": 41,
+    "kana": "青い",
+    "romaji": "aoi",
+    "translation": "蓝色的",
+    "examples": [
+      { "ja": "青い空がきれいです。", "romaji": "Aoi sora ga kirei desu.", "zh": "蓝色的天空很美。" }
+    ],
+    "association": "“あおい” → “哎呦依”→ 蓝天让人惊叹",
+    "network": ["色", "空", "海"],
+    "synonyms": ["ブルーの"],
+    "antonyms": ["赤い"]
+  },
+  {
+    "id": 42,
+    "kana": "赤い",
+    "romaji": "akai",
+    "translation": "红色的",
+    "examples": [
+      { "ja": "赤い花を買いました。", "romaji": "Akai hana o kaimashita.", "zh": "买了红色的花。" }
+    ],
+    "association": "“あかい” → 像火一样红",
+    "network": ["色", "花", "血"],
+    "synonyms": ["レッドの"],
+    "antonyms": ["青い"]
+  },
+  {
+    "id": 43,
+    "kana": "白い",
+    "romaji": "shiroi",
+    "translation": "白色的",
+    "examples": [
+      { "ja": "雪は白いです。", "romaji": "Yuki wa shiroi desu.", "zh": "雪是白色的。" }
+    ],
+    "association": "“しろい” → 洁白无瑕",
+    "network": ["雪", "雲", "ミルク"],
+    "synonyms": ["ホワイト"],
+    "antonyms": ["黒い"]
+  },
+  {
+    "id": 44,
+    "kana": "黒い",
+    "romaji": "kuroi",
+    "translation": "黑色的",
+    "examples": [
+      { "ja": "黒い犬が走っています。", "romaji": "Kuroi inu ga hashitteimasu.", "zh": "一只黑狗在跑。" }
+    ],
+    "association": "“くろい” → 黑影匆匆",
+    "network": ["色", "夜", "服"],
+    "synonyms": ["ブラック"],
+    "antonyms": ["白い"]
+  },
+  {
+    "id": 45,
+    "kana": "新しい",
+    "romaji": "atarashii",
+    "translation": "新的",
+    "examples": [
+      { "ja": "新しいスマホを買いました。", "romaji": "Atarashii sumaho o kaimashita.", "zh": "买了新手机。" }
+    ],
+    "association": "“あたらしい” → 新的开始",
+    "network": ["古い", "買う", "使う"],
+    "synonyms": ["最新の"],
+    "antonyms": ["古い"]
+  },
+  {
+    "id": 46,
+    "kana": "古い",
+    "romaji": "furui",
+    "translation": "旧的",
+    "examples": [
+      { "ja": "古い本があります。", "romaji": "Furui hon ga arimasu.", "zh": "有本旧书。" }
+    ],
+    "association": "“ふるい” → 发霉老旧感",
+    "network": ["新しい", "歴史", "建物"],
+    "synonyms": ["古代の"],
+    "antonyms": ["新しい"]
+  },
+  {
+    "id": 47,
+    "kana": "難しい",
+    "romaji": "muzukashii",
+    "translation": "难的，复杂的",
+    "examples": [
+      { "ja": "この問題は難しいです。", "romaji": "Kono mondai wa muzukashii desu.", "zh": "这个问题很难。" }
+    ],
+    "association": "“むずかしい”发音困难 → 很难",
+    "network": ["問題", "勉強", "挑戦"],
+    "synonyms": ["複雑な"],
+    "antonyms": ["簡単な"]
+  },
+  {
+    "id": 48,
+    "kana": "簡単",
+    "romaji": "kantan",
+    "translation": "简单的",
+    "examples": [
+      { "ja": "これは簡単なテストです。", "romaji": "Kore wa kantan na tesuto desu.", "zh": "这是简单的测试。" }
+    ],
+    "association": "“看弹”就中→容易命中",
+    "network": ["易しい", "練習", "理解"],
+    "synonyms": ["易しい"],
+    "antonyms": ["難しい"]
+  },
+  {
+    "id": 49,
+    "kana": "高い",
+    "romaji": "takai",
+    "translation": "高的、贵的",
+    "examples": [
+      { "ja": "この服は高いです。", "romaji": "Kono fuku wa takai desu.", "zh": "这件衣服很贵。" }
+    ],
+    "association": "“他开”价 → 很贵",
+    "network": ["値段", "山", "建物"],
+    "synonyms": ["高価な"],
+    "antonyms": ["安い"]
+  },
+  {
+    "id": 50,
+    "kana": "安い",
+    "romaji": "yasui",
+    "translation": "便宜",
+    "examples": [
+      { "ja": "このお菓子は安いです。", "romaji": "Kono okashi wa yasui desu.", "zh": "这个点心很便宜。" }
+    ],
+    "association": "“やすい” → 谐音“压岁”→ 钱少",
+    "network": ["値段", "買う", "セール"],
+    "synonyms": ["低価格"],
+    "antonyms": ["高い"]
+  },
+  {
+    "id": 51,
+    "kana": "楽",
+    "romaji": "raku",
+    "translation": "轻松，舒适",
+    "examples": [
+      { "ja": "今日は仕事が楽です。", "romaji": "Kyou wa shigoto ga raku desu.", "zh": "今天工作轻松。" }
+    ],
+    "association": "“らく”→像拉伸后轻松",
+    "network": ["簡単", "楽しい", "休む"],
+    "synonyms": ["快適"],
+    "antonyms": ["大変"]
+  },
+  {
+    "id": 52,
+    "kana": "大変",
+    "romaji": "taihen",
+    "translation": "辛苦，糟糕",
+    "examples": [
+      { "ja": "それは大変ですね。", "romaji": "Sore wa taihen desu ne.", "zh": "那可真糟糕啊。" }
+    ],
+    "association": "“太狠” → 太糟了",
+    "network": ["難しい", "問題", "苦労"],
+    "synonyms": ["面倒"],
+    "antonyms": ["楽"]
+  },
+  {
+    "id": 53,
+    "kana": "速い",
+    "romaji": "hayai",
+    "translation": "快的（速度）",
+    "examples": [
+      { "ja": "この車は速いです。", "romaji": "Kono kuruma wa hayai desu.", "zh": "这辆车很快。" }
+    ],
+    "association": "“哗呀咦” → 飙车声",
+    "network": ["早い", "急ぐ", "走る"],
+    "synonyms": ["迅速な"],
+    "antonyms": ["遅い"]
+  },
+  {
+    "id": 54,
+    "kana": "強い",
+    "romaji": "tsuyoi",
+    "translation": "强壮，坚强",
+    "examples": [
+      { "ja": "彼はとても強いです。", "romaji": "Kare wa totemo tsuyoi desu.", "zh": "他非常强壮。" }
+    ],
+    "association": "“强”音强烈，力量",
+    "network": ["体", "力", "戦う"],
+    "synonyms": ["丈夫な"],
+    "antonyms": ["弱い"]
+  },
+  {
+    "id": 55,
+    "kana": "弱い",
+    "romaji": "yowai",
+    "translation": "弱的",
+    "examples": [
+      { "ja": "私はお酒に弱いです。", "romaji": "Watashi wa osake ni yowai desu.", "zh": "我不胜酒力。" }
+    ],
+    "association": "“哟哇依” → 软趴趴",
+    "network": ["体", "力", "強い"],
+    "synonyms": ["脆弱な"],
+    "antonyms": ["強い"]
+  },
+  {
+    "id": 56,
+    "kana": "広い",
+    "romaji": "hiroi",
+    "translation": "宽广的",
+    "examples": [
+      { "ja": "広い公園があります。", "romaji": "Hiroi kouen ga arimasu.", "zh": "有一个很大的公园。" }
+    ],
+    "association": "“ひろい” → 像“hill”一样广",
+    "network": ["大きい", "空間", "自由"],
+    "synonyms": ["広大な"],
+    "antonyms": ["狭い"]
+  },
+  {
+    "id": 57,
+    "kana": "狭い",
+    "romaji": "semai",
+    "translation": "狭小的",
+    "examples": [
+      { "ja": "この部屋は狭いです。", "romaji": "Kono heya wa semai desu.", "zh": "这个房间很小。" }
+    ],
+    "association": "“せまい”→“塞满了”",
+    "network": ["小さい", "空間", "部屋"],
+    "synonyms": ["窮屈な"],
+    "antonyms": ["広い"]
+  },
+  {
+    "id": 58,
+    "kana": "重い",
+    "romaji": "omoi",
+    "translation": "重的",
+    "examples": [
+      { "ja": "この荷物は重いです。", "romaji": "Kono nimotsu wa omoi desu.", "zh": "这件行李很重。" }
+    ],
+    "association": "“おもい”→“哦~my” → 太重了",
+    "network": ["軽い", "荷物", "持つ"],
+    "synonyms": ["重量のある"],
+    "antonyms": ["軽い"]
+  },
+  {
+    "id": 59,
+    "kana": "軽い",
+    "romaji": "karui",
+    "translation": "轻的",
+    "examples": [
+      { "ja": "この箱は軽いです。", "romaji": "Kono hako wa karui desu.", "zh": "这个箱子很轻。" }
+    ],
+    "association": "“轻轻一抬”→ 轻便",
+    "network": ["重い", "荷物", "風"],
+    "synonyms": ["軽量"],
+    "antonyms": ["重い"]
+  },
+  {
+    "id": 60,
+    "kana": "面白い",
+    "romaji": "omoshiroi",
+    "translation": "有趣的",
+    "examples": [
+      { "ja": "その話は面白いです。", "romaji": "Sono hanashi wa omoshiroi desu.", "zh": "那个故事很有趣。" }
+    ],
+    "association": "“面白”→ 表情丰富",
+    "network": ["楽しい", "漫画", "本"],
+    "synonyms": ["興味深い"],
+    "antonyms": ["つまらない"]
+  },
+  {
+    "id": 61,
+    "kana": "授業",
+    "romaji": "jugyou",
+    "translation": "上课，授课",
+    "examples": [
+      { "ja": "授業が始まりました。", "romaji": "Jugyou ga hajimarimashita.", "zh": "上课开始了。" }
+    ],
+    "association": "“就给我”上课用的知识",
+    "network": ["先生", "教室", "学生"],
+    "synonyms": ["講義"],
+    "antonyms": ["休講"]
+  },
+  {
+    "id": 62,
+    "kana": "地下鉄",
+    "romaji": "chikatetsu",
+    "translation": "地铁",
+    "examples": [
+      { "ja": "地下鉄で通勤しています。", "romaji": "Chikatetsu de tsuukin shiteimasu.", "zh": "我乘地铁通勤。" }
+    ],
+    "association": "“地下铁”直接联想地铁",
+    "network": ["駅", "交通", "電車"],
+    "synonyms": ["メトロ"],
+    "antonyms": ["徒歩"]
+  },
+  {
+    "id": 63,
+    "kana": "料理",
+    "romaji": "ryouri",
+    "translation": "料理，做饭",
+    "examples": [
+      { "ja": "私は料理が得意です。", "romaji": "Watashi wa ryouri ga tokui desu.", "zh": "我很擅长做饭。" }
+    ],
+    "association": "“溜溜日”天天做饭",
+    "network": ["台所", "食事", "味"],
+    "synonyms": ["クッキング"],
+    "antonyms": ["外食"]
+  },
+  {
+    "id": 64,
+    "kana": "音楽",
+    "romaji": "ongaku",
+    "translation": "音乐",
+    "examples": [
+      { "ja": "音楽を聴くのが好きです。", "romaji": "Ongaku o kiku no ga suki desu.", "zh": "我喜欢听音乐。" }
+    ],
+    "association": "“音がく” 音到就快乐",
+    "network": ["歌", "ダンス", "CD"],
+    "synonyms": ["メロディー"],
+    "antonyms": ["騒音"]
+  },
+  {
+    "id": 65,
+    "kana": "図書館",
+    "romaji": "toshokan",
+    "translation": "图书馆",
+    "examples": [
+      { "ja": "図書館で本を借りました。", "romaji": "Toshokan de hon o karimashita.", "zh": "我在图书馆借了书。" }
+    ],
+    "association": "“图书勘”看书的地方",
+    "network": ["本", "静か", "勉強"],
+    "synonyms": ["ライブラリー"],
+    "antonyms": ["遊園地"]
+  },
+  {
+    "id": 66,
+    "kana": "花火",
+    "romaji": "hanabi",
+    "translation": "烟花",
+    "examples": [
+      { "ja": "花火大会に行きました。", "romaji": "Hanabi taikai ni ikimashita.", "zh": "我去了烟花大会。" }
+    ],
+    "association": "“花”和“火”的结合",
+    "network": ["祭り", "夜空", "カメラ"],
+    "synonyms": ["打ち上げ花火"],
+    "antonyms": ["消火"]
+  },
+  {
+    "id": 67,
+    "kana": "携帯電話",
+    "romaji": "keitai denwa",
+    "translation": "手机",
+    "examples": [
+      { "ja": "携帯電話を忘れました。", "romaji": "Keitai denwa o wasuremashita.", "zh": "我忘了带手机。" }
+    ],
+    "association": "“可以带”电话",
+    "network": ["スマホ", "通信", "アプリ"],
+    "synonyms": ["スマートフォン"],
+    "antonyms": ["固定電話"]
+  },
+  {
+    "id": 68,
+    "kana": "空港",
+    "romaji": "kuukou",
+    "translation": "机场",
+    "examples": [
+      { "ja": "空港まで車で行きます。", "romaji": "Kuukou made kuruma de ikimasu.", "zh": "我开车去机场。" }
+    ],
+    "association": "“空的口” 飞机出入口",
+    "network": ["飛行機", "チェックイン", "荷物"],
+    "synonyms": ["エアポート"],
+    "antonyms": ["駅"]
+  },
+  {
+    "id": 69,
+    "kana": "自転車",
+    "romaji": "jitensha",
+    "translation": "自行车",
+    "examples": [
+      { "ja": "毎日自転車で通学します。", "romaji": "Mainichi jitensha de tsuugaku shimasu.", "zh": "我每天骑自行车上学。" }
+    ],
+    "association": "“自己转车”靠自己踩",
+    "network": ["ヘルメット", "道路", "通勤"],
+    "synonyms": ["チャリ"],
+    "antonyms": ["バス"]
+  },
+  {
+    "id": 70,
+    "kana": "試験",
+    "romaji": "shiken",
+    "translation": "考试",
+    "examples": [
+      { "ja": "明日、試験があります。", "romaji": "Ashita, shiken ga arimasu.", "zh": "明天有考试。" }
+    ],
+    "association": "“是考验” → 测试",
+    "network": ["問題", "答案", "勉強"],
+    "synonyms": ["テスト"],
+    "antonyms": ["休暇"]
+  },
+  {
+    "id": 71,
+    "kana": "郵便局",
+    "romaji": "yuubinkyoku",
+    "translation": "邮局",
+    "examples": [
+      { "ja": "郵便局で手紙を出しました。", "romaji": "Yuubinkyoku de tegami o dashimashita.", "zh": "我在邮局寄了信。" }
+    ],
+    "association": "“邮便局”直接联想邮政",
+    "network": ["切手", "手紙", "荷物"],
+    "synonyms": ["ポストオフィス"],
+    "antonyms": ["宅配"]
+  },
+  {
+    "id": 72,
+    "kana": "新聞",
+    "romaji": "shinbun",
+    "translation": "报纸",
+    "examples": [
+      { "ja": "新聞を読みます。", "romaji": "Shinbun o yomimasu.", "zh": "我看报纸。" }
+    ],
+    "association": "“新闻” = 新的文章",
+    "network": ["ニュース", "朝", "記事"],
+    "synonyms": ["ニュースペーパー"],
+    "antonyms": ["雑誌"]
+  },
+  {
+    "id": 73,
+    "kana": "運動",
+    "romaji": "undou",
+    "translation": "运动",
+    "examples": [
+      { "ja": "毎朝運動しています。", "romaji": "Maiasa undou shiteimasu.", "zh": "我每天早上运动。" }
+    ],
+    "association": "“运”动身体",
+    "network": ["走る", "健康", "運動会"],
+    "synonyms": ["スポーツ"],
+    "antonyms": ["安静"]
+  },
+  {
+    "id": 74,
+    "kana": "掃除",
+    "romaji": "souji",
+    "translation": "打扫",
+    "examples": [
+      { "ja": "部屋を掃除しました。", "romaji": "Heya o souji shimashita.", "zh": "我打扫了房间。" }
+    ],
+    "association": "“搜集”垃圾→打扫",
+    "network": ["部屋", "モップ", "綺麗"],
+    "synonyms": ["清掃"],
+    "antonyms": ["汚す"]
+  },
+  {
+    "id": 75,
+    "kana": "冷蔵庫",
+    "romaji": "reizouko",
+    "translation": "冰箱",
+    "examples": [
+      { "ja": "冷蔵庫に野菜があります。", "romaji": "Reizouko ni yasai ga arimasu.", "zh": "冰箱里有蔬菜。" }
+    ],
+    "association": "冷藏东西的箱子",
+    "network": ["料理", "保存", "飲み物"],
+    "synonyms": ["フリッジ"],
+    "antonyms": ["加熱"]
+  },
+  {
+    "id": 76,
+    "kana": "動物",
+    "romaji": "doubutsu",
+    "translation": "动物",
+    "examples": [
+      { "ja": "動物園へ行きました。", "romaji": "Doubutsuen e ikimashita.", "zh": "去了动物园。" }
+    ],
+    "association": "“动的物”",
+    "network": ["猫", "犬", "猿"],
+    "synonyms": ["ビースト"],
+    "antonyms": ["植物"]
+  },
+  {
+    "id": 77,
+    "kana": "銀行",
+    "romaji": "ginkou",
+    "translation": "银行",
+    "examples": [
+      { "ja": "銀行でお金を下ろしました。", "romaji": "Ginkou de okane o oroshimashita.", "zh": "我在银行取了钱。" }
+    ],
+    "association": "“银”钱的“行”业",
+    "network": ["ATM", "口座", "振込"],
+    "synonyms": ["バンク"],
+    "antonyms": ["現金"]
+  },
+  {
+    "id": 78,
+    "kana": "英語",
+    "romaji": "eigo",
+    "translation": "英语",
+    "examples": [
+      { "ja": "英語を勉強しています。", "romaji": "Eigo o benkyou shiteimasu.", "zh": "我在学英语。" }
+    ],
+    "association": "英格兰的语言",
+    "network": ["言語", "外国", "学校"],
+    "synonyms": ["イングリッシュ"],
+    "antonyms": ["日本語"]
+  },
+  {
+    "id": 79,
+    "kana": "水曜日",
+    "romaji": "suiyoubi",
+    "translation": "星期三",
+    "examples": [
+      { "ja": "水曜日はテストです。", "romaji": "Suiyoubi wa tesuto desu.", "zh": "星期三考试。" }
+    ],
+    "association": "水之日",
+    "network": ["曜日", "カレンダー", "週"],
+    "synonyms": [],
+    "antonyms": []
+  },
+  {
+    "id": 80,
+    "kana": "電気",
+    "romaji": "denki",
+    "translation": "电",
+    "examples": [
+      { "ja": "電気を消してください。", "romaji": "Denki o keshite kudasai.", "zh": "请关掉电。" }
+    ],
+    "association": "电的气体",
+    "network": ["スイッチ", "家電", "明かり"],
+    "synonyms": ["エレクトリック"],
+    "antonyms": ["停電"]
+  }
+]
