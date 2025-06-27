@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>翻译智能体</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<h1>翻译智能体</h1>
+	<br><br>
+	
+	<div class="form-row">
+	  <label for="inputLang">输入语言：</label>
+	  <select id="inputLang">
+	    <option value="zh" selected>中文</option>
+	    <option value="en">英文</option>
+	    <option value="ja">日文</option>
+	  </select>
+	
+	  <label for="outputLang">输出语言：</label>
+	  <select id="outputLang">
+	    <option value="ja" selected>日文</option>
+	    <option value="zh">中文</option>
+	    <option value="en">英文</option>
+	  </select>
+	
+	  <label for="aiModel">AI模型：</label>
+	  <select id="aiModel">
+	    <option value="DEEPSEEK">DeepSeek</option>
+	    <option value="ARK">ARK</option>
+	  </select>
+	</div>
+	
+	<div class="form-row">
+	  <textarea id="userInput" placeholder="请输入要翻译的内容"></textarea>
+	</div>
+	
+	<div class="form-row">
+	  <button id="translateBtn">翻译</button>
+	</div>
+	
+	<div id="output"></div>
+
+	<script src="scripts/config.js"></script>
+	<script src="scripts/prompt.js"></script>   
+	<script src="scripts/aiService.js"></script>    
+	<script src="scripts/translator.js"></script> 
+	<script src="scripts/audio.js"></script>
+	<script src="scripts/main.js"></script>         
+</body>
+</html>
