@@ -1,143 +1,238 @@
+/* TranslatorAgent — Module Color: Teal #00796B */
+
+:root {
+  --module-color: #00796B;
+  --module-gradient: linear-gradient(135deg, #00796B 0%, #26A69A 100%);
+  --font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", sans-serif;
+  --color-bg: #F0FAF9;
+  --color-bg-card: #FFFFFF;
+  --color-text: #1A1A2E;
+  --color-text-secondary: #5C5C7B;
+  --color-text-light: #9999BB;
+  --color-border: #D0EEEB;
+  --shadow-card: 0 2px 16px rgba(0,121,107,0.08);
+  --shadow-header: 0 2px 12px rgba(0,121,107,0.18);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
 body {
-  font-family: "Helvetica Neue", sans-serif;
-  background-color: #eef6fc;
   margin: 0;
-  padding: 16px;
+  padding: 0;
+  font-family: var(--font-family);
+  background: var(--color-bg);
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+
+/* ── Page Header ── */
+.page-header {
+  background: var(--module-gradient);
+  padding: 14px 16px 12px;
+  box-shadow: var(--shadow-header);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.page-header h1 {
+  margin: 0;
   font-size: 18px;
-  color: #222;
+  font-weight: 700;
+  color: #fff;
 }
 
-h1 {
-  text-align: center;
-  color: #003366;
-  margin-bottom: -30px;
-  font-size: 24px;
+/* ── Main Form Card ── */
+.translator-card {
+  margin: 16px;
+  background: var(--color-bg-card);
+  border-radius: 16px;
+  box-shadow: var(--shadow-card);
+  border: 1px solid var(--color-border);
+  overflow: hidden;
 }
 
-label {
-  font-weight: bold;
-	font-size: 16px;
-  margin-right:0px;
-}
-
-select,
-textarea,
-button {
-  font-size: 16px;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-	margin-right: 20px;
-}
-
-textarea {
-  width: 100%;
-  height: 80px;
-  resize: vertical;
-  margin-bottom: 16px;
-}
-
-select[multiple] {
-  height: auto;
-}
-
+/* ── Form Row ── */
 .form-row {
   display: flex;
   flex-wrap: wrap;
-  align-items: left;
-  gap: 12px;
-  margin-bottom: 12px;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--color-border);
 }
 
-button {
-  background-color: #0078d4;
-  color: white;
-  border: none;
-  border-radius: 6px;
-  padding: 10px 20px;
+.form-row:last-child {
+  border-bottom: none;
+}
+
+.form-row label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-text-secondary);
+  white-space: nowrap;
+}
+
+/* ── Selects ── */
+select {
+  padding: 8px 12px;
+  font-size: 14px;
+  font-family: var(--font-family);
+  background: var(--color-bg);
+  border: 1.5px solid var(--color-border);
+  border-radius: 999px;
+  color: var(--color-text);
+  outline: none;
   cursor: pointer;
+  transition: border-color 0.15s;
 }
 
-button:hover {
-  background-color: #005ea2;
+select:focus {
+  border-color: var(--module-color);
 }
 
-/* 修复后的CSS */
+/* ── Textarea ── */
+textarea {
+  width: 100%;
+  min-height: 80px;
+  padding: 12px 14px;
+  font-size: 15px;
+  font-family: var(--font-family);
+  background: var(--color-bg);
+  border: 1.5px solid var(--color-border);
+  border-radius: 12px;
+  color: var(--color-text);
+  outline: none;
+  resize: vertical;
+  transition: border-color 0.15s;
+  line-height: 1.6;
+}
+
+textarea:focus {
+  border-color: var(--module-color);
+  box-shadow: 0 0 0 3px rgba(0,121,107,0.08);
+}
+
+textarea::placeholder {
+  color: var(--color-text-light);
+}
+
+/* ── Translate Button ── */
+button,
+#translateBtn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 10px 24px;
+  font-size: 14px;
+  font-family: var(--font-family);
+  font-weight: 600;
+  background: var(--module-gradient);
+  color: #fff;
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.15s;
+  box-shadow: 0 2px 8px rgba(0,121,107,0.2);
+}
+
+button:hover,
+#translateBtn:hover {
+  opacity: 0.9;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(0,121,107,0.3);
+}
+
+button:active,
+#translateBtn:active {
+  transform: translateY(0);
+}
+
+/* ── Output ── */
 #output {
-  background-color: #fff;
-  border: 1px solid #ccc;
-  padding: 16px;
-  border-radius: 6px;
-  min-height: 560px;
-  box-sizing: border-box;
+  margin: 0 16px 16px;
+  background: var(--color-bg-card);
+  border-radius: 16px;
+  border: 1px solid var(--color-border);
+  padding: 18px;
+  min-height: 200px;
+  box-shadow: var(--shadow-card);
+  font-size: 16px;
+  line-height: 1.7;
   white-space: pre-wrap;
-  line-height: 1.5;
-  font-size: 24px; /* 统一字体大小 */
-  text-align: left;
+  color: var(--color-text);
 }
 
-/* 内容区域 */
+/* ── Output sections ── */
 .output-section {
-  margin-top: -100px;
+  margin-top: 0;
   padding: 0;
   display: block;
 }
 
-/* 部分标题 */
 .section-title {
-  font-weight: bold;
-  font-size: 20px; /* 与内容一致 */
+  font-weight: 700;
+  font-size: 14px;
   display: block;
-	margin-top: -40px;
-  margin-bottom: 0px;
+  margin-bottom: 6px;
+  color: var(--module-color);
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
 }
 
-/* 行内内容布局 */
 .content-row {
   display: flex;
   align-items: center;
   gap: 8px;
-  font-size: 24px; /* 确保字体大小 */
-  margin-top: -40px;
+  font-size: 16px;
+  margin-bottom: 6px;
 }
 
-/* 块级内容 */
 .content-block {
   display: block;
-  margin-top: -40px;
-  font-size: 18px; /* 确保字体大小 */
+  font-size: 15px;
+  margin-bottom: 4px;
 }
 
-/* 罗马音文本 */
 .romaji-text {
-  font-size: 18px; /* 确保字体大小 */
+  font-size: 13px;
   font-style: italic;
-	margin-top: -20px;
+  color: var(--color-text-secondary);
 }
 
-/* 生词列表 */
 .vocab-list {
-  padding-left: 20px;
-  margin-top: -100px;
-  font-size: 18px; /* 确保字体大小 */
+  padding-left: 18px;
+  font-size: 14px;
 }
 
-/* 生词项 */
 .vocab-item {
-  margin-bottom: 0px;
+  margin-bottom: 4px;
 }
 
-/* 内联按钮 */
-.inline-btn {
-  font-size: 24px; /* 确保字体大小 */
-  padding: 4px 8px;
-  border: 1px solid #888;
-  border-radius: 4px;
-  background: #eee;
-  color: #0078d4;
-  cursor: pointer;
-  display: inline-flex; /* 保持按钮对齐 */
+/* ── Inline play button ── */
+.inline-btn,
+.play-audio {
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  height: 28px; /* 固定高度保持对齐 */
+  padding: 3px 10px;
+  font-size: 12px;
+  font-family: var(--font-family);
+  font-weight: 600;
+  background: var(--module-color);
+  color: #fff;
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.15s;
+  vertical-align: middle;
+  margin-left: 6px;
+}
+
+.inline-btn:hover,
+.play-audio:hover {
+  opacity: 0.85;
+  transform: scale(1.04);
 }

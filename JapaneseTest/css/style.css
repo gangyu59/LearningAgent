@@ -1,117 +1,334 @@
+/* JapaneseTest — Module Color: Deep Orange #BF360C */
+
+:root {
+  --module-color: #BF360C;
+  --module-gradient: linear-gradient(135deg, #BF360C 0%, #FF7043 100%);
+  --font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", sans-serif;
+  --color-bg: #FFF3EE;
+  --color-bg-card: #FFFFFF;
+  --color-text: #1A1A2E;
+  --color-text-secondary: #5C5C7B;
+  --color-text-light: #9999BB;
+  --color-border: #FFCCBC;
+  --color-divider: #FBE9E7;
+  --shadow-card: 0 2px 16px rgba(191,54,12,0.08);
+  --shadow-header: 0 2px 12px rgba(191,54,12,0.18);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: var(--font-family);
+  background: var(--color-bg);
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
 }
 
+/* ── Header ── */
 header {
-  background-color: #f4f4f4;
-  padding: 10px;
-  text-align: center;
+  background: var(--module-gradient);
+  padding: 12px 14px 10px;
+  box-shadow: var(--shadow-header);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
 
+.header-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+}
+
+/* ── Generate Button (header) ── */
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+#generateTestBtn {
+  padding: 8px 18px;
+  font-size: 13px;
+  font-family: var(--font-family);
+  font-weight: 600;
+  background: #fff;
+  color: var(--module-color);
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.15s;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+#generateTestBtn:hover {
+  background: rgba(255,255,255,0.88);
+  transform: translateY(-1px);
+}
+
+/* ── Level Tabs ── */
+.level-tabs-bar {
+  display: flex;
+  background: rgba(255,255,255,0.12);
+  border-radius: 999px;
+  padding: 3px;
+  gap: 2px;
+}
+
+.level-tab-btn {
+  flex: 1;
+  padding: 5px 8px;
+  border: none;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: var(--font-family);
+  cursor: pointer;
+  transition: all 0.15s;
+  background: transparent;
+  color: rgba(255,255,255,0.75);
+}
+
+.level-tab-btn.active {
+  background: #fff;
+  color: var(--module-color);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+}
+
+/* ── Hourglass (loading) ── */
+#hourglass {
+  display: none;
+  text-align: center;
+  font-size: 13px;
+  color: rgba(255,255,255,0.85);
+  padding: 4px;
+}
+
+/* ── Layout ── */
 main {
   display: flex;
-  height: calc(100vh - 60px);
+  height: calc(100vh - 110px);
+  overflow: hidden;
 }
 
-/* 左侧边栏统一宽度 */
+/* ── Sidebar ── */
 aside {
-  width: 100px !important;
-  min-width: 100px !important;
-  max-width: 100px !important;
-  border-right: 1px solid #ddd;
-  background-color: #f9f9f9;
+  width: 110px !important;
+  min-width: 110px !important;
+  max-width: 110px !important;
+  background: var(--color-bg-card);
+  border-right: 1px solid var(--color-border);
   overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
   box-sizing: border-box;
+  flex-shrink: 0;
 }
 
 aside h3 {
   margin: 0;
   padding: 10px;
-  background-color: #90ee90;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: #fff;
+  background: var(--module-color);
+  cursor: pointer;
 }
 
 aside ul {
   list-style: none;
-  padding: 0;
+  padding: 6px 0;
   margin: 0;
 }
 
 aside li {
   padding: 10px;
+  font-size: 13px;
+  color: var(--color-text);
   cursor: pointer;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid var(--color-divider);
+  line-height: 1.35;
+  transition: background 0.15s, color 0.15s;
 }
 
-aside li:hover {
-  background-color: #eee;
+aside li:hover { background: var(--color-bg); }
+
+aside li.selected {
+  background: #FBE9E7;
+  color: var(--module-color);
+  font-weight: 600;
+  border-left: 3px solid var(--module-color);
 }
 
-section#testDetails {
-  flex-grow: 1;
-  padding: 20px;
+/* ── Right Content ── */
+section {
+  flex: 1;
   overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 14px;
+  background: var(--color-bg);
 }
 
-.toggle-options {
-  margin-bottom: 10px;
-}
-
-.question-block {
-  margin-bottom: 20px;
-  border-bottom: 1px solid #ccc;
-  padding-bottom: 10px;
-}
-
-.options label {
-  display: block;
-  margin-bottom: 5px;
-}
-
-input[type="radio"]:checked {
-  accent-color: #007bff; /* 正确默认蓝色 */
-}
-
-.submit-btn {
-  padding: 6px 12px;
-  background-color: #007bff;
-  border: none;
-  color: white;
-  border-radius: 5px;
-  font-size: 14px;
-  cursor: pointer;
-}
-
-.submit-btn:hover {
-  background-color: #0056b3;
-}
-
-.play-audio {
-  background-color: #eee;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-.play-audio:hover {
-  background-color: #ddd;
-}
-
-.lesson-line {
-  margin: 8px 0;
+/* Content header with title + delete btn */
+.content-title-row {
   display: flex;
   align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--color-border);
 }
 
-.lesson-line button.play-audio {
-  padding: 2px 6px;
-  font-size: 14px;
+.content-title-row h3 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+/* Delete button */
+button[id^="deleteTestBtn"] {
+  padding: 5px 14px;
+  font-size: 12px;
+  font-family: var(--font-family);
+  font-weight: 600;
+  background: #FFEBEE;
+  color: #C62828;
+  border: 1.5px solid #FFCDD2;
+  border-radius: 999px;
   cursor: pointer;
-  border: 1px solid #aaa;
-  background-color: #f4f4f4;
-  border-radius: 4px;
+  transition: all 0.15s;
+  display: none;
 }
 
-.lesson-line button.play-audio:hover {
-  background-color: #e0e0e0;
+button[id^="deleteTestBtn"]:hover { background: #FFCDD2; }
+
+/* ── Toggle Options ── */
+.toggle-options {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  padding: 10px;
+  background: var(--color-bg-card);
+  border-radius: 10px;
+  border: 1px solid var(--color-border);
+  margin-bottom: 12px;
+  font-size: 13px;
+}
+
+.toggle-options label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+}
+
+.toggle-options input[type="checkbox"] {
+  accent-color: var(--module-color);
+  width: 15px;
+  height: 15px;
+}
+
+/* ── Question Block ── */
+.question-block {
+  background: var(--color-bg-card);
+  border-radius: 14px;
+  padding: 14px;
+  margin-bottom: 14px;
+  box-shadow: var(--shadow-card);
+  border: 1px solid var(--color-border);
+  border-left: 4px solid var(--module-color);
+}
+
+.question-block:last-child { margin-bottom: 0; }
+
+/* ── Options (multiple choice) ── */
+.options label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 0;
+  font-size: 14px;
+  color: var(--color-text);
+  cursor: pointer;
+}
+
+input[type="radio"] {
+  accent-color: var(--module-color);
+  width: 16px;
+  height: 16px;
+}
+
+/* ── Submit Button ── */
+.submit-btn {
+  padding: 8px 20px;
+  font-size: 13px;
+  font-family: var(--font-family);
+  font-weight: 600;
+  background: var(--module-gradient);
+  color: #fff;
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.15s;
+  margin-top: 6px;
+  box-shadow: 0 2px 8px rgba(191,54,12,0.2);
+}
+
+.submit-btn:hover { opacity: 0.9; transform: translateY(-1px); }
+
+/* ── Play Audio ── */
+.play-audio {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 10px;
+  font-size: 11px;
+  font-family: var(--font-family);
+  font-weight: 600;
+  background: var(--module-color);
+  color: #fff;
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.15s;
+  vertical-align: middle;
+  margin-left: 6px;
+}
+
+.play-audio:hover { opacity: 0.85; transform: scale(1.04); }
+
+/* ── Lesson Lines ── */
+.lesson-line {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 6px 0;
+  font-size: 14px;
+}
+
+/* general buttons */
+button { font-family: var(--font-family); }
+
+.hidden { display: none !important; }
+
+@media (min-width: 768px) {
+  aside {
+    width: 180px !important;
+    min-width: 180px !important;
+    max-width: 180px !important;
+  }
 }

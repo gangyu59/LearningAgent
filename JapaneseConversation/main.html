@@ -2,68 +2,114 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>日语场景对话</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>文字交流</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <h1>文字对话</h1>
+  <!-- Page Header -->
+  <div class="page-header">
+    <h1>💬 日語文字交流</h1>
+  </div>
 
-  <div class="scenario-container">
-    <div class="scenario-select">
-      <label for="scenario"><strong>选择场景：</strong></label>
-      <select id="scenario">
-        <option value="餐厅">餐厅</option>
-        <option value="机场">机场</option>
-        <option value="购物">购物</option>
-        <option value="问路">问路</option>
-        <option value="打的">打的</option>
-        <option value="看病">看病</option>
-        <option value="买票">买票</option>
-      </select>
+  <!-- Scenario Config Card -->
+  <div class="scenario-card">
+    <!-- Hidden legacy containers for JS compatibility -->
+    <div class="scenario-container">
+      <div class="scenario-select">
+        <label for="scenario"><strong>选择场景：</strong></label>
+        <select id="scenario">
+          <option value="餐厅">餐厅</option>
+          <option value="机场">机场</option>
+          <option value="购物">购物</option>
+          <option value="问路">问路</option>
+          <option value="打的">打的</option>
+          <option value="看病">看病</option>
+          <option value="买票">买票</option>
+        </select>
+      </div>
+      <div class="aiModel-select">
+        <label for="aiModel"><strong>AI选择：</strong></label>
+        <select id="aiModel">
+          <option value="GPT">GPT</option>
+          <option value="DEEPSEEK">DEEPSEEK</option>
+          <option value="ARK" selected>ARK</option>
+        </select>
+      </div>
+      <div class="scenario-custom">
+        <label for="customScene"><strong>自定义场景：</strong></label>
+        <input type="text" id="customScene" placeholder="例如：学校、旅行、订场…" />
+      </div>
     </div>
-    
-    <div class="aiModel-select">
-      <label for="aiModel"><strong>AI选择：</strong></label>
-      <select id="aiModel">
+
+    <!-- Visual Scenario Chips -->
+    <div class="scenario-section">
+      <label>选择场景</label>
+      <div class="chips-row" id="sceneChips">
+        <button class="scene-chip active" data-val="餐厅">🍜 餐厅</button>
+        <button class="scene-chip" data-val="机场">✈️ 机场</button>
+        <button class="scene-chip" data-val="购物">🛍️ 购物</button>
+        <button class="scene-chip" data-val="问路">🗺️ 问路</button>
+        <button class="scene-chip" data-val="打的">🚕 打的</button>
+        <button class="scene-chip" data-val="看病">🏥 看病</button>
+        <button class="scene-chip" data-val="买票">🎫 买票</button>
+      </div>
+    </div>
+
+    <!-- AI Model -->
+    <div class="scenario-section" style="display:flex;align-items:center;gap:12px;">
+      <label style="margin-bottom:0;">AI 模型</label>
+      <select id="aiModel" style="display:inline-block;">
         <option value="GPT">GPT</option>
-        <option value="DEEPSEEK">DEEPSEEK</option>
+        <option value="DEEPSEEK">DeepSeek</option>
         <option value="ARK" selected>ARK</option>
       </select>
     </div>
-    
-    <br>
-    
-    <div class="scenario-custom">
-      <label for="customScene"><strong>自定义场景：</strong></label>
-      <input type="text" id="customScene" placeholder="例如：学校、旅行、订场…" />
+
+    <!-- Custom Scene -->
+    <div class="scenario-section">
+      <label>自定义场景（可选）</label>
+      <input type="text" id="customScene" class="custom-input" placeholder="例如：学校、旅行、订场…" />
     </div>
   </div>
 
+  <!-- Conversation Output -->
   <div id="output"></div>
-  
+
+  <!-- Buttons -->
   <div id="buttonContainer">
-    <button id="startBtn">开始对话</button>
-    <div class="text-input-container" style="display: none;">
-      <input type="text" id="userInput" 
-       placeholder="ここに日本語を入力してください..."
-       lang="ja">
+    <button id="startBtn">🎬 开始对话</button>
+    <div class="text-input-container" style="display:none;">
+      <input type="text" id="userInput"
+        placeholder="ここに日本語を入力してください..."
+        lang="ja">
       <button id="sendBtn">发送</button>
     </div>
   </div>
-  
-  <!-- 状态指示器 -->
+
+  <!-- Loading -->
   <div id="loading-indicator" class="loading-hidden">
     <div class="hourglass"></div>
-    <span></span>
   </div>
-  
-  <div id="debugLog" style="font-size:14px; color:#888; padding:8px;"></div>
-  
+
+  <div id="debugLog"></div>
+
+  <script>
+    // Sync scene chips → hidden #scenario selects
+    document.getElementById('sceneChips').addEventListener('click', e => {
+      const chip = e.target.closest('.scene-chip');
+      if (!chip) return;
+      document.querySelectorAll('.scene-chip').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      document.querySelectorAll('#scenario').forEach(s => { s.value = chip.dataset.val; });
+    });
+  </script>
+
   <script src="scripts/config.js"></script>
   <script src="scripts/utils.js"></script>
   <script src="scripts/scenario.js"></script>
-	<script src="scripts/speech.js"></script>
-	<script src="scripts/textInput.js"></script>
+  <script src="scripts/speech.js"></script>
+  <script src="scripts/textInput.js"></script>
   <script src="scripts/assistant.js"></script>
   <script src="scripts/loadConfig.js"></script>
   <script src="scripts/main.js"></script>

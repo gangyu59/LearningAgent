@@ -3,109 +3,311 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>日语学习智能体</title>
-
+  <title>にほんご · AI日語學習</title>
   <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
     body {
-      margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-    }
-
-    h2 {
-      text-align: center;
-      margin: 16px 0;
-    }
-
-    #tabBar {
+      font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", sans-serif;
+      background: #FFF5F8;
+      height: 100vh;
       display: flex;
-      justify-content: center;
-      border-bottom: 1px solid #ccc;
-      background-color: #f9f9f9;
+      flex-direction: column;
+      overflow: hidden;
     }
 
-    #tabBar button {
+    /* ── App Header ── */
+    #appHeader {
+      flex-shrink: 0;
+      height: 52px;
+      background: linear-gradient(120deg, #2D3561 0%, #512DA8 60%, #D81B60 100%);
+      display: flex;
+      align-items: center;
+      padding: 0 16px;
+      gap: 10px;
+      box-shadow: 0 2px 12px rgba(45,53,97,0.18);
+      position: relative;
+      z-index: 200;
+    }
+
+    .app-logo {
+      font-size: 22px;
+      line-height: 1;
+      filter: drop-shadow(0 1px 3px rgba(0,0,0,0.25));
+    }
+
+    .app-title {
+      display: flex;
+      flex-direction: column;
+      line-height: 1;
+    }
+
+    .title-ja {
+      font-size: 17px;
+      font-weight: 800;
+      color: #FFFFFF;
+      letter-spacing: 1px;
+    }
+
+    .title-sub {
+      font-size: 10px;
+      color: rgba(255,255,255,0.72);
+      letter-spacing: 0.5px;
+      margin-top: 2px;
+    }
+
+    .header-badge {
+      margin-left: auto;
+      background: rgba(247,201,72,0.22);
+      border: 1px solid rgba(247,201,72,0.45);
+      border-radius: 999px;
+      padding: 3px 10px;
+      font-size: 11px;
+      font-weight: 600;
+      color: #F7C948;
+      letter-spacing: 0.3px;
+    }
+
+    /* ── iframe container ── */
+    #frameContainer {
       flex: 1;
-      padding: 12px 0;
-      border: none;
-      font-size: 14px;
-      background-color: #eee;
-      cursor: pointer;
-      transition: background-color 0.2s ease;
-    }
-
-    #tabBar button.active {
-      background-color: #cceeff;
-      font-weight: bold;
+      position: relative;
+      overflow: hidden;
     }
 
     iframe {
+      position: absolute;
+      inset: 0;
       width: 100%;
-      height: calc(100vh - 100px); /* 自动适配屏幕，保留顶部高度 */
+      height: 100%;
       border: none;
       display: none;
+      background: #FFF5F8;
     }
 
     iframe.active {
       display: block;
     }
+
+    /* ── Bottom Nav ── */
+    #bottomNav {
+      flex-shrink: 0;
+      height: 60px;
+      background: rgba(255,255,255,0.96);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border-top: 1px solid rgba(234,232,244,0.8);
+      box-shadow: 0 -2px 20px rgba(45,53,97,0.08);
+      display: flex;
+      align-items: stretch;
+      overflow-x: auto;
+      overflow-y: hidden;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      position: relative;
+      z-index: 200;
+    }
+
+    #bottomNav::-webkit-scrollbar {
+      display: none;
+    }
+
+    .tab-btn {
+      flex: 0 0 auto;
+      min-width: 64px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 3px;
+      padding: 6px 8px;
+      border: none;
+      background: transparent;
+      cursor: pointer;
+      position: relative;
+      transition: all 0.2s ease;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .tab-btn::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 50%;
+      transform: translateX(-50%) scaleX(0);
+      width: 28px;
+      height: 3px;
+      border-radius: 0 0 3px 3px;
+      background: currentColor;
+      transition: transform 0.2s ease;
+    }
+
+    .tab-btn.active::before {
+      transform: translateX(-50%) scaleX(1);
+    }
+
+    .tab-icon {
+      font-size: 20px;
+      line-height: 1;
+      transition: transform 0.2s ease;
+    }
+
+    .tab-btn.active .tab-icon {
+      transform: scale(1.1);
+    }
+
+    .tab-label {
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+      color: #9999BB;
+      transition: color 0.2s ease;
+    }
+
+    /* Active colors per tab */
+    .tab-btn[data-tab="lesson"].active { color: #3949AB; }
+    .tab-btn[data-tab="learning"].active { color: #D81B60; }
+    .tab-btn[data-tab="translator"].active { color: #00796B; }
+    .tab-btn[data-tab="voicetutor"].active { color: #E64A19; }
+    .tab-btn[data-tab="texttutor"].active { color: #512DA8; }
+    .tab-btn[data-tab="listening"].active { color: #2E7D32; }
+    .tab-btn[data-tab="dictionary"].active { color: #E65100; }
+    .tab-btn[data-tab="grammar"].active { color: #1565C0; }
+    .tab-btn[data-tab="vocabulary"].active { color: #880E4F; }
+    .tab-btn[data-tab="test"].active { color: #BF360C; }
+
+    .tab-btn.active .tab-label {
+      color: currentColor;
+    }
+
+    /* Tap ripple effect */
+    .tab-btn:active .tab-icon {
+      transform: scale(0.9);
+    }
+
+    /* ── Responsive: tablet shows wider tabs ── */
+    @media (min-width: 640px) {
+      .tab-btn {
+        min-width: 80px;
+      }
+      .tab-label {
+        font-size: 11px;
+      }
+    }
+
+    @media (min-width: 1024px) {
+      #bottomNav {
+        height: 64px;
+      }
+      .tab-btn {
+        min-width: 96px;
+        flex: 1;
+      }
+      .tab-icon {
+        font-size: 22px;
+      }
+      .tab-label {
+        font-size: 12px;
+      }
+    }
   </style>
 </head>
 <body>
-  <!-- 标签按钮 -->
-  <div id="tabBar">
-    <button data-tab="lesson" class="active">课程</button>
-    <button data-tab="learning">日常</button>
-		<button data-tab="translator">翻译</button>
-    <button data-tab="voicetutor">对话</button>
-		<button data-tab="texttutor">交流</button>
-		<button data-tab="listening">听力</button>
-		<button data-tab="dictionary">字典</button>
-		<button data-tab="grammar">语法</button>
-		<button data-tab="vocabulary">生词</button>
-		<button data-tab="test">测试</button>
+
+  <!-- App Header -->
+  <div id="appHeader">
+    <div class="app-logo">🌸</div>
+    <div class="app-title">
+      <span class="title-ja">にほんご</span>
+      <span class="title-sub">AI 日語學習</span>
+    </div>
+    <div class="header-badge">AI Powered</div>
   </div>
 
-  <!-- 七个子页面用 iframe 加载 -->
-	<iframe id="lessonFrame" src="JapaneseLessons/main.html" class="active"></iframe>
-  <iframe id="learningFrame" src="JapaneseAgent/index.html"></iframe>
-  <iframe id="voicetutorFrame" src="JapaneseTutor/main.html"></iframe>
-	<iframe id="translatorFrame" src="TranslatorAgent/index.html"></iframe>
-  <iframe id="texttutorFrame" src="JapaneseConversation/main.html"></iframe>
-	<iframe id="listeningFrame" src="JapaneseListening/main.html"></iframe>
-  <iframe id="dictionaryFrame" src="JapaneseDictionary/main.html"></iframe>
- <iframe id="grammarFrame" src="JapaneseGrammar/main.html"></iframe>
- <iframe id="vocabularyFrame" src="JapaneseVocabulary/main.html"></iframe>
- <iframe id="testFrame" src="JapaneseTest/main.html"></iframe>
-	
+  <!-- Iframe Container -->
+  <div id="frameContainer">
+    <iframe id="lessonFrame"     src="JapaneseLessons/main.html"    class="active"></iframe>
+    <iframe id="learningFrame"   src="JapaneseAgent/index.html"></iframe>
+    <iframe id="translatorFrame" src="TranslatorAgent/index.html"></iframe>
+    <iframe id="voicetutorFrame" src="JapaneseTutor/main.html"></iframe>
+    <iframe id="texttutorFrame"  src="JapaneseConversation/main.html"></iframe>
+    <iframe id="listeningFrame"  src="JapaneseListening/main.html"></iframe>
+    <iframe id="dictionaryFrame" src="JapaneseDictionary/main.html"></iframe>
+    <iframe id="grammarFrame"    src="JapaneseGrammar/main.html"></iframe>
+    <iframe id="vocabularyFrame" src="JapaneseVocabulary/main.html"></iframe>
+    <iframe id="testFrame"       src="JapaneseTest/main.html"></iframe>
+  </div>
+
+  <!-- Bottom Navigation -->
+  <nav id="bottomNav">
+    <button class="tab-btn active" data-tab="lesson">
+      <span class="tab-icon">📚</span>
+      <span class="tab-label">课程</span>
+    </button>
+    <button class="tab-btn" data-tab="learning">
+      <span class="tab-icon">🌸</span>
+      <span class="tab-label">日常</span>
+    </button>
+    <button class="tab-btn" data-tab="translator">
+      <span class="tab-icon">🔄</span>
+      <span class="tab-label">翻译</span>
+    </button>
+    <button class="tab-btn" data-tab="voicetutor">
+      <span class="tab-icon">🎤</span>
+      <span class="tab-label">对话</span>
+    </button>
+    <button class="tab-btn" data-tab="texttutor">
+      <span class="tab-icon">💬</span>
+      <span class="tab-label">交流</span>
+    </button>
+    <button class="tab-btn" data-tab="listening">
+      <span class="tab-icon">👂</span>
+      <span class="tab-label">听力</span>
+    </button>
+    <button class="tab-btn" data-tab="dictionary">
+      <span class="tab-icon">📖</span>
+      <span class="tab-label">字典</span>
+    </button>
+    <button class="tab-btn" data-tab="grammar">
+      <span class="tab-icon">📝</span>
+      <span class="tab-label">语法</span>
+    </button>
+    <button class="tab-btn" data-tab="vocabulary">
+      <span class="tab-icon">⭐</span>
+      <span class="tab-label">生词</span>
+    </button>
+    <button class="tab-btn" data-tab="test">
+      <span class="tab-icon">✏️</span>
+      <span class="tab-label">测试</span>
+    </button>
+  </nav>
+
   <script>
-    const buttons = document.querySelectorAll('#tabBar button');
+    const buttons = document.querySelectorAll('.tab-btn');
     const frames = {
-			lesson: document.getElementById('lessonFrame'),
-      learning: document.getElementById('learningFrame'),
-			translator: document.getElementById('translatorFrame'),
+      lesson:     document.getElementById('lessonFrame'),
+      learning:   document.getElementById('learningFrame'),
+      translator: document.getElementById('translatorFrame'),
       voicetutor: document.getElementById('voicetutorFrame'),
-			texttutor: document.getElementById('texttutorFrame'),
-			listening: document.getElementById('listeningFrame'),
-			dictionary: document.getElementById('dictionaryFrame'),
-			grammar: document.getElementById('grammarFrame'),
-			vocabulary:
-		 	document.getElementById('vocabularyFrame'),
-			test:
-		 	  document.getElementById('testFrame')
+      texttutor:  document.getElementById('texttutorFrame'),
+      listening:  document.getElementById('listeningFrame'),
+      dictionary: document.getElementById('dictionaryFrame'),
+      grammar:    document.getElementById('grammarFrame'),
+      vocabulary: document.getElementById('vocabularyFrame'),
+      test:       document.getElementById('testFrame'),
     };
 
     buttons.forEach(button => {
       button.addEventListener('click', () => {
         const tab = button.dataset.tab;
 
-        // 切换按钮样式
         buttons.forEach(btn => btn.classList.remove('active'));
         button.classList.add('active');
 
-        // 切换 iframe 显示
-        for (const key in frames) {
-          frames[key].classList.remove('active');
-        }
+        // Scroll tab into view on narrow screens
+        button.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+
+        Object.values(frames).forEach(f => f.classList.remove('active'));
         frames[tab].classList.add('active');
       });
     });
