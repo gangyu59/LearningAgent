@@ -1,90 +1,259 @@
+/* JapaneseLessons — Module Color: Deep Indigo #3949AB */
+@import url('../../design-system.css');
+
+:root {
+  --module-color: #3949AB;
+  --module-gradient: linear-gradient(135deg, #3949AB 0%, #5C6BC0 100%);
+  --header-height: 100px;
+}
+
+/* ── Base ── */
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: var(--font-family);
+  background: var(--color-bg);
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
 }
 
+/* ── Header ── */
 header {
-  background-color: #f4f4f4;
-  padding: 10px;
-  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--module-gradient);
+  padding: 12px 14px 10px;
+  box-shadow: var(--shadow-header);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
 
+.header-top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+}
+
+/* ── Level Tab Bar ── */
+.level-tabs-bar {
+  display: flex;
+  background: rgba(255,255,255,0.12);
+  border-radius: 999px;
+  padding: 3px;
+  gap: 2px;
+}
+
+.level-tab-btn {
+  flex: 1;
+  padding: 5px 8px;
+  border: none;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: var(--font-family);
+  cursor: pointer;
+  transition: all 0.15s ease;
+  background: transparent;
+  color: rgba(255,255,255,0.75);
+}
+
+.level-tab-btn.active {
+  background: #fff;
+  color: var(--module-color);
+  box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+}
+
+/* ── Main Layout ── */
 main {
   display: flex;
-  height: calc(100vh - 60px);
+  height: calc(100vh - var(--header-height));
+  overflow: hidden;
 }
 
+/* ── Left Sidebar ── */
 aside {
-  width: 100px !important;
-  min-width: 100px !important;
-  max-width: 100px !important;
-  border-right: 1px solid #ddd;
-  background-color: #f9f9f9;
+  width: 110px !important;
+  min-width: 110px !important;
+  max-width: 110px !important;
+  background: #fff;
+  border-right: 1px solid var(--color-border);
   overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
   box-sizing: border-box;
+  flex-shrink: 0;
 }
 
 aside h3 {
+  position: sticky;
+  top: 0;
+  z-index: 10;
   margin: 0;
   padding: 10px;
-  background-color: #90ee90;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: #fff;
+  background: var(--module-color);
+  border-bottom: none;
 }
 
 aside ul {
   list-style: none;
-  padding: 0;
+  padding: 6px 0;
   margin: 0;
 }
 
 aside li {
   padding: 10px;
+  font-size: 13px;
+  color: var(--color-text);
   cursor: pointer;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid var(--color-divider);
+  line-height: 1.35;
+  transition: background 0.15s, color 0.15s;
 }
 
 aside li:hover {
-  background-color: #eee;
+  background: var(--color-bg);
 }
 
-section#testDetails {
-  flex-grow: 1;
-  padding: 20px;
+aside li.selected {
+  background: #EEF0FB;
+  color: var(--module-color);
+  font-weight: 600;
+  border-left: 3px solid var(--module-color);
+}
+
+/* ── Right Content ── */
+section {
+  flex: 1;
   overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 14px;
+  background: var(--color-bg);
 }
 
-.toggle-options {
-  margin-bottom: 10px;
-}
-
+/* ── Lesson Blocks ── */
 .lesson-block {
-  margin-bottom: 20px;
-  border-bottom: 1px solid #ccc;
-  padding-bottom: 10px;
+  background: #fff;
+  border-radius: 14px;
+  padding: 16px;
+  margin-bottom: 14px;
+  box-shadow: 0 2px 12px rgba(57,73,171,0.07);
+  border: 1px solid var(--color-border);
+  border-left: 4px solid var(--module-color);
 }
 
 .lesson-block h4 {
-  margin: 10px 0 5px;
+  margin: 0 0 8px 0;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--module-color);
 }
 
-.play-audio {
-  background-color: #eee;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  cursor: pointer;
-  padding: 2px 6px;
+/* ── Toggle Options ── */
+.toggle-options {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  padding: 10px;
+  background: #fff;
+  border-radius: 10px;
+  border: 1px solid var(--color-border);
+  margin-bottom: 12px;
   font-size: 13px;
 }
 
-.play-audio:hover {
-  background-color: #ddd;
+.toggle-options label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--color-text-secondary);
+  cursor: pointer;
 }
 
-.translation {
-  color: #666;
+.toggle-options input[type="checkbox"] {
+  accent-color: var(--module-color);
+  width: 15px;
+  height: 15px;
+}
+
+/* ── Play Audio Button ── */
+.play-audio {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 10px;
+  font-size: 11px;
+  font-family: var(--font-family);
+  font-weight: 600;
+  background: var(--module-color);
+  color: #fff;
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  vertical-align: middle;
+  margin-left: 6px;
+}
+
+.play-audio:hover {
+  opacity: 0.85;
+  transform: scale(1.04);
+}
+
+.play-audio[data-status="playing"] {
+  background: #C62828;
+}
+
+/* ── Romaji & Translation ── */
+.romaji {
+  color: var(--color-text-secondary);
+  font-size: 13px;
   font-style: italic;
 }
 
-.romaji {
-  color: #444;
-  font-family: "Hiragino Kaku Gothic Pro", sans-serif;
+.translation {
+  color: var(--color-text-light);
+  font-size: 13px;
+}
+
+.hidden {
+  display: none !important;
+}
+
+/* ── Dialog Entry ── */
+.dialog-entry {
+  padding: 10px 0;
+  border-bottom: 1px solid var(--color-divider);
+}
+
+.dialog-entry:last-child {
+  border-bottom: none;
+}
+
+/* ── Responsive ── */
+@media (min-width: 768px) {
+  aside {
+    width: 180px !important;
+    min-width: 180px !important;
+    max-width: 180px !important;
+  }
+
+  aside li {
+    font-size: 14px;
+    padding: 12px 14px;
+  }
+
+  :root { --header-height: 96px; }
 }

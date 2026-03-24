@@ -1,223 +1,291 @@
+/* JapaneseConversation (Chat) — Module Color: Purple #512DA8 */
+
+:root {
+  --module-color: #512DA8;
+  --module-gradient: linear-gradient(135deg, #512DA8 0%, #7E57C2 100%);
+  --font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", sans-serif;
+  --color-bg: #F5F0FF;
+  --color-bg-card: #FFFFFF;
+  --color-text: #1A1A2E;
+  --color-text-secondary: #5C5C7B;
+  --color-text-light: #9999BB;
+  --color-border: #DDD5F5;
+  --shadow-card: 0 2px 16px rgba(81,45,168,0.08);
+  --shadow-header: 0 2px 12px rgba(81,45,168,0.18);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
 body {
-  font-family: "Helvetica Neue", sans-serif;
-  padding: 28px;
-  background: #e6f4ff;
-  font-size: 18px;
-  color: #003366;
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-family);
+  background: var(--color-bg);
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
 }
 
 h1 {
-  text-align: center;
-  font-size: 60px;
-  margin-bottom: 40px;
-}
-
-label,
-select,
-input,
-button,
-p {
-  font-size: 32px;
-}
-
-#output {
-  border: 1px solid #ccc;
-  padding: 15px;
-  height: 1100px;
-  overflow-y: auto;
-  background: #ffffff;
-  margin-top: 10px;
-  border-radius: 8px;
-}
-
-button {
-  margin-top: 20px;
-  padding: 12px 24px;
-  font-size: 24px;
-  border: none;
-  background-color: #0078d4;
-  color: white;
-  border-radius: 6px;
-}
-
-button:active {
-  background-color: #005ea2;
-}
-
-.scenario-container {
+  margin: 0 0 12px 0;
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
   display: flex;
-  flex-direction: row;
   align-items: center;
   gap: 10px;
-  flex-wrap: wrap;
-  margin-bottom: 10px;
-	margin-right: 20px;
 }
 
-.scenario-select label {
-  margin-right: 0px;
-  white-space: nowrap;
+/* ── Page Header ── */
+.page-header {
+  background: var(--module-gradient);
+  padding: 14px 16px 12px;
+  box-shadow: var(--shadow-header);
 }
 
-.aiModel-select label {
-  margin-right: 0px;
-	margin-left: 20px;
-  white-space: nowrap;
+/* ── Scenario Config Card ── */
+.scenario-card {
+  margin: 14px;
+  background: var(--color-bg-card);
+  border-radius: 16px;
+  padding: 14px;
+  box-shadow: var(--shadow-card);
+  border: 1px solid var(--color-border);
 }
 
-.scenario-custom label {
-  margin-right: 5px;
-	margin-left: 0px;
-  white-space: nowrap;
+.scenario-section {
+  margin-bottom: 12px;
 }
 
-.scenario-custom input {
-  padding: 6px 10px;
-  font-size: 32px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  min-width: 160px;
-  max-width: 600px;
-}
+.scenario-section:last-child { margin-bottom: 0; }
 
-#micBtn {
+.scenario-section label {
   display: block;
-  margin: 30px auto 0 auto; /* 上 30px，左右 auto 实现居中 */
-  padding: 12px 24px;
-  font-size: 24px;
-  background-color: #0078d4;
-  color: white;
-  border: none;
-  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--module-color);
+  margin-bottom: 8px;
+}
+
+.chips-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.scene-chip {
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-family: var(--font-family);
+  font-weight: 500;
+  background: var(--color-bg);
+  color: var(--color-text-secondary);
+  border: 1.5px solid var(--color-border);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.scene-chip:hover, .scene-chip.active {
+  background: var(--module-color);
+  color: #fff;
+  border-color: var(--module-color);
+}
+
+select {
+  padding: 8px 12px;
+  font-size: 14px;
+  font-family: var(--font-family);
+  background: var(--color-bg);
+  border: 1.5px solid var(--color-border);
+  border-radius: 999px;
+  color: var(--color-text);
+  outline: none;
   cursor: pointer;
 }
 
-#micBtn:active {
-  background-color: #005ea2;
+select:focus { border-color: var(--module-color); }
+
+.custom-input {
+  width: 100%;
+  padding: 10px 14px;
+  font-size: 14px;
+  font-family: var(--font-family);
+  background: var(--color-bg);
+  border: 1.5px solid var(--color-border);
+  border-radius: 12px;
+  color: var(--color-text);
+  outline: none;
+  transition: border-color 0.15s;
 }
 
-/* ====== 状态指示器样式 ======= */
+.custom-input:focus { border-color: var(--module-color); }
+.custom-input::placeholder { color: var(--color-text-light); }
+
+/* ── Output ── */
+#output {
+  margin: 0 14px;
+  background: var(--color-bg-card);
+  border-radius: 16px;
+  padding: 16px;
+  box-shadow: var(--shadow-card);
+  border: 1px solid var(--color-border);
+  min-height: 200px;
+  max-height: 45vh;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+/* ── Message Blocks ── */
+.message-block {
+  padding: 10px 0;
+  border-bottom: 1px solid #EDE8FA;
+}
+
+.message-block:last-child { border-bottom: none; }
+
+.teacher-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.teacher-row span { flex: 1; }
+
+.replay-btn {
+  font-size: 18px;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: var(--module-color);
+  flex-shrink: 0;
+}
+
+.cn-explain {
+  font-size: 14px;
+  color: var(--color-text-secondary);
+  list-style-type: disc;
+  margin-left: 1.2em;
+  padding-left: 0;
+  margin-top: 4px;
+}
+
+.cn-explain li { margin-bottom: 2px; line-height: 1.5; }
+
+/* ── Button Container ── */
+#buttonContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 14px;
+}
+
+#startBtn {
+  padding: 14px 36px;
+  font-size: 16px;
+  font-family: var(--font-family);
+  font-weight: 700;
+  background: var(--module-gradient);
+  color: #fff;
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  box-shadow: 0 4px 16px rgba(81,45,168,0.3);
+  transition: all 0.15s;
+}
+
+#startBtn:hover {
+  opacity: 0.9;
+  transform: translateY(-2px);
+}
+
+/* Text input area */
+.text-input-container {
+  display: flex;
+  gap: 8px;
+  width: 100%;
+  max-width: 500px;
+}
+
+#userInput {
+  flex: 1;
+  padding: 12px 16px;
+  font-size: 15px;
+  font-family: var(--font-family);
+  background: var(--color-bg-card);
+  border: 1.5px solid var(--color-border);
+  border-radius: 999px;
+  outline: none;
+  color: var(--color-text);
+  transition: border-color 0.15s;
+}
+
+#userInput:focus { border-color: var(--module-color); }
+
+#sendBtn {
+  padding: 12px 20px;
+  font-size: 14px;
+  font-family: var(--font-family);
+  font-weight: 600;
+  background: var(--module-gradient);
+  color: #fff;
+  border: none;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.15s;
+  box-shadow: 0 2px 8px rgba(81,45,168,0.25);
+}
+
+#sendBtn:hover { opacity: 0.9; }
+
+/* ── Loading ── */
 #loading-indicator {
   position: fixed;
-  bottom: 360px;
+  bottom: 120px;
   left: 50%;
   transform: translateX(-50%);
-  background: transparent; 
-  padding: 0;
-  border-radius: 0;
   display: flex;
   align-items: center;
   justify-content: center;
   opacity: 0;
   transition: opacity 0.3s;
+  pointer-events: none;
 }
 
-.status-visible {
-    opacity: 1 !important;
-}
-
-.loading-hidden {
-  opacity: 0;
-  visibility: hidden;
-}
+.status-visible { opacity: 1 !important; }
+.loading-hidden { opacity: 0; visibility: hidden; }
 
 .hourglass {
-  width: 80px;
-  height: 80px;
-  border: 3px solid black;
-  border-top-color: transparent;
+  width: 48px;
+  height: 48px;
+  border: 4px solid rgba(81,45,168,0.15);
+  border-top-color: var(--module-color);
   border-radius: 50%;
-  background-color: white;  /* ✅ 白底 */
-  animation: spin 1s linear infinite;
+  background: rgba(255,255,255,0.9);
+  animation: spin 0.8s linear infinite;
+  box-shadow: 0 2px 12px rgba(81,45,168,0.2);
 }
 
 @keyframes spin {
-    0% { transform: rotate(0deg); }
-    50% { transform: rotate(180deg); }
-    100% { transform: rotate(360deg); }
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
 }
 
-#buttonContainer {
-  text-align: center;
-  margin-top: 0vh;
-}
+/* Legacy hidden containers */
+.scenario-container { display: none; }
+.scenario-select, .aiModel-select, .scenario-custom { display: none; }
 
-#buttonContainer button {
-  font-size: 36px;
-  padding: 14px 28px;
-  border-radius: 10px;
-  background-color: #28a745;
-  color: white;
-  border: none;
-  cursor: pointer;
-}
-
-#buttonContainer button:hover {
-  background-color: #28a745;
-}
-
-.message-block {
-  margin-bottom: 14px;
-}
-
-.teacher-row {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  font-size: 32px; /* 与你(日语)一致 */
-}
-
-.teacher-row span {
-  flex: 1;
-  padding-right: 8px;
-}
-
-.replay-btn {
-  font-size: 32px;
-  padding: 0;
-  border: none;
-  background: none;
-  cursor: pointer;
-  color: #555;
-}
-
-.cn-explain {
-  font-size: 32px;
-  list-style-type: disc;
-  margin-left: 1.5em;
-  padding-left: 0;
-}
-
-.cn-explain li {
-  margin-bottom: 4px;
-  line-height: 1.5;
-}
-
-/* 保持原有所有样式不变，只添加以下新样式 */
-.text-input-container {
-  display: flex;
-  gap: 10px;
-  margin-top: 20px;
-  width: 100%;
-}
-
-#userInput {
-  font-size: 32px;
-  padding: 12px;
-  /* 确保有足够空间显示日文字符 */
-  min-width: 300px;
-}
-
-#sendBtn {
-  padding: 12px 24px;
-  font-size: 32px;
-  background-color: #28a745;
-  color: white;
-  border: none;
-  border-radius: 6px;
-  cursor: pointer;
-}
-
-#sendBtn:hover {
-  background-color: #218838;
+#debugLog {
+  font-size: 12px;
+  color: var(--color-text-light);
+  padding: 8px 14px;
 }

@@ -3,81 +3,113 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>日语测试智能体</title>
+  <title>日语测试</title>
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
   <header>
-    <h1>日语测试智能体</h1>
-    <div style="text-align:center; margin: 10px;">
-      <button id="generateTestBtn" style="padding: 8px 16px; background-color: #007bff; color: white; border: none; border-radius: 5px;">
-        生成测试
-      </button>
+    <div class="header-row">
+      <span style="font-size:20px;">✏️</span>
+      <h1>日語能力測試</h1>
     </div>
-    <div id="hourglass" style="display: none; text-align:center; font-size: 16px;">⏳ 正在生成 ...</div>
+    <div class="header-actions">
+      <button id="generateTestBtn">🎲 生成测试</button>
+      <div id="hourglass">⏳ 正在生成…</div>
+    </div>
+    <div class="level-tabs-bar">
+      <button class="level-tab-btn active" id="tabBeginner">🌱 初级</button>
+      <button class="level-tab-btn" id="tabIntermediate">🌿 中级</button>
+      <button class="level-tab-btn" id="tabAdvanced">🌳 高级</button>
+    </div>
   </header>
 
-  <main style="display: flex;">
-    <!-- 左侧 tab 和列表 -->
-    <aside style="width: 200px; padding: 2px;">
-      <h3 id="testLevelSwitcher" style="cursor: pointer; background-color: #d1f5d3;">初级测试</h3>
+  <main>
+    <!-- Sidebar -->
+    <aside>
+      <h3 id="testLevelSwitcher" style="cursor:pointer;">测试列表</h3>
 
-      <div id="beginnerListContainer" style="display: block;">
+      <div id="beginnerListContainer" style="display:block;">
         <ul id="beginnerList"></ul>
       </div>
-      <div id="intermediateListContainer" style="display: none;">
+      <div id="intermediateListContainer" style="display:none;">
         <ul id="intermediateList"></ul>
       </div>
-      <div id="advancedListContainer" style="display: none;">
+      <div id="advancedListContainer" style="display:none;">
         <ul id="advancedList"></ul>
       </div>
     </aside>
 
-    <!-- 右侧展示 -->
-    <section style="flex: 1; padding: 10px;">
-      <div id="beginnerDetails" style="display: block;">
-        <div style="display: flex; align-items: center; gap: 10px;">
-          <h3 id="beginnerTitle" style="margin: 0;">初级测试</h3>
-          <button id="deleteTestBtn" style="display: none;">🗑 删除</button>
+    <!-- Content -->
+    <section>
+      <div id="beginnerDetails" style="display:block;">
+        <div class="content-title-row">
+          <h3 id="beginnerTitle">初级测试</h3>
+          <button id="deleteTestBtn">🗑 删除</button>
         </div>
-        <br>
         <div class="toggle-options">
           <label><input type="checkbox" id="toggleBeginnerJapanese" /> 显示答案</label>
-          <label><input type="checkbox" id="toggleBeginnerTranslation" style="margin-left: 16px;"/> 显示解释</label>
+          <label><input type="checkbox" id="toggleBeginnerTranslation" style="margin-left:16px;"/> 显示解释</label>
         </div>
-        <hr>
         <div id="beginnerContent"></div>
       </div>
 
-      <div id="intermediateDetails" style="display: none;">
-        <div style="display: flex; align-items: center; gap: 10px;">
-          <h3 id="intermediateTitle" style="margin: 0;">中级测试</h3>
-          <button id="deleteTestBtn" style="display: none;">🗑 删除</button>
+      <div id="intermediateDetails" style="display:none;">
+        <div class="content-title-row">
+          <h3 id="intermediateTitle">中级测试</h3>
+          <button id="deleteTestBtn">🗑 删除</button>
         </div>
-        <br>
         <div class="toggle-options">
           <label><input type="checkbox" id="toggleIntermediateJapanese" /> 显示答案</label>
           <label><input type="checkbox" id="toggleIntermediateTranslation" /> 显示解释</label>
         </div>
-        <hr>
         <div id="intermediateContent"></div>
       </div>
 
-      <div id="advancedDetails" style="display: none;">
-        <div style="display: flex; align-items: center; gap: 10px;">
-          <h3 id="advancedTitle" style="margin: 0;">高级测试</h3>
-          <button id="deleteTestBtn" style="display: none;">🗑 删除</button>
+      <div id="advancedDetails" style="display:none;">
+        <div class="content-title-row">
+          <h3 id="advancedTitle">高级测试</h3>
+          <button id="deleteTestBtn">🗑 删除</button>
         </div>
-        <br>
         <div class="toggle-options">
           <label><input type="checkbox" id="toggleAdvancedJapanese" /> 显示答案</label>
           <label><input type="checkbox" id="toggleAdvancedTranslation" /> 显示解释</label>
         </div>
-        <hr>
         <div id="advancedContent"></div>
       </div>
     </section>
   </main>
+
+  <script>
+    // Level tab switching
+    function showLevel(level) {
+      ['Beginner','Intermediate','Advanced'].forEach(l => {
+        document.getElementById('tab' + l).classList.remove('active');
+        const lc = l.toLowerCase();
+        const listEl = document.getElementById(lc + 'ListContainer');
+        const detailEl = document.getElementById(lc + 'Details');
+        if (listEl) listEl.style.display = 'none';
+        if (detailEl) detailEl.style.display = 'none';
+      });
+      const cap = level.charAt(0).toUpperCase() + level.slice(1);
+      document.getElementById('tab' + cap).classList.add('active');
+      const listEl = document.getElementById(level + 'ListContainer');
+      const detailEl = document.getElementById(level + 'Details');
+      if (listEl) listEl.style.display = 'block';
+      if (detailEl) detailEl.style.display = 'block';
+    }
+
+    document.getElementById('tabBeginner').addEventListener('click', () => showLevel('beginner'));
+    document.getElementById('tabIntermediate').addEventListener('click', () => showLevel('intermediate'));
+    document.getElementById('tabAdvanced').addEventListener('click', () => showLevel('advanced'));
+
+    // Legacy switcher click cycle
+    let currentLevel = 'beginner';
+    document.getElementById('testLevelSwitcher').addEventListener('click', () => {
+      if (currentLevel === 'beginner') { currentLevel = 'intermediate'; showLevel('intermediate'); }
+      else if (currentLevel === 'intermediate') { currentLevel = 'advanced'; showLevel('advanced'); }
+      else { currentLevel = 'beginner'; showLevel('beginner'); }
+    });
+  </script>
 
   <script src="static/js/utils.js"></script>
   <script src="static/js/ark.js"></script>
