@@ -51,50 +51,31 @@
   </main>
 
   <script>
-    // Level tab switching
-    const tabBeginner     = document.getElementById('tabBeginner');
-    const tabIntermediate = document.getElementById('tabIntermediate');
-    const tabAdvanced     = document.getElementById('tabAdvanced');
+    // Tab button level switching — delegates to app.js via lessonLevelSwitcher clicks
+    // app.js cycles: beginner→intermediate→advanced→beginner on each click
+    const LEVELS = ['beginner', 'intermediate', 'advanced'];
+    let myCurrentLevel = 'beginner'; // tracks app.js's internal currentLevel
 
-    const beginnerList    = document.getElementById('beginnerListContainer');
-    const intermediateList= document.getElementById('intermediateListContainer');
-    const advancedList    = document.getElementById('advancedListContainer');
-
-    const beginnerDetails    = document.getElementById('beginnerDetails');
-    const intermediateDetails= document.getElementById('intermediateDetails');
-    const advancedDetails    = document.getElementById('advancedDetails');
-
-    function showLevel(level) {
-      [tabBeginner, tabIntermediate, tabAdvanced].forEach(t => t.classList.remove('active'));
-      [beginnerList, intermediateList, advancedList].forEach(l => l.style.display = 'none');
-      [beginnerDetails, intermediateDetails, advancedDetails].forEach(d => d.style.display = 'none');
-
-      if (level === 'beginner') {
-        tabBeginner.classList.add('active');
-        beginnerList.style.display = 'block';
-        beginnerDetails.style.display = 'block';
-      } else if (level === 'intermediate') {
-        tabIntermediate.classList.add('active');
-        intermediateList.style.display = 'block';
-        intermediateDetails.style.display = 'block';
-      } else {
-        tabAdvanced.classList.add('active');
-        advancedList.style.display = 'block';
-        advancedDetails.style.display = 'block';
-      }
+    function setActiveTab(level) {
+      ['tabBeginner','tabIntermediate','tabAdvanced'].forEach((id, i) => {
+        document.getElementById(id).classList.toggle('active', LEVELS[i] === level);
+      });
     }
 
-    tabBeginner.addEventListener('click', () => showLevel('beginner'));
-    tabIntermediate.addEventListener('click', () => showLevel('intermediate'));
-    tabAdvanced.addEventListener('click', () => showLevel('advanced'));
+    function switchToLevel(target) {
+      if (target === myCurrentLevel) return;
+      const cur = LEVELS.indexOf(myCurrentLevel);
+      const tgt = LEVELS.indexOf(target);
+      const clicks = ((tgt - cur) + 3) % 3; // 1 or 2 clicks needed
+      const switcher = document.getElementById('lessonLevelSwitcher');
+      for (let i = 0; i < clicks; i++) switcher.click();
+      myCurrentLevel = target;
+      setActiveTab(target);
+    }
 
-    // Keep original lessonLevelSwitcher click cycling for backward compat with app.js
-    let currentLevel = 'beginner';
-    document.getElementById('lessonLevelSwitcher').addEventListener('click', () => {
-      if (currentLevel === 'beginner') { currentLevel = 'intermediate'; showLevel('intermediate'); }
-      else if (currentLevel === 'intermediate') { currentLevel = 'advanced'; showLevel('advanced'); }
-      else { currentLevel = 'beginner'; showLevel('beginner'); }
-    });
+    document.getElementById('tabBeginner').addEventListener('click', () => switchToLevel('beginner'));
+    document.getElementById('tabIntermediate').addEventListener('click', () => switchToLevel('intermediate'));
+    document.getElementById('tabAdvanced').addEventListener('click', () => switchToLevel('advanced'));
   </script>
 
   <script src="static/js/utils.js"></script>
