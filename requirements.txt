@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+edge-tts>=6.1
+numpy>=1.26
+# 本地语音识别（Apple 芯片）；非 Apple 芯片改装 faster-whisper
+mlx-whisper>=0.4; platform_machine == 'arm64' and sys_platform == 'darwin'
+faster-whisper>=1.0; platform_machine != 'arm64' or sys_platform != 'darwin'

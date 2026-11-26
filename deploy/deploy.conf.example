@@ -1,0 +1,5 @@
+# 复制为 deploy/deploy.conf 并按实际情况填写（deploy.conf 不进 git）
+MINI_HOST=gang@macmini.local      # ssh 目标；留空 = 把 MINI_DIR 当本机目录（仅用于演练）
+MINI_DIR=LearningAgent            # Mac mini 上的项目目录（相对登录目录，或绝对路径）
+MINI_RESTART=1                    # 后端代码变动后结束旧进程，由 keeper.sh 自动拉起（0 = 不重启）
+MINI_PORT=8098                    # Mac mini 上服务端口（proxy.js 的 /learning 转发到这里）

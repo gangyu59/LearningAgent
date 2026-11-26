@@ -1,0 +1,9 @@
+{
+  "name": "にほんご · 日语学习",
+  "short_name": "にほんご",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fbf8fa",
+  "theme_color": "#3b3f8f",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

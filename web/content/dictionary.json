@@ -1,0 +1,13687 @@
+[
+ {
+  "word": "食べる",
+  "kana": "たべる",
+  "romaji": "taberu",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "吃",
+   "进食"
+  ],
+  "examples": [
+   {
+    "ja": "ご飯を食べる。",
+    "romaji": "Gohan o taberu.",
+    "zh": "吃饭。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "食べない",
+   "过去式": "食べた"
+  },
+  "association": "“食”像嘴张开，“べ”发音像“呗” → 张嘴吃呗！",
+  "related": [
+   "飲む",
+   "料理",
+   "昼ご飯"
+  ],
+  "synonyms": [
+   "摂取する"
+  ],
+  "antonyms": [
+   "断食する"
+  ]
+ },
+ {
+  "word": "行く",
+  "kana": "いく",
+  "romaji": "iku",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "去",
+   "前往"
+  ],
+  "examples": [
+   {
+    "ja": "学校へ行く。",
+    "romaji": "Gakkou e iku.",
+    "zh": "去学校。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "行かない",
+   "过去式": "行った"
+  },
+  "association": "“行”是行动、移动 → 去的意思",
+  "related": [
+   "来る",
+   "駅",
+   "旅行"
+  ],
+  "synonyms": [
+   "向かう"
+  ],
+  "antonyms": [
+   "止まる"
+  ]
+ },
+ {
+  "word": "見る",
+  "kana": "みる",
+  "romaji": "miru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "看",
+   "观看"
+  ],
+  "examples": [
+   {
+    "ja": "映画を見る。",
+    "romaji": "Eiga o miru.",
+    "zh": "看电影。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "見ない",
+   "过去式": "見た"
+  },
+  "association": "眼睛看东西 → 视觉动作",
+  "related": [
+   "聞く",
+   "テレビ",
+   "観察"
+  ],
+  "synonyms": [
+   "観る"
+  ],
+  "antonyms": [
+   "無視する"
+  ]
+ },
+ {
+  "word": "聞く",
+  "kana": "きく",
+  "romaji": "kiku",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "听",
+   "询问"
+  ],
+  "examples": [
+   {
+    "ja": "音楽を聞く。",
+    "romaji": "Ongaku o kiku.",
+    "zh": "听音乐。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "聞かない",
+   "过去式": "聞いた"
+  },
+  "association": "耳朵功能，常和“見る”对比",
+  "related": [
+   "音楽",
+   "話す",
+   "テレビ"
+  ],
+  "synonyms": [
+   "聴く"
+  ],
+  "antonyms": [
+   "無視する"
+  ]
+ },
+ {
+  "word": "話す",
+  "kana": "はなす",
+  "romaji": "hanasu",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "说话",
+   "交谈"
+  ],
+  "examples": [
+   {
+    "ja": "友達と話す。",
+    "romaji": "Tomodachi to hanasu.",
+    "zh": "和朋友说话。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "話さない",
+   "过去式": "話した"
+  },
+  "association": "“はなす”像“哈那死”，嘴巴张开说话",
+  "related": [
+   "聞く",
+   "会話",
+   "電話"
+  ],
+  "synonyms": [
+   "しゃべる"
+  ],
+  "antonyms": [
+   "黙る"
+  ]
+ },
+ {
+  "word": "書く",
+  "kana": "かく",
+  "romaji": "kaku",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "写",
+   "书写"
+  ],
+  "examples": [
+   {
+    "ja": "手紙を書く。",
+    "romaji": "Tegami o kaku.",
+    "zh": "写信。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "書かない",
+   "过去式": "書いた"
+  },
+  "association": "“かく”→“卡壳”→写作容易卡壳",
+  "related": [
+   "読む",
+   "文字",
+   "文章"
+  ],
+  "synonyms": [
+   "記す"
+  ],
+  "antonyms": [
+   "消す"
+  ]
+ },
+ {
+  "word": "読む",
+  "kana": "よむ",
+  "romaji": "yomu",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "读",
+   "阅读"
+  ],
+  "examples": [
+   {
+    "ja": "本を読む。",
+    "romaji": "Hon o yomu.",
+    "zh": "读书。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "読まない",
+   "过去式": "読んだ"
+  },
+  "association": "眼睛 + 理解 → 阅读",
+  "related": [
+   "本",
+   "書く",
+   "勉強"
+  ],
+  "synonyms": [
+   "閲覧する"
+  ],
+  "antonyms": [
+   "書く"
+  ]
+ },
+ {
+  "word": "飲む",
+  "kana": "のむ",
+  "romaji": "nomu",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "喝",
+   "饮"
+  ],
+  "examples": [
+   {
+    "ja": "水を飲む。",
+    "romaji": "Mizu o nomu.",
+    "zh": "喝水。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "飲まない",
+   "过去式": "飲んだ"
+  },
+  "association": "口喝东西，“の”像喝水的声音",
+  "related": [
+   "食べる",
+   "ジュース",
+   "コーヒー"
+  ],
+  "synonyms": [
+   "摂取する"
+  ],
+  "antonyms": [
+   "吐く"
+  ]
+ },
+ {
+  "word": "買う",
+  "kana": "かう",
+  "romaji": "kau",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "买",
+   "购买"
+  ],
+  "examples": [
+   {
+    "ja": "本を買う。",
+    "romaji": "Hon o kau.",
+    "zh": "买书。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "買わない",
+   "过去式": "買った"
+  },
+  "association": "“かう”谐音“靠” → 买东西靠钱",
+  "related": [
+   "店",
+   "売る",
+   "お金"
+  ],
+  "synonyms": [
+   "購入する"
+  ],
+  "antonyms": [
+   "売る"
+  ]
+ },
+ {
+  "word": "来る",
+  "kana": "くる",
+  "romaji": "kuru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "来"
+  ],
+  "examples": [
+   {
+    "ja": "明日来る。",
+    "romaji": "Ashita kuru.",
+    "zh": "明天来。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "来ない",
+   "过去式": "来た"
+  }
+ },
+ {
+  "word": "走る",
+  "kana": "はしる",
+  "romaji": "hashiru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "跑",
+   "奔跑"
+  ],
+  "examples": [
+   {
+    "ja": "公園で走る。",
+    "romaji": "Kouen de hashiru.",
+    "zh": "在公园跑步。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "走らない",
+   "过去式": "走った"
+  }
+ },
+ {
+  "word": "泳ぐ",
+  "kana": "およぐ",
+  "romaji": "oyogu",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "游泳"
+  ],
+  "examples": [
+   {
+    "ja": "海で泳ぐ。",
+    "romaji": "Umi de oyogu.",
+    "zh": "在海里游泳。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "泳がない",
+   "过去式": "泳いだ"
+  }
+ },
+ {
+  "word": "寝る",
+  "kana": "ねる",
+  "romaji": "neru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "睡觉"
+  ],
+  "examples": [
+   {
+    "ja": "早く寝る。",
+    "romaji": "Hayaku neru.",
+    "zh": "早点睡觉。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "寝ない",
+   "过去式": "寝た"
+  },
+  "association": "“ねる”谐音“呢噜”→ 打呼噜→睡觉",
+  "related": [
+   "起きる",
+   "夢",
+   "布団"
+  ],
+  "synonyms": [
+   "就寝する"
+  ],
+  "antonyms": [
+   "起きる"
+  ]
+ },
+ {
+  "word": "起きる",
+  "kana": "おきる",
+  "romaji": "okiru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "起床，醒来",
+   "起床",
+   "发生"
+  ],
+  "examples": [
+   {
+    "ja": "朝6時に起きる。",
+    "romaji": "Asa rokuji ni okiru.",
+    "zh": "早上6点起床。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "起きない",
+   "过去式": "起きた"
+  },
+  "association": "“起”字形象，早上起身",
+  "related": [
+   "寝る",
+   "目覚まし",
+   "朝"
+  ],
+  "synonyms": [
+   "目覚める"
+  ],
+  "antonyms": [
+   "寝る"
+  ]
+ },
+ {
+  "word": "働く",
+  "kana": "はたらく",
+  "romaji": "hataraku",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "工作"
+  ],
+  "examples": [
+   {
+    "ja": "会社で働く。",
+    "romaji": "Kaisha de hataraku.",
+    "zh": "在公司工作。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "働かない",
+   "过去式": "働いた"
+  },
+  "association": "“哈他拉哭” → 辛苦工作",
+  "related": [
+   "会社",
+   "給料",
+   "職場"
+  ],
+  "synonyms": [
+   "勤務する"
+  ],
+  "antonyms": [
+   "休む"
+  ]
+ },
+ {
+  "word": "勉強する",
+  "kana": "べんきょうする",
+  "romaji": "benkyou suru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "学习"
+  ],
+  "examples": [
+   {
+    "ja": "日本語を勉強する。",
+    "romaji": "Nihongo o benkyou suru.",
+    "zh": "学习日语。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "勉強しない",
+   "过去式": "勉強した"
+  }
+ },
+ {
+  "word": "教える",
+  "kana": "おしえる",
+  "romaji": "oshieru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "教",
+   "教导"
+  ],
+  "examples": [
+   {
+    "ja": "数学を教える。",
+    "romaji": "Suugaku o oshieru.",
+    "zh": "教数学。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "教えない",
+   "过去式": "教えた"
+  }
+ },
+ {
+  "word": "習う",
+  "kana": "ならう",
+  "romaji": "narau",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "学习",
+   "跟...学"
+  ],
+  "examples": [
+   {
+    "ja": "ピアノを習う。",
+    "romaji": "Piano o narau.",
+    "zh": "学习钢琴。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "習わない",
+   "过去式": "習った"
+  }
+ },
+ {
+  "word": "考える",
+  "kana": "かんがえる",
+  "romaji": "kangaeru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "思考"
+  ],
+  "examples": [
+   {
+    "ja": "問題を考える。",
+    "romaji": "Mondai o kangaeru.",
+    "zh": "思考问题。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "考えない",
+   "过去式": "考えた"
+  }
+ },
+ {
+  "word": "分かる",
+  "kana": "わかる",
+  "romaji": "wakaru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "明白",
+   "理解"
+  ],
+  "examples": [
+   {
+    "ja": "意味が分かる。",
+    "romaji": "Imi ga wakaru.",
+    "zh": "明白意思。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "分からない",
+   "过去式": "分かった"
+  }
+ },
+ {
+  "word": "知る",
+  "kana": "しる",
+  "romaji": "shiru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "知道",
+   "了解"
+  ],
+  "examples": [
+   {
+    "ja": "真相を知る。",
+    "romaji": "Shinsou o shiru.",
+    "zh": "知道真相。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "知らない",
+   "过去式": "知った"
+  }
+ },
+ {
+  "word": "会う",
+  "kana": "あう",
+  "romaji": "au",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "见面",
+   "遇见"
+  ],
+  "examples": [
+   {
+    "ja": "友達に会う。",
+    "romaji": "Tomodachi ni au.",
+    "zh": "见朋友。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "会わない",
+   "过去式": "会った"
+  }
+ },
+ {
+  "word": "待つ",
+  "kana": "まつ",
+  "romaji": "matsu",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "等待"
+  ],
+  "examples": [
+   {
+    "ja": "バスを待つ。",
+    "romaji": "Basu o matsu.",
+    "zh": "等公交车。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "待たない",
+   "过去式": "待った"
+  }
+ },
+ {
+  "word": "立つ",
+  "kana": "たつ",
+  "romaji": "tatsu",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "站立"
+  ],
+  "examples": [
+   {
+    "ja": "電車で立つ。",
+    "romaji": "Densha de tatsu.",
+    "zh": "在电车里站着。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "立たない",
+   "过去式": "立った"
+  },
+  "association": "“たつ”像“塔起”→站立",
+  "related": [
+   "座る",
+   "動く",
+   "歩く"
+  ],
+  "synonyms": [
+   "起立する"
+  ],
+  "antonyms": [
+   "座る"
+  ]
+ },
+ {
+  "word": "座る",
+  "kana": "すわる",
+  "romaji": "suwaru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "坐下",
+   "坐"
+  ],
+  "examples": [
+   {
+    "ja": "椅子に座る。",
+    "romaji": "Isu ni suwaru.",
+    "zh": "坐在椅子上。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "座らない",
+   "过去式": "座った"
+  },
+  "association": "“すわる”→“死窝了”→坐着不动",
+  "related": [
+   "立つ",
+   "椅子",
+   "休む"
+  ],
+  "synonyms": [
+   "着席する"
+  ],
+  "antonyms": [
+   "立つ"
+  ]
+ },
+ {
+  "word": "開ける",
+  "kana": "あける",
+  "romaji": "akeru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "打开"
+  ],
+  "examples": [
+   {
+    "ja": "窓を開ける。",
+    "romaji": "Mado o akeru.",
+    "zh": "打开窗户。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "開けない",
+   "过去式": "開けた"
+  }
+ },
+ {
+  "word": "閉める",
+  "kana": "しめる",
+  "romaji": "shimeru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "关闭"
+  ],
+  "examples": [
+   {
+    "ja": "ドアを閉める。",
+    "romaji": "Doa o shimeru.",
+    "zh": "关门。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "閉めない",
+   "过去式": "閉めた"
+  }
+ },
+ {
+  "word": "始める",
+  "kana": "はじめる",
+  "romaji": "hajimeru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "开始"
+  ],
+  "examples": [
+   {
+    "ja": "仕事を始める。",
+    "romaji": "Shigoto o hajimeru.",
+    "zh": "开始工作。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "始めない",
+   "过去式": "始めた"
+  }
+ },
+ {
+  "word": "終わる",
+  "kana": "おわる",
+  "romaji": "owaru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "结束"
+  ],
+  "examples": [
+   {
+    "ja": "授業が終わる。",
+    "romaji": "Jugyou ga owaru.",
+    "zh": "课程结束。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "終わらない",
+   "过去式": "終わった"
+  }
+ },
+ {
+  "word": "作る",
+  "kana": "つくる",
+  "romaji": "tsukuru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "制作",
+   "创造"
+  ],
+  "examples": [
+   {
+    "ja": "料理を作る。",
+    "romaji": "Ryouri o tsukuru.",
+    "zh": "做菜。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "作らない",
+   "过去式": "作った"
+  }
+ },
+ {
+  "word": "使う",
+  "kana": "つかう",
+  "romaji": "tsukau",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "使用"
+  ],
+  "examples": [
+   {
+    "ja": "パソコンを使う。",
+    "romaji": "Pasokon o tsukau.",
+    "zh": "使用电脑。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "使わない",
+   "过去式": "使った"
+  }
+ },
+ {
+  "word": "売る",
+  "kana": "うる",
+  "romaji": "uru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "卖",
+   "出售"
+  ],
+  "examples": [
+   {
+    "ja": "車を売る。",
+    "romaji": "Kuruma o uru.",
+    "zh": "卖车。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "売らない",
+   "过去式": "売った"
+  },
+  "association": "“売”是出手商品，与“買”相对",
+  "related": [
+   "買う",
+   "店",
+   "値段"
+  ],
+  "synonyms": [
+   "販売する"
+  ],
+  "antonyms": [
+   "買う"
+  ]
+ },
+ {
+  "word": "貸す",
+  "kana": "かす",
+  "romaji": "kasu",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "借出",
+   "出租"
+  ],
+  "examples": [
+   {
+    "ja": "本を貸す。",
+    "romaji": "Hon o kasu.",
+    "zh": "借出书。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "貸さない",
+   "过去式": "貸した"
+  }
+ },
+ {
+  "word": "借りる",
+  "kana": "かりる",
+  "romaji": "kariru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "借入",
+   "借用"
+  ],
+  "examples": [
+   {
+    "ja": "お金を借りる。",
+    "romaji": "Okane o kariru.",
+    "zh": "借钱。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "借りない",
+   "过去式": "借りた"
+  }
+ },
+ {
+  "word": "返す",
+  "kana": "かえす",
+  "romaji": "kaesu",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "归还",
+   "返还"
+  ],
+  "examples": [
+   {
+    "ja": "本を返す。",
+    "romaji": "Hon o kaesu.",
+    "zh": "还书。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "返さない",
+   "过去式": "返した"
+  }
+ },
+ {
+  "word": "送る",
+  "kana": "おくる",
+  "romaji": "okuru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "发送",
+   "寄送"
+  ],
+  "examples": [
+   {
+    "ja": "手紙を送る。",
+    "romaji": "Tegami o okuru.",
+    "zh": "寄信。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "送らない",
+   "过去式": "送った"
+  }
+ },
+ {
+  "word": "届ける",
+  "kana": "とどける",
+  "romaji": "todokeru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "送达",
+   "递交"
+  ],
+  "examples": [
+   {
+    "ja": "荷物を届ける。",
+    "romaji": "Nimotsu o todokeru.",
+    "zh": "送货。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "届けない",
+   "过去式": "届けた"
+  }
+ },
+ {
+  "word": "呼ぶ",
+  "kana": "よぶ",
+  "romaji": "yobu",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "叫",
+   "呼唤"
+  ],
+  "examples": [
+   {
+    "ja": "名前を呼ぶ。",
+    "romaji": "Namae o yobu.",
+    "zh": "叫名字。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "呼ばない",
+   "过去式": "呼んだ"
+  }
+ },
+ {
+  "word": "答える",
+  "kana": "こたえる",
+  "romaji": "kotaeru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "回答"
+  ],
+  "examples": [
+   {
+    "ja": "質問に答える。",
+    "romaji": "Shitsumon ni kotaeru.",
+    "zh": "回答问题。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "答えない",
+   "过去式": "答えた"
+  }
+ },
+ {
+  "word": "聞こえる",
+  "kana": "きこえる",
+  "romaji": "kikoeru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "听得见"
+  ],
+  "examples": [
+   {
+    "ja": "音が聞こえる。",
+    "romaji": "Oto ga kikoeru.",
+    "zh": "听得见声音。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "聞こえない",
+   "过去式": "聞こえた"
+  }
+ },
+ {
+  "word": "見える",
+  "kana": "みえる",
+  "romaji": "mieru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "看得见"
+  ],
+  "examples": [
+   {
+    "ja": "山が見える。",
+    "romaji": "Yama ga mieru.",
+    "zh": "看得见山。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "見えない",
+   "过去式": "見えた"
+  }
+ },
+ {
+  "word": "着る",
+  "kana": "きる",
+  "romaji": "kiru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "穿（衣服）"
+  ],
+  "examples": [
+   {
+    "ja": "コートを着る。",
+    "romaji": "Kooto o kiru.",
+    "zh": "穿外套。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "着ない",
+   "过去式": "着た"
+  }
+ },
+ {
+  "word": "脱ぐ",
+  "kana": "ぬぐ",
+  "romaji": "nugu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "脱（衣服）"
+  ],
+  "examples": [
+   {
+    "ja": "靴を脱ぐ。",
+    "romaji": "Kutsu o nugu.",
+    "zh": "脱鞋。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "脱がない",
+   "过去式": "脱いだ"
+  }
+ },
+ {
+  "word": "洗う",
+  "kana": "あらう",
+  "romaji": "arau",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "洗"
+  ],
+  "examples": [
+   {
+    "ja": "手を洗う。",
+    "romaji": "Te o arau.",
+    "zh": "洗手。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "洗わない",
+   "过去式": "洗った"
+  }
+ },
+ {
+  "word": "掃除する",
+  "kana": "そうじする",
+  "romaji": "souji suru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "打扫"
+  ],
+  "examples": [
+   {
+    "ja": "部屋を掃除する。",
+    "romaji": "Heya o souji suru.",
+    "zh": "打扫房间。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "掃除しない",
+   "过去式": "掃除した"
+  }
+ },
+ {
+  "word": "片付ける",
+  "kana": "かたづける",
+  "romaji": "katazukeru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "整理",
+   "收拾"
+  ],
+  "examples": [
+   {
+    "ja": "机を片付ける。",
+    "romaji": "Tsukue o katazukeru.",
+    "zh": "整理桌子。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "片付けない",
+   "过去式": "片付けた"
+  }
+ },
+ {
+  "word": "遊ぶ",
+  "kana": "あそぶ",
+  "romaji": "asobu",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "玩耍",
+   "游玩"
+  ],
+  "examples": [
+   {
+    "ja": "公園で遊ぶ。",
+    "romaji": "Kouen de asobu.",
+    "zh": "在公园玩耍。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "遊ばない",
+   "过去式": "遊んだ"
+  }
+ },
+ {
+  "word": "歌う",
+  "kana": "うたう",
+  "romaji": "utau",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "唱歌"
+  ],
+  "examples": [
+   {
+    "ja": "歌を歌う。",
+    "romaji": "Uta o utau.",
+    "zh": "唱歌。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "歌わない",
+   "过去式": "歌った"
+  }
+ },
+ {
+  "word": "踊る",
+  "kana": "おどる",
+  "romaji": "odoru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "跳舞"
+  ],
+  "examples": [
+   {
+    "ja": "音楽に合わせて踊る。",
+    "romaji": "Ongaku ni awasete odoru.",
+    "zh": "跟着音乐跳舞。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "踊らない",
+   "过去式": "踊った"
+  }
+ },
+ {
+  "word": "笑う",
+  "kana": "わらう",
+  "romaji": "warau",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "笑"
+  ],
+  "examples": [
+   {
+    "ja": "面白い話で笑う。",
+    "romaji": "Omoshiroi hanashi de warau.",
+    "zh": "因为有趣的故事而笑。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "笑わない",
+   "过去式": "笑った"
+  }
+ },
+ {
+  "word": "泣く",
+  "kana": "なく",
+  "romaji": "naku",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "哭"
+  ],
+  "examples": [
+   {
+    "ja": "悲しくて泣く。",
+    "romaji": "Kanashikute naku.",
+    "zh": "因为悲伤而哭。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "泣かない",
+   "过去式": "泣いた"
+  }
+ },
+ {
+  "word": "怒る",
+  "kana": "おこる",
+  "romaji": "okoru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "生气"
+  ],
+  "examples": [
+   {
+    "ja": "約束を破って怒る。",
+    "romaji": "Yakusoku o yabutte okoru.",
+    "zh": "因为毁约而生气。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "怒らない",
+   "过去式": "怒った"
+  }
+ },
+ {
+  "word": "驚く",
+  "kana": "おどろく",
+  "romaji": "odoroku",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "惊讶"
+  ],
+  "examples": [
+   {
+    "ja": "突然の音に驚く。",
+    "romaji": "Totsuzen no oto ni odoroku.",
+    "zh": "因为突然的声音而惊讶。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "驚かない",
+   "过去式": "驚いた"
+  }
+ },
+ {
+  "word": "疲れる",
+  "kana": "つかれる",
+  "romaji": "tsukareru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "疲倦"
+  ],
+  "examples": [
+   {
+    "ja": "仕事で疲れる。",
+    "romaji": "Shigoto de tsukareru.",
+    "zh": "因为工作而疲倦。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "疲れない",
+   "过去式": "疲れた"
+  }
+ },
+ {
+  "word": "休む",
+  "kana": "やすむ",
+  "romaji": "yasumu",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "休息"
+  ],
+  "examples": [
+   {
+    "ja": "家で休む。",
+    "romaji": "Ie de yasumu.",
+    "zh": "在家休息。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "休まない",
+   "过去式": "休んだ"
+  },
+  "association": "“やすむ”谐音“压死姆”→ 太累要休息",
+  "related": [
+   "寝る",
+   "休日",
+   "元気"
+  ],
+  "synonyms": [
+   "休憩する"
+  ],
+  "antonyms": [
+   "働く"
+  ]
+ },
+ {
+  "word": "覚える",
+  "kana": "おぼえる",
+  "romaji": "oboeru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "记住",
+   "记忆"
+  ],
+  "examples": [
+   {
+    "ja": "単語を覚える。",
+    "romaji": "Tango o oboeru.",
+    "zh": "记住单词。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "覚えない",
+   "过去式": "覚えた"
+  }
+ },
+ {
+  "word": "忘れる",
+  "kana": "わすれる",
+  "romaji": "wasureru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "忘记"
+  ],
+  "examples": [
+   {
+    "ja": "約束を忘れる。",
+    "romaji": "Yakusoku o wasureru.",
+    "zh": "忘记约定。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "忘れない",
+   "过去式": "忘れた"
+  }
+ },
+ {
+  "word": "決める",
+  "kana": "きめる",
+  "romaji": "kimeru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "决定"
+  ],
+  "examples": [
+   {
+    "ja": "計画を決める。",
+    "romaji": "Keikaku o kimeru.",
+    "zh": "决定计划。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "決めない",
+   "过去式": "決めた"
+  }
+ },
+ {
+  "word": "変える",
+  "kana": "かえる",
+  "romaji": "kaeru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "改变"
+  ],
+  "examples": [
+   {
+    "ja": "予定を変える。",
+    "romaji": "Yotei o kaeru.",
+    "zh": "改变计划。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "変えない",
+   "过去式": "変えた"
+  }
+ },
+ {
+  "word": "比べる",
+  "kana": "くらべる",
+  "romaji": "kuraberu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "比较"
+  ],
+  "examples": [
+   {
+    "ja": "高さを比べる。",
+    "romaji": "Takasa o kuraberu.",
+    "zh": "比高度。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "比べない",
+   "过去式": "比べた"
+  }
+ },
+ {
+  "word": "選ぶ",
+  "kana": "えらぶ",
+  "romaji": "erabu",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "选择"
+  ],
+  "examples": [
+   {
+    "ja": "好きな色を選ぶ。",
+    "romaji": "Suki na iro o erabu.",
+    "zh": "选择喜欢的颜色。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "選ばない",
+   "过去式": "選んだ"
+  }
+ },
+ {
+  "word": "探す",
+  "kana": "さがす",
+  "romaji": "sagasu",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "寻找"
+  ],
+  "examples": [
+   {
+    "ja": "鍵を探す。",
+    "romaji": "Kagi o sagasu.",
+    "zh": "找钥匙。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "探さない",
+   "过去式": "探した"
+  }
+ },
+ {
+  "word": "見つける",
+  "kana": "みつける",
+  "romaji": "mitsukeru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "发现",
+   "找到"
+  ],
+  "examples": [
+   {
+    "ja": "答えを見つける。",
+    "romaji": "Kotae o mitsukeru.",
+    "zh": "找到答案。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "見つけない",
+   "过去式": "見つけた"
+  }
+ },
+ {
+  "word": "取る",
+  "kana": "とる",
+  "romaji": "toru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "拿",
+   "取"
+  ],
+  "examples": [
+   {
+    "ja": "本を取る。",
+    "romaji": "Hon o toru.",
+    "zh": "拿书。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "取らない",
+   "过去式": "取った"
+  }
+ },
+ {
+  "word": "置く",
+  "kana": "おく",
+  "romaji": "oku",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "放置"
+  ],
+  "examples": [
+   {
+    "ja": "机の上に置く。",
+    "romaji": "Tsukue no ue ni oku.",
+    "zh": "放在桌子上。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "置かない",
+   "过去式": "置いた"
+  }
+ },
+ {
+  "word": "持つ",
+  "kana": "もつ",
+  "romaji": "motsu",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "持有",
+   "拿"
+  ],
+  "examples": [
+   {
+    "ja": "荷物を持つ。",
+    "romaji": "Nimotsu o motsu.",
+    "zh": "拿行李。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "持たない",
+   "过去式": "持った"
+  }
+ },
+ {
+  "word": "運ぶ",
+  "kana": "はこぶ",
+  "romaji": "hakobu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "搬运"
+  ],
+  "examples": [
+   {
+    "ja": "箱を運ぶ。",
+    "romaji": "Hako o hakobu.",
+    "zh": "搬运箱子。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "運ばない",
+   "过去式": "運んだ"
+  }
+ },
+ {
+  "word": "上げる",
+  "kana": "あげる",
+  "romaji": "ageru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "举起",
+   "提高"
+  ],
+  "examples": [
+   {
+    "ja": "手を上げる。",
+    "romaji": "Te o ageru.",
+    "zh": "举手。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "上げない",
+   "过去式": "上げた"
+  }
+ },
+ {
+  "word": "下げる",
+  "kana": "さげる",
+  "romaji": "sageru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "降低",
+   "放下"
+  ],
+  "examples": [
+   {
+    "ja": "温度を下げる。",
+    "romaji": "Ondo o sageru.",
+    "zh": "降低温度。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "下げない",
+   "过去式": "下げた"
+  }
+ },
+ {
+  "word": "消す",
+  "kana": "けす",
+  "romaji": "kesu",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "关闭",
+   "熄灭"
+  ],
+  "examples": [
+   {
+    "ja": "電気を消す。",
+    "romaji": "Denki o kesu.",
+    "zh": "关灯。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "消さない",
+   "过去式": "消した"
+  }
+ },
+ {
+  "word": "光る",
+  "kana": "ひかる",
+  "romaji": "hikaru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "发光"
+  ],
+  "examples": [
+   {
+    "ja": "星が光る。",
+    "romaji": "Hoshi ga hikaru.",
+    "zh": "星星发光。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "光らない",
+   "过去式": "光った"
+  }
+ },
+ {
+  "word": "壊す",
+  "kana": "こわす",
+  "romaji": "kowasu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "弄坏"
+  ],
+  "examples": [
+   {
+    "ja": "おもちゃを壊す。",
+    "romaji": "Omocha o kowasu.",
+    "zh": "弄坏玩具。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "壊さない",
+   "过去式": "壊した"
+  }
+ },
+ {
+  "word": "直す",
+  "kana": "なおす",
+  "romaji": "naosu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "修理"
+  ],
+  "examples": [
+   {
+    "ja": "時計を直す。",
+    "romaji": "Tokei o naosu.",
+    "zh": "修表。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "直さない",
+   "过去式": "直した"
+  }
+ },
+ {
+  "word": "折る",
+  "kana": "おる",
+  "romaji": "oru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "折断"
+  ],
+  "examples": [
+   {
+    "ja": "枝を折る。",
+    "romaji": "Eda o oru.",
+    "zh": "折断树枝。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "折らない",
+   "过去式": "折った"
+  }
+ },
+ {
+  "word": "曲げる",
+  "kana": "まげる",
+  "romaji": "mageru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "弯曲"
+  ],
+  "examples": [
+   {
+    "ja": "針金を曲げる。",
+    "romaji": "Harigane o mageru.",
+    "zh": "弯曲铁丝。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "曲げない",
+   "过去式": "曲げた"
+  }
+ },
+ {
+  "word": "切る",
+  "kana": "きる",
+  "romaji": "kiru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "切割"
+  ],
+  "examples": [
+   {
+    "ja": "紙を切る。",
+    "romaji": "Kami o kiru.",
+    "zh": "剪纸。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "切らない",
+   "过去式": "切った"
+  }
+ },
+ {
+  "word": "貼る",
+  "kana": "はる",
+  "romaji": "haru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "粘贴"
+  ],
+  "examples": [
+   {
+    "ja": "切手を貼る。",
+    "romaji": "Kitte o haru.",
+    "zh": "贴邮票。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "貼らない",
+   "过去式": "貼った"
+  }
+ },
+ {
+  "word": "包む",
+  "kana": "つつむ",
+  "romaji": "tsutsumu",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "包裹"
+  ],
+  "examples": [
+   {
+    "ja": "プレゼントを包む。",
+    "romaji": "Purezento o tsutsumu.",
+    "zh": "包装礼物。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "包まない",
+   "过去式": "包んだ"
+  }
+ },
+ {
+  "word": "結ぶ",
+  "kana": "むすぶ",
+  "romaji": "musubu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "系",
+   "连接"
+  ],
+  "examples": [
+   {
+    "ja": "靴紐を結ぶ。",
+    "romaji": "Kutsu himo o musubu.",
+    "zh": "系鞋带。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "結ばない",
+   "过去式": "結んだ"
+  }
+ },
+ {
+  "word": "解く",
+  "kana": "とく",
+  "romaji": "toku",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "解开"
+  ],
+  "examples": [
+   {
+    "ja": "謎を解く。",
+    "romaji": "Nazo o toku.",
+    "zh": "解谜。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "解かない",
+   "过去式": "解いた"
+  }
+ },
+ {
+  "word": "編む",
+  "kana": "あむ",
+  "romaji": "amu",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "编织"
+  ],
+  "examples": [
+   {
+    "ja": "セーターを編む。",
+    "romaji": "Seetaa o amu.",
+    "zh": "织毛衣。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "編まない",
+   "过去式": "編んだ"
+  }
+ },
+ {
+  "word": "縫う",
+  "kana": "ぬう",
+  "romaji": "nuu",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "缝纫"
+  ],
+  "examples": [
+   {
+    "ja": "ボタンを縫う。",
+    "romaji": "Botan o nuu.",
+    "zh": "缝扣子。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "縫わない",
+   "过去式": "縫った"
+  }
+ },
+ {
+  "word": "塗る",
+  "kana": "ぬる",
+  "romaji": "nuru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "涂抹"
+  ],
+  "examples": [
+   {
+    "ja": "ペンキを塗る。",
+    "romaji": "Penki o nuru.",
+    "zh": "刷油漆。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "塗らない",
+   "过去式": "塗った"
+  }
+ },
+ {
+  "word": "磨く",
+  "kana": "みがく",
+  "romaji": "migaku",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "擦亮"
+  ],
+  "examples": [
+   {
+    "ja": "靴を磨く。",
+    "romaji": "Kutsu o migaku.",
+    "zh": "擦鞋。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "磨かない",
+   "过去式": "磨いた"
+  }
+ },
+ {
+  "word": "拭く",
+  "kana": "ふく",
+  "romaji": "fuku",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "擦拭"
+  ],
+  "examples": [
+   {
+    "ja": "テーブルを拭く。",
+    "romaji": "Teeburu o fuku.",
+    "zh": "擦桌子。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "拭かない",
+   "过去式": "拭いた"
+  }
+ },
+ {
+  "word": "干す",
+  "kana": "ほす",
+  "romaji": "hosu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "晾晒"
+  ],
+  "examples": [
+   {
+    "ja": "洗濯物を干す。",
+    "romaji": "Sentakumono o hosu.",
+    "zh": "晾衣服。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "干さない",
+   "过去式": "干した"
+  }
+ },
+ {
+  "word": "沸かす",
+  "kana": "わかす",
+  "romaji": "wakasu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "烧开"
+  ],
+  "examples": [
+   {
+    "ja": "お湯を沸かす。",
+    "romaji": "Oyu o wakasu.",
+    "zh": "烧开水。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "沸かさない",
+   "过去式": "沸かした"
+  }
+ },
+ {
+  "word": "凍る",
+  "kana": "こおる",
+  "romaji": "kouru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "结冰"
+  ],
+  "examples": [
+   {
+    "ja": "湖が凍る。",
+    "romaji": "Mizuumi ga kooru.",
+    "zh": "湖面结冰。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "凍らない",
+   "过去式": "凍った"
+  }
+ },
+ {
+  "word": "溶ける",
+  "kana": "とける",
+  "romaji": "tokeru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "融化"
+  ],
+  "examples": [
+   {
+    "ja": "氷が溶ける。",
+    "romaji": "Koori ga tokeru.",
+    "zh": "冰融化。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "溶けない",
+   "过去式": "溶けた"
+  }
+ },
+ {
+  "word": "燃える",
+  "kana": "もえる",
+  "romaji": "moeru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "燃烧"
+  ],
+  "examples": [
+   {
+    "ja": "紙が燃える。",
+    "romaji": "Kami ga moeru.",
+    "zh": "纸燃烧。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "燃えない",
+   "过去式": "燃えた"
+  }
+ },
+ {
+  "word": "流れる",
+  "kana": "ながれる",
+  "romaji": "nagareru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "流动"
+  ],
+  "examples": [
+   {
+    "ja": "川が流れる。",
+    "romaji": "Kawa ga nagareru.",
+    "zh": "河流流动。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "流れない",
+   "过去式": "流れた"
+  }
+ },
+ {
+  "word": "溢れる",
+  "kana": "あふれる",
+  "romaji": "afureru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "溢出"
+  ],
+  "examples": [
+   {
+    "ja": "水が溢れる。",
+    "romaji": "Mizu ga afureru.",
+    "zh": "水溢出。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "溢れない",
+   "过去式": "溢れた"
+  }
+ },
+ {
+  "word": "乾く",
+  "kana": "かわく",
+  "romaji": "kawaku",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "变干"
+  ],
+  "examples": [
+   {
+    "ja": "洗濯物が乾く。",
+    "romaji": "Sentakumono ga kawaku.",
+    "zh": "衣服干了。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "乾かない",
+   "过去式": "乾いた"
+  }
+ },
+ {
+  "word": "濡れる",
+  "kana": "ぬれる",
+  "romaji": "nureru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "淋湿"
+  ],
+  "examples": [
+   {
+    "ja": "雨で服が濡れる。",
+    "romaji": "Ame de fuku ga nureru.",
+    "zh": "衣服被雨淋湿。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "濡れない",
+   "过去式": "濡れた"
+  }
+ },
+ {
+  "word": "汚れる",
+  "kana": "よごれる",
+  "romaji": "yogoreru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "弄脏"
+  ],
+  "examples": [
+   {
+    "ja": "手が汚れる。",
+    "romaji": "Te ga yogoreru.",
+    "zh": "手脏了。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "汚れない",
+   "过去式": "汚れた"
+  }
+ },
+ {
+  "word": "汚す",
+  "kana": "よごす",
+  "romaji": "yogosu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "弄脏"
+  ],
+  "examples": [
+   {
+    "ja": "服を汚す。",
+    "romaji": "Fuku o yogosu.",
+    "zh": "弄脏衣服。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "汚さない",
+   "过去式": "汚した"
+  }
+ },
+ {
+  "word": "破る",
+  "kana": "やぶる",
+  "romaji": "yaburu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "打破"
+  ],
+  "examples": [
+   {
+    "ja": "約束を破る。",
+    "romaji": "Yakusoku o yaburu.",
+    "zh": "打破约定。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "破らない",
+   "过去式": "破った"
+  }
+ },
+ {
+  "word": "割る",
+  "kana": "わる",
+  "romaji": "waru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "打碎"
+  ],
+  "examples": [
+   {
+    "ja": "コップを割る。",
+    "romaji": "Koppu o waru.",
+    "zh": "打碎杯子。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "割らない",
+   "过去式": "割った"
+  }
+ },
+ {
+  "word": "割れる",
+  "kana": "われる",
+  "romaji": "wareru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "破碎"
+  ],
+  "examples": [
+   {
+    "ja": "ガラスが割れる。",
+    "romaji": "Garasu ga wareru.",
+    "zh": "玻璃碎了。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "割れない",
+   "过去式": "割れた"
+  }
+ },
+ {
+  "word": "壊れる",
+  "kana": "こわれる",
+  "romaji": "kowareru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "坏掉"
+  ],
+  "examples": [
+   {
+    "ja": "テレビが壊れる。",
+    "romaji": "Terebi ga kowareru.",
+    "zh": "电视坏了。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "壊れない",
+   "过去式": "壊れた"
+  }
+ },
+ {
+  "word": "直る",
+  "kana": "なおる",
+  "romaji": "naoru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "修好"
+  ],
+  "examples": [
+   {
+    "ja": "故障が直る。",
+    "romaji": "Koshou ga naoru.",
+    "zh": "故障修好了。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "直らない",
+   "过去式": "直った"
+  }
+ },
+ {
+  "word": "治る",
+  "kana": "なおる",
+  "romaji": "naoru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "痊愈"
+  ],
+  "examples": [
+   {
+    "ja": "病気が治る。",
+    "romaji": "Byouki ga naoru.",
+    "zh": "病好了。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "治らない",
+   "过去式": "治った"
+  }
+ },
+ {
+  "word": "治す",
+  "kana": "なおす",
+  "romaji": "naosu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "治疗"
+  ],
+  "examples": [
+   {
+    "ja": "病気を治す。",
+    "romaji": "Byouki o naosu.",
+    "zh": "治病。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "治さない",
+   "过去式": "治した"
+  }
+ },
+ {
+  "word": "診る",
+  "kana": "みる",
+  "romaji": "miru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "诊察"
+  ],
+  "examples": [
+   {
+    "ja": "患者を診る。",
+    "romaji": "Kanja o miru.",
+    "zh": "诊察病人。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "診ない",
+   "过去式": "診た"
+  }
+ },
+ {
+  "word": "測る",
+  "kana": "はかる",
+  "romaji": "hakaru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "测量"
+  ],
+  "examples": [
+   {
+    "ja": "体温を測る。",
+    "romaji": "Taion o hakaru.",
+    "zh": "量体温。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "測らない",
+   "过去式": "測った"
+  }
+ },
+ {
+  "word": "計る",
+  "kana": "はかる",
+  "romaji": "hakaru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "计量"
+  ],
+  "examples": [
+   {
+    "ja": "時間を計る。",
+    "romaji": "Jikan o hakaru.",
+    "zh": "计时。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "計らない",
+   "过去式": "計った"
+  }
+ },
+ {
+  "word": "量る",
+  "kana": "はかる",
+  "romaji": "hakaru",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "称重"
+  ],
+  "examples": [
+   {
+    "ja": "体重を量る。",
+    "romaji": "Taijuu o hakaru.",
+    "zh": "称体重。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "量らない",
+   "过去式": "量った"
+  }
+ },
+ {
+  "word": "数える",
+  "kana": "かぞえる",
+  "romaji": "kazoeru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "数数"
+  ],
+  "examples": [
+   {
+    "ja": "人数を数える。",
+    "romaji": "Ninzuu o kazoeru.",
+    "zh": "数人数。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "数えない",
+   "过去式": "数えた"
+  }
+ },
+ {
+  "word": "計算する",
+  "kana": "けいさんする",
+  "romaji": "keisansuru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "计算"
+  ],
+  "examples": [
+   {
+    "ja": "数字を計算する。",
+    "romaji": "Suuji o keisan suru.",
+    "zh": "计算数字。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "計算しない",
+   "过去式": "計算した"
+  }
+ },
+ {
+  "word": "思う",
+  "kana": "おもう",
+  "romaji": "omou",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "想"
+  ],
+  "examples": [
+   {
+    "ja": "故郷を思う。",
+    "romaji": "Kokyou o omou.",
+    "zh": "想念故乡。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "思わない",
+   "过去式": "思った"
+  }
+ },
+ {
+  "word": "信じる",
+  "kana": "しんじる",
+  "romaji": "shinjiru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "相信"
+  ],
+  "examples": [
+   {
+    "ja": "友達を信じる。",
+    "romaji": "Tomodachi o shinjiru.",
+    "zh": "相信朋友。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "信じない",
+   "过去式": "信じた"
+  }
+ },
+ {
+  "word": "疑う",
+  "kana": "うたがう",
+  "romaji": "utagau",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "怀疑"
+  ],
+  "examples": [
+   {
+    "ja": "真実を疑う。",
+    "romaji": "Shinjitsu o utagau.",
+    "zh": "怀疑真相。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "疑わない",
+   "过去式": "疑った"
+  }
+ },
+ {
+  "word": "願う",
+  "kana": "ねがう",
+  "romaji": "negau",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "希望"
+  ],
+  "examples": [
+   {
+    "ja": "成功を願う。",
+    "romaji": "Seikou o negau.",
+    "zh": "希望成功。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "願わない",
+   "过去式": "願った"
+  }
+ },
+ {
+  "word": "祈る",
+  "kana": "いのる",
+  "romaji": "inoru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "祈祷"
+  ],
+  "examples": [
+   {
+    "ja": "平和を祈る。",
+    "romaji": "Heiwa o inoru.",
+    "zh": "祈祷和平。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "祈らない",
+   "过去式": "祈った"
+  }
+ },
+ {
+  "word": "感謝する",
+  "kana": "かんしゃする",
+  "romaji": "kanshasuru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "感谢"
+  ],
+  "examples": [
+   {
+    "ja": "親に感謝する。",
+    "romaji": "Oya ni kansha suru.",
+    "zh": "感谢父母。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "感謝しない",
+   "过去式": "感謝した"
+  }
+ },
+ {
+  "word": "謝る",
+  "kana": "あやまる",
+  "romaji": "ayamaru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "道歉"
+  ],
+  "examples": [
+   {
+    "ja": "誤りを謝る。",
+    "romaji": "Ayamari o ayamaru.",
+    "zh": "为错误道歉。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "謝らない",
+   "过去式": "謝った"
+  }
+ },
+ {
+  "word": "許す",
+  "kana": "ゆるす",
+  "romaji": "yurusu",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "原谅"
+  ],
+  "examples": [
+   {
+    "ja": "過ちを許す。",
+    "romaji": "Ayamachi o yurusu.",
+    "zh": "原谅过错。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "許さない",
+   "过去式": "許した"
+  }
+ },
+ {
+  "word": "褒める",
+  "kana": "ほめる",
+  "romaji": "homeru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "表扬"
+  ],
+  "examples": [
+   {
+    "ja": "子供を褒める。",
+    "romaji": "Kodomo o homeru.",
+    "zh": "表扬孩子。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "褒めない",
+   "过去式": "褒めた"
+  }
+ },
+ {
+  "word": "叱る",
+  "kana": "しかる",
+  "romaji": "shikaru",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "责备"
+  ],
+  "examples": [
+   {
+    "ja": "生徒を叱る。",
+    "romaji": "Seito o shikaru.",
+    "zh": "责备学生。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "叱らない",
+   "过去式": "叱った"
+  }
+ },
+ {
+  "word": "注意する",
+  "kana": "ちゅういする",
+  "romaji": "chuuisuru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "提醒"
+  ],
+  "examples": [
+   {
+    "ja": "危険を注意する。",
+    "romaji": "Kiken o chuui suru.",
+    "zh": "提醒危险。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "注意しない",
+   "过去式": "注意した"
+  }
+ },
+ {
+  "word": "命令する",
+  "kana": "めいれいする",
+  "romaji": "meirei suru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "命令"
+  ],
+  "examples": [
+   {
+    "ja": "部下に命令する。",
+    "romaji": "Buka ni meirei suru.",
+    "zh": "命令下属。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "命令しない",
+   "过去式": "命令した"
+  }
+ },
+ {
+  "word": "頼む",
+  "kana": "たのむ",
+  "romaji": "tanomu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "请求"
+  ],
+  "examples": [
+   {
+    "ja": "助けを頼む。",
+    "romaji": "Tasuke o tanomu.",
+    "zh": "请求帮助。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "頼まない",
+   "过去式": "頼んだ"
+  }
+ },
+ {
+  "word": "断る",
+  "kana": "ことわる",
+  "romaji": "kotowaru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "拒绝"
+  ],
+  "examples": [
+   {
+    "ja": "申し出を断る。",
+    "romaji": "Moushide o kotowaru.",
+    "zh": "拒绝提议。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "断らない",
+   "过去式": "断った"
+  }
+ },
+ {
+  "word": "約束する",
+  "kana": "やくそくする",
+  "romaji": "yakusoku suru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "约定"
+  ],
+  "examples": [
+   {
+    "ja": "再会を約束する。",
+    "romaji": "Saikai o yakusoku suru.",
+    "zh": "约定再见。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "約束しない",
+   "过去式": "約束した"
+  }
+ },
+ {
+  "word": "守る",
+  "kana": "まもる",
+  "romaji": "mamoru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "保护"
+  ],
+  "examples": [
+   {
+    "ja": "城を守る。",
+    "romaji": "Shiro o mamoru.",
+    "zh": "守城。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "守らない",
+   "过去式": "守った"
+  }
+ },
+ {
+  "word": "勝つ",
+  "kana": "かつ",
+  "romaji": "katsu",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "获胜"
+  ],
+  "examples": [
+   {
+    "ja": "試合に勝つ。",
+    "romaji": "Shiai ni katsu.",
+    "zh": "比赛获胜。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "勝たない",
+   "过去式": "勝った"
+  }
+ },
+ {
+  "word": "負ける",
+  "kana": "まける",
+  "romaji": "makeru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "输"
+  ],
+  "examples": [
+   {
+    "ja": "ゲームに負ける。",
+    "romaji": "Geemu ni makeru.",
+    "zh": "游戏输了。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "負けない",
+   "过去式": "負けた"
+  }
+ },
+ {
+  "word": "戦う",
+  "kana": "たたかう",
+  "romaji": "tatakau",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "战斗"
+  ],
+  "examples": [
+   {
+    "ja": "敵と戦う。",
+    "romaji": "Teki to tatakau.",
+    "zh": "与敌人战斗。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "戦わない",
+   "过去式": "戦った"
+  }
+ },
+ {
+  "word": "助ける",
+  "kana": "たすける",
+  "romaji": "tasukeru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "帮助"
+  ],
+  "examples": [
+   {
+    "ja": "人を助ける。",
+    "romaji": "Hito o tasukeru.",
+    "zh": "帮助人。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "助けない",
+   "过去式": "助けた"
+  }
+ },
+ {
+  "word": "救う",
+  "kana": "すくう",
+  "romaji": "sukuu",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "拯救"
+  ],
+  "examples": [
+   {
+    "ja": "命を救う。",
+    "romaji": "Inochi o sukuu.",
+    "zh": "拯救生命。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "救わない",
+   "过去式": "救った"
+  }
+ },
+ {
+  "word": "保護する",
+  "kana": "ほごする",
+  "romaji": "hogo suru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "保护"
+  ],
+  "examples": [
+   {
+    "ja": "自然を保護する。",
+    "romaji": "Shizen o hogo suru.",
+    "zh": "保护自然。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "保護しない",
+   "过去式": "保護した"
+  }
+ },
+ {
+  "word": "輝く",
+  "kana": "かがやく",
+  "romaji": "kagayaku",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "闪耀"
+  ],
+  "examples": [
+   {
+    "ja": "星が輝く。",
+    "romaji": "Hoshi ga kagayaku.",
+    "zh": "星星闪耀。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "輝かない",
+   "过去式": "輝いた"
+  }
+ },
+ {
+  "word": "揺れる",
+  "kana": "ゆれる",
+  "romaji": "yureru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "摇晃"
+  ],
+  "examples": [
+   {
+    "ja": "木の葉が揺れる。",
+    "romaji": "Konoha ga yureru.",
+    "zh": "树叶摇晃。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "揺れない",
+   "过去式": "揺れた"
+  }
+ },
+ {
+  "word": "沈む",
+  "kana": "しずむ",
+  "romaji": "shizumu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "下沉"
+  ],
+  "examples": [
+   {
+    "ja": "太陽が沈む。",
+    "romaji": "Taiyou ga shizumu.",
+    "zh": "太阳西沉。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "沈まない",
+   "过去式": "沈んだ"
+  }
+ },
+ {
+  "word": "浮かぶ",
+  "kana": "うかぶ",
+  "romaji": "ukabu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "漂浮"
+  ],
+  "examples": [
+   {
+    "ja": "雲が浮かぶ。",
+    "romaji": "Kumo ga ukabu.",
+    "zh": "云朵漂浮。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "浮かばない",
+   "过去式": "浮かんだ"
+  }
+ },
+ {
+  "word": "飛び散る",
+  "kana": "とびちる",
+  "romaji": "tobichiru",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "飞溅"
+  ],
+  "examples": [
+   {
+    "ja": "水が飛び散る。",
+    "romaji": "Mizu ga tobichiru.",
+    "zh": "水花飞溅。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "飛び散らない",
+   "过去式": "飛び散った"
+  }
+ },
+ {
+  "word": "転がる",
+  "kana": "ころがる",
+  "romaji": "korogaru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "滚动"
+  ],
+  "examples": [
+   {
+    "ja": "ボールが転がる。",
+    "romaji": "Booru ga korogaru.",
+    "zh": "球滚动。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "転がらない",
+   "过去式": "転がった"
+  }
+ },
+ {
+  "word": "滑る",
+  "kana": "すべる",
+  "romaji": "suberu",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "滑行"
+  ],
+  "examples": [
+   {
+    "ja": "氷の上を滑る。",
+    "romaji": "Koori no ue o suberu.",
+    "zh": "在冰上滑行。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "滑らない",
+   "过去式": "滑った"
+  }
+ },
+ {
+  "word": "転ぶ",
+  "kana": "ころぶ",
+  "romaji": "korobu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "跌倒"
+  ],
+  "examples": [
+   {
+    "ja": "道で転ぶ。",
+    "romaji": "Michi de korobu.",
+    "zh": "在路上跌倒。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "転ばない",
+   "过去式": "転んだ"
+  }
+ },
+ {
+  "word": "這う",
+  "kana": "はう",
+  "romaji": "hau",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "爬行"
+  ],
+  "examples": [
+   {
+    "ja": "赤ちゃんが這う。",
+    "romaji": "Akachan ga hau.",
+    "zh": "婴儿爬行。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "這わない",
+   "过去式": "這った"
+  }
+ },
+ {
+  "word": "登る",
+  "kana": "のぼる",
+  "romaji": "noboru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "攀登"
+  ],
+  "examples": [
+   {
+    "ja": "山に登る。",
+    "romaji": "Yama ni noboru.",
+    "zh": "登山。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "登らない",
+   "过去式": "登った"
+  }
+ },
+ {
+  "word": "降りる",
+  "kana": "おりる",
+  "romaji": "oriru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "下来"
+  ],
+  "examples": [
+   {
+    "ja": "階段を降りる。",
+    "romaji": "Kaidan o oriru.",
+    "zh": "下楼梯。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "降りない",
+   "过去式": "降りた"
+  }
+ },
+ {
+  "word": "飛び降りる",
+  "kana": "とびおりる",
+  "romaji": "tobioriru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "跳下"
+  ],
+  "examples": [
+   {
+    "ja": "壁から飛び降りる。",
+    "romaji": "Kabe kara tobioriru.",
+    "zh": "从墙上跳下。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "飛び降りない",
+   "过去式": "飛び降りた"
+  }
+ },
+ {
+  "word": "飛び込む",
+  "kana": "とびこむ",
+  "romaji": "tobikomu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "跳入"
+  ],
+  "examples": [
+   {
+    "ja": "プールに飛び込む。",
+    "romaji": "Puuru ni tobikomu.",
+    "zh": "跳入泳池。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "飛び込まない",
+   "过去式": "飛び込んだ"
+  }
+ },
+ {
+  "word": "潜る",
+  "kana": "もぐる",
+  "romaji": "moguru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "潜水"
+  ],
+  "examples": [
+   {
+    "ja": "海に潜る。",
+    "romaji": "Umi ni moguru.",
+    "zh": "潜入海中。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "潜らない",
+   "过去式": "潜った"
+  }
+ },
+ {
+  "word": "浮く",
+  "kana": "うく",
+  "romaji": "uku",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "浮起"
+  ],
+  "examples": [
+   {
+    "ja": "木が水に浮く。",
+    "romaji": "Ki ga mizu ni uku.",
+    "zh": "木头浮在水上。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "浮かない",
+   "过去式": "浮いた"
+  }
+ },
+ {
+  "word": "沈める",
+  "kana": "しずめる",
+  "romaji": "shizumeru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "使下沉"
+  ],
+  "examples": [
+   {
+    "ja": "船を沈める。",
+    "romaji": "Fune o shizumeru.",
+    "zh": "使船沉没。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "沈めない",
+   "过去式": "沈めた"
+  }
+ },
+ {
+  "word": "浮かべる",
+  "kana": "うかべる",
+  "romaji": "ukaberu",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "使漂浮"
+  ],
+  "examples": [
+   {
+    "ja": "船を浮かべる。",
+    "romaji": "Fune o ukaberu.",
+    "zh": "使船浮起。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "浮かべない",
+   "过去式": "浮かべた"
+  }
+ },
+ {
+  "word": "漂う",
+  "kana": "ただよう",
+  "romaji": "tadayou",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "飘荡"
+  ],
+  "examples": [
+   {
+    "ja": "香りが漂う。",
+    "romaji": "Kaori ga tadayou.",
+    "zh": "香气飘荡。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "漂わない",
+   "过去式": "漂った"
+  }
+ },
+ {
+  "word": "舞う",
+  "kana": "まう",
+  "romaji": "mau",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "飞舞"
+  ],
+  "examples": [
+   {
+    "ja": "桜の花びらが舞う。",
+    "romaji": "Sakura no hanabira ga mau.",
+    "zh": "樱花花瓣飞舞。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "舞わない",
+   "过去式": "舞った"
+  }
+ },
+ {
+  "word": "散る",
+  "kana": "ちる",
+  "romaji": "chiru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "凋零"
+  ],
+  "examples": [
+   {
+    "ja": "花が散る。",
+    "romaji": "Hana ga chiru.",
+    "zh": "花凋谢。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "散らない",
+   "过去式": "散った"
+  }
+ },
+ {
+  "word": "咲く",
+  "kana": "さく",
+  "romaji": "saku",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "开花"
+  ],
+  "examples": [
+   {
+    "ja": "桜が咲く。",
+    "romaji": "Sakura ga saku.",
+    "zh": "樱花开放。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "咲かない",
+   "过去式": "咲いた"
+  }
+ },
+ {
+  "word": "枯れる",
+  "kana": "かれる",
+  "romaji": "kareru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "枯萎"
+  ],
+  "examples": [
+   {
+    "ja": "木が枯れる。",
+    "romaji": "Ki ga kareru.",
+    "zh": "树木枯萎。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "枯れない",
+   "过去式": "枯れた"
+  }
+ },
+ {
+  "word": "茂る",
+  "kana": "しげる",
+  "romaji": "shigeru",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "繁茂"
+  ],
+  "examples": [
+   {
+    "ja": "草が茂る。",
+    "romaji": "Kusa ga shigeru.",
+    "zh": "草木繁茂。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "茂らない",
+   "过去式": "茂った"
+  }
+ },
+ {
+  "word": "実る",
+  "kana": "みのる",
+  "romaji": "minoru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "结果实"
+  ],
+  "examples": [
+   {
+    "ja": "稲が実る。",
+    "romaji": "Ine ga minoru.",
+    "zh": "稻谷成熟。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "実らない",
+   "过去式": "実った"
+  }
+ },
+ {
+  "word": "耕す",
+  "kana": "たがやす",
+  "romaji": "tagayasu",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "耕种"
+  ],
+  "examples": [
+   {
+    "ja": "畑を耕す。",
+    "romaji": "Hatake o tagayasu.",
+    "zh": "耕田。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "耕さない",
+   "过去式": "耕した"
+  }
+ },
+ {
+  "word": "植える",
+  "kana": "うえる",
+  "romaji": "ueru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "种植"
+  ],
+  "examples": [
+   {
+    "ja": "木を植える。",
+    "romaji": "Ki o ueru.",
+    "zh": "植树。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "植えない",
+   "过去式": "植えた"
+  }
+ },
+ {
+  "word": "刈る",
+  "kana": "かる",
+  "romaji": "karu",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "收割"
+  ],
+  "examples": [
+   {
+    "ja": "稲を刈る。",
+    "romaji": "Ine o karu.",
+    "zh": "割稻。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "刈らない",
+   "过去式": "刈った"
+  }
+ },
+ {
+  "word": "撒く",
+  "kana": "まく",
+  "romaji": "maku",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "播撒"
+  ],
+  "examples": [
+   {
+    "ja": "種を撒く。",
+    "romaji": "Tane o maku.",
+    "zh": "播种。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "撒かない",
+   "过去式": "撒いた"
+  }
+ },
+ {
+  "word": "育てる",
+  "kana": "そだてる",
+  "romaji": "sodateru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "培育"
+  ],
+  "examples": [
+   {
+    "ja": "野菜を育てる。",
+    "romaji": "Yasai o sodateru.",
+    "zh": "种植蔬菜。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "育てない",
+   "过去式": "育てた"
+  }
+ },
+ {
+  "word": "収穫する",
+  "kana": "しゅうかくする",
+  "romaji": "shuukakusuru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "收获"
+  ],
+  "examples": [
+   {
+    "ja": "米を収穫する。",
+    "romaji": "Kome o shuukaku suru.",
+    "zh": "收获稻米。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "収穫しない",
+   "过去式": "収穫した"
+  }
+ },
+ {
+  "word": "飼う",
+  "kana": "かう",
+  "romaji": "kau",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "饲养"
+  ],
+  "examples": [
+   {
+    "ja": "犬を飼う。",
+    "romaji": "Inu o kau.",
+    "zh": "养狗。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "飼わない",
+   "过去式": "飼った"
+  }
+ },
+ {
+  "word": "吠える",
+  "kana": "ほえる",
+  "romaji": "hoeru",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "吠叫"
+  ],
+  "examples": [
+   {
+    "ja": "犬が吠える。",
+    "romaji": "Inu ga hoeru.",
+    "zh": "狗吠叫。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "吠えない",
+   "过去式": "吠えた"
+  }
+ },
+ {
+  "word": "鳴く",
+  "kana": "なく",
+  "romaji": "naku",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "鸣叫"
+  ],
+  "examples": [
+   {
+    "ja": "鳥が鳴く。",
+    "romaji": "Tori ga naku.",
+    "zh": "鸟鸣叫。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "鳴かない",
+   "过去式": "鳴いた"
+  }
+ },
+ {
+  "word": "孵る",
+  "kana": "かえる",
+  "romaji": "kaeru",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "孵化"
+  ],
+  "examples": [
+   {
+    "ja": "卵が孵る。",
+    "romaji": "Tamago ga kaeru.",
+    "zh": "蛋孵化。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "孵らない",
+   "过去式": "孵った"
+  }
+ },
+ {
+  "word": "産む",
+  "kana": "うむ",
+  "romaji": "umu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "生产"
+  ],
+  "examples": [
+   {
+    "ja": "子猫を産む。",
+    "romaji": "Koneko o umu.",
+    "zh": "生小猫。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "産まない",
+   "过去式": "産んだ"
+  }
+ },
+ {
+  "word": "捕まえる",
+  "kana": "つかまえる",
+  "romaji": "tsukamaeru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "抓住"
+  ],
+  "examples": [
+   {
+    "ja": "虫を捕まえる。",
+    "romaji": "Mushi o tsukamaeru.",
+    "zh": "捉虫子。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "捕まえない",
+   "过去式": "捕まえた"
+  }
+ },
+ {
+  "word": "逃げる",
+  "kana": "にげる",
+  "romaji": "nigeru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "逃跑"
+  ],
+  "examples": [
+   {
+    "ja": "猫が逃げる。",
+    "romaji": "Neko ga nigeru.",
+    "zh": "猫逃跑。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "逃げない",
+   "过去式": "逃げた"
+  }
+ },
+ {
+  "word": "追いかける",
+  "kana": "おいかける",
+  "romaji": "oikakeru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "追赶"
+  ],
+  "examples": [
+   {
+    "ja": "犯人を追いかける。",
+    "romaji": "Hannin o oikakeru.",
+    "zh": "追赶犯人。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "追いかけない",
+   "过去式": "追いかけた"
+  }
+ },
+ {
+  "word": "捕らえる",
+  "kana": "とらえる",
+  "romaji": "toraeru",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "捕捉"
+  ],
+  "examples": [
+   {
+    "ja": "獲物を捕らえる。",
+    "romaji": "Emono o toraeru.",
+    "zh": "捕捉猎物。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "捕らえない",
+   "过去式": "捕らえた"
+  }
+ },
+ {
+  "word": "放す",
+  "kana": "はなす",
+  "romaji": "hanasu",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "放开"
+  ],
+  "examples": [
+   {
+    "ja": "鳥を放す。",
+    "romaji": "Tori o hanasu.",
+    "zh": "放鸟。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "放さない",
+   "过去式": "放した"
+  }
+ },
+ {
+  "word": "掴む",
+  "kana": "つかむ",
+  "romaji": "tsukamu",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "抓住"
+  ],
+  "examples": [
+   {
+    "ja": "チャンスを掴む。",
+    "romaji": "Chansu o tsukamu.",
+    "zh": "抓住机会。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "掴まない",
+   "过去式": "掴んだ"
+  }
+ },
+ {
+  "word": "握る",
+  "kana": "にぎる",
+  "romaji": "nigiru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "握紧"
+  ],
+  "examples": [
+   {
+    "ja": "拳を握る。",
+    "romaji": "Kobushi o nigiru.",
+    "zh": "握拳。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "握らない",
+   "过去式": "握った"
+  }
+ },
+ {
+  "word": "放る",
+  "kana": "ほうる",
+  "romaji": "houru",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "扔"
+  ],
+  "examples": [
+   {
+    "ja": "ボールを放る。",
+    "romaji": "Booru o houru.",
+    "zh": "扔球。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "放らない",
+   "过去式": "放った"
+  }
+ },
+ {
+  "word": "投げる",
+  "kana": "なげる",
+  "romaji": "nageru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "投掷"
+  ],
+  "examples": [
+   {
+    "ja": "石を投げる。",
+    "romaji": "Ishi o nageru.",
+    "zh": "扔石头。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "投げない",
+   "过去式": "投げた"
+  }
+ },
+ {
+  "word": "受ける",
+  "kana": "うける",
+  "romaji": "ukeru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "接受"
+  ],
+  "examples": [
+   {
+    "ja": "ボールを受ける。",
+    "romaji": "Booru o ukeru.",
+    "zh": "接球。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "受けない",
+   "过去式": "受けた"
+  }
+ },
+ {
+  "word": "避ける",
+  "kana": "よける",
+  "romaji": "yokeru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "躲避"
+  ],
+  "examples": [
+   {
+    "ja": "障害物を避ける。",
+    "romaji": "Shougaibutsu o yokeru.",
+    "zh": "躲避障碍物。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "避けない",
+   "过去式": "避けた"
+  }
+ },
+ {
+  "word": "防ぐ",
+  "kana": "ふせぐ",
+  "romaji": "fusegu",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "防御"
+  ],
+  "examples": [
+   {
+    "ja": "攻撃を防ぐ。",
+    "romaji": "Kougeki o fusegu.",
+    "zh": "防御攻击。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "防がない",
+   "过去式": "防いだ"
+  }
+ },
+ {
+  "word": "攻める",
+  "kana": "せめる",
+  "romaji": "semeru",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "进攻"
+  ],
+  "examples": [
+   {
+    "ja": "敵を攻める。",
+    "romaji": "Teki o semeru.",
+    "zh": "进攻敌人。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "攻めない",
+   "过去式": "攻めた"
+  }
+ },
+ {
+  "word": "負かす",
+  "kana": "まかす",
+  "romaji": "makasu",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "打败"
+  ],
+  "examples": [
+   {
+    "ja": "相手を負かす。",
+    "romaji": "Aite o makasu.",
+    "zh": "打败对手。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "負かさない",
+   "过去式": "負かした"
+  }
+ },
+ {
+  "word": "引き分ける",
+  "kana": "ひきわける",
+  "romaji": "hikiwakeru",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "平局"
+  ],
+  "examples": [
+   {
+    "ja": "試合が引き分ける。",
+    "romaji": "Shiai ga hikiwakeru.",
+    "zh": "比赛平局。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "引き分けない",
+   "过去式": "引き分けた"
+  }
+ },
+ {
+  "word": "競う",
+  "kana": "きそう",
+  "romaji": "kisou",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "竞争"
+  ],
+  "examples": [
+   {
+    "ja": "速さを競う。",
+    "romaji": "Hayasa o kisou.",
+    "zh": "比速度。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "競わない",
+   "过去式": "競った"
+  }
+ },
+ {
+  "word": "争う",
+  "kana": "あらそう",
+  "romaji": "arasou",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "争夺"
+  ],
+  "examples": [
+   {
+    "ja": "優勝を争う。",
+    "romaji": "Yuushou o arasou.",
+    "zh": "争夺冠军。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "争わない",
+   "过去式": "争った"
+  }
+ },
+ {
+  "word": "譲る",
+  "kana": "ゆずる",
+  "romaji": "yuzuru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "让步"
+  ],
+  "examples": [
+   {
+    "ja": "席を譲る。",
+    "romaji": "Seki o yuzuru.",
+    "zh": "让座。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "譲らない",
+   "过去式": "譲った"
+  }
+ },
+ {
+  "word": "諦める",
+  "kana": "あきらめる",
+  "romaji": "akirameru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "放弃"
+  ],
+  "examples": [
+   {
+    "ja": "夢を諦める。",
+    "romaji": "Yume o akirameru.",
+    "zh": "放弃梦想。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "諦めない",
+   "过去式": "諦めた"
+  }
+ },
+ {
+  "word": "我慢する",
+  "kana": "がまんする",
+  "romaji": "gamansuru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "忍耐"
+  ],
+  "examples": [
+   {
+    "ja": "痛みを我慢する。",
+    "romaji": "Itami o gaman suru.",
+    "zh": "忍耐疼痛。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "我慢しない",
+   "过去式": "我慢した"
+  }
+ },
+ {
+  "word": "耐える",
+  "kana": "たえる",
+  "romaji": "taeru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "忍受"
+  ],
+  "examples": [
+   {
+    "ja": "苦しみに耐える。",
+    "romaji": "Kurushimi ni taeru.",
+    "zh": "忍受痛苦。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "耐えない",
+   "过去式": "耐えた"
+  }
+ },
+ {
+  "word": "憧れる",
+  "kana": "あこがれる",
+  "romaji": "akogareru",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "向往"
+  ],
+  "examples": [
+   {
+    "ja": "海外に憧れる。",
+    "romaji": "Kaigai ni akogareru.",
+    "zh": "向往国外。"
+   }
+  ],
+  "tags": [],
+  "conjugations": {
+   "否定形": "憧れない",
+   "过去式": "憧れた"
+  }
+ },
+ {
+  "word": "勉強",
+  "kana": "べんきょう",
+  "romaji": "benkyou",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "学习"
+  ],
+  "examples": [
+   {
+    "ja": "日本語を勉強しています。",
+    "romaji": "Nihongo o benkyou shiteimasu.",
+    "zh": "正在学习日语。"
+   }
+  ],
+  "tags": [],
+  "association": "“勉”是努力，“強”是强迫 → 学习要努力",
+  "related": [
+   "先生",
+   "学校",
+   "試験"
+  ],
+  "synonyms": [
+   "学習"
+  ],
+  "antonyms": [
+   "遊ぶ"
+  ]
+ },
+ {
+  "word": "買い物",
+  "kana": "かいもの",
+  "romaji": "kaimono",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "购物"
+  ],
+  "examples": [
+   {
+    "ja": "スーパーで買い物をします。",
+    "romaji": "Suupaa de kaimono o shimasu.",
+    "zh": "在超市购物。"
+   }
+  ],
+  "tags": [],
+  "association": "买+物→买东西",
+  "related": [
+   "お金",
+   "店",
+   "買う"
+  ],
+  "synonyms": [
+   "ショッピング"
+  ],
+  "antonyms": [
+   "節約"
+  ]
+ },
+ {
+  "word": "早い",
+  "kana": "はやい",
+  "romaji": "hayai",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "早，快"
+  ],
+  "examples": [
+   {
+    "ja": "今日は早く起きました。",
+    "romaji": "Kyou wa hayaku okimashita.",
+    "zh": "今天起得早。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“哈呀依”→早起哈欠多",
+  "related": [
+   "時間",
+   "急ぐ",
+   "速い"
+  ],
+  "synonyms": [
+   "速い",
+   "迅速"
+  ],
+  "antonyms": [
+   "遅い"
+  ]
+ },
+ {
+  "word": "遅い",
+  "kana": "おそい",
+  "romaji": "osoi",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "晚，慢"
+  ],
+  "examples": [
+   {
+    "ja": "バスが遅れました。",
+    "romaji": "Basu ga okuremashita.",
+    "zh": "公交车晚点了。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“哦so咦~”拖拖拉拉",
+  "related": [
+   "時間",
+   "遅刻",
+   "交通"
+  ],
+  "synonyms": [
+   "緩い"
+  ],
+  "antonyms": [
+   "早い"
+  ]
+ },
+ {
+  "word": "楽しい",
+  "kana": "たのしい",
+  "romaji": "tanoshii",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "愉快，开心"
+  ],
+  "examples": [
+   {
+    "ja": "旅行は楽しかったです。",
+    "romaji": "Ryokou wa tanoshikatta desu.",
+    "zh": "旅行很愉快。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“他no喜” → 他喜我喜",
+  "related": [
+   "笑う",
+   "遊ぶ",
+   "友達"
+  ],
+  "synonyms": [
+   "愉快な"
+  ],
+  "antonyms": [
+   "悲しい"
+  ]
+ },
+ {
+  "word": "悲しい",
+  "kana": "かなしい",
+  "romaji": "kanashii",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "悲伤"
+  ],
+  "examples": [
+   {
+    "ja": "悲しい映画を見ました。",
+    "romaji": "Kanashii eiga o mimashita.",
+    "zh": "看了悲伤的电影。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“悲”字眼泪直流",
+  "related": [
+   "涙",
+   "寂しい",
+   "死"
+  ],
+  "synonyms": [
+   "哀しい"
+  ],
+  "antonyms": [
+   "楽しい"
+  ]
+ },
+ {
+  "word": "暑い",
+  "kana": "あつい",
+  "romaji": "atsui",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "热"
+  ],
+  "examples": [
+   {
+    "ja": "今日はとても暑いです。",
+    "romaji": "Kyou wa totemo atsui desu.",
+    "zh": "今天非常热。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“啊~吹~”吹风扇降温",
+  "related": [
+   "夏",
+   "汗",
+   "太陽"
+  ],
+  "synonyms": [
+   "熱い"
+  ],
+  "antonyms": [
+   "寒い"
+  ]
+ },
+ {
+  "word": "寒い",
+  "kana": "さむい",
+  "romaji": "samui",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "冷"
+  ],
+  "examples": [
+   {
+    "ja": "冬は寒いです。",
+    "romaji": "Fuyu wa samui desu.",
+    "zh": "冬天很冷。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“撒姆衣”→多穿点衣服",
+  "related": [
+   "冬",
+   "風邪",
+   "暖かい"
+  ],
+  "synonyms": [
+   "冷たい"
+  ],
+  "antonyms": [
+   "暑い"
+  ]
+ },
+ {
+  "word": "大きい",
+  "kana": "おおきい",
+  "romaji": "ookii",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "大"
+  ],
+  "examples": [
+   {
+    "ja": "大きな家ですね。",
+    "romaji": "Ookina ie desu ne.",
+    "zh": "真大房子啊。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“おおきい” → 发音气势大",
+  "related": [
+   "小さい",
+   "巨大",
+   "広い"
+  ],
+  "synonyms": [
+   "巨大な"
+  ],
+  "antonyms": [
+   "小さい"
+  ]
+ },
+ {
+  "word": "小さい",
+  "kana": "ちいさい",
+  "romaji": "chiisai",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "小"
+  ],
+  "examples": [
+   {
+    "ja": "小さい猫がいます。",
+    "romaji": "Chiisai neko ga imasu.",
+    "zh": "有一只小猫。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“ちいさい”→“啾~”→小巧可爱",
+  "related": [
+   "大きい",
+   "狭い",
+   "子供"
+  ],
+  "synonyms": [
+   "微小な"
+  ],
+  "antonyms": [
+   "大きい"
+  ]
+ },
+ {
+  "word": "青い",
+  "kana": "あおい",
+  "romaji": "aoi",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "蓝色的"
+  ],
+  "examples": [
+   {
+    "ja": "青い空がきれいです。",
+    "romaji": "Aoi sora ga kirei desu.",
+    "zh": "蓝色的天空很美。"
+   }
+  ],
+  "tags": [],
+  "association": "“あおい” → “哎呦依”→ 蓝天让人惊叹",
+  "related": [
+   "色",
+   "空",
+   "海"
+  ],
+  "synonyms": [
+   "ブルーの"
+  ],
+  "antonyms": [
+   "赤い"
+  ]
+ },
+ {
+  "word": "赤い",
+  "kana": "あかい",
+  "romaji": "akai",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "红色的"
+  ],
+  "examples": [
+   {
+    "ja": "赤い花を買いました。",
+    "romaji": "Akai hana o kaimashita.",
+    "zh": "买了红色的花。"
+   }
+  ],
+  "tags": [],
+  "association": "“あかい” → 像火一样红",
+  "related": [
+   "色",
+   "花",
+   "血"
+  ],
+  "synonyms": [
+   "レッドの"
+  ],
+  "antonyms": [
+   "青い"
+  ]
+ },
+ {
+  "word": "白い",
+  "kana": "しろい",
+  "romaji": "shiroi",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "白色的"
+  ],
+  "examples": [
+   {
+    "ja": "雪は白いです。",
+    "romaji": "Yuki wa shiroi desu.",
+    "zh": "雪是白色的。"
+   }
+  ],
+  "tags": [],
+  "association": "“しろい” → 洁白无瑕",
+  "related": [
+   "雪",
+   "雲",
+   "ミルク"
+  ],
+  "synonyms": [
+   "ホワイト"
+  ],
+  "antonyms": [
+   "黒い"
+  ]
+ },
+ {
+  "word": "黒い",
+  "kana": "くろい",
+  "romaji": "kuroi",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "黑色的"
+  ],
+  "examples": [
+   {
+    "ja": "黒い犬が走っています。",
+    "romaji": "Kuroi inu ga hashitteimasu.",
+    "zh": "一只黑狗在跑。"
+   }
+  ],
+  "tags": [],
+  "association": "“くろい” → 黑影匆匆",
+  "related": [
+   "色",
+   "夜",
+   "服"
+  ],
+  "synonyms": [
+   "ブラック"
+  ],
+  "antonyms": [
+   "白い"
+  ]
+ },
+ {
+  "word": "新しい",
+  "kana": "あたらしい",
+  "romaji": "atarashii",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "新的"
+  ],
+  "examples": [
+   {
+    "ja": "新しいスマホを買いました。",
+    "romaji": "Atarashii sumaho o kaimashita.",
+    "zh": "买了新手机。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“あたらしい” → 新的开始",
+  "related": [
+   "古い",
+   "買う",
+   "使う"
+  ],
+  "synonyms": [
+   "最新の"
+  ],
+  "antonyms": [
+   "古い"
+  ]
+ },
+ {
+  "word": "古い",
+  "kana": "ふるい",
+  "romaji": "furui",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "旧的"
+  ],
+  "examples": [
+   {
+    "ja": "古い本があります。",
+    "romaji": "Furui hon ga arimasu.",
+    "zh": "有本旧书。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“ふるい” → 发霉老旧感",
+  "related": [
+   "新しい",
+   "歴史",
+   "建物"
+  ],
+  "synonyms": [
+   "古代の"
+  ],
+  "antonyms": [
+   "新しい"
+  ]
+ },
+ {
+  "word": "難しい",
+  "kana": "むずかしい",
+  "romaji": "muzukashii",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "难的，复杂的"
+  ],
+  "examples": [
+   {
+    "ja": "この問題は難しいです。",
+    "romaji": "Kono mondai wa muzukashii desu.",
+    "zh": "这个问题很难。"
+   }
+  ],
+  "tags": [],
+  "association": "“むずかしい”发音困难 → 很难",
+  "related": [
+   "問題",
+   "勉強",
+   "挑戦"
+  ],
+  "synonyms": [
+   "複雑な"
+  ],
+  "antonyms": [
+   "簡単な"
+  ]
+ },
+ {
+  "word": "簡単",
+  "kana": "かんたん",
+  "romaji": "kantan",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "简单的"
+  ],
+  "examples": [
+   {
+    "ja": "これは簡単なテストです。",
+    "romaji": "Kore wa kantan na tesuto desu.",
+    "zh": "这是简单的测试。"
+   }
+  ],
+  "tags": [],
+  "association": "“看弹”就中→容易命中",
+  "related": [
+   "易しい",
+   "練習",
+   "理解"
+  ],
+  "synonyms": [
+   "易しい"
+  ],
+  "antonyms": [
+   "難しい"
+  ]
+ },
+ {
+  "word": "高い",
+  "kana": "たかい",
+  "romaji": "takai",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "高的、贵的"
+  ],
+  "examples": [
+   {
+    "ja": "この服は高いです。",
+    "romaji": "Kono fuku wa takai desu.",
+    "zh": "这件衣服很贵。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“他开”价 → 很贵",
+  "related": [
+   "値段",
+   "山",
+   "建物"
+  ],
+  "synonyms": [
+   "高価な"
+  ],
+  "antonyms": [
+   "安い"
+  ]
+ },
+ {
+  "word": "安い",
+  "kana": "やすい",
+  "romaji": "yasui",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "便宜"
+  ],
+  "examples": [
+   {
+    "ja": "このお菓子は安いです。",
+    "romaji": "Kono okashi wa yasui desu.",
+    "zh": "这个点心很便宜。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“やすい” → 谐音“压岁”→ 钱少",
+  "related": [
+   "値段",
+   "買う",
+   "セール"
+  ],
+  "synonyms": [
+   "低価格"
+  ],
+  "antonyms": [
+   "高い"
+  ]
+ },
+ {
+  "word": "楽",
+  "kana": "らく",
+  "romaji": "raku",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "轻松，舒适"
+  ],
+  "examples": [
+   {
+    "ja": "今日は仕事が楽です。",
+    "romaji": "Kyou wa shigoto ga raku desu.",
+    "zh": "今天工作轻松。"
+   }
+  ],
+  "tags": [],
+  "association": "“らく”→像拉伸后轻松",
+  "related": [
+   "簡単",
+   "楽しい",
+   "休む"
+  ],
+  "synonyms": [
+   "快適"
+  ],
+  "antonyms": [
+   "大変"
+  ]
+ },
+ {
+  "word": "大変",
+  "kana": "たいへん",
+  "romaji": "taihen",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "辛苦，糟糕"
+  ],
+  "examples": [
+   {
+    "ja": "それは大変ですね。",
+    "romaji": "Sore wa taihen desu ne.",
+    "zh": "那可真糟糕啊。"
+   }
+  ],
+  "tags": [],
+  "association": "“太狠” → 太糟了",
+  "related": [
+   "難しい",
+   "問題",
+   "苦労"
+  ],
+  "synonyms": [
+   "面倒"
+  ],
+  "antonyms": [
+   "楽"
+  ]
+ },
+ {
+  "word": "速い",
+  "kana": "はやい",
+  "romaji": "hayai",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "快的（速度）"
+  ],
+  "examples": [
+   {
+    "ja": "この車は速いです。",
+    "romaji": "Kono kuruma wa hayai desu.",
+    "zh": "这辆车很快。"
+   }
+  ],
+  "tags": [],
+  "association": "“哗呀咦” → 飙车声",
+  "related": [
+   "早い",
+   "急ぐ",
+   "走る"
+  ],
+  "synonyms": [
+   "迅速な"
+  ],
+  "antonyms": [
+   "遅い"
+  ]
+ },
+ {
+  "word": "強い",
+  "kana": "つよい",
+  "romaji": "tsuyoi",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "强壮，坚强"
+  ],
+  "examples": [
+   {
+    "ja": "彼はとても強いです。",
+    "romaji": "Kare wa totemo tsuyoi desu.",
+    "zh": "他非常强壮。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“强”音强烈，力量",
+  "related": [
+   "体",
+   "力",
+   "戦う"
+  ],
+  "synonyms": [
+   "丈夫な"
+  ],
+  "antonyms": [
+   "弱い"
+  ]
+ },
+ {
+  "word": "弱い",
+  "kana": "よわい",
+  "romaji": "yowai",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "弱的"
+  ],
+  "examples": [
+   {
+    "ja": "私はお酒に弱いです。",
+    "romaji": "Watashi wa osake ni yowai desu.",
+    "zh": "我不胜酒力。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“哟哇依” → 软趴趴",
+  "related": [
+   "体",
+   "力",
+   "強い"
+  ],
+  "synonyms": [
+   "脆弱な"
+  ],
+  "antonyms": [
+   "強い"
+  ]
+ },
+ {
+  "word": "広い",
+  "kana": "ひろい",
+  "romaji": "hiroi",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "宽广的"
+  ],
+  "examples": [
+   {
+    "ja": "広い公園があります。",
+    "romaji": "Hiroi kouen ga arimasu.",
+    "zh": "有一个很大的公园。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“ひろい” → 像“hill”一样广",
+  "related": [
+   "大きい",
+   "空間",
+   "自由"
+  ],
+  "synonyms": [
+   "広大な"
+  ],
+  "antonyms": [
+   "狭い"
+  ]
+ },
+ {
+  "word": "狭い",
+  "kana": "せまい",
+  "romaji": "semai",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "狭小的"
+  ],
+  "examples": [
+   {
+    "ja": "この部屋は狭いです。",
+    "romaji": "Kono heya wa semai desu.",
+    "zh": "这个房间很小。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“せまい”→“塞满了”",
+  "related": [
+   "小さい",
+   "空間",
+   "部屋"
+  ],
+  "synonyms": [
+   "窮屈な"
+  ],
+  "antonyms": [
+   "広い"
+  ]
+ },
+ {
+  "word": "重い",
+  "kana": "おもい",
+  "romaji": "omoi",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "重的"
+  ],
+  "examples": [
+   {
+    "ja": "この荷物は重いです。",
+    "romaji": "Kono nimotsu wa omoi desu.",
+    "zh": "这件行李很重。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“おもい”→“哦~my” → 太重了",
+  "related": [
+   "軽い",
+   "荷物",
+   "持つ"
+  ],
+  "synonyms": [
+   "重量のある"
+  ],
+  "antonyms": [
+   "軽い"
+  ]
+ },
+ {
+  "word": "軽い",
+  "kana": "かるい",
+  "romaji": "karui",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "轻的"
+  ],
+  "examples": [
+   {
+    "ja": "この箱は軽いです。",
+    "romaji": "Kono hako wa karui desu.",
+    "zh": "这个箱子很轻。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“轻轻一抬”→ 轻便",
+  "related": [
+   "重い",
+   "荷物",
+   "風"
+  ],
+  "synonyms": [
+   "軽量"
+  ],
+  "antonyms": [
+   "重い"
+  ]
+ },
+ {
+  "word": "面白い",
+  "kana": "おもしろい",
+  "romaji": "omoshiroi",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "有趣的"
+  ],
+  "examples": [
+   {
+    "ja": "その話は面白いです。",
+    "romaji": "Sono hanashi wa omoshiroi desu.",
+    "zh": "那个故事很有趣。"
+   }
+  ],
+  "tags": [
+   "形容词"
+  ],
+  "association": "“面白”→ 表情丰富",
+  "related": [
+   "楽しい",
+   "漫画",
+   "本"
+  ],
+  "synonyms": [
+   "興味深い"
+  ],
+  "antonyms": [
+   "つまらない"
+  ]
+ },
+ {
+  "word": "授業",
+  "kana": "じゅぎょう",
+  "romaji": "jugyou",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "上课，授课"
+  ],
+  "examples": [
+   {
+    "ja": "授業が始まりました。",
+    "romaji": "Jugyou ga hajimarimashita.",
+    "zh": "上课开始了。"
+   }
+  ],
+  "tags": [],
+  "association": "“就给我”上课用的知识",
+  "related": [
+   "先生",
+   "教室",
+   "学生"
+  ],
+  "synonyms": [
+   "講義"
+  ],
+  "antonyms": [
+   "休講"
+  ]
+ },
+ {
+  "word": "地下鉄",
+  "kana": "ちかてつ",
+  "romaji": "chikatetsu",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "地铁"
+  ],
+  "examples": [
+   {
+    "ja": "地下鉄で通勤しています。",
+    "romaji": "Chikatetsu de tsuukin shiteimasu.",
+    "zh": "我乘地铁通勤。"
+   }
+  ],
+  "tags": [],
+  "association": "“地下铁”直接联想地铁",
+  "related": [
+   "駅",
+   "交通",
+   "電車"
+  ],
+  "synonyms": [
+   "メトロ"
+  ],
+  "antonyms": [
+   "徒歩"
+  ]
+ },
+ {
+  "word": "料理",
+  "kana": "りょうり",
+  "romaji": "ryouri",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "料理，做饭"
+  ],
+  "examples": [
+   {
+    "ja": "私は料理が得意です。",
+    "romaji": "Watashi wa ryouri ga tokui desu.",
+    "zh": "我很擅长做饭。"
+   }
+  ],
+  "tags": [],
+  "association": "“溜溜日”天天做饭",
+  "related": [
+   "台所",
+   "食事",
+   "味"
+  ],
+  "synonyms": [
+   "クッキング"
+  ],
+  "antonyms": [
+   "外食"
+  ]
+ },
+ {
+  "word": "音楽",
+  "kana": "おんがく",
+  "romaji": "ongaku",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "音乐"
+  ],
+  "examples": [
+   {
+    "ja": "音楽を聴くのが好きです。",
+    "romaji": "Ongaku o kiku no ga suki desu.",
+    "zh": "我喜欢听音乐。"
+   }
+  ],
+  "tags": [
+   "名词"
+  ],
+  "association": "“音がく” 音到就快乐",
+  "related": [
+   "歌",
+   "ダンス",
+   "CD"
+  ],
+  "synonyms": [
+   "メロディー"
+  ],
+  "antonyms": [
+   "騒音"
+  ]
+ },
+ {
+  "word": "図書館",
+  "kana": "としょかん",
+  "romaji": "toshokan",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "图书馆"
+  ],
+  "examples": [
+   {
+    "ja": "図書館で本を借りました。",
+    "romaji": "Toshokan de hon o karimashita.",
+    "zh": "我在图书馆借了书。"
+   }
+  ],
+  "tags": [
+   "名词"
+  ],
+  "association": "“图书勘”看书的地方",
+  "related": [
+   "本",
+   "静か",
+   "勉強"
+  ],
+  "synonyms": [
+   "ライブラリー"
+  ],
+  "antonyms": [
+   "遊園地"
+  ]
+ },
+ {
+  "word": "花火",
+  "kana": "はなび",
+  "romaji": "hanabi",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "烟花"
+  ],
+  "examples": [
+   {
+    "ja": "花火大会に行きました。",
+    "romaji": "Hanabi taikai ni ikimashita.",
+    "zh": "我去了烟花大会。"
+   }
+  ],
+  "tags": [],
+  "association": "“花”和“火”的结合",
+  "related": [
+   "祭り",
+   "夜空",
+   "カメラ"
+  ],
+  "synonyms": [
+   "打ち上げ花火"
+  ],
+  "antonyms": [
+   "消火"
+  ]
+ },
+ {
+  "word": "携帯電話",
+  "kana": "けいたいでんわ",
+  "romaji": "keitai denwa",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "手机"
+  ],
+  "examples": [
+   {
+    "ja": "携帯電話を忘れました。",
+    "romaji": "Keitai denwa o wasuremashita.",
+    "zh": "我忘了带手机。"
+   }
+  ],
+  "tags": [
+   "名词"
+  ],
+  "association": "“可以带”电话",
+  "related": [
+   "スマホ",
+   "通信",
+   "アプリ"
+  ],
+  "synonyms": [
+   "スマートフォン"
+  ],
+  "antonyms": [
+   "固定電話"
+  ]
+ },
+ {
+  "word": "空港",
+  "kana": "くうこう",
+  "romaji": "kuukou",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "机场"
+  ],
+  "examples": [
+   {
+    "ja": "空港まで車で行きます。",
+    "romaji": "Kuukou made kuruma de ikimasu.",
+    "zh": "我开车去机场。"
+   }
+  ],
+  "tags": [
+   "名词"
+  ],
+  "association": "“空的口” 飞机出入口",
+  "related": [
+   "飛行機",
+   "チェックイン",
+   "荷物"
+  ],
+  "synonyms": [
+   "エアポート"
+  ],
+  "antonyms": [
+   "駅"
+  ]
+ },
+ {
+  "word": "自転車",
+  "kana": "じてんしゃ",
+  "romaji": "jitensha",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "自行车"
+  ],
+  "examples": [
+   {
+    "ja": "毎日自転車で通学します。",
+    "romaji": "Mainichi jitensha de tsuugaku shimasu.",
+    "zh": "我每天骑自行车上学。"
+   }
+  ],
+  "tags": [
+   "名词"
+  ],
+  "association": "“自己转车”靠自己踩",
+  "related": [
+   "ヘルメット",
+   "道路",
+   "通勤"
+  ],
+  "synonyms": [
+   "チャリ"
+  ],
+  "antonyms": [
+   "バス"
+  ]
+ },
+ {
+  "word": "試験",
+  "kana": "しけん",
+  "romaji": "shiken",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "考试"
+  ],
+  "examples": [
+   {
+    "ja": "明日、試験があります。",
+    "romaji": "Ashita, shiken ga arimasu.",
+    "zh": "明天有考试。"
+   }
+  ],
+  "tags": [],
+  "association": "“是考验” → 测试",
+  "related": [
+   "問題",
+   "答案",
+   "勉強"
+  ],
+  "synonyms": [
+   "テスト"
+  ],
+  "antonyms": [
+   "休暇"
+  ]
+ },
+ {
+  "word": "郵便局",
+  "kana": "ゆうびんきょく",
+  "romaji": "yuubinkyoku",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "邮局"
+  ],
+  "examples": [
+   {
+    "ja": "郵便局で手紙を出しました。",
+    "romaji": "Yuubinkyoku de tegami o dashimashita.",
+    "zh": "我在邮局寄了信。"
+   }
+  ],
+  "tags": [],
+  "association": "“邮便局”直接联想邮政",
+  "related": [
+   "切手",
+   "手紙",
+   "荷物"
+  ],
+  "synonyms": [
+   "ポストオフィス"
+  ],
+  "antonyms": [
+   "宅配"
+  ]
+ },
+ {
+  "word": "新聞",
+  "kana": "しんぶん",
+  "romaji": "shinbun",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "报纸"
+  ],
+  "examples": [
+   {
+    "ja": "新聞を読みます。",
+    "romaji": "Shinbun o yomimasu.",
+    "zh": "我看报纸。"
+   }
+  ],
+  "tags": [
+   "名词"
+  ],
+  "association": "“新闻” = 新的文章",
+  "related": [
+   "ニュース",
+   "朝",
+   "記事"
+  ],
+  "synonyms": [
+   "ニュースペーパー"
+  ],
+  "antonyms": [
+   "雑誌"
+  ]
+ },
+ {
+  "word": "運動",
+  "kana": "うんどう",
+  "romaji": "undou",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "运动"
+  ],
+  "examples": [
+   {
+    "ja": "毎朝運動しています。",
+    "romaji": "Maiasa undou shiteimasu.",
+    "zh": "我每天早上运动。"
+   }
+  ],
+  "tags": [],
+  "association": "“运”动身体",
+  "related": [
+   "走る",
+   "健康",
+   "運動会"
+  ],
+  "synonyms": [
+   "スポーツ"
+  ],
+  "antonyms": [
+   "安静"
+  ]
+ },
+ {
+  "word": "掃除",
+  "kana": "そうじ",
+  "romaji": "souji",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "打扫"
+  ],
+  "examples": [
+   {
+    "ja": "部屋を掃除しました。",
+    "romaji": "Heya o souji shimashita.",
+    "zh": "我打扫了房间。"
+   }
+  ],
+  "tags": [],
+  "association": "“搜集”垃圾→打扫",
+  "related": [
+   "部屋",
+   "モップ",
+   "綺麗"
+  ],
+  "synonyms": [
+   "清掃"
+  ],
+  "antonyms": [
+   "汚す"
+  ]
+ },
+ {
+  "word": "冷蔵庫",
+  "kana": "れいぞうこ",
+  "romaji": "reizouko",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "冰箱"
+  ],
+  "examples": [
+   {
+    "ja": "冷蔵庫に野菜があります。",
+    "romaji": "Reizouko ni yasai ga arimasu.",
+    "zh": "冰箱里有蔬菜。"
+   }
+  ],
+  "tags": [
+   "名词"
+  ],
+  "association": "冷藏东西的箱子",
+  "related": [
+   "料理",
+   "保存",
+   "飲み物"
+  ],
+  "synonyms": [
+   "フリッジ"
+  ],
+  "antonyms": [
+   "加熱"
+  ]
+ },
+ {
+  "word": "動物",
+  "kana": "どうぶつ",
+  "romaji": "doubutsu",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "动物"
+  ],
+  "examples": [
+   {
+    "ja": "動物園へ行きました。",
+    "romaji": "Doubutsuen e ikimashita.",
+    "zh": "去了动物园。"
+   }
+  ],
+  "tags": [
+   "名词"
+  ],
+  "association": "“动的物”",
+  "related": [
+   "猫",
+   "犬",
+   "猿"
+  ],
+  "synonyms": [
+   "ビースト"
+  ],
+  "antonyms": [
+   "植物"
+  ]
+ },
+ {
+  "word": "銀行",
+  "kana": "ぎんこう",
+  "romaji": "ginkou",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "银行"
+  ],
+  "examples": [
+   {
+    "ja": "銀行でお金を下ろしました。",
+    "romaji": "Ginkou de okane o oroshimashita.",
+    "zh": "我在银行取了钱。"
+   }
+  ],
+  "tags": [],
+  "association": "“银”钱的“行”业",
+  "related": [
+   "ATM",
+   "口座",
+   "振込"
+  ],
+  "synonyms": [
+   "バンク"
+  ],
+  "antonyms": [
+   "現金"
+  ]
+ },
+ {
+  "word": "英語",
+  "kana": "えいご",
+  "romaji": "eigo",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "英语"
+  ],
+  "examples": [
+   {
+    "ja": "英語を勉強しています。",
+    "romaji": "Eigo o benkyou shiteimasu.",
+    "zh": "我在学英语。"
+   }
+  ],
+  "tags": [
+   "名词"
+  ],
+  "association": "英格兰的语言",
+  "related": [
+   "言語",
+   "外国",
+   "学校"
+  ],
+  "synonyms": [
+   "イングリッシュ"
+  ],
+  "antonyms": [
+   "日本語"
+  ]
+ },
+ {
+  "word": "水曜日",
+  "kana": "すいようび",
+  "romaji": "suiyoubi",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "星期三"
+  ],
+  "examples": [
+   {
+    "ja": "水曜日はテストです。",
+    "romaji": "Suiyoubi wa tesuto desu.",
+    "zh": "星期三考试。"
+   }
+  ],
+  "tags": [],
+  "association": "水之日",
+  "related": [
+   "曜日",
+   "カレンダー",
+   "週"
+  ]
+ },
+ {
+  "word": "電気",
+  "kana": "でんき",
+  "romaji": "denki",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "电"
+  ],
+  "examples": [
+   {
+    "ja": "電気を消してください。",
+    "romaji": "Denki o keshite kudasai.",
+    "zh": "请关掉电。"
+   }
+  ],
+  "tags": [
+   "名词"
+  ],
+  "association": "电的气体",
+  "related": [
+   "スイッチ",
+   "家電",
+   "明かり"
+  ],
+  "synonyms": [
+   "エレクトリック"
+  ],
+  "antonyms": [
+   "停電"
+  ]
+ },
+ {
+  "word": "電車の切符",
+  "kana": "でんしゃのきっぷ",
+  "romaji": "densha no kippu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "电车票",
+   "火车票"
+  ],
+  "examples": [
+   {
+    "ja": "駅で電車の切符を買いました",
+    "romaji": "Eki de densha no kippu o kaimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "病院",
+  "kana": "びょういん",
+  "romaji": "byouin",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "医院"
+  ],
+  "examples": [
+   {
+    "ja": "熱があるので病院に行きます",
+    "romaji": "Netsu ga aru node byouin ni ikimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "学校",
+  "kana": "がっこう",
+  "romaji": "gakkou",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "学校",
+   "上学的场所",
+   "校舍"
+  ],
+  "examples": [
+   {
+    "ja": "学校で日本語を勉強しています",
+    "romaji": "Gakkou de nihongo o benkyou shite imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "先生",
+  "kana": "せんせい",
+  "romaji": "sensei",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "老师",
+   "教师",
+   "（对医生、律师等的尊称）先生"
+  ],
+  "examples": [
+   {
+    "ja": "先生はとても優しいです",
+    "romaji": "Sensei wa totemo yasashii desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "学生",
+  "kana": "がくせい",
+  "romaji": "gakusei",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "学生"
+  ],
+  "examples": [
+   {
+    "ja": "私は東京大学の学生です",
+    "romaji": "Watashi wa Toukyou daigaku no gakusei desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "日本語",
+  "kana": "にほんご",
+  "romaji": "nihongo",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "日语",
+   "日本的语言"
+  ],
+  "examples": [
+   {
+    "ja": "日本語で手紙を書きました",
+    "romaji": "Nihongo de tegami o kakimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "教室",
+  "kana": "きょうしつ",
+  "romaji": "kyoushitsu",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "教室"
+  ],
+  "examples": [
+   {
+    "ja": "教室に学生がたくさんいます",
+    "romaji": "Kyoushitsu ni gakusei ga takusan imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "椅子",
+  "kana": "いす",
+  "romaji": "isu",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "椅子"
+  ],
+  "examples": [
+   {
+    "ja": "この椅子はとても快適です",
+    "romaji": "Kono isu wa totemo kaiteki desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "机",
+  "kana": "つくえ",
+  "romaji": "tsukue",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "桌子",
+   "书桌"
+  ],
+  "examples": [
+   {
+    "ja": "机の上に本があります",
+    "romaji": "Tsukue no ue ni hon ga arimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "本",
+  "kana": "ほん",
+  "romaji": "hon",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "书",
+   "书籍"
+  ],
+  "examples": [
+   {
+    "ja": "この本はとても面白いです",
+    "romaji": "Kono hon wa totemo omoshiroi desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "雑誌",
+  "kana": "ざっし",
+  "romaji": "zasshi",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "杂志"
+  ],
+  "examples": [
+   {
+    "ja": "美容雑誌を買いました",
+    "romaji": "Biyou zasshi o kaimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "時計",
+  "kana": "とけい",
+  "romaji": "tokei",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "钟表",
+   "手表",
+   "时钟"
+  ],
+  "examples": [
+   {
+    "ja": "壁に時計がかかっています",
+    "romaji": "Kabe ni tokei ga kakatte imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "窓",
+  "kana": "まど",
+  "romaji": "mado",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "窗",
+   "窗户"
+  ],
+  "examples": [
+   {
+    "ja": "窓を開けてください",
+    "romaji": "Mado o akete kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "ドア",
+  "kana": "どあ",
+  "romaji": "doa",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "门",
+   "房门"
+  ],
+  "examples": [
+   {
+    "ja": "ドアを閉めてください",
+    "romaji": "Doa o shimete kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "靴",
+  "kana": "くつ",
+  "romaji": "kutsu",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "鞋"
+  ],
+  "examples": [
+   {
+    "ja": "新しい靴を買いました",
+    "romaji": "Atarashii kutsu o kaimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "服",
+  "kana": "ふく",
+  "romaji": "fuku",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "衣服",
+   "服装"
+  ],
+  "examples": [
+   {
+    "ja": "この服はとてもおしゃれです",
+    "romaji": "Kono fuku wa totemo oshare desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "鞄",
+  "kana": "かばん",
+  "romaji": "kaban",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "包",
+   "书包",
+   "公文包"
+  ],
+  "examples": [
+   {
+    "ja": "鞄にノートを入れました",
+    "romaji": "Kaban ni nouto o iremashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "財布",
+  "kana": "さいふ",
+  "romaji": "saifu",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "钱包"
+  ],
+  "examples": [
+   {
+    "ja": "財布を家に忘れました",
+    "romaji": "Saifu o ie ni wasuremashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "鍵",
+  "kana": "かぎ",
+  "romaji": "kagi",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "钥匙",
+   "锁"
+  ],
+  "examples": [
+   {
+    "ja": "ドアの鍵をかけました",
+    "romaji": "Doa no kagi o kakemashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "テレビ",
+  "kana": "てれび",
+  "romaji": "terebi",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "电视",
+   "电视机"
+  ],
+  "examples": [
+   {
+    "ja": "毎晩テレビを見ます",
+    "romaji": "Maiban terebi o mimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "コンピュータ",
+  "kana": "こんぴゅーた",
+  "romaji": "konpyuuta",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "计算机",
+   "电脑"
+  ],
+  "examples": [
+   {
+    "ja": "コンピュータで仕事をします",
+    "romaji": "Konpyu-ta de shigoto o shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "バス",
+  "kana": "ばす",
+  "romaji": "basu",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "公交车",
+   "巴士"
+  ],
+  "examples": [
+   {
+    "ja": "バスで学校へ行きます",
+    "romaji": "Basu de gakkou e ikimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "電車",
+  "kana": "でんしゃ",
+  "romaji": "densha",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "电车",
+   "火车（市内或城际列车）"
+  ],
+  "examples": [
+   {
+    "ja": "電車は5分後に来ます",
+    "romaji": "Densha wa gofun go ni kimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "飛行機",
+  "kana": "ひこうき",
+  "romaji": "hikouki",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "飞机"
+  ],
+  "examples": [
+   {
+    "ja": "飛行機で日本へ行きます",
+    "romaji": "Hikouki de nihon e ikimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "駅",
+  "kana": "えき",
+  "romaji": "eki",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "车站"
+  ],
+  "examples": [
+   {
+    "ja": "駅まで歩いて10分かかります",
+    "romaji": "Eki made aruite juppun kakarimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "ホテル",
+  "kana": "ほてる",
+  "romaji": "hoteru",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "酒店",
+   "宾馆"
+  ],
+  "examples": [
+   {
+    "ja": "ホテルの予約をしました",
+    "romaji": "Hoteru no yoyaku o shimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "部屋",
+  "kana": "へや",
+  "romaji": "heya",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "房间",
+   "屋子"
+  ],
+  "examples": [
+   {
+    "ja": "部屋を掃除しました",
+    "romaji": "Heya o souji shimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "ベッド",
+  "kana": "べっど",
+  "romaji": "beddo",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "床",
+   "床铺"
+  ],
+  "examples": [
+   {
+    "ja": "ベッドで本を読みます",
+    "romaji": "Beddo de hon o yomimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "トイレ",
+  "kana": "といれ",
+  "romaji": "toire",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "厕所",
+   "洗手间"
+  ],
+  "examples": [
+   {
+    "ja": "トイレはどこですか",
+    "romaji": "Toire wa doko desu ka",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "お風呂",
+  "kana": "おふろ",
+  "romaji": "ofuro",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "澡堂",
+   "浴缸",
+   "洗澡"
+  ],
+  "examples": [
+   {
+    "ja": "お風呂に入りたいです",
+    "romaji": "Ofuro ni hairitai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "水",
+  "kana": "みず",
+  "romaji": "mizu",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "水"
+  ],
+  "examples": [
+   {
+    "ja": "水を一杯ください",
+    "romaji": "Mizu o ippai kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "お茶",
+  "kana": "おちゃ",
+  "romaji": "ocha",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "茶",
+   "绿茶"
+  ],
+  "examples": [
+   {
+    "ja": "お茶をもう一杯いかがですか",
+    "romaji": "Ocha o mou ippai ikaga desu ka",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "コーヒー",
+  "kana": "こーひー",
+  "romaji": "koohii",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "咖啡"
+  ],
+  "examples": [
+   {
+    "ja": "コーヒーに砂糖を入れます",
+    "romaji": "Ko-hi- ni satou o iremasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "牛乳",
+  "kana": "ぎゅうにゅう",
+  "romaji": "gyuunyuu",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "牛奶"
+  ],
+  "examples": [
+   {
+    "ja": "牛乳は体に良いです",
+    "romaji": "Gyuunyuu wa karada ni yoi desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "ジュース",
+  "kana": "じゅーす",
+  "romaji": "juusu",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "果汁",
+   "饮料"
+  ],
+  "examples": [
+   {
+    "ja": "オレンジジュースを飲みます",
+    "romaji": "Orenji ju-su o nomimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "ご飯",
+  "kana": "ごはん",
+  "romaji": "gohan",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "米饭",
+   "饭",
+   "餐食"
+  ],
+  "examples": [
+   {
+    "ja": "ご飯を食べましょう",
+    "romaji": "Gohan o tabemashou",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "パン",
+  "kana": "ぱん",
+  "romaji": "pan",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "面包"
+  ],
+  "examples": [
+   {
+    "ja": "朝食にパンを食べます",
+    "romaji": "Choushoku ni pan o tabemasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "ラーメン",
+  "kana": "らーめん",
+  "romaji": "raamen",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "拉面"
+  ],
+  "examples": [
+   {
+    "ja": "ラーメンが大好きです",
+    "romaji": "Ra-men ga daisuki desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "魚",
+  "kana": "さかな",
+  "romaji": "sakana",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "鱼"
+  ],
+  "examples": [
+   {
+    "ja": "魚を焼いて食べます",
+    "romaji": "Sakana o yaite tabemasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "肉",
+  "kana": "にく",
+  "romaji": "niku",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "肉"
+  ],
+  "examples": [
+   {
+    "ja": "肉はよく焼いてください",
+    "romaji": "Niku wa yoku yaite kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "野菜",
+  "kana": "やさい",
+  "romaji": "yasai",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "蔬菜"
+  ],
+  "examples": [
+   {
+    "ja": "野菜をもっと食べましょう",
+    "romaji": "Yasai o motto tabemashou",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "果物",
+  "kana": "くだもの",
+  "romaji": "kudamono",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "水果"
+  ],
+  "examples": [
+   {
+    "ja": "果物はビタミンが豊富です",
+    "romaji": "Kudamono wa bitamin ga houfu desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "りんご",
+  "kana": "りんご",
+  "romaji": "ringo",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "苹果",
+   "苹果树"
+  ],
+  "examples": [
+   {
+    "ja": "りんごを一個ください",
+    "romaji": "Ringo o ikko kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "みかん",
+  "kana": "みかん",
+  "romaji": "mikan",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "橘子",
+   "温州蜜橘"
+  ],
+  "examples": [
+   {
+    "ja": "みかんはビタミンCが多いです",
+    "romaji": "Mikan wa bitamin C ga ooi desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "バナナ",
+  "kana": "ばなな",
+  "romaji": "banana",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "香蕉"
+  ],
+  "examples": [
+   {
+    "ja": "バナナはエネルギー源です",
+    "romaji": "Banana wa enerugii gen desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "友達",
+  "kana": "ともだち",
+  "romaji": "tomodachi",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "朋友",
+   "好友"
+  ],
+  "examples": [
+   {
+    "ja": "友達と映画を見に行きます",
+    "romaji": "Tomodachi to eiga o mi ni ikimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "家族",
+  "kana": "かぞく",
+  "romaji": "kazoku",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "家人",
+   "家庭",
+   "家族"
+  ],
+  "examples": [
+   {
+    "ja": "家族と一緒に住んでいます",
+    "romaji": "Kazoku to issho ni sunde imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "母",
+  "kana": "はは",
+  "romaji": "haha",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "母亲",
+   "（自称）妈妈"
+  ],
+  "examples": [
+   {
+    "ja": "母は料理が上手です",
+    "romaji": "Haha wa ryouri ga jouzu desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "父",
+  "kana": "ちち",
+  "romaji": "chichi",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "父亲",
+   "（自称）爸爸"
+  ],
+  "examples": [
+   {
+    "ja": "父は会社員です",
+    "romaji": "Chichi wa kaishain desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "兄",
+  "kana": "あに",
+  "romaji": "ani",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "哥哥",
+   "（自称）哥哥"
+  ],
+  "examples": [
+   {
+    "ja": "兄は大学生です",
+    "romaji": "Ani wa daigakusei desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "姉",
+  "kana": "あね",
+  "romaji": "ane",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "姐姐",
+   "（自称）姐姐"
+  ],
+  "examples": [
+   {
+    "ja": "姉は看護師です",
+    "romaji": "Ane wa kangoshi desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "弟",
+  "kana": "おとうと",
+  "romaji": "otouto",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "弟弟"
+  ],
+  "examples": [
+   {
+    "ja": "弟は高校生です",
+    "romaji": "Otouto wa koukousei desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "妹",
+  "kana": "いもうと",
+  "romaji": "imouto",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "妹妹"
+  ],
+  "examples": [
+   {
+    "ja": "妹はピアノを習っています",
+    "romaji": "Imouto wa piano o naratte imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "子供",
+  "kana": "こども",
+  "romaji": "kodomo",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "孩子",
+   "儿童",
+   "子女"
+  ],
+  "examples": [
+   {
+    "ja": "子供たちは公園で遊んでいます",
+    "romaji": "Kodomo-tachi wa kouen de asonde imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "赤ちゃん",
+  "kana": "あかちゃん",
+  "romaji": "akachan",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "婴儿",
+   "宝宝",
+   "襁褓中的婴儿"
+  ],
+  "examples": [
+   {
+    "ja": "赤ちゃんが泣いています",
+    "romaji": "Akachan ga naite imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "会社",
+  "kana": "かいしゃ",
+  "romaji": "kaisha",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "公司",
+   "企业"
+  ],
+  "examples": [
+   {
+    "ja": "会社は9時から5時までです",
+    "romaji": "Kaisha wa kuji kara goji made desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "仕事",
+  "kana": "しごと",
+  "romaji": "shigoto",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "工作",
+   "职业",
+   "任务"
+  ],
+  "examples": [
+   {
+    "ja": "仕事が忙しいです",
+    "romaji": "Shigoto ga isogashii desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "会議",
+  "kana": "かいぎ",
+  "romaji": "kaigi",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "会议",
+   "开会",
+   "讨论会"
+  ],
+  "examples": [
+   {
+    "ja": "午後2時に会議があります",
+    "romaji": "Gogo niji ni kaigi ga arimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "電話",
+  "kana": "でんわ",
+  "romaji": "denwa",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "电话",
+   "通电话"
+  ],
+  "examples": [
+   {
+    "ja": "電話番号を教えてください",
+    "romaji": "Denwa bangou o oshiete kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "メール",
+  "kana": "めーる",
+  "romaji": "meeru",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "电子邮件",
+   "邮件"
+  ],
+  "examples": [
+   {
+    "ja": "メールを送りました",
+    "romaji": "Me-ru o okurimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "パソコン",
+  "kana": "ぱそこん",
+  "romaji": "pasokon",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "个人电脑",
+   "电脑"
+  ],
+  "examples": [
+   {
+    "ja": "パソコンを買いたいです",
+    "romaji": "Pasokon o kaitai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "カメラ",
+  "kana": "かめら",
+  "romaji": "kamera",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "照相机",
+   "摄像机"
+  ],
+  "examples": [
+   {
+    "ja": "カメラで写真を撮ります",
+    "romaji": "Kamera de shashin o torimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "写真",
+  "kana": "しゃしん",
+  "romaji": "shashin",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "照片",
+   "相片",
+   "摄影"
+  ],
+  "examples": [
+   {
+    "ja": "この写真は去年の旅行です",
+    "romaji": "Kono shashin wa kyonen no ryokou desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "映画",
+  "kana": "えいが",
+  "romaji": "eiga",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "电影",
+   "影片",
+   "电影院放映"
+  ],
+  "examples": [
+   {
+    "ja": "週末に映画を見に行きます",
+    "romaji": "Shuumatsu ni eiga o mi ni ikimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "歌",
+  "kana": "うた",
+  "romaji": "uta",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "歌曲",
+   "歌唱",
+   "和歌"
+  ],
+  "examples": [
+   {
+    "ja": "カラオケで歌を歌います",
+    "romaji": "Karaoke de uta o utaimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "漫画",
+  "kana": "まんが",
+  "romaji": "manga",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "漫画",
+   "连环画",
+   "漫画书"
+  ],
+  "examples": [
+   {
+    "ja": "日本の漫画が好きです",
+    "romaji": "Nihon no manga ga suki desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "ゲーム",
+  "kana": "げーむ",
+  "romaji": "geemu",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "游戏",
+   "电子游戏",
+   "比赛局"
+  ],
+  "examples": [
+   {
+    "ja": "友達とゲームをします",
+    "romaji": "Tomodachi to ge-mu o shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "スポーツ",
+  "kana": "すぽーつ",
+  "romaji": "supootsu",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "体育运动",
+   "体育项目"
+  ],
+  "examples": [
+   {
+    "ja": "スポーツは健康に良いです",
+    "romaji": "Supo-tsu wa kenkou ni yoi desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "サッカー",
+  "kana": "さっかー",
+  "romaji": "sakkaa",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "足球（运动）"
+  ],
+  "examples": [
+   {
+    "ja": "サッカーの試合を見ます",
+    "romaji": "Sakka- no shiai o mimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "野球",
+  "kana": "やきゅう",
+  "romaji": "yakyuu",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "棒球",
+   "棒球运动"
+  ],
+  "examples": [
+   {
+    "ja": "野球は日本の人気スポーツです",
+    "romaji": "Yakyuu wa nihon no ninki supo-tsu desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "テニス",
+  "kana": "てにす",
+  "romaji": "tenisu",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "网球（运动）"
+  ],
+  "examples": [
+   {
+    "ja": "週に一度テニスをします",
+    "romaji": "Shu ni ichido tenisu o shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "山",
+  "kana": "やま",
+  "romaji": "yama",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "山",
+   "山岳",
+   "（事物的）堆积物"
+  ],
+  "examples": [
+   {
+    "ja": "山に登るのが好きです",
+    "romaji": "Yama ni noboru no ga suki desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "川",
+  "kana": "かわ",
+  "romaji": "kawa",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "河流",
+   "河川",
+   "小河"
+  ],
+  "examples": [
+   {
+    "ja": "川で魚釣りをします",
+    "romaji": "Kawa de sakana tsuri o shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "海",
+  "kana": "うみ",
+  "romaji": "umi",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "海",
+   "海洋",
+   "大海"
+  ],
+  "examples": [
+   {
+    "ja": "海で泳ぎたいです",
+    "romaji": "Umi de oyogitai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "公園",
+  "kana": "こうえん",
+  "romaji": "kouen",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "公园",
+   "公共园地"
+  ],
+  "examples": [
+   {
+    "ja": "公園を散歩します",
+    "romaji": "Kouen o sanpo shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "犬",
+  "kana": "いぬ",
+  "romaji": "inu",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "狗",
+   "犬"
+  ],
+  "examples": [
+   {
+    "ja": "犬を飼っています",
+    "romaji": "Inu o katte imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "猫",
+  "kana": "ねこ",
+  "romaji": "neko",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "猫"
+  ],
+  "examples": [
+   {
+    "ja": "猫は魚が好きです",
+    "romaji": "Neko wa sakana ga suki desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "鳥",
+  "kana": "とり",
+  "romaji": "tori",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "鸟",
+   "禽类",
+   "鸡肉"
+  ],
+  "examples": [
+   {
+    "ja": "鳥の声が聞こえます",
+    "romaji": "Tori no koe ga kikoemasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "花",
+  "kana": "はな",
+  "romaji": "hana",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "花",
+   "花朵",
+   "鲜花"
+  ],
+  "examples": [
+   {
+    "ja": "花に水をあげます",
+    "romaji": "Hana ni mizu o agemasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "木",
+  "kana": "き",
+  "romaji": "ki",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "树",
+   "树木",
+   "木材"
+  ],
+  "examples": [
+   {
+    "ja": "木の下で休みます",
+    "romaji": "Ki no shita de yasumimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "空",
+  "kana": "そら",
+  "romaji": "sora",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "天空",
+   "空中",
+   "天气"
+  ],
+  "examples": [
+   {
+    "ja": "空がとても青いです",
+    "romaji": "Sora ga totemo aoi desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "星",
+  "kana": "ほし",
+  "romaji": "hoshi",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "星星",
+   "星体",
+   "星形标记"
+  ],
+  "examples": [
+   {
+    "ja": "星がきれいに見えます",
+    "romaji": "Hoshi ga kirei ni miemasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "月",
+  "kana": "つき",
+  "romaji": "tsuki",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "月亮",
+   "月份"
+  ],
+  "examples": [
+   {
+    "ja": "月が丸いです",
+    "romaji": "Tsuki ga marui desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "太陽",
+  "kana": "たいよう",
+  "romaji": "taiyou",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "太阳",
+   "阳光"
+  ],
+  "examples": [
+   {
+    "ja": "太陽が眩しいです",
+    "romaji": "Taiyou ga mabushii desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "天気",
+  "kana": "てんき",
+  "romaji": "tenki",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "天气",
+   "晴天（泛指天气状况）"
+  ],
+  "examples": [
+   {
+    "ja": "天気が良ければピクニックに行きます",
+    "romaji": "Tenki ga yokereba pikunikku ni ikimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "風",
+  "kana": "かぜ",
+  "romaji": "kaze",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "风",
+   "感冒（口语中指感冒）"
+  ],
+  "examples": [
+   {
+    "ja": "風が強いです",
+    "romaji": "Kaze ga tsuyoi desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "雨",
+  "kana": "あめ",
+  "romaji": "ame",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "雨"
+  ],
+  "examples": [
+   {
+    "ja": "雨が降っています",
+    "romaji": "Ame ga futte imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "雪",
+  "kana": "ゆき",
+  "romaji": "yuki",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "雪"
+  ],
+  "examples": [
+   {
+    "ja": "雪が積もりました",
+    "romaji": "Yuki ga tsumorimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "名词"
+  ]
+ },
+ {
+  "word": "帰る",
+  "kana": "かえる",
+  "romaji": "kaeru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "回家",
+   "回去",
+   "返回"
+  ],
+  "examples": [
+   {
+    "ja": "6時に家に帰ります",
+    "romaji": "Rokuji ni ie ni kaerimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "歩く",
+  "kana": "あるく",
+  "romaji": "aruku",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "走路",
+   "步行"
+  ],
+  "examples": [
+   {
+    "ja": "公園を歩きます",
+    "romaji": "Kouen o arukimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "乗る",
+  "kana": "のる",
+  "romaji": "noru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "乘坐（交通工具）",
+   "骑",
+   "登上"
+  ],
+  "examples": [
+   {
+    "ja": "バスに乗ります",
+    "romaji": "Basu ni norimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "入る",
+  "kana": "はいる",
+  "romaji": "hairu",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "进入",
+   "加入",
+   "洗澡（お風呂に入る）"
+  ],
+  "examples": [
+   {
+    "ja": "部屋に入ります",
+    "romaji": "Heya ni hairimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "出る",
+  "kana": "でる",
+  "romaji": "deru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "出去",
+   "离开",
+   "出现"
+  ],
+  "examples": [
+   {
+    "ja": "家を出ます",
+    "romaji": "Ie o demasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "練習する",
+  "kana": "れんしゅうする",
+  "romaji": "renshuu suru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "练习",
+   "训练"
+  ],
+  "examples": [
+   {
+    "ja": "毎日日本語を練習します",
+    "romaji": "Mainichi nihongo o renshuu shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "料理する",
+  "kana": "りょうりする",
+  "romaji": "ryouri suru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "做饭",
+   "烹饪",
+   "处理（事务）"
+  ],
+  "examples": [
+   {
+    "ja": "母は料理が上手です",
+    "romaji": "Haha wa ryouri ga jouzu desu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "旅行する",
+  "kana": "りょこうする",
+  "romaji": "ryokou suru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "旅行",
+   "游览"
+  ],
+  "examples": [
+   {
+    "ja": "来月日本へ旅行します",
+    "romaji": "Raigetsu nihon e ryokou shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "結婚する",
+  "kana": "けっこんする",
+  "romaji": "kekkon suru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "结婚"
+  ],
+  "examples": [
+   {
+    "ja": "友達が結婚しました",
+    "romaji": "Tomodachi ga kekkon shimashita",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "離婚する",
+  "kana": "りこんする",
+  "romaji": "rikon suru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "离婚"
+  ],
+  "examples": [
+   {
+    "ja": "両親が離婚しました",
+    "romaji": "Ryoushin ga rikon shimashita",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "運転する",
+  "kana": "うんてんする",
+  "romaji": "unten suru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "驾驶",
+   "开车",
+   "运转"
+  ],
+  "examples": [
+   {
+    "ja": "車を運転します",
+    "romaji": "Kuruma o unten shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "電話する",
+  "kana": "でんわする",
+  "romaji": "denwa suru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "打电话",
+   "通电话"
+  ],
+  "examples": [
+   {
+    "ja": "母に電話します",
+    "romaji": "Haha ni denwa shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "買い物する",
+  "kana": "かいものする",
+  "romaji": "kaimono suru",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "购物",
+   "买东西"
+  ],
+  "examples": [
+   {
+    "ja": "スーパーで買い物します",
+    "romaji": "Su-pa- de kaimono shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "散歩する",
+  "kana": "さんぽする",
+  "romaji": "sanpo suru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "散步",
+   "溜达"
+  ],
+  "examples": [
+   {
+    "ja": "犬と散歩します",
+    "romaji": "Inu to sanpo shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "予約する",
+  "kana": "よやくする",
+  "romaji": "yoyaku suru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "预约",
+   "预订"
+  ],
+  "examples": [
+   {
+    "ja": "レストランを予約しました",
+    "romaji": "Resutoran o yoyaku shimashita",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "紹介する",
+  "kana": "しょうかいする",
+  "romaji": "shoukai suru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "介绍",
+   "引见"
+  ],
+  "examples": [
+   {
+    "ja": "自己紹介します",
+    "romaji": "Jikoshoukai shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "説明する",
+  "kana": "せつめいする",
+  "romaji": "setsumei suru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "说明",
+   "解释"
+  ],
+  "examples": [
+   {
+    "ja": "先生が文法を説明します",
+    "romaji": "Sensei ga bunpou o setsumei shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "運動する",
+  "kana": "うんどうする",
+  "romaji": "undou suru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "运动",
+   "锻炼",
+   "体育活动"
+  ],
+  "examples": [
+   {
+    "ja": "毎日運動します",
+    "romaji": "Mainichi undou shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "参加する",
+  "kana": "さんかする",
+  "romaji": "sanka suru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "参加",
+   "加入"
+  ],
+  "examples": [
+   {
+    "ja": "会議に参加します",
+    "romaji": "Kaigi ni sanka shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "見学する",
+  "kana": "けんがくする",
+  "romaji": "kengaku suru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "参观学习",
+   "实地考察"
+  ],
+  "examples": [
+   {
+    "ja": "工場を見学しました",
+    "romaji": "Koujou o kengaku shimashita",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "出発する",
+  "kana": "しゅっぱつする",
+  "romaji": "shuppatsu suru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "出发",
+   "起程"
+  ],
+  "examples": [
+   {
+    "ja": "明日東京を出発します",
+    "romaji": "Ashita Toukyou o shuppatsu shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "到着する",
+  "kana": "とうちゃくする",
+  "romaji": "touchaku suru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "到达",
+   "抵达"
+  ],
+  "examples": [
+   {
+    "ja": "空港に到着しました",
+    "romaji": "Kuukou ni touchaku shimashita",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "卒業する",
+  "kana": "そつぎょうする",
+  "romaji": "sotsugyou suru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "毕业"
+  ],
+  "examples": [
+   {
+    "ja": "来年大学を卒業します",
+    "romaji": "Rainen daigaku o sotsugyou shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "入学する",
+  "kana": "にゅうがくする",
+  "romaji": "nyuugaku suru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "入学"
+  ],
+  "examples": [
+   {
+    "ja": "4月に高校に入学します",
+    "romaji": "Shigatsu ni koukou ni nyuugaku shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "引っ越す",
+  "kana": "ひっこす",
+  "romaji": "hikkosu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "搬家",
+   "迁居"
+  ],
+  "examples": [
+   {
+    "ja": "来月新しいアパートに引っ越します",
+    "romaji": "Raigetsu atarashii apa-to ni hikkoshimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "緊張する",
+  "kana": "きんちょうする",
+  "romaji": "kinchou suru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "紧张",
+   "精神紧绷"
+  ],
+  "examples": [
+   {
+    "ja": "スピーチで緊張します",
+    "romaji": "Supi-chi de kinchou shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "安心する",
+  "kana": "あんしんする",
+  "romaji": "anshin suru",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "放心",
+   "安心"
+  ],
+  "examples": [
+   {
+    "ja": "試験が終わって安心しました",
+    "romaji": "Shiken ga owatte anshin shimashita",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "心配する",
+  "kana": "しんぱいする",
+  "romaji": "shinpai suru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "担心",
+   "操心",
+   "挂念"
+  ],
+  "examples": [
+   {
+    "ja": "母はいつも私を心配します",
+    "romaji": "Haha wa itsumo watashi o shinpai shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "病気になる",
+  "kana": "びょうきになる",
+  "romaji": "byouki ni naru",
+  "pos": "短语",
+  "level": "N4",
+  "meanings": [
+   "生病",
+   "患病"
+  ],
+  "examples": [
+   {
+    "ja": "風邪で病気になりました",
+    "romaji": "Kaze de byouki ni narimashita",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "死ぬ",
+  "kana": "しぬ",
+  "romaji": "shinu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "死",
+   "去世",
+   "（口语）极度难受"
+  ],
+  "examples": [
+   {
+    "ja": "祖父が去年亡くなりました",
+    "romaji": "Sofu ga kyonen nakunarimashita",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "叩く",
+  "kana": "たたく",
+  "romaji": "tataku",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "敲打",
+   "拍打",
+   "（口语）殴打"
+  ],
+  "examples": [
+   {
+    "ja": "ドアを叩きます",
+    "romaji": "Doa o tatakimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "蹴る",
+  "kana": "ける",
+  "romaji": "keru",
+  "pos": "动词",
+  "level": "N1",
+  "meanings": [
+   "踢",
+   "拒绝（口语）"
+  ],
+  "examples": [
+   {
+    "ja": "ボールを蹴ります",
+    "romaji": "Bo-ru o kerimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "拾う",
+  "kana": "ひろう",
+  "romaji": "hirou",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "捡拾",
+   "拾取",
+   "挑选"
+  ],
+  "examples": [
+   {
+    "ja": "道で財布を拾いました",
+    "romaji": "Michi de saifu o hiroimashita",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "迎える",
+  "kana": "むかえる",
+  "romaji": "mukaeru",
+  "pos": "动词",
+  "level": "N2",
+  "meanings": [
+   "迎接",
+   "迎来",
+   "聘请"
+  ],
+  "examples": [
+   {
+    "ja": "空港で友達を迎えます",
+    "romaji": "Kuukou de tomodachi o mukaemasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "進む",
+  "kana": "すすむ",
+  "romaji": "susumu",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "前进",
+   "进展",
+   "取得进步"
+  ],
+  "examples": [
+   {
+    "ja": "まっすぐ進んでください",
+    "romaji": "Massugu susunde kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "戻る",
+  "kana": "もどる",
+  "romaji": "modoru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "返回",
+   "回去",
+   "恢复原状"
+  ],
+  "examples": [
+   {
+    "ja": "家に戻ります",
+    "romaji": "Ie ni modorimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "止まる",
+  "kana": "とまる",
+  "romaji": "tomaru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "停止",
+   "停下",
+   "停留"
+  ],
+  "examples": [
+   {
+    "ja": "信号で止まります",
+    "romaji": "Shingou de tomarimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "始まる",
+  "kana": "はじまる",
+  "romaji": "hajimaru",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "开始",
+   "起始",
+   "发生"
+  ],
+  "examples": [
+   {
+    "ja": "授業が始まります",
+    "romaji": "Jugyou ga hajimarimasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "降る",
+  "kana": "ふる",
+  "romaji": "furu",
+  "pos": "动词",
+  "level": "N4",
+  "meanings": [
+   "（雨、雪）下落",
+   "降临"
+  ],
+  "examples": [
+   {
+    "ja": "雨が降っています",
+    "romaji": "Ame ga futte imasu",
+    "zh": ""
+   }
+  ],
+  "tags": []
+ },
+ {
+  "word": "良い",
+  "kana": "いい",
+  "romaji": "ii",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "好的",
+   "良好的",
+   "可以",
+   "行"
+  ],
+  "examples": [
+   {
+    "ja": "今日は良い天気です",
+    "romaji": "Kyou wa yoi tenki desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "悪い",
+  "kana": "わるい",
+  "romaji": "warui",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "坏的",
+   "不好的",
+   "对不起"
+  ],
+  "examples": [
+   {
+    "ja": "悪い天気になりました",
+    "romaji": "Warui tenki ni narimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "暖かい",
+  "kana": "あたたかい",
+  "romaji": "atatakai",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "温暖的",
+   "暖和的",
+   "温馨的"
+  ],
+  "examples": [
+   {
+    "ja": "春は暖かいです",
+    "romaji": "Haru wa atatakai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "冷たい",
+  "kana": "つめたい",
+  "romaji": "tsumetai",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "冷的",
+   "冰凉的",
+   "冷淡的"
+  ],
+  "examples": [
+   {
+    "ja": "冷たい水が飲みたい",
+    "romaji": "Tsumetai mizu ga nomitai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "低い",
+  "kana": "ひくい",
+  "romaji": "hikui",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "低的",
+   "矮的",
+   "（声音）低沉的"
+  ],
+  "examples": [
+   {
+    "ja": "低いテーブルがあります",
+    "romaji": "Hikui te-buru ga arimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "近い",
+  "kana": "ちかい",
+  "romaji": "chikai",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "近的",
+   "临近的",
+   "接近的"
+  ],
+  "examples": [
+   {
+    "ja": "駅は近いです",
+    "romaji": "Eki wa chikai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "遠い",
+  "kana": "とおい",
+  "romaji": "tooi",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "远的",
+   "遥远的",
+   "疏远的"
+  ],
+  "examples": [
+   {
+    "ja": "空港は遠いです",
+    "romaji": "Kuukou wa tooi desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "忙しい",
+  "kana": "いそがしい",
+  "romaji": "isogashii",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "忙的",
+   "繁忙的",
+   "忙碌的"
+  ],
+  "examples": [
+   {
+    "ja": "今週は忙しいです",
+    "romaji": "Konshuu wa isogashii desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "嬉しい",
+  "kana": "うれしい",
+  "romaji": "ureshii",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "高兴的",
+   "开心的",
+   "可喜的"
+  ],
+  "examples": [
+   {
+    "ja": "合格して嬉しいです",
+    "romaji": "Goukaku shite ureshii desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "つまらない",
+  "kana": "つまらない",
+  "romaji": "tsumaranai",
+  "pos": "形容词",
+  "level": "N3",
+  "meanings": [
+   "无聊的",
+   "没意思的",
+   "无关紧要的"
+  ],
+  "examples": [
+   {
+    "ja": "その映画はつまらなかった",
+    "romaji": "Sono eiga wa tsumaranakatta",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "怖い",
+  "kana": "こわい",
+  "romaji": "kowai",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "可怕的",
+   "害怕的",
+   "令人畏惧的"
+  ],
+  "examples": [
+   {
+    "ja": "暗い道は怖いです",
+    "romaji": "Kurai michi wa kowai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "優しい",
+  "kana": "やさしい",
+  "romaji": "yasashii",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "温柔的",
+   "和善的",
+   "容易的"
+  ],
+  "examples": [
+   {
+    "ja": "先生はとても優しいです",
+    "romaji": "Sensei wa totemo yasashii desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "厳しい",
+  "kana": "きびしい",
+  "romaji": "kibishii",
+  "pos": "形容词",
+  "level": "N3",
+  "meanings": [
+   "严格的",
+   "严酷的",
+   "严峻的"
+  ],
+  "examples": [
+   {
+    "ja": "父は厳しいです",
+    "romaji": "Chichi wa kibishii desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "深い",
+  "kana": "ふかい",
+  "romaji": "fukai",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "深的",
+   "深厚的",
+   "深奥的"
+  ],
+  "examples": [
+   {
+    "ja": "この川は深いです",
+    "romaji": "Kono kawa wa fukai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "浅い",
+  "kana": "あさい",
+  "romaji": "asai",
+  "pos": "形容词",
+  "level": "N3",
+  "meanings": [
+   "浅的",
+   "肤浅的",
+   "时间短的"
+  ],
+  "examples": [
+   {
+    "ja": "このプールは浅いです",
+    "romaji": "Kono pu-ru wa asai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "きれいな",
+  "kana": "きれいな",
+  "romaji": "kireina",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "漂亮的",
+   "干净的",
+   "整洁的"
+  ],
+  "examples": [
+   {
+    "ja": "この部屋はきれいです",
+    "romaji": "Kono heya wa kirei desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "静かな",
+  "kana": "しずかな",
+  "romaji": "shizukana",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "安静的",
+   "平静的",
+   "寂静的"
+  ],
+  "examples": [
+   {
+    "ja": "図書館は静かです",
+    "romaji": "Toshokan wa shizuka desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "にぎやかな",
+  "kana": "にぎやかな",
+  "romaji": "nigiyakana",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "热闹的",
+   "繁华的",
+   "喧闹的"
+  ],
+  "examples": [
+   {
+    "ja": "この通りはにぎやかです",
+    "romaji": "Kono toori wa nigiyaka desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "有名な",
+  "kana": "ゆうめいな",
+  "romaji": "yuumeina",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "有名的",
+   "著名的",
+   "知名的"
+  ],
+  "examples": [
+   {
+    "ja": "富士山は有名です",
+    "romaji": "Fujisan wa yuumei desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "便利な",
+  "kana": "べんりな",
+  "romaji": "benrina",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "方便的",
+   "便利的",
+   "好用的"
+  ],
+  "examples": [
+   {
+    "ja": "このアプリは便利です",
+    "romaji": "Kono apuri wa benri desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "不便な",
+  "kana": "ふべんな",
+  "romaji": "fubenna",
+  "pos": "形容词",
+  "level": "N3",
+  "meanings": [
+   "不便的",
+   "不方便的",
+   "难用的"
+  ],
+  "examples": [
+   {
+    "ja": "この地域は交通が不便です",
+    "romaji": "Kono chiiki wa koutsuu ga fuben desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "大変な",
+  "kana": "たいへんな",
+  "romaji": "taihenna",
+  "pos": "形容词",
+  "level": "N3",
+  "meanings": [
+   "辛苦的",
+   "严重的",
+   "非常的"
+  ],
+  "examples": [
+   {
+    "ja": "この仕事は大変です",
+    "romaji": "Kono shigoto wa taihen desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "簡単な",
+  "kana": "かんたんな",
+  "romaji": "kantanna",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "简单的",
+   "容易的",
+   "简便的"
+  ],
+  "examples": [
+   {
+    "ja": "この問題は簡単です",
+    "romaji": "Kono mondai wa kantan desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "複雑な",
+  "kana": "ふくざつな",
+  "romaji": "fukuzatsuna",
+  "pos": "形容词",
+  "level": "N2",
+  "meanings": [
+   "复杂的",
+   "错综的",
+   "繁杂的"
+  ],
+  "examples": [
+   {
+    "ja": "この機械は複雑です",
+    "romaji": "Kono kikai wa fukuzatsu desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "元気な",
+  "kana": "げんきな",
+  "romaji": "genkina",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "精神好的",
+   "健康的",
+   "有活力的"
+  ],
+  "examples": [
+   {
+    "ja": "祖父は元気です",
+    "romaji": "Sofu wa genki desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "親切な",
+  "kana": "しんせつな",
+  "romaji": "shinsetsuna",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "热心的",
+   "亲切的",
+   "和蔼的"
+  ],
+  "examples": [
+   {
+    "ja": "あの人は親切です",
+    "romaji": "Ano hito wa shinsetsu desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "暇な",
+  "kana": "ひまな",
+  "romaji": "himana",
+  "pos": "形容词",
+  "level": "N3",
+  "meanings": [
+   "闲暇的",
+   "空闲的",
+   "没事做的"
+  ],
+  "examples": [
+   {
+    "ja": "今日は暇です",
+    "romaji": "Kyou wa hima desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "好きな",
+  "kana": "すきな",
+  "romaji": "sukina",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "喜欢的",
+   "爱好的",
+   "中意的"
+  ],
+  "examples": [
+   {
+    "ja": "私は音楽が好きです",
+    "romaji": "Watashi wa ongaku ga suki desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "嫌いな",
+  "kana": "きらいな",
+  "romaji": "kiraina",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "讨厌的",
+   "厌恶的",
+   "不喜欢的"
+  ],
+  "examples": [
+   {
+    "ja": "私は野菜が嫌いです",
+    "romaji": "Watashi wa yasai ga kirai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "上手な",
+  "kana": "じょうずな",
+  "romaji": "jouzuna",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "擅长的",
+   "熟练的",
+   "高明的"
+  ],
+  "examples": [
+   {
+    "ja": "彼女はピアノが上手です",
+    "romaji": "Kanojo wa piano ga jouzu desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "下手な",
+  "kana": "へたな",
+  "romaji": "hetana",
+  "pos": "形容词",
+  "level": "N3",
+  "meanings": [
+   "不擅长的",
+   "笨拙的",
+   "拙劣的"
+  ],
+  "examples": [
+   {
+    "ja": "私は料理が下手です",
+    "romaji": "Watashi wa ryouri ga heta desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "重要な",
+  "kana": "じゅうようは",
+  "romaji": "juuyouna",
+  "pos": "形容词",
+  "level": "N3",
+  "meanings": [
+   "重要的",
+   "要紧的",
+   "主要的"
+  ],
+  "examples": [
+   {
+    "ja": "これは重要な会議です",
+    "romaji": "Kore wa juuyou na kaigi desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "必要な",
+  "kana": "ひつような",
+  "romaji": "hitsuyouna",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "必要的",
+   "需要的",
+   "必需的"
+  ],
+  "examples": [
+   {
+    "ja": "パスポートが必要です",
+    "romaji": "Pasupo-to ga hitsuyou desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "自由な",
+  "kana": "じゆうな",
+  "romaji": "jiyuuna",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "自由的",
+   "随意的",
+   "无拘束的"
+  ],
+  "examples": [
+   {
+    "ja": "自由な時間が欲しい",
+    "romaji": "Jiyuu na jikan ga hoshii",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "特別な",
+  "kana": "とくべつな",
+  "romaji": "tokubetsuna",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "特别的",
+   "特殊的",
+   "特定的"
+  ],
+  "examples": [
+   {
+    "ja": "今日は特別な日です",
+    "romaji": "Kyou wa tokubetsu na hi desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "安全な",
+  "kana": "あんぜんな",
+  "romaji": "anzen na",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "安全",
+   "没有危险"
+  ],
+  "examples": [
+   {
+    "ja": "この地域は安全です",
+    "romaji": "Kono chiiki wa anzen desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "危険な",
+  "kana": "きけんな",
+  "romaji": "kiken na",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "危险",
+   "有危险"
+  ],
+  "examples": [
+   {
+    "ja": "この道は危険です",
+    "romaji": "Kono michi wa kiken desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "正しい",
+  "kana": "ただしい",
+  "romaji": "tadashii",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "正确",
+   "对",
+   "端正"
+  ],
+  "examples": [
+   {
+    "ja": "あなたの答えは正しい",
+    "romaji": "Anata no kotae wa tadashii",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "間違った",
+  "kana": "まちがった",
+  "romaji": "machigatta",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "错误的",
+   "弄错的"
+  ],
+  "examples": [
+   {
+    "ja": "これは間違った答えです",
+    "romaji": "Kore wa machigatta kotae desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "厚い",
+  "kana": "あつい",
+  "romaji": "atsui",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "厚",
+   "浓（味道）"
+  ],
+  "examples": [
+   {
+    "ja": "この本は厚いです",
+    "romaji": "Kono hon wa atsui desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "薄い",
+  "kana": "うすい",
+  "romaji": "usui",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "薄",
+   "淡（颜色、味道）"
+  ],
+  "examples": [
+   {
+    "ja": "この紙は薄いです",
+    "romaji": "Kono kami wa usui desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "甘い",
+  "kana": "あまい",
+  "romaji": "amai",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "甜",
+   "甜蜜",
+   "天真"
+  ],
+  "examples": [
+   {
+    "ja": "このケーキは甘いです",
+    "romaji": "Kono ke-ki wa amai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "辛い",
+  "kana": "からい",
+  "romaji": "karai",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "辣",
+   "咸（不宜混用）",
+   "痛苦"
+  ],
+  "examples": [
+   {
+    "ja": "このカレーは辛いです",
+    "romaji": "Kono kare- wa karai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "塩辛い",
+  "kana": "しおからい",
+  "romaji": "shiokarai",
+  "pos": "形容词",
+  "level": "N3",
+  "meanings": [
+   "咸的",
+   "咸味重"
+  ],
+  "examples": [
+   {
+    "ja": "このスープは塩辛いです",
+    "romaji": "Kono su-pu wa shiokarai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "酸っぱい",
+  "kana": "すっぱい",
+  "romaji": "suppai",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "酸的",
+   "酸味的"
+  ],
+  "examples": [
+   {
+    "ja": "このレモンは酸っぱい",
+    "romaji": "Kono remon wa suppai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "苦い",
+  "kana": "にがい",
+  "romaji": "nigai",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "苦",
+   "苦涩",
+   "痛苦的"
+  ],
+  "examples": [
+   {
+    "ja": "この薬は苦いです",
+    "romaji": "Kono kusuri wa nigai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "楽な",
+  "kana": "らくな",
+  "romaji": "raku na",
+  "pos": "形容词",
+  "level": "N3",
+  "meanings": [
+   "轻松",
+   "舒适",
+   "简单"
+  ],
+  "examples": [
+   {
+    "ja": "この仕事は楽です",
+    "romaji": "Kono shigoto wa raku desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "賑やかな",
+  "kana": "にぎやかな",
+  "romaji": "nigiyaka na",
+  "pos": "形容词",
+  "level": "N3",
+  "meanings": [
+   "热闹",
+   "喧闹",
+   "繁华"
+  ],
+  "examples": [
+   {
+    "ja": "祭りは賑やかです",
+    "romaji": "Matsuri wa nigiyaka desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "明るい",
+  "kana": "あかるい",
+  "romaji": "akarui",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "明亮",
+   "开朗",
+   "光明"
+  ],
+  "examples": [
+   {
+    "ja": "この部屋は明るいです",
+    "romaji": "Kono heya wa akarui desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "暗い",
+  "kana": "くらい",
+  "romaji": "kurai",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "暗",
+   "阴暗",
+   "阴郁"
+  ],
+  "examples": [
+   {
+    "ja": "この道は暗いです",
+    "romaji": "Kono michi wa kurai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "正直な",
+  "kana": "しょうじきな",
+  "romaji": "shoujiki na",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "诚实",
+   "老实",
+   "坦率"
+  ],
+  "examples": [
+   {
+    "ja": "彼は正直な人です",
+    "romaji": "Kare wa shoujiki na hito desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "意地悪な",
+  "kana": "いじわるな",
+  "romaji": "ijiwaru na",
+  "pos": "形容词",
+  "level": "N3",
+  "meanings": [
+   "刁难人的",
+   "心眼坏的",
+   "恶作剧的"
+  ],
+  "examples": [
+   {
+    "ja": "あの先生は意地悪です",
+    "romaji": "Ano sensei wa ijiwaru desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "賢い",
+  "kana": "かしこい",
+  "romaji": "kashikoi",
+  "pos": "形容词",
+  "level": "N3",
+  "meanings": [
+   "聪明",
+   "明智"
+  ],
+  "examples": [
+   {
+    "ja": "彼女はとても賢いです",
+    "romaji": "Kanojo wa totemo kashikoi desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "愚かな",
+  "kana": "おろかな",
+  "romaji": "orokana",
+  "pos": "形容词",
+  "level": "N1",
+  "meanings": [
+   "愚蠢",
+   "糊涂",
+   "不明智"
+  ],
+  "examples": [
+   {
+    "ja": "それは愚かな間違いです",
+    "romaji": "Sore wa oroka na machigai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "素晴らしい",
+  "kana": "すばらしい",
+  "romaji": "subarashii",
+  "pos": "形容词",
+  "level": "N3",
+  "meanings": [
+   "极好",
+   "了不起",
+   "壮丽"
+  ],
+  "examples": [
+   {
+    "ja": "この景色は素晴らしい",
+    "romaji": "Kono keshiki wa subarashii",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "醜い",
+  "kana": "みにくい",
+  "romaji": "minikui",
+  "pos": "形容词",
+  "level": "N2",
+  "meanings": [
+   "丑陋",
+   "难看",
+   "丑恶"
+  ],
+  "examples": [
+   {
+    "ja": "その建物は醜いです",
+    "romaji": "Sono tatemono wa minikui desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "涼しい",
+  "kana": "すずしい",
+  "romaji": "suzushii",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "凉爽",
+   "凉快",
+   "清爽"
+  ],
+  "examples": [
+   {
+    "ja": "今日は涼しいです",
+    "romaji": "Kyou wa suzushii desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "熱い",
+  "kana": "あつい",
+  "romaji": "atsui",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "热",
+   "烫",
+   "热烈"
+  ],
+  "examples": [
+   {
+    "ja": "このコーヒーは熱いです",
+    "romaji": "Kono ko-hi- wa atsui desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "柔らかい",
+  "kana": "やわらかい",
+  "romaji": "yawarakai",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "柔软",
+   "温和",
+   "柔和"
+  ],
+  "examples": [
+   {
+    "ja": "このパンは柔らかい",
+    "romaji": "Kono pan wa yawarakai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "硬い",
+  "kana": "かたい",
+  "romaji": "katai",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "硬",
+   "坚硬",
+   "生硬"
+  ],
+  "examples": [
+   {
+    "ja": "この肉は硬いです",
+    "romaji": "Kono niku wa katai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "汚い",
+  "kana": "きたない",
+  "romaji": "kitanai",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "脏",
+   "肮脏",
+   "卑鄙"
+  ],
+  "examples": [
+   {
+    "ja": "この部屋は汚いです",
+    "romaji": "Kono heya wa kitanai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "清潔な",
+  "kana": "せいけつな",
+  "romaji": "seiketsu na",
+  "pos": "形容词",
+  "level": "N3",
+  "meanings": [
+   "清洁",
+   "干净",
+   "整洁"
+  ],
+  "examples": [
+   {
+    "ja": "このホテルは清潔です",
+    "romaji": "Kono hoteru wa seiketsu desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "短い",
+  "kana": "みじかい",
+  "romaji": "mijikai",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "短",
+   "短暂"
+  ],
+  "examples": [
+   {
+    "ja": "この文章は短いです",
+    "romaji": "Kono bunshou wa mijikai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "長い",
+  "kana": "ながい",
+  "romaji": "nagai",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "长",
+   "长久"
+  ],
+  "examples": [
+   {
+    "ja": "この映画は長いです",
+    "romaji": "Kono eiga wa nagai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "太い",
+  "kana": "ふとい",
+  "romaji": "futoi",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "粗",
+   "胖",
+   "（声音）低沉"
+  ],
+  "examples": [
+   {
+    "ja": "この木は太いです",
+    "romaji": "Kono ki wa futoi desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "細い",
+  "kana": "ほそい",
+  "romaji": "hosoi",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "细",
+   "瘦",
+   "纤细"
+  ],
+  "examples": [
+   {
+    "ja": "この道は細いです",
+    "romaji": "Kono michi wa hosoi desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "寂しい",
+  "kana": "さびしい",
+  "romaji": "sabishii",
+  "pos": "形容词",
+  "level": "N4",
+  "meanings": [
+   "寂寞",
+   "孤单",
+   "冷清"
+  ],
+  "examples": [
+   {
+    "ja": "一人で寂しいです",
+    "romaji": "Hitori de sabishii desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "美しい",
+  "kana": "うつくしい",
+  "romaji": "utsukushii",
+  "pos": "形容词",
+  "level": "N3",
+  "meanings": [
+   "美丽",
+   "优美",
+   "漂亮"
+  ],
+  "examples": [
+   {
+    "ja": "この花は美しいです",
+    "romaji": "Kono hana wa utsukushii desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "かわいい",
+  "kana": "かわいい",
+  "romaji": "kawaii",
+  "pos": "形容词",
+  "level": "N5",
+  "meanings": [
+   "可爱",
+   "讨人喜欢"
+  ],
+  "examples": [
+   {
+    "ja": "この子犬はかわいい",
+    "romaji": "Kono koinu wa kawaii",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "形容词"
+  ]
+ },
+ {
+  "word": "すぐに",
+  "kana": "すぐに",
+  "romaji": "sugu ni",
+  "pos": "副词",
+  "level": "N5",
+  "meanings": [
+   "马上",
+   "立刻",
+   "很快"
+  ],
+  "examples": [
+   {
+    "ja": "すぐに行きます",
+    "romaji": "Sugu ni ikimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "ゆっくり",
+  "kana": "ゆっくり",
+  "romaji": "yukkuri",
+  "pos": "副词",
+  "level": "N5",
+  "meanings": [
+   "慢慢地",
+   "从容地",
+   "宽松地"
+  ],
+  "examples": [
+   {
+    "ja": "ゆっくり話してください",
+    "romaji": "Yukkuri hanashite kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "たくさん",
+  "kana": "たくさん",
+  "romaji": "takusan",
+  "pos": "副词",
+  "level": "N5",
+  "meanings": [
+   "很多",
+   "大量",
+   "足够"
+  ],
+  "examples": [
+   {
+    "ja": "たくさん食べました",
+    "romaji": "Takusan tabemashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "少し",
+  "kana": "すこし",
+  "romaji": "sukoshi",
+  "pos": "副词",
+  "level": "N5",
+  "meanings": [
+   "一点",
+   "稍微",
+   "少许"
+  ],
+  "examples": [
+   {
+    "ja": "少し疲れました",
+    "romaji": "Sukoshi tsukaremashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "全部",
+  "kana": "ぜんぶ",
+  "romaji": "zenbu",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "全部",
+   "所有",
+   "总共"
+  ],
+  "examples": [
+   {
+    "ja": "全部終わりました",
+    "romaji": "Zenbu owarimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "よく",
+  "kana": "よく",
+  "romaji": "yoku",
+  "pos": "副词",
+  "level": "N5",
+  "meanings": [
+   "经常",
+   "好好地",
+   "很好地"
+  ],
+  "examples": [
+   {
+    "ja": "よくこの店で買い物します",
+    "romaji": "Yoku kono mise de kaimono shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "ときどき",
+  "kana": "ときどき",
+  "romaji": "tokidoki",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "有时",
+   "偶尔"
+  ],
+  "examples": [
+   {
+    "ja": "ときどき映画を見ます",
+    "romaji": "Tokidoki eiga o mimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "あまり",
+  "kana": "あまり",
+  "romaji": "amari",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "不太",
+   "不怎么（多接否定）",
+   "过于"
+  ],
+  "examples": [
+   {
+    "ja": "あまり好きではありません",
+    "romaji": "Amari suki dewa arimasen",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "全然",
+  "kana": "ぜんぜん",
+  "romaji": "zenzen",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "完全（多接否定）",
+   "一点也不",
+   "非常"
+  ],
+  "examples": [
+   {
+    "ja": "全然わかりません",
+    "romaji": "Zenzen wakarimasen",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "いつも",
+  "kana": "いつも",
+  "romaji": "itsumo",
+  "pos": "副词",
+  "level": "N5",
+  "meanings": [
+   "总是",
+   "一直",
+   "平时"
+  ],
+  "examples": [
+   {
+    "ja": "いつもここで昼ご飯を食べます",
+    "romaji": "Itsumo koko de hirugohan o tabemasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "もう",
+  "kana": "もう",
+  "romaji": "mou",
+  "pos": "副词",
+  "level": "N5",
+  "meanings": [
+   "已经",
+   "再",
+   "快要"
+  ],
+  "examples": [
+   {
+    "ja": "もう終わりました",
+    "romaji": "Mou owarimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "まだ",
+  "kana": "まだ",
+  "romaji": "mada",
+  "pos": "副词",
+  "level": "N5",
+  "meanings": [
+   "还",
+   "仍然",
+   "尚未"
+  ],
+  "examples": [
+   {
+    "ja": "まだ終わっていません",
+    "romaji": "Mada owatte imasen",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "これから",
+  "kana": "これから",
+  "romaji": "korekara",
+  "pos": "副词",
+  "level": "N5",
+  "meanings": [
+   "从现在起",
+   "今后",
+   "接下来"
+  ],
+  "examples": [
+   {
+    "ja": "これから出かけます",
+    "romaji": "Korekara dekakemasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "最近",
+  "kana": "さいきん",
+  "romaji": "saikin",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "最近",
+   "近来",
+   "近期"
+  ],
+  "examples": [
+   {
+    "ja": "最近忙しいです",
+    "romaji": "Saikin isogashii desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "さっき",
+  "kana": "さっき",
+  "romaji": "sakki",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "刚才",
+   "方才"
+  ],
+  "examples": [
+   {
+    "ja": "さっき電話がありました",
+    "romaji": "Sakki denwa ga arimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "今",
+  "kana": "いま",
+  "romaji": "ima",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "现在",
+   "此刻"
+  ],
+  "examples": [
+   {
+    "ja": "今帰ります",
+    "romaji": "Ima kaerimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "今日",
+  "kana": "きょう",
+  "romaji": "kyou",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "今天",
+   "今日",
+   "当下"
+  ],
+  "examples": [
+   {
+    "ja": "今日は休みです",
+    "romaji": "Kyou wa yasumi desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "昨日",
+  "kana": "きのう",
+  "romaji": "kinou",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "昨天",
+   "昨日"
+  ],
+  "examples": [
+   {
+    "ja": "昨日は雨でした",
+    "romaji": "Kinou wa ame deshita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "明日",
+  "kana": "あした",
+  "romaji": "ashita",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "明天",
+   "明日",
+   "将来"
+  ],
+  "examples": [
+   {
+    "ja": "明日テストがあります",
+    "romaji": "Ashita tesuto ga arimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "毎日",
+  "kana": "まいにち",
+  "romaji": "mainichi",
+  "pos": "名词",
+  "level": "N5",
+  "meanings": [
+   "每天",
+   "天天",
+   "日常"
+  ],
+  "examples": [
+   {
+    "ja": "毎日日本語を勉強します",
+    "romaji": "Mainichi nihongo o benkyou shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "毎週",
+  "kana": "まいしゅう",
+  "romaji": "maishuu",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "每周",
+   "每星期",
+   "周周"
+  ],
+  "examples": [
+   {
+    "ja": "毎週日曜日に教会へ行きます",
+    "romaji": "Maishuu nichiyoubi ni kyoukai e ikimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "毎月",
+  "kana": "まいつき",
+  "romaji": "maigetsu",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "每月",
+   "每个月",
+   "月月"
+  ],
+  "examples": [
+   {
+    "ja": "毎月本を買います",
+    "romaji": "Maitsuki hon o kaimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "毎年",
+  "kana": "まいとし",
+  "romaji": "maitoshi",
+  "pos": "名词",
+  "level": "N4",
+  "meanings": [
+   "每年",
+   "年年",
+   "逐年"
+  ],
+  "examples": [
+   {
+    "ja": "毎年旅行します",
+    "romaji": "Maitoshi ryokou shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "早く",
+  "kana": "はやく",
+  "romaji": "hayaku",
+  "pos": "副词",
+  "level": "N5",
+  "meanings": [
+   "早",
+   "快",
+   "尽早"
+  ],
+  "examples": [
+   {
+    "ja": "早く起きました",
+    "romaji": "Hayaku okimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "遅く",
+  "kana": "おそく",
+  "romaji": "osoku",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "晚",
+   "迟",
+   "慢"
+  ],
+  "examples": [
+   {
+    "ja": "遅く寝ます",
+    "romaji": "Osoku nemasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "初めて",
+  "kana": "はじめて",
+  "romaji": "hajimete",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "第一次",
+   "初次",
+   "才开始"
+  ],
+  "examples": [
+   {
+    "ja": "初めて日本へ来ました",
+    "romaji": "Hajimete nihon e kimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "また",
+  "kana": "また",
+  "romaji": "mata",
+  "pos": "副词",
+  "level": "N5",
+  "meanings": [
+   "又",
+   "再",
+   "还是"
+  ],
+  "examples": [
+   {
+    "ja": "また会いましょう",
+    "romaji": "Mata aimashou",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "別々に",
+  "kana": "べつべつに",
+  "romaji": "betsubetsu ni",
+  "pos": "副词",
+  "level": "N3",
+  "meanings": [
+   "分别地",
+   "各自",
+   "单独"
+  ],
+  "examples": [
+   {
+    "ja": "別々に支払います",
+    "romaji": "Betsu betsu ni shiharaimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "一緒に",
+  "kana": "いっしょに",
+  "romaji": "issho ni",
+  "pos": "副词",
+  "level": "N5",
+  "meanings": [
+   "一起",
+   "共同",
+   "同时"
+  ],
+  "examples": [
+   {
+    "ja": "一緒に行きましょう",
+    "romaji": "Issho ni ikimashou",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "本当に",
+  "kana": "ほんとうに",
+  "romaji": "hontou ni",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "真的",
+   "确实",
+   "非常"
+  ],
+  "examples": [
+   {
+    "ja": "本当に美味しいです",
+    "romaji": "Hontou ni oishii desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "たぶん",
+  "kana": "たぶん",
+  "romaji": "tabun",
+  "pos": "副词",
+  "level": "N3",
+  "meanings": [
+   "大概",
+   "或许",
+   "可能"
+  ],
+  "examples": [
+   {
+    "ja": "たぶん明日は晴れです",
+    "romaji": "Tabun ashita wa hare desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "もちろん",
+  "kana": "もちろん",
+  "romaji": "mochiron",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "当然",
+   "自然",
+   "不用说"
+  ],
+  "examples": [
+   {
+    "ja": "もちろん行きます",
+    "romaji": "Mochiron ikimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "ぜひ",
+  "kana": "ぜひ",
+  "romaji": "zehi",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "务必",
+   "一定",
+   "无论如何"
+  ],
+  "examples": [
+   {
+    "ja": "ぜひ来てください",
+    "romaji": "Zehi kite kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "きっと",
+  "kana": "きっと",
+  "romaji": "kitto",
+  "pos": "副词",
+  "level": "N3",
+  "meanings": [
+   "一定",
+   "肯定",
+   "想必"
+  ],
+  "examples": [
+   {
+    "ja": "きっと大丈夫です",
+    "romaji": "Kitto daijoubu desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "もし",
+  "kana": "もし",
+  "romaji": "moshi",
+  "pos": "副词",
+  "level": "N3",
+  "meanings": [
+   "如果",
+   "假如",
+   "万一"
+  ],
+  "examples": [
+   {
+    "ja": "もし時間があれば行きます",
+    "romaji": "Moshi jikan ga areba ikimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "たいてい",
+  "kana": "たいてい",
+  "romaji": "taitei",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "大多",
+   "通常",
+   "大体上"
+  ],
+  "examples": [
+   {
+    "ja": "たいてい7時に起きます",
+    "romaji": "Taitei shichiji ni okimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "特に",
+  "kana": "とくに",
+  "romaji": "tokuni",
+  "pos": "副词",
+  "level": "N3",
+  "meanings": [
+   "特别",
+   "尤其",
+   "格外"
+  ],
+  "examples": [
+   {
+    "ja": "特に問題ありません",
+    "romaji": "Tokuni mondai arimasen",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "いろいろ",
+  "kana": "いろいろ",
+  "romaji": "iroiro",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "各种各样",
+   "种种",
+   "多方面"
+  ],
+  "examples": [
+   {
+    "ja": "いろいろな本を読みます",
+    "romaji": "Iroiro na hon o yomimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "ほとんど",
+  "kana": "ほとんど",
+  "romaji": "hotondo",
+  "pos": "副词",
+  "level": "N3",
+  "meanings": [
+   "几乎",
+   "大部分",
+   "大都"
+  ],
+  "examples": [
+   {
+    "ja": "ほとんど終わりました",
+    "romaji": "Hotondo owarimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "ずっと",
+  "kana": "ずっと",
+  "romaji": "zutto",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "一直",
+   "远远",
+   "(差距)大得多"
+  ],
+  "examples": [
+   {
+    "ja": "ずっと待っていました",
+    "romaji": "Zutto matte imashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "やっと",
+  "kana": "やっと",
+  "romaji": "yatto",
+  "pos": "副词",
+  "level": "N3",
+  "meanings": [
+   "终于",
+   "好不容易",
+   "勉强"
+  ],
+  "examples": [
+   {
+    "ja": "やっと終わりました",
+    "romaji": "Yatto owarimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "急に",
+  "kana": "きゅうに",
+  "romaji": "kyuu ni",
+  "pos": "副词",
+  "level": "N3",
+  "meanings": [
+   "突然",
+   "忽然",
+   "急忙"
+  ],
+  "examples": [
+   {
+    "ja": "急に雨が降り出しました",
+    "romaji": "Kyuu ni ame ga furidashimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "簡単に",
+  "kana": "かんたんに",
+  "romaji": "kantan ni",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "简单地",
+   "轻易地",
+   "容易地"
+  ],
+  "examples": [
+   {
+    "ja": "簡単に作れます",
+    "romaji": "Kantan ni tsukuremasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "丁寧に",
+  "kana": "ていねいに",
+  "romaji": "teinei ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "仔细地",
+   "有礼貌地",
+   "周到地"
+  ],
+  "examples": [
+   {
+    "ja": "丁寧に説明します",
+    "romaji": "Teinei ni setsumei shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "静かに",
+  "kana": "しずかに",
+  "romaji": "shizuka ni",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "安静地",
+   "悄悄地",
+   "平静地"
+  ],
+  "examples": [
+   {
+    "ja": "静かに話してください",
+    "romaji": "Shizuka ni hanashite kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "元気に",
+  "kana": "げんきに",
+  "romaji": "genki ni",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "精神饱满地",
+   "有活力地",
+   "健康地"
+  ],
+  "examples": [
+   {
+    "ja": "元気に遊んでいます",
+    "romaji": "Genki ni asonde imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "安全に",
+  "kana": "あんぜんに",
+  "romaji": "anzen ni",
+  "pos": "副词",
+  "level": "N3",
+  "meanings": [
+   "安全地",
+   "平安地",
+   "无危险地"
+  ],
+  "examples": [
+   {
+    "ja": "安全に運転してください",
+    "romaji": "Anzen ni unten shite kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "正確に",
+  "kana": "せいかくに",
+  "romaji": "seikaku ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "正确地",
+   "准确地",
+   "精确地"
+  ],
+  "examples": [
+   {
+    "ja": "正確に答えました",
+    "romaji": "Seikaku ni kotaemashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "適当に",
+  "kana": "てきとうに",
+  "romaji": "tekitou ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "适当地",
+   "随便地",
+   "马马虎虎地"
+  ],
+  "examples": [
+   {
+    "ja": "適当に選んでください",
+    "romaji": "Tekitou ni erande kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "自由に",
+  "kana": "じゆうに",
+  "romaji": "jiyuu ni",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "自由地",
+   "随意地",
+   "无拘束地"
+  ],
+  "examples": [
+   {
+    "ja": "自由に使ってください",
+    "romaji": "Jiyuu ni tsukatte kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "真面目に",
+  "kana": "まじめに",
+  "romaji": "majime ni",
+  "pos": "副词",
+  "level": "N3",
+  "meanings": [
+   "认真地",
+   "正经地",
+   "老实地"
+  ],
+  "examples": [
+   {
+    "ja": "真面目に勉強します",
+    "romaji": "Majime ni benkyou shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "楽しく",
+  "kana": "たのしく",
+  "romaji": "tanoshiku",
+  "pos": "副词",
+  "level": "N5",
+  "meanings": [
+   "愉快地",
+   "快乐地"
+  ],
+  "examples": [
+   {
+    "ja": "楽しく過ごしました",
+    "romaji": "Tanoshiku sugoshimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "悲しく",
+  "kana": "かなしく",
+  "romaji": "kanashiku",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "悲伤地",
+   "悲哀地"
+  ],
+  "examples": [
+   {
+    "ja": "悲しくて泣きました",
+    "romaji": "Kanashikute nakimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "激しく",
+  "kana": "はげしく",
+  "romaji": "hageshiku",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "猛烈地",
+   "剧烈地",
+   "激烈地"
+  ],
+  "examples": [
+   {
+    "ja": "激しく雨が降っています",
+    "romaji": "Hageshiku ame ga futte imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "軽く",
+  "kana": "かるく",
+  "romaji": "karuku",
+  "pos": "副词",
+  "level": "N3",
+  "meanings": [
+   "轻轻地",
+   "轻松地",
+   "稍微"
+  ],
+  "examples": [
+   {
+    "ja": "軽く食べました",
+    "romaji": "Karuku tabemashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "重く",
+  "kana": "おもく",
+  "romaji": "omoku",
+  "pos": "副词",
+  "level": "N3",
+  "meanings": [
+   "沉重地",
+   "严重地",
+   "郑重地"
+  ],
+  "examples": [
+   {
+    "ja": "重く感じます",
+    "romaji": "Omoku kanjimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "熱心に",
+  "kana": "ねっしんに",
+  "romaji": "masshin ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "热心地",
+   "专心地",
+   "认真地"
+  ],
+  "examples": [
+   {
+    "ja": "熱心に勉強しています",
+    "romaji": "Nesshin ni benkyou shite imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "慎重に",
+  "kana": "しんちょうに",
+  "romaji": "shinchou ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "慎重地",
+   "谨慎地",
+   "小心翼翼地"
+  ],
+  "examples": [
+   {
+    "ja": "慎重に選んでください",
+    "romaji": "Shinchou ni erande kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "大切に",
+  "kana": "たいせつに",
+  "romaji": "taisetsu ni",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "珍惜地",
+   "妥善地",
+   "重要地"
+  ],
+  "examples": [
+   {
+    "ja": "大切に使います",
+    "romaji": "Taisetsu ni tsukaimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "自然に",
+  "kana": "しぜんに",
+  "romaji": "shizen ni",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "自然地",
+   "不知不觉地",
+   "自然而然地"
+  ],
+  "examples": [
+   {
+    "ja": "自然に話せます",
+    "romaji": "Shizen ni hanasemasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "直接",
+  "kana": "ちょくせつ",
+  "romaji": "chokusetsu",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "直接地",
+   "当面地",
+   "不经中间环节地"
+  ],
+  "examples": [
+   {
+    "ja": "直接話しました",
+    "romaji": "Chokusetsu hanashimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "間接的に",
+  "kana": "かんせつてきに",
+  "romaji": "kansetsuteki ni",
+  "pos": "副词",
+  "level": "N1",
+  "meanings": [
+   "间接地",
+   "间接方式地"
+  ],
+  "examples": [
+   {
+    "ja": "間接的に聞きました",
+    "romaji": "Kansetsu teki ni kikimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "本格的に",
+  "kana": "ほんかくてきに",
+  "romaji": "honkakuteki ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "正式地",
+   "全面地",
+   "正规地"
+  ],
+  "examples": [
+   {
+    "ja": "本格的に始めます",
+    "romaji": "Honkaku teki ni hajimemasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "偶然に",
+  "kana": "ぐうぜんに",
+  "romaji": "guuzen ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "偶然地",
+   "碰巧",
+   "意外地"
+  ],
+  "examples": [
+   {
+    "ja": "偶然に会いました",
+    "romaji": "Guuzen ni aimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "確実に",
+  "kana": "かくじつに",
+  "romaji": "kakujitsu ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "确实地",
+   "可靠地",
+   "一定地"
+  ],
+  "examples": [
+   {
+    "ja": "確実に届きます",
+    "romaji": "Kakujitsu ni todokimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "突然に",
+  "kana": "とつぜんに",
+  "romaji": "totsuzen ni",
+  "pos": "副词",
+  "level": "N3",
+  "meanings": [
+   "突然地",
+   "忽然地",
+   "出其不意地"
+  ],
+  "examples": [
+   {
+    "ja": "突然電話が鳴りました",
+    "romaji": "Totsuzen denwa ga narimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "適切に",
+  "kana": "てきせつに",
+  "romaji": "tekisetsu ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "恰当地",
+   "适切地",
+   "得当地"
+  ],
+  "examples": [
+   {
+    "ja": "適切に処理しました",
+    "romaji": "Tekisetsu ni shori shimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "積極的に",
+  "kana": "せっきょくてきに",
+  "romaji": "sekkyokuteki ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "积极地",
+   "主动地"
+  ],
+  "examples": [
+   {
+    "ja": "積極的に参加します",
+    "romaji": "Sekkyokuteki ni sanka shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "消極的に",
+  "kana": "しょうきょくてきに",
+  "romaji": "shoukyokuteki ni",
+  "pos": "副词",
+  "level": "N1",
+  "meanings": [
+   "消极地",
+   "被动地",
+   "保守地"
+  ],
+  "examples": [
+   {
+    "ja": "消極的にしか参加しません",
+    "romaji": "Shoukyokuteki ni shika sanka shimasen",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "幸せに",
+  "kana": "しあわせに",
+  "romaji": "shiawase ni",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "幸福地",
+   "过得幸福"
+  ],
+  "examples": [
+   {
+    "ja": "幸せに暮らしています",
+    "romaji": "Shiawase ni kurashite imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "不幸に",
+  "kana": "ふこうに",
+  "romaji": "fukou ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "不幸地",
+   "遭遇不幸地"
+  ],
+  "examples": [
+   {
+    "ja": "不幸な出来事でした",
+    "romaji": "Fukou na dekigoto deshita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "楽に",
+  "kana": "らくに",
+  "romaji": "raku ni",
+  "pos": "副词",
+  "level": "N4",
+  "meanings": [
+   "轻松地",
+   "舒适地",
+   "容易地"
+  ],
+  "examples": [
+   {
+    "ja": "楽にできました",
+    "romaji": "Raku ni dekimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "困難に",
+  "kana": "こんなんに",
+  "romaji": "konnan ni",
+  "pos": "副词",
+  "level": "N1",
+  "meanings": [
+   "困难地",
+   "艰难地",
+   "陷入困境地"
+  ],
+  "examples": [
+   {
+    "ja": "困難に直面しました",
+    "romaji": "Konnan ni chokumen shimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "感動的に",
+  "kana": "かんどうてきに",
+  "romaji": "kandouteki ni",
+  "pos": "副词",
+  "level": "N1",
+  "meanings": [
+   "感人地",
+   "令人感动地"
+  ],
+  "examples": [
+   {
+    "ja": "感動的に演奏しました",
+    "romaji": "Kandou teki ni ensou shimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "印象的に",
+  "kana": "いんしょうてきに",
+  "romaji": "inshouteki ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "给人深刻印象地",
+   "引人注目地"
+  ],
+  "examples": [
+   {
+    "ja": "印象的に話しました",
+    "romaji": "Inshou teki ni hanashimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "伝統的に",
+  "kana": "でんとうてきに",
+  "romaji": "dentouteki ni",
+  "pos": "副词",
+  "level": "N1",
+  "meanings": [
+   "传统地",
+   "按传统方式地"
+  ],
+  "examples": [
+   {
+    "ja": "伝統的に作られています",
+    "romaji": "Dentou teki ni tsukurarete imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "科学的に",
+  "kana": "かがくてきに",
+  "romaji": "kagakuteki ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "科学地",
+   "合乎科学地",
+   "用科学方法地"
+  ],
+  "examples": [
+   {
+    "ja": "科学的に証明されました",
+    "romaji": "Kagaku teki ni shoumei saremashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "文化的に",
+  "kana": "ぶんかてきに",
+  "romaji": "bunkateki ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "文化上地",
+   "从文化角度地"
+  ],
+  "examples": [
+   {
+    "ja": "文化的に重要です",
+    "romaji": "Bunka teki ni juuyou desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "経済的に",
+  "kana": "けいざいてきに",
+  "romaji": "keizaiteki ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "经济上地",
+   "从经济角度地",
+   "经济地"
+  ],
+  "examples": [
+   {
+    "ja": "経済的に苦しいです",
+    "romaji": "Keizai teki ni kurushii desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "政治的に",
+  "kana": "せいじてきに",
+  "romaji": "seijiteki ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "政治上地",
+   "从政治角度地"
+  ],
+  "examples": [
+   {
+    "ja": "政治的に敏感な問題です",
+    "romaji": "Seiji teki ni binkan na mondai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "歴史的に",
+  "kana": "れきしてきに",
+  "romaji": "rekishiteki ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "历史上地",
+   "从历史角度地"
+  ],
+  "examples": [
+   {
+    "ja": "歴史的に有名な場所です",
+    "romaji": "Rekishi teki ni yuumei na basho desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "国際的に",
+  "kana": "こくさいてきに",
+  "romaji": "kokusaiteki ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "国际上地",
+   "国际性地"
+  ],
+  "examples": [
+   {
+    "ja": "国際的に認められています",
+    "romaji": "Kokusai teki ni mitomerarete imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "国内的に",
+  "kana": "こくないてきに",
+  "romaji": "kokunaiteki ni",
+  "pos": "副词",
+  "level": "N1",
+  "meanings": [
+   "国内地",
+   "在国内",
+   "从国内角度地"
+  ],
+  "examples": [
+   {
+    "ja": "国内的に有名です",
+    "romaji": "Kokunai teki ni yuumei desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "個人的に",
+  "kana": "こじんてきに",
+  "romaji": "kojinteki ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "个人地",
+   "私下地",
+   "从个人角度地"
+  ],
+  "examples": [
+   {
+    "ja": "個人的に意見を述べます",
+    "romaji": "Kojin teki ni iken o nobemasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "社会的に",
+  "kana": "しゃかいてきに",
+  "romaji": "shakaiteki ni",
+  "pos": "副词",
+  "level": "N2",
+  "meanings": [
+   "社会上地",
+   "从社会角度地"
+  ],
+  "examples": [
+   {
+    "ja": "社会的に重要な問題です",
+    "romaji": "Shakai teki ni juuyou na mondai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "副词"
+  ]
+ },
+ {
+  "word": "おはようございます",
+  "kana": "おはようございます",
+  "romaji": "ohayou gozaimasu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "早上好（早间问候语，礼貌形）",
+   "您早"
+  ],
+  "examples": [
+   {
+    "ja": "おはようございます、よく眠れましたか？",
+    "romaji": "Ohayou gozaimasu, yoku nemuremashita ka?",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "こんにちは",
+  "kana": "こんにちは",
+  "romaji": "konnichiwa",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "你好",
+   "午安（白天见面问候）"
+  ],
+  "examples": [
+   {
+    "ja": "こんにちは、元気ですか？",
+    "romaji": "Konnichiwa, genki desu ka?",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "こんばんは",
+  "kana": "こんばんは",
+  "romaji": "konbanwa",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "晚上好"
+  ],
+  "examples": [
+   {
+    "ja": "こんばんは、今日は忙しかったですか？",
+    "romaji": "Konbanwa, kyou wa isogashikatta desu ka?",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "おやすみなさい",
+  "kana": "おやすみなさい",
+  "romaji": "oyasuminasai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "晚安",
+   "睡个好觉"
+  ],
+  "examples": [
+   {
+    "ja": "おやすみなさい、良い夢を",
+    "romaji": "Oyasumi nasai, yoi yume o",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "さようなら",
+  "kana": "さようなら",
+  "romaji": "sayounara",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "再见",
+   "永别（较正式或告别时用）"
+  ],
+  "examples": [
+   {
+    "ja": "さようなら、また明日",
+    "romaji": "Sayounara, mata ashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "またね",
+  "kana": "またね",
+  "romaji": "matane",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "回头见",
+   "下次见（口语，较随意）"
+  ],
+  "examples": [
+   {
+    "ja": "またね、楽しみにしています",
+    "romaji": "Mata ne, tanoshimi ni shite imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "ありがとうございます",
+  "kana": "ありがとうございます",
+  "romaji": "arigatou gozaimasu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "谢谢（礼貌说法）",
+   "多谢"
+  ],
+  "examples": [
+   {
+    "ja": "ありがとうございます、助かりました",
+    "romaji": "Arigatou gozaimasu, tasukarimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "どういたしまして",
+  "kana": "どういたしまして",
+  "romaji": "douitashimashite",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "不客气",
+   "别客气（回应道谢）"
+  ],
+  "examples": [
+   {
+    "ja": "どういたしまして、また何かあれば言ってください",
+    "romaji": "Dou itashimashite, mata nani ka areba itte kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "すみません",
+  "kana": "すみません",
+  "romaji": "sumimasen",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "对不起",
+   "打扰了",
+   "劳驾（用于道歉、搭话或感谢）"
+  ],
+  "examples": [
+   {
+    "ja": "すみません、道を教えてください",
+    "romaji": "Sumimasen, michi o oshiete kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "ごめんなさい",
+  "kana": "ごめんなさい",
+  "romaji": "gomennasai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "对不起",
+   "抱歉（比较直接的道歉）"
+  ],
+  "examples": [
+   {
+    "ja": "ごめんなさい、遅れてしまいました",
+    "romaji": "Gomen nasai, okurete shimaimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "はい",
+  "kana": "はい",
+  "romaji": "hai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "是",
+   "好的",
+   "对（表示肯定或应答）"
+  ],
+  "examples": [
+   {
+    "ja": "はい、わかりました",
+    "romaji": "Hai, wakarimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "いいえ",
+  "kana": "いいえ",
+  "romaji": "iie",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "不",
+   "不是（表示否定）",
+   "不用谢（回应）"
+  ],
+  "examples": [
+   {
+    "ja": "いいえ、結構です",
+    "romaji": "Iie, kekkou desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "お願いします",
+  "kana": "おねがいします",
+  "romaji": "onegaishimasu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "拜托了",
+   "麻烦您",
+   "请给我（请求或点单时用）"
+  ],
+  "examples": [
+   {
+    "ja": "コーヒーをお願いします",
+    "romaji": "Ko-hi- o onegai shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "よろしくお願いします",
+  "kana": "よろしくおねがいします",
+  "romaji": "yoroshiku onegaishimasu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "请多关照",
+   "请您多指教"
+  ],
+  "examples": [
+   {
+    "ja": "これからお世話になります、よろしくお願いします",
+    "romaji": "Korekara osewa ni narimasu, yoroshiku onegai shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "いってきます",
+  "kana": "いってきます",
+  "romaji": "ittekimasu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "我出门了",
+   "我去去就来"
+  ],
+  "examples": [
+   {
+    "ja": "いってきます、夕方までに帰ります",
+    "romaji": "Ittekimasu, yuugata made ni kaerimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "いってらっしゃい",
+  "kana": "いってらっしゃい",
+  "romaji": "itterasshai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "路上小心",
+   "慢走（对出门的人说）"
+  ],
+  "examples": [
+   {
+    "ja": "いってらっしゃい、気をつけて",
+    "romaji": "Itterasshai, ki o tsukete",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "ただいま",
+  "kana": "ただいま",
+  "romaji": "tadaima",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "我回来了",
+   "刚才（表示时间不久前）"
+  ],
+  "examples": [
+   {
+    "ja": "ただいま、帰りました",
+    "romaji": "Tadaima, kaerimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "おかえりなさい",
+  "kana": "おかえりなさい",
+  "romaji": "okaerinasai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "欢迎回来",
+   "你回来了"
+  ],
+  "examples": [
+   {
+    "ja": "おかえりなさい、お疲れ様",
+    "romaji": "Okaeri nasai, otsukaresama",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "初めまして",
+  "kana": "はじめまして",
+  "romaji": "hajimemashite",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "初次见面",
+   "幸会"
+  ],
+  "examples": [
+   {
+    "ja": "初めまして、山田と申します",
+    "romaji": "Hajimemashite, Yamada to moushimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "元気ですか",
+  "kana": "げんきですか",
+  "romaji": "genki desu ka",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "你好吗",
+   "身体好吗"
+  ],
+  "examples": [
+   {
+    "ja": "元気ですか？お久しぶりです",
+    "romaji": "Genki desu ka? Ohisashiburi desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "元気です",
+  "kana": "げんきです",
+  "romaji": "genki desu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "我很好",
+   "身体健康"
+  ],
+  "examples": [
+   {
+    "ja": "元気です、ありがとう",
+    "romaji": "Genki desu, arigatou",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "お名前は何ですか",
+  "kana": "おなまえはなんですか",
+  "romaji": "onamae wa nan desu ka",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "您叫什么名字？"
+  ],
+  "examples": [
+   {
+    "ja": "お名前は何ですか？",
+    "romaji": "Onamae wa nan desu ka?",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "私の名前は〜です",
+  "kana": "わたしのなまえは〜です",
+  "romaji": "watashi no namae wa ~ desu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "我的名字是〜"
+  ],
+  "examples": [
+   {
+    "ja": "私の名前は田中です",
+    "romaji": "Watashi no namae wa Tanaka desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "どこから来ましたか",
+  "kana": "どこからきましたか",
+  "romaji": "doko kara kimashita ka",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "您从哪里来？",
+   "您是哪里人？"
+  ],
+  "examples": [
+   {
+    "ja": "どこから来ましたか？",
+    "romaji": "Doko kara kimashita ka?",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "〜から来ました",
+  "kana": "〜からきました",
+  "romaji": "~kara kimashita",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "我从〜来",
+   "我是〜来的"
+  ],
+  "examples": [
+   {
+    "ja": "中国から来ました",
+    "romaji": "Chuugoku kara kimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "何歳ですか",
+  "kana": "なんさいですか",
+  "romaji": "nansai desu ka",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "您多大了？",
+   "几岁了？"
+  ],
+  "examples": [
+   {
+    "ja": "何歳ですか？",
+    "romaji": "Nansai desu ka?",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "〜歳です",
+  "kana": "〜さいです",
+  "romaji": "~sai desu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "我〜岁"
+  ],
+  "examples": [
+   {
+    "ja": "25歳です",
+    "romaji": "Nijuu go sai desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "趣味は何ですか",
+  "kana": "しゅみはなんですか",
+  "romaji": "shumi wa nan desu ka",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "您的爱好是什么？"
+  ],
+  "examples": [
+   {
+    "ja": "趣味は何ですか？",
+    "romaji": "Shumi wa nan desu ka?",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "趣味は〜です",
+  "kana": "しゅみは〜です",
+  "romaji": "shumi wa ~ desu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "我的爱好是〜"
+  ],
+  "examples": [
+   {
+    "ja": "趣味は読書です",
+    "romaji": "Shumi wa dokusho desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "これは何ですか",
+  "kana": "これはなんですか",
+  "romaji": "kore wa nan desu ka",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "这是什么？"
+  ],
+  "examples": [
+   {
+    "ja": "これは何ですか？",
+    "romaji": "Kore wa nan desu ka?",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "〜です",
+  "kana": "〜です",
+  "romaji": "~desu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "是〜",
+   "表示礼貌的判断语气"
+  ],
+  "examples": [
+   {
+    "ja": "これは日本の伝統的なお菓子です",
+    "romaji": "Kore wa nihon no dentouteki na okashi desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "どこですか",
+  "kana": "どこですか",
+  "romaji": "doko desu ka",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "在哪里？",
+   "是哪里？"
+  ],
+  "examples": [
+   {
+    "ja": "トイレはどこですか？",
+    "romaji": "Toire wa doko desu ka?",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "いくらですか",
+  "kana": "いくらですか",
+  "romaji": "ikura desu ka",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "多少钱？"
+  ],
+  "examples": [
+   {
+    "ja": "これはいくらですか？",
+    "romaji": "Kore wa ikura desu ka?",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "わかりますか",
+  "kana": "わかりますか",
+  "romaji": "wakarimasu ka",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "您明白吗？",
+   "懂吗？"
+  ],
+  "examples": [
+   {
+    "ja": "私の言うことがわかりますか？",
+    "romaji": "Watashi no iu koto ga wakarimasu ka?",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "はい、わかります",
+  "kana": "はい、わかります",
+  "romaji": "hai, wakarimasu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "是的，我明白",
+   "我懂了"
+  ],
+  "examples": [
+   {
+    "ja": "はい、わかります",
+    "romaji": "wakarimasu, Hai, wakarimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "いいえ、わかりません",
+  "kana": "いいえ、わかりません",
+  "romaji": "iie, wakarimasen",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "不，我不明白",
+   "我不懂"
+  ],
+  "examples": [
+   {
+    "ja": "いいえ、わかりません",
+    "romaji": "wakarimasen, Iie, wakarimasen",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "もう一度お願いします",
+  "kana": "もういちどおねがいします",
+  "romaji": "mou ichido onegaishimasu",
+  "pos": "短语",
+  "level": "N4",
+  "meanings": [
+   "请再说一遍",
+   "请再来一次"
+  ],
+  "examples": [
+   {
+    "ja": "もう一度お願いします、ゆっくり話してください",
+    "romaji": "Mou ichido onegai shimasu, yukkuri hanashite kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "ゆっくり話してください",
+  "kana": "ゆっくりはなしてください",
+  "romaji": "yukkuri hanashite kudasai",
+  "pos": "短语",
+  "level": "N4",
+  "meanings": [
+   "请说慢一点"
+  ],
+  "examples": [
+   {
+    "ja": "ゆっくり話してください、日本語はまだ上手ではありません",
+    "romaji": "Yukkuri hanashite kudasai, nihongo wa mada jouzu dewa arimasen",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "日本語が少し話せます",
+  "kana": "にほんごがすこしはなせます",
+  "romaji": "nihongo ga sukoshi hanasemasu",
+  "pos": "短语",
+  "level": "N4",
+  "meanings": [
+   "我会说一点日语"
+  ],
+  "examples": [
+   {
+    "ja": "日本語が少し話せますが、まだ勉強中です",
+    "romaji": "Nihongo ga sukoshi hanasemasu ga, mada benkyouchuu desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "英語を話せますか",
+  "kana": "えいごをはなせますか",
+  "romaji": "eigo o hanasemasu ka",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "您会说英语吗？"
+  ],
+  "examples": [
+   {
+    "ja": "英語を話せますか？",
+    "romaji": "Eigo o hanasemasu ka?",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "はい、少し話せます",
+  "kana": "はい、すこしはなせます",
+  "romaji": "hai, sukoshi hanasemasu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "是的，会说一点"
+  ],
+  "examples": [
+   {
+    "ja": "はい、少し話せます",
+    "romaji": "sukoshi hanasemasu, Hai, sukoshi hanasemasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "助けてください",
+  "kana": "たすけてください",
+  "romaji": "tasukete kudasai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "请帮帮我",
+   "救救我"
+  ],
+  "examples": [
+   {
+    "ja": "助けてください、道に迷いました",
+    "romaji": "Tasukete kudasai, michi ni mayoimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "大丈夫ですか",
+  "kana": "だいじょうぶですか",
+  "romaji": "daijoubu desu ka",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "没事吧",
+   "你还好吗"
+  ],
+  "examples": [
+   {
+    "ja": "大丈夫ですか？顔色が悪いですよ",
+    "romaji": "Daijoubu desu ka? kaoiro ga warui desu yo",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "大丈夫です",
+  "kana": "だいじょうぶです",
+  "romaji": "daijoubu desu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "没关系",
+   "没问题",
+   "我没事"
+  ],
+  "examples": [
+   {
+    "ja": "大丈夫です、ちょっと疲れただけです",
+    "romaji": "Daijoubu desu, chotto tsukareta dake desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "お元気で",
+  "kana": "おげんきで",
+  "romaji": "o genki de",
+  "pos": "短语",
+  "level": "N4",
+  "meanings": [
+   "请保重",
+   "保重身体（告别语）"
+  ],
+  "examples": [
+   {
+    "ja": "お元気で、また会いましょう",
+    "romaji": "Ogenki de, mata aimashou",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "お大事に",
+  "kana": "おだいじに",
+  "romaji": "o daiji ni",
+  "pos": "短语",
+  "level": "N4",
+  "meanings": [
+   "请保重身体",
+   "请好好养病"
+  ],
+  "examples": [
+   {
+    "ja": "お大事に、早く良くなってください",
+    "romaji": "Odaiji ni, hayaku yoku natte kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "気をつけて",
+  "kana": "きをつけて",
+  "romaji": "ki o tsukete",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "小心",
+   "当心",
+   "路上小心"
+  ],
+  "examples": [
+   {
+    "ja": "気をつけて、安全運転で",
+    "romaji": "Ki o tsukete, anzen unten de",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "いらっしゃいませ",
+  "kana": "いらっしゃいませ",
+  "romaji": "irasshaimase",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "欢迎光临"
+  ],
+  "examples": [
+   {
+    "ja": "いらっしゃいませ、何名様ですか？",
+    "romaji": "Irasshaimase, nanmeisama desu ka?",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "どうぞ",
+  "kana": "どうぞ",
+  "romaji": "douzo",
+  "pos": "副词",
+  "level": "N5",
+  "meanings": [
+   "请",
+   "请便",
+   "请用"
+  ],
+  "examples": [
+   {
+    "ja": "どうぞ、おかけください",
+    "romaji": "Douzo, okake kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "こちらへどうぞ",
+  "kana": "こちらへどうぞ",
+  "romaji": "kochira e douzo",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "请这边走",
+   "请往这边"
+  ],
+  "examples": [
+   {
+    "ja": "こちらへどうぞ、お席をご案内します",
+    "romaji": "Kochira e douzo, oseki o goannai shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "失礼します",
+  "kana": "しつれいします",
+  "romaji": "shitsurei shimasu",
+  "pos": "短语",
+  "level": "N4",
+  "meanings": [
+   "打扰了",
+   "告辞了",
+   "失礼了"
+  ],
+  "examples": [
+   {
+    "ja": "失礼します、ちょっと席を外します",
+    "romaji": "Shitsurei shimasu, chotto seki o hazushimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "失礼しました",
+  "kana": "しつれいしました",
+  "romaji": "shitsurei shimashita",
+  "pos": "短语",
+  "level": "N4",
+  "meanings": [
+   "失礼了",
+   "抱歉（事后致歉）",
+   "告辞了"
+  ],
+  "examples": [
+   {
+    "ja": "失礼しました、気がつきませんでした",
+    "romaji": "Shitsurei shimashita, ki ga tsukimasen deshita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "少々お待ちください",
+  "kana": "しょうしょうおまちください",
+  "romaji": "shoushou omachi kudasai",
+  "pos": "短语",
+  "level": "N4",
+  "meanings": [
+   "请稍等",
+   "请稍候"
+  ],
+  "examples": [
+   {
+    "ja": "少々お待ちください、すぐ戻ります",
+    "romaji": "Shou shou omachi kudasai, sugu modorimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "お待たせしました",
+  "kana": "おまたせしました",
+  "romaji": "omatase shimashita",
+  "pos": "短语",
+  "level": "N4",
+  "meanings": [
+   "让您久等了",
+   "久等了"
+  ],
+  "examples": [
+   {
+    "ja": "お待たせしました、ご注文はお決まりですか？",
+    "romaji": "Omatase shimashita, gochuumon wa okimari desu ka?",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "いかがですか",
+  "kana": "いかがですか",
+  "romaji": "ikaga desu ka",
+  "pos": "短语",
+  "level": "N4",
+  "meanings": [
+   "怎么样？",
+   "您觉得如何？",
+   "要不要？"
+  ],
+  "examples": [
+   {
+    "ja": "お味はいかがですか？",
+    "romaji": "Oaji wa ikaga desu ka?",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "いいですね",
+  "kana": "いいですね",
+  "romaji": "ii desu ne",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "好啊",
+   "真不错",
+   "是呀"
+  ],
+  "examples": [
+   {
+    "ja": "いいですね、賛成です",
+    "romaji": "Ii desu ne, sansei desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "本当ですか",
+  "kana": "ほんとうですか",
+  "romaji": "hontou desu ka",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "真的吗",
+   "是真的吗"
+  ],
+  "examples": [
+   {
+    "ja": "本当ですか？信じられません",
+    "romaji": "Hontou desu ka? Shinjiraremasen",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "本当です",
+  "kana": "ほんとうです",
+  "romaji": "hontou desu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "是真的",
+   "确实如此"
+  ],
+  "examples": [
+   {
+    "ja": "本当です、嘘ではありません",
+    "romaji": "Hontou desu, uso dewa arimasen",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "冗談です",
+  "kana": "じょうだんです",
+  "romaji": "joudan desu",
+  "pos": "短语",
+  "level": "N3",
+  "meanings": [
+   "开玩笑的",
+   "是玩笑"
+  ],
+  "examples": [
+   {
+    "ja": "冗談です、怒らないでください",
+    "romaji": "Joudan desu, okoranaide kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "頑張ってください",
+  "kana": "がんばってください",
+  "romaji": "ganbatte kudasai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "请加油",
+   "请努力"
+  ],
+  "examples": [
+   {
+    "ja": "頑張ってください、応援しています",
+    "romaji": "Ganbatte kudasai, ouen shite imasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "お疲れ様でした",
+  "kana": "おつかれさまでした",
+  "romaji": "otsukaresama deshita",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "辛苦了",
+   "您辛苦了（下班或结束时的问候）"
+  ],
+  "examples": [
+   {
+    "ja": "お疲れ様でした、今日も一日よく働きましたね",
+    "romaji": "Otsukaresama deshita, kyou mo ichinichi yoku hatarakimashita ne",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "おめでとうございます",
+  "kana": "おめでとうございます",
+  "romaji": "omedetou gozaimasu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "恭喜",
+   "祝贺"
+  ],
+  "examples": [
+   {
+    "ja": "おめでとうございます、ご結婚おめでとうございます",
+    "romaji": "Omedetou gozaimasu, gokekkon omedetou gozaimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "気にしないでください",
+  "kana": "きにしないでください",
+  "romaji": "ki ni shinaide kudasai",
+  "pos": "短语",
+  "level": "N4",
+  "meanings": [
+   "请别在意",
+   "请不要介意"
+  ],
+  "examples": [
+   {
+    "ja": "気にしないでください、大したことではありません",
+    "romaji": "Ki ni shinaide kudasai, taishita koto dewa arimasen",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "どうしたんですか",
+  "kana": "どうしたんですか",
+  "romaji": "dou shita n desu ka",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "怎么了？",
+   "出什么事了？"
+  ],
+  "examples": [
+   {
+    "ja": "どうしたんですか？元気がないですね",
+    "romaji": "Doushitan desu ka? Genki ga nai desu ne",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "ちょっと待ってください",
+  "kana": "ちょっとまってください",
+  "romaji": "chotto matte kudasai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "请稍等一下",
+   "等一下"
+  ],
+  "examples": [
+   {
+    "ja": "ちょっと待ってください、すぐ戻ります",
+    "romaji": "Chotto matte kudasai, sugu modorimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "助かります",
+  "kana": "たすかります",
+  "romaji": "tasukarimasu",
+  "pos": "动词",
+  "level": "N3",
+  "meanings": [
+   "得救",
+   "获救",
+   "（对方帮忙时）真是帮了大忙"
+  ],
+  "examples": [
+   {
+    "ja": "助かります、ありがとうございます",
+    "romaji": "Tasukarimasu, arigatou gozaimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "行きましょう",
+  "kana": "いきましょう",
+  "romaji": "ikimashou",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "走吧",
+   "去吧",
+   "我们去吧"
+  ],
+  "examples": [
+   {
+    "ja": "行きましょう、もう遅いですよ",
+    "romaji": "Ikimashou, mou osoi desu yo",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "帰りましょう",
+  "kana": "かえりましょう",
+  "romaji": "kaerimashou",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "回去吧",
+   "我们回家吧"
+  ],
+  "examples": [
+   {
+    "ja": "帰りましょう、疲れました",
+    "romaji": "Kaerimashou, tsukaremashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "始めましょう",
+  "kana": "はじめましょう",
+  "romaji": "hajimemashou",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "开始吧",
+   "我们开始吧"
+  ],
+  "examples": [
+   {
+    "ja": "始めましょう、時間です",
+    "romaji": "Hajimemashou, jikan desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "終わりましょう",
+  "kana": "おわりましょう",
+  "romaji": "owarimashou",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "结束吧",
+   "我们结束吧"
+  ],
+  "examples": [
+   {
+    "ja": "終わりましょう、今日はここまでです",
+    "romaji": "Owarimashou, kyou wa koko made desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "いただきます",
+  "kana": "いただきます",
+  "romaji": "itadakimasu",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "开动了",
+   "我开吃了（用餐前的问候）",
+   "承蒙惠赠（接受物品时）"
+  ],
+  "examples": [
+   {
+    "ja": "いただきます、美味しそうですね",
+    "romaji": "Itadakimasu, oishisou desu ne",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "ごちそうさまでした",
+  "kana": "ごちそうさまでした",
+  "romaji": "gochisousama deshita",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "我吃好了",
+   "谢谢款待"
+  ],
+  "examples": [
+   {
+    "ja": "ごちそうさまでした、とても美味しかったです",
+    "romaji": "Gochisousama deshita, totemo oishikatta desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "〜してください",
+  "kana": "〜してください",
+  "romaji": "~shite kudasai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "请做……",
+   "请……（请求句型）"
+  ],
+  "examples": [
+   {
+    "ja": "窓を開けてください",
+    "romaji": "Mado o akete kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "〜しないでください",
+  "kana": "〜しないでください",
+  "romaji": "~shinaide kudasai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "请不要……",
+   "请别……（禁止请求句型）"
+  ],
+  "examples": [
+   {
+    "ja": "ここで写真を撮らないでください",
+    "romaji": "Koko de shashin o toranaide kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "気をつけてください",
+  "kana": "きをつけてください",
+  "romaji": "ki o tsukete kudasai",
+  "pos": "短语",
+  "level": "N4",
+  "meanings": [
+   "请小心",
+   "请注意"
+  ],
+  "examples": [
+   {
+    "ja": "気をつけてください、階段が滑りやすいです",
+    "romaji": "Ki o tsukete kudasai, kaidan ga suberiyasui desu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "遅れてすみません",
+  "kana": "おくれてすみません",
+  "romaji": "okurete sumimasen",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "对不起，我迟到了",
+   "抱歉来晚了"
+  ],
+  "examples": [
+   {
+    "ja": "遅れてすみません、電車が遅れました",
+    "romaji": "Okurete sumimasen, densha ga okuremashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "わかりました",
+  "kana": "わかりました",
+  "romaji": "wakarimashita",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "明白了",
+   "知道了",
+   "我明白了"
+  ],
+  "examples": [
+   {
+    "ja": "わかりました、そうします",
+    "romaji": "Wakarimashita, sou shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "知りません",
+  "kana": "しりません",
+  "romaji": "shirimasen",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "不知道",
+   "不认识"
+  ],
+  "examples": [
+   {
+    "ja": "知りません、初めて聞きました",
+    "romaji": "Shirimasen, hajimete kikimashita",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "考えます",
+  "kana": "かんがえます",
+  "romaji": "kangaemasu",
+  "pos": "动词",
+  "level": "N5",
+  "meanings": [
+   "考虑",
+   "思考",
+   "认为"
+  ],
+  "examples": [
+   {
+    "ja": "考えます、後で返事します",
+    "romaji": "Kangaemasu, ato de henji shimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "見せてください",
+  "kana": "みせてください",
+  "romaji": "misete kudasai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "请给我看看",
+   "请让我看"
+  ],
+  "examples": [
+   {
+    "ja": "その写真を見せてください",
+    "romaji": "Sono shashin o misete kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "開けてください",
+  "kana": "あけてください",
+  "romaji": "akete kudasai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "请打开",
+   "请开门"
+  ],
+  "examples": [
+   {
+    "ja": "ドアを開けてください",
+    "romaji": "Doa o akete kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "閉めてください",
+  "kana": "しめてください",
+  "romaji": "shimete kudasai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "请关上（门、窗等）",
+   "请关闭"
+  ],
+  "examples": [
+   {
+    "ja": "窓を閉めてください",
+    "romaji": "Mado o shimete kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "入ってください",
+  "kana": "はいってください",
+  "romaji": "haitte kudasai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "请进",
+   "请进来"
+  ],
+  "examples": [
+   {
+    "ja": "どうぞお入りください",
+    "romaji": "Douzo ohairi kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "座ってください",
+  "kana": "すわってください",
+  "romaji": "suwatte kudasai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "请坐",
+   "请就座"
+  ],
+  "examples": [
+   {
+    "ja": "どうぞお座りください",
+    "romaji": "Douzo o suwari kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "立ってください",
+  "kana": "たってください",
+  "romaji": "tatte kudasai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "请站起来",
+   "请站着"
+  ],
+  "examples": [
+   {
+    "ja": "立ってください、写真を撮ります",
+    "romaji": "Tatte kudasai, shashin o torimasu",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ },
+ {
+  "word": "書いてください",
+  "kana": "かいてください",
+  "romaji": "kaite kudasai",
+  "pos": "短语",
+  "level": "N5",
+  "meanings": [
+   "请写",
+   "请写下来"
+  ],
+  "examples": [
+   {
+    "ja": "ここに名前を書いてください",
+    "romaji": "Koko ni namae o kaite kudasai",
+    "zh": ""
+   }
+  ],
+  "tags": [
+   "短语"
+  ]
+ }
+]
